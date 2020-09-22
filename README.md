@@ -9,7 +9,7 @@ To contribute, all you have to do is add a tutorial, article or any helpful reso
 
 # Contribution
 
-To contribute, please check out our contribution guide here.
+To contribute, please check out our contribution guide [here](https://github.com/shahednasser/awesome-resources/blob/master/CONTRIBUTING.md).
 
 # Content
 
