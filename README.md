@@ -22,17 +22,17 @@ To contribute, please check out our contribution guide [here](https://github.com
   
 ---
 
+## CSS
+
+- [CSS Variables and How To Use Them](https://medium.com/@shahedn/css-variables-and-how-to-use-them-bd9724cb6566)
+
+---
+
 ## Javascript
 
 - [Chrome Extension Tutorial — Replace Images in Any Website with Pikachu](https://levelup.gitconnected.com/chrome-extension-tutorial-replace-images-in-any-website-with-pikachu-de2a6e3548bb)
 - [React Hooks Tutorial — Create a Number Trivia Generator Website](https://medium.com/@shahedn/react-hooks-tutorial-create-a-number-trivia-generator-website-32b6b3b52c3e)
 
-
----
-
-## CSS
-
-- [CSS Variables and How To Use Them](https://medium.com/@shahedn/css-variables-and-how-to-use-them-bd9724cb6566)
 
 ---
 
