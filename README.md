@@ -15,6 +15,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 - [CSS](#css)
 - [Javascript](#javascript)
+- [GitHub](#github)
 - [Magento](#magento)
 - [Fudamental CP algorithms](#fundamental-cp-algorithms)
   - [Algebra](#algebra)
@@ -37,6 +38,12 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [React Hooks Tutorial — Create a Number Trivia Generator Website](https://medium.com/@shahedn/react-hooks-tutorial-create-a-number-trivia-generator-website-32b6b3b52c3e)
 - [Callback Function in JavaScript](https://medium.com/@a.athuljoy/callback-function-in-javascript-99b5262f6750)
 
+
+---
+
+## GitHub
+
+- [How to create a pull request in GitHub](https://opensource.com/article/19/7/create-pull-request-github)
 
 ---
 
