@@ -78,11 +78,19 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 ## Python
 
+- [C# Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/)
+- [Python Tutorial](https://www.w3schools.com/python/)
+
+---
+
+## C Sharp
+
 - [Python for Everybody (14 hour course)](https://www.youtube.com/watch?v=8DvywoWv6fI&feature=emb_title)
 
 ---
 
 ## Others
+- [Common SpringBoard Headers for jailbreak tweaks](http://iphonedevwiki.net/index.php/Special:AllPages)
 
 ### Design
 
