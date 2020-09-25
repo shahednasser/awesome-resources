@@ -21,6 +21,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Fudamental CP algorithms](#fundamental-cp-algorithms)
   - [Algebra](#algebra)
 - [Python](#python)
+- [C Sharp](#c-sharp)
 - [Others](#others)
   - [Cheat Sheets](#cheat-sheets)
   - [Design](#design)
@@ -78,14 +79,14 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 ## Python
 
-- [C# Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/)
 - [Python Tutorial](https://www.w3schools.com/python/)
+- [Python for Everybody (14 hour course)](https://www.youtube.com/watch?v=8DvywoWv6fI&feature=emb_title)
 
 ---
 
 ## C Sharp
 
-- [Python for Everybody (14 hour course)](https://www.youtube.com/watch?v=8DvywoWv6fI&feature=emb_title)
+- [C# Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/)
 
 ---
 
