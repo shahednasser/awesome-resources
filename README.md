@@ -16,6 +16,8 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [CSS](#css)
 - [Javascript](#javascript)
 - [Magento](#magento)
+- [Fudamental CP algorithms](#fundamental-cp-algorithms)
+  - [Algebra](#algebra)
 - [Others](#others)
   - [Cheat Sheets](#cheat-sheets)
   - [Design](#design)
@@ -40,6 +42,18 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 - [Magento 2 Creating A UI Form](https://www.mageplaza.com/devdocs/creat-a-ui-form-in-magento-2.html)
 - [Tips for Magento 2 Layouts](https://medium.com/@shahedn/tips-for-magento-2-layouts-d7e076812fa2)
+
+---
+
+## Fundamental CP algorithms
+
+### Algebra
+
+- [Binary Exponentiation](https://cp-algorithms.com/algebra/binary-exp.html)
+- [Euclidean algorithm for computing the greatest common divisor](https://cp-algorithms.com/algebra/euclid-algorithm.html)
+- [Extended Euclidean Algorithm](https://cp-algorithms.com/algebra/extended-euclid-algorithm.html)
+- [Linear Diophantine Equations](https://cp-algorithms.com/algebra/linear-diophantine-equation.html)
+- [Fibonacci Numbers](https://cp-algorithms.com/algebra/fibonacci-numbers.html)
 
 ---
 
