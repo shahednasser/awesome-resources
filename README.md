@@ -14,6 +14,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 # Content
 
 - [CSS](#css)
+- [CSharp](#csharp)
 - [Javascript](#javascript)
 - [GitHub](#github)
 - [Magento](#magento)
@@ -31,11 +32,13 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [CSS Variables and How To Use Them](https://medium.com/@shahedn/css-variables-and-how-to-use-them-bd9724cb6566)
 
 ---
+
 ## CSharp
 
 - [C# From a Java Developer's Perspective](http://www.25hoursaday.com/CsharpVsJava.html)
 - [The C# Yellow Book ](https://www.robmiles.com/c-yellow-book/)
 - [5 books every C# developer should read](https://medium.com/@jakubgarfield/5-books-every-c-developer-should-read-83844a5e2e3c)
+
 ---
 
 ## Javascript
