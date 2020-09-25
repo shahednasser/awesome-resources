@@ -16,6 +16,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [CSS](#css)
 - [Javascript](#javascript)
 - [Magento](#magento)
+- [Python](#python)
 - [Others](#others)
   - [Cheat Sheets](#cheat-sheets)
   - [Design](#design)
@@ -43,6 +44,12 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 ---
 
+## Python
+
+- [Python for Everybody (14 hour course)](https://www.youtube.com/watch?v=8DvywoWv6fI&feature=emb_title)
+
+---
+
 ## Others
 
 ### Design
@@ -50,6 +57,8 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Freebie Supply](https://freebiesupply.com/)
 - [unDraw](https://undraw.co/)
 - [Feather Icons](https://feathericons.com/)
+- [humaaans](https://humaaans.com/)
+- [absurd](https://absurd.design/)
 
 ### Cheat Sheets
 
