@@ -24,6 +24,7 @@ To contribute, please check out our contribution guide [here](https://github.com
   - [Dynamic Programming](#dynamic-programming)
   - [String Processing](#string-processing)
 - [Python](#python)
+- [Android](#android)
 - [C Sharp](#c-sharp)
 - [Others](#others)
   - [Cheat Sheets](#cheat-sheets)
@@ -110,6 +111,12 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 - [Python Tutorial](https://www.w3schools.com/python/)
 - [Python for Everybody (14 hour course)](https://www.youtube.com/watch?v=8DvywoWv6fI&feature=emb_title)
+
+---
+
+## Android
+
+- [Build your first app](https://developer.android.com/training/basics/firstapp)
 
 ---
 
