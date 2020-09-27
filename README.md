@@ -116,7 +116,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 ## Android
 
--[Build your first app](https://developer.android.com/training/basics/firstapp)
+- [Build your first app](https://developer.android.com/training/basics/firstapp)
 
 ---
 
