@@ -49,7 +49,6 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 -[Angular Academy](https://www.angularacademy.ca/)
 -[W3 Schools](https://www.w3schools.com/angular/)
--[]
 
 ---
 ## CSharp
