@@ -1,6 +1,6 @@
 # Awesome Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/shahednasser/awesome-resources)
 
-Participate in Hacktoberfest by helping others!
+Participate in [Hackoctoberfest](https://hacktoberfest.digitalocean.com/login) by helping others!
 
 # Purpose
 
@@ -13,11 +13,13 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 # Content
 
+- [HTML](#html)
 - [CSS](#css)
 - [CSharp](#csharp)
 - [Javascript](#javascript)
 - [GitHub](#github)
 - [Magento](#magento)
+- [Introduction to Computer Sciences](#cs)
 - [Fudamental CP algorithms](#fundamental-cp-algorithms)
   - [Algebra](#algebra)
   - [Data Structures](#data-structures)
@@ -25,18 +27,31 @@ To contribute, please check out our contribution guide [here](https://github.com
   - [String Processing](#string-processing)
 - [Python](#python)
 - [C Sharp](#c-sharp)
+- AngularJS[#angular]
 - [Others](#others)
   - [Cheat Sheets](#cheat-sheets)
   - [Design](#design)
+  - [Hosting](#Hosting)
   
 ---
+## HTML
 
+- [Codeacademy](https://www.codecademy.com/learn/learn-html)
+
+---
 ## CSS
 
 - [CSS Variables and How To Use Them](https://medium.com/@shahedn/css-variables-and-how-to-use-them-bd9724cb6566)
 
 ---
 
+##AngularJS
+
+-[Angular Academy](https://www.angularacademy.ca/)
+-[W3 Schools](https://www.w3schools.com/angular/)
+-[]
+
+---
 ## CSharp
 
 - [C# From a Java Developer's Perspective](http://www.25hoursaday.com/CsharpVsJava.html)
@@ -57,6 +72,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 ## GitHub
 
+- [What is Git](https://hackernoon.com/understanding-git-fcffd87c15a3)
 - [How to create a pull request in GitHub](https://opensource.com/article/19/7/create-pull-request-github)
 
 ---
@@ -65,6 +81,15 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 - [Magento 2 Creating A UI Form](https://www.mageplaza.com/devdocs/creat-a-ui-form-in-magento-2.html)
 - [Tips for Magento 2 Layouts](https://medium.com/@shahedn/tips-for-magento-2-layouts-d7e076812fa2)
+
+---
+## Fundamentals of  Computer Science
+- [CS50](https://cs50.harvard.edu/college/2020/fall/)
+
+---
+
+## Introduction to Data Science 
+- [IBM Data Science Coursera](https://www.coursera.org/professional-certificates/ibm-data-science)
 
 ---
 
@@ -133,3 +158,9 @@ To contribute, please check out our contribution guide [here](https://github.com
 ### Cheat Sheets
 
 - [Markdown](https://www.markdownguide.org/cheat-sheet/)
+
+---
+
+### Hosting
+
+- [Digital Ocean](https://www.digitalocean.com/solutions/website-hosting/)
