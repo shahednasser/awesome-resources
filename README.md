@@ -26,7 +26,6 @@ To contribute, please check out our contribution guide [here](https://github.com
   - [Dynamic Programming](#dynamic-programming)
   - [String Processing](#string-processing)
 - [Python](#python)
-- [C Sharp](#c-sharp)
 - [AngularJS](#angular)
 - [Others](#others)
   - [Cheat Sheets](#cheat-sheets)
