@@ -167,6 +167,8 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 - [Common SpringBoard Headers for jailbreak tweaks](http://iphonedevwiki.net/index.php/Special:AllPages)
 
+---
+
 ### Design
 
 - [Freebie Supply](https://freebiesupply.com/)
@@ -174,6 +176,8 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Feather Icons](https://feathericons.com/)
 - [humaaans](https://humaaans.com/)
 - [absurd](https://absurd.design/)
+
+---
 
 ### Cheat Sheets
 
