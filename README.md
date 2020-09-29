@@ -27,7 +27,7 @@ To contribute, please check out our contribution guide [here](https://github.com
   - [String Processing](#string-processing)
 - [Python](#python)
 - [C Sharp](#c-sharp)
-- AngularJS[#angular]
+- [AngularJS](#angular)
 - [Others](#others)
   - [Cheat Sheets](#cheat-sheets)
   - [Design](#design)
@@ -45,10 +45,11 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 ---
 
-##AngularJS
+## AngularJS
 
--[Angular Academy](https://www.angularacademy.ca/)
--[W3 Schools](https://www.w3schools.com/angular/)
+- [Angular Academy](https://www.angularacademy.ca/)
+
+- [W3 Schools](https://www.w3schools.com/angular/)
 
 ---
 ## CSharp
