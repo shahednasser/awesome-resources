@@ -39,11 +39,13 @@ To contribute, please check out our contribution guide [here](https://github.com
     - [Hosting](#hosting)
   
 ---
+
 ## HTML
 
 - [Codeacademy](https://www.codecademy.com/learn/learn-html)
 
 ---
+
 ## CSS
 
 - [CSS Variables and How To Use Them](https://medium.com/@shahedn/css-variables-and-how-to-use-them-bd9724cb6566)
@@ -56,6 +58,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [W3 Schools](https://www.w3schools.com/angular/)
 
 ---
+
 ## CSharp
 
 - [C# From a Java Developer's Perspective](http://www.25hoursaday.com/CsharpVsJava.html)
@@ -71,6 +74,13 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Callback Function in JavaScript](https://medium.com/@a.athuljoy/callback-function-in-javascript-99b5262f6750)
 - [Learn Modern JavaScript [ ES6 | ES7 | ES8 ](https://codeloop.org/learn-modern-javascript-es6-es7-es8/)
 
+---
+
+## React
+
+- [React Tutorial](https://www.w3schools.com/react/)
+- [Glitch: React Starter Kit](https://glitch.com/glimmer/post/react-starter-kit)
+- [Egghead.io: Start Learning React](https://egghead.io/courses/start-learning-react)
 
 ---
 
@@ -142,6 +152,12 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 - [Python Tutorial](https://www.w3schools.com/python/)
 - [Python for Everybody (14 hour course)](https://www.youtube.com/watch?v=8DvywoWv6fI&feature=emb_title)
+
+---
+
+## Android
+
+- [Build your first app](https://developer.android.com/training/basics/firstapp)
 
 ---
 
