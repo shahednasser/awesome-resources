@@ -13,10 +13,6 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 # Content
 
-- [Awesome Resources ![Awesome](https://github.com/shahednasser/awesome-resources)](#awesome-resources-img-srchttpscdnrawgitcomsindresorhusawesomed7305f38d29fed78fa85652e3a63e154dd8e8829mediabadgesvg-altawesome)
-- [Purpose](#purpose)
-- [Contribution](#contribution)
-- [Content](#content)
   - [HTML](#html)
   - [CSS](#css)
   - [AngularJS](#angularjs)
