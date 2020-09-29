@@ -13,24 +13,30 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 # Content
 
-- [HTML](#html)
-- [CSS](#css)
-- [CSharp](#csharp)
-- [Javascript](#javascript)
-- [GitHub](#github)
-- [Magento](#magento)
-- [Introduction to Computer Sciences](#cs)
-- [Fudamental CP algorithms](#fundamental-cp-algorithms)
-  - [Algebra](#algebra)
-  - [Data Structures](#data-structures)
-  - [Dynamic Programming](#dynamic-programming)
-  - [String Processing](#string-processing)
-- [Python](#python)
-- [AngularJS](#angular)
-- [Others](#others)
-  - [Cheat Sheets](#cheat-sheets)
-  - [Design](#design)
-  - [Hosting](#Hosting)
+- [Awesome Resources ![Awesome](https://github.com/shahednasser/awesome-resources)](#awesome-resources-img-srchttpscdnrawgitcomsindresorhusawesomed7305f38d29fed78fa85652e3a63e154dd8e8829mediabadgesvg-altawesome)
+- [Purpose](#purpose)
+- [Contribution](#contribution)
+- [Content](#content)
+  - [HTML](#html)
+  - [CSS](#css)
+  - [AngularJS](#angularjs)
+  - [CSharp](#csharp)
+  - [Javascript](#javascript)
+  - [GitHub](#github)
+  - [Magento](#magento)
+  - [Fundamentals of  Computer Science](#fundamentals-of-computer-science)
+  - [Introduction to Data Science](#introduction-to-data-science)
+  - [Fundamental CP algorithms](#fundamental-cp-algorithms)
+    - [Algebra](#algebra)
+    - [Data Structures](#data-structures)
+    - [Dynamic Programming](#dynamic-programming)
+    - [String Processing](#string-processing)
+  - [Python](#python)
+  - [C Sharp](#c-sharp)
+  - [Others](#others)
+    - [Design](#design)
+    - [Cheat Sheets](#cheat-sheets)
+    - [Hosting](#hosting)
   
 ---
 ## HTML
@@ -47,7 +53,6 @@ To contribute, please check out our contribution guide [here](https://github.com
 ## AngularJS
 
 - [Angular Academy](https://www.angularacademy.ca/)
-
 - [W3 Schools](https://www.w3schools.com/angular/)
 
 ---
@@ -82,12 +87,15 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Tips for Magento 2 Layouts](https://medium.com/@shahedn/tips-for-magento-2-layouts-d7e076812fa2)
 
 ---
+
 ## Fundamentals of  Computer Science
+
 - [CS50](https://cs50.harvard.edu/college/2020/fall/)
 
 ---
 
 ## Introduction to Data Science 
+
 - [IBM Data Science Coursera](https://www.coursera.org/professional-certificates/ibm-data-science)
 
 ---
@@ -144,6 +152,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 ---
 
 ## Others
+
 - [Common SpringBoard Headers for jailbreak tweaks](http://iphonedevwiki.net/index.php/Special:AllPages)
 
 ### Design
