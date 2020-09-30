@@ -13,24 +13,29 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 # Content
 
+- [Android](#android)
 - [CSS](#css)
 - [CSharp](#csharp)
-- [Javascript](#javascript)
-- [React](#react)
-- [GitHub](#github)
-- [Magento](#magento)
 - [Fudamental CP algorithms](#fundamental-cp-algorithms)
   - [Algebra](#algebra)
   - [Data Structures](#data-structures)
   - [Dynamic Programming](#dynamic-programming)
   - [String Processing](#string-processing)
+- [GitHub](#github)
+- [Javascript](#javascript)
+- [Magento](#magento)
 - [Python](#python)
-- [Android](#android)
-- [C Sharp](#c-sharp)
+- [React](#react)
 - [Others](#others)
   - [Cheat Sheets](#cheat-sheets)
   - [Design](#design)
   
+---
+
+## Android
+
+- [Build your first app](https://developer.android.com/training/basics/firstapp)
+
 ---
 
 ## CSS
@@ -44,36 +49,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [C# From a Java Developer's Perspective](http://www.25hoursaday.com/CsharpVsJava.html)
 - [The C# Yellow Book ](https://www.robmiles.com/c-yellow-book/)
 - [5 books every C# developer should read](https://medium.com/@jakubgarfield/5-books-every-c-developer-should-read-83844a5e2e3c)
-
----
-
-## Javascript
-
-- [Chrome Extension Tutorial — Replace Images in Any Website with Pikachu](https://levelup.gitconnected.com/chrome-extension-tutorial-replace-images-in-any-website-with-pikachu-de2a6e3548bb)
-- [React Hooks Tutorial — Create a Number Trivia Generator Website](https://medium.com/@shahedn/react-hooks-tutorial-create-a-number-trivia-generator-website-32b6b3b52c3e)
-- [Callback Function in JavaScript](https://medium.com/@a.athuljoy/callback-function-in-javascript-99b5262f6750)
-- [Learn Modern JavaScript [ ES6 | ES7 | ES8 ](https://codeloop.org/learn-modern-javascript-es6-es7-es8/)
-
----
-
-## React
-
-- [React Tutorial](https://www.w3schools.com/react/)
-- [Glitch: React Starter Kit](https://glitch.com/glimmer/post/react-starter-kit)
-- [Egghead.io: Start Learning React](https://egghead.io/courses/start-learning-react)
-
----
-
-## GitHub
-
-- [How to create a pull request in GitHub](https://opensource.com/article/19/7/create-pull-request-github)
-
----
-
-## Magento
-
-- [Magento 2 Creating A UI Form](https://www.mageplaza.com/devdocs/creat-a-ui-form-in-magento-2.html)
-- [Tips for Magento 2 Layouts](https://medium.com/@shahedn/tips-for-magento-2-layouts-d7e076812fa2)
+- [C# Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/)
 
 ---
 
@@ -87,22 +63,16 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Linear Diophantine Equations](https://cp-algorithms.com/algebra/linear-diophantine-equation.html)
 - [Fibonacci Numbers](https://cp-algorithms.com/algebra/fibonacci-numbers.html)
 
----
-
 ### Data Structures
 
 - [Minimum Stack / Minimum Queue](https://cp-algorithms.com/data_structures/stack_queue_modification.html)
 - [Sparse Table](https://cp-algorithms.com/data_structures/sparse-table.html)
-
----
 
 ### Dynamic Programming
 
 - [Divide and Conquer DP](https://cp-algorithms.com/dynamic_programming/divide-and-conquer-dp.html)
 - [Dynamic Programming on Broken Profile. Problem "Parquet"](https://cp-algorithms.com/dynamic_programming/profile-dynamics.html)
 - [Finding the largest zero submatrix](https://cp-algorithms.com/dynamic_programming/zero_matrix.html)
-
----
 
 ### String Processing
 
@@ -115,6 +85,28 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 ---
 
+## GitHub
+
+- [How to create a pull request in GitHub](https://opensource.com/article/19/7/create-pull-request-github)
+
+---
+
+## Javascript
+
+- [Chrome Extension Tutorial — Replace Images in Any Website with Pikachu](https://levelup.gitconnected.com/chrome-extension-tutorial-replace-images-in-any-website-with-pikachu-de2a6e3548bb)
+- [React Hooks Tutorial — Create a Number Trivia Generator Website](https://medium.com/@shahedn/react-hooks-tutorial-create-a-number-trivia-generator-website-32b6b3b52c3e)
+- [Callback Function in JavaScript](https://medium.com/@a.athuljoy/callback-function-in-javascript-99b5262f6750)
+- [Learn Modern JavaScript ES6 | ES7 | ES8 ](https://codeloop.org/learn-modern-javascript-es6-es7-es8/)
+
+---
+
+## Magento
+
+- [Magento 2 Creating A UI Form](https://www.mageplaza.com/devdocs/creat-a-ui-form-in-magento-2.html)
+- [Tips for Magento 2 Layouts](https://medium.com/@shahedn/tips-for-magento-2-layouts-d7e076812fa2)
+
+---
+
 ## Python
 
 - [Python Tutorial](https://www.w3schools.com/python/)
@@ -122,15 +114,11 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 ---
 
-## Android
+## React
 
-- [Build your first app](https://developer.android.com/training/basics/firstapp)
-
----
-
-## C Sharp
-
-- [C# Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/)
+- [React Tutorial](https://www.w3schools.com/react/)
+- [Glitch: React Starter Kit](https://glitch.com/glimmer/post/react-starter-kit)
+- [Egghead.io: Start Learning React](https://egghead.io/courses/start-learning-react)
 
 ---
 
