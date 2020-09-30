@@ -29,6 +29,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Magento](#magento)
 - [Python](#python)
 - [React](#react)
+- [SASS](#sass)
 - [Others](#others)
   - [Cheat Sheets](#cheat-sheets)
   - [Design](#design)
@@ -135,6 +136,13 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [FreeCodeCamp React Challenges](https://learn.freecodecamp.org/front-end-libraries/react)
 - [React Cheatsheet](https://devhints.io/react)
 - [React Patterns](https://reactpatterns.com/)
+
+---
+
+## SASS
+
+- [Sass Basics](https://sass-lang.com/guide)
+- [Complete Documentation](https://sass-lang.com/documentation)
 
 ---
 
