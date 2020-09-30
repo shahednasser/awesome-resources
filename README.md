@@ -139,6 +139,29 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 ---
 
+## Angular
+- [Egghead.io - Angular](https://egghead.io/browse/frameworks/angular)
+- [Egghead.io - Build Redux Style Applications with Angular2, RxJS, and ngrx/store](https://egghead.io/courses/building-a-time-machine-with-angular-2-and-rxjs)
+- [HiRez.io - Angular Basics](https://www.hirez.io/c/angular-basics-1/e/episode-1-course-overview)
+- [HiRez.io - Angular In Depth - Components](https://www.hirez.io/c/components-1/e/episode-1-course-overview)
+- [udemy - Introduction to Angular 2](https://www.udemy.com/introduction-to-angular2/)
+- [udemy - Angular 2 with TypeScript for Beginners: The Pragmatic Guide](https://www.udemy.com/angular-2-tutorial-for-beginners/)
+- [udemy - The Complete Guide to Angular 2](https://www.udemy.com/the-complete-guide-to-angular-2/)
+- [Pluralsight - Angular 2: First Look](https://www.pluralsight.com/courses/angular-2-first-look)
+- [Pluralsight - Angular 2: Getting Started](https://www.pluralsight.com/courses/angular-2-getting-started-update)
+
+---
+
+## Vue
+- [Vue x Hasura GraphQL](https://medium.com/@malgamves/vue-x-hasura-graphql-d66f585a3ba5)
+- [Using GraphQL Mutations in Vue.js](https://medium.com/@malgamves/using-graphql-mutations-in-vue-js-3b4570234edf)
+- [Learn How To Build A Data-Driven Search UI with Vue.JS](https://medium.appbase.io/learn-how-to-build-a-github-search-explorer-app-with-vue-js-c66f61d6e152)
+- [Using GitLab CI/CD to auto-deploy your Vue.js application to AWS S3](https://medium.com/@croo/using-gitlab-ci-cd-to-auto-deploy-your-vue-js-application-to-aws-s3-9affe1eb3457)
+- [Dockerizing a Vue App](https://mherman.org/blog/dockerizing-a-vue-app/)
+- [Deploying a Flask and Vue App to Heroku with Docker and Gitlab CI](https://testdriven.io/blog/deploying-flask-to-heroku-with-docker-and-gitlab/)
+- [Large-scale Vuex application structures](https://medium.com/3yourmind/large-scale-vuex-application-structures-651e44863e2f)
+
+---
 ## SASS
 
 - [Sass Basics](https://sass-lang.com/guide)
