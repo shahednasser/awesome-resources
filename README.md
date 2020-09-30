@@ -24,6 +24,7 @@ To contribute, please check out our contribution guide [here](https://github.com
   - [Dynamic Programming](#dynamic-programming)
   - [String Processing](#string-processing)
 - [GitHub](#github)
+- [Java](#java)
 - [Javascript](#javascript)
 - [LESS](#less)
 - [Magento](#magento)
@@ -92,6 +93,15 @@ To contribute, please check out our contribution guide [here](https://github.com
 ## GitHub
 
 - [How to create a pull request in GitHub](https://opensource.com/article/19/7/create-pull-request-github)
+
+---
+
+## Java
+
+- [Learn Java - Free Interactive Java Tutorial](https://www.learnjavaonline.org/)
+- [10 Simple Java Projects for Beginners ](https://javahungry.blogspot.com/2019/12/java-projects-for-beginners.html)
+- [Advanced Java Programming](https://www.udemy.com/course/advanced-java-programming/)
+- [Learn Servlet Tutorial](https://www.javatpoint.com/servlet-tutorial)
 
 ---
 
