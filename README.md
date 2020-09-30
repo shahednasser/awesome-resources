@@ -25,9 +25,11 @@ To contribute, please check out our contribution guide [here](https://github.com
   - [String Processing](#string-processing)
 - [GitHub](#github)
 - [Javascript](#javascript)
+- [LESS](#less)
 - [Magento](#magento)
 - [Python](#python)
 - [React](#react)
+- [SASS](#sass)
 - [Others](#others)
   - [Cheat Sheets](#cheat-sheets)
   - [Design](#design)
@@ -102,6 +104,13 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 ---
 
+## LESS
+
+- [Official Documentation](http://lesscss.org/)
+- [Complete tutorial from Tutorialpoint](https://www.tutorialspoint.com/less/index.htm)
+
+---
+
 ## Magento
 
 - [Magento 2 Creating A UI Form](https://www.mageplaza.com/devdocs/creat-a-ui-form-in-magento-2.html)
@@ -127,6 +136,13 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [FreeCodeCamp React Challenges](https://learn.freecodecamp.org/front-end-libraries/react)
 - [React Cheatsheet](https://devhints.io/react)
 - [React Patterns](https://reactpatterns.com/)
+
+---
+
+## SASS
+
+- [Sass Basics](https://sass-lang.com/guide)
+- [Complete Documentation](https://sass-lang.com/documentation)
 
 ---
 
