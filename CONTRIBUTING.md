@@ -11,7 +11,7 @@ You can contribute to this repository very easily!
 ![Edit README](https://github.com/shahednasser/awesome-resources/blob/master/assets/edit-README.png)
 
 4. Find the correct category for your resource. For example, if it's a Javascript tutorial, you need to add it under [Javascript](https://github.com/shahednasser/awesome-resources/blob/master/assets/edit-README.png).
-If the category does not exist, you can add it under [Content](https://github.com/shahednasser/awesome-resources/blob/master/assets/edit-README.png). Resources are added in alphabetical order.
+If the category does not exist, you can add it under [Content](https://github.com/shahednasser/awesome-resources/blob/master/assets/edit-README.png). **Resources are added in alphabetical order.**
 
 To add a new category, add a list item with the name of the category and the URL to it (hash of the slug of the name). For example:
 
