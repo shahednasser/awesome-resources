@@ -25,6 +25,7 @@ To contribute, please check out our contribution guide [here](https://github.com
   - [String Processing](#string-processing)
 - [GitHub](#github)
 - [Javascript](#javascript)
+- [LESS](#less)
 - [Magento](#magento)
 - [Python](#python)
 - [React](#react)
@@ -99,6 +100,13 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [React Hooks Tutorial — Create a Number Trivia Generator Website](https://medium.com/@shahedn/react-hooks-tutorial-create-a-number-trivia-generator-website-32b6b3b52c3e)
 - [Callback Function in JavaScript](https://medium.com/@a.athuljoy/callback-function-in-javascript-99b5262f6750)
 - [Learn Modern JavaScript ES6 | ES7 | ES8 ](https://codeloop.org/learn-modern-javascript-es6-es7-es8/)
+
+---
+
+## LESS
+
+- [Official Documentation](http://lesscss.org/)
+- [Complete tutorial from Tutorialpoint](https://www.tutorialspoint.com/less/index.htm)
 
 ---
 
