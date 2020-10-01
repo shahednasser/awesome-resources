@@ -19,6 +19,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Angular](#angular)
 - [CSS](#css)
 - [CSharp](#csharp)
+- [Express](#express)
 - [Fudamental CP algorithms](#fundamental-cp-algorithms)
   - [Algebra](#algebra)
   - [Data Structures](#data-structures)
@@ -77,6 +78,17 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [The C# Yellow Book ](https://www.robmiles.com/c-yellow-book/)
 - [5 books every C# developer should read](https://medium.com/@jakubgarfield/5-books-every-c-developer-should-read-83844a5e2e3c)
 - [C# Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/)
+
+---
+
+## Express
+
+- [How to uncouples emit events from connection event into socket.io and express](https://dev.to/wakeupmh/how-to-decouples-emit-events-from-connection-event-into-socket-io-8dk) - Uncoupling socket emit events with express
+- [LinkedIn Login using Node JS, Express and passport](https://www.loginradius.com/engineering/blog/linkedin-login-using-node-passport/)
+- [Web Development with Node and Express](http://shop.oreilly.com/product/0636920032977.do)
+- [Express Web Application Developement](http://shop.oreilly.com/product/9781849696548.do)
+- [Curated ExpressJS Courses](https://hackr.io/tutorials/learn-express-js) - a list of community curated resources
+- [ExpressJS Courses at Classpert](https://classpert.com/express-js) - a list of courses (free and paid) from Classpert Online Course Search
 
 ---
 
