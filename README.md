@@ -21,6 +21,8 @@ To contribute, please check out our contribution guide [here](https://github.com
   - [Data Structures](#data-structures)
   - [Dynamic Programming](#dynamic-programming)
   - [String Processing](#string-processing)
+  - [Linear Algebra](#linear-algebra)
+  - [combinatorics](#combinatorics)
 - [Python](#python)
 - [Others](#others)
   - [Cheat Sheets](#cheat-sheets)
@@ -84,6 +86,23 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Z-function](https://cp-algorithms.com/string/z-function.html)
 - [Suffix Array](https://cp-algorithms.com/string/suffix-array.html)
 - [Aho-Corasick algorithm](https://cp-algorithms.com/string/aho_corasick.html)
+
+---
+
+### Linear Algebra
+
+- [Gauss & System of Linear Equations](https://cp-algorithms.com/linear_algebra/linear-system-gauss.html)
+- [Gauss & Determinant](https://cp-algorithms.com/linear_algebra/determinant-gauss.html)
+- [Kraut & Determinant](https://cp-algorithms.com/linear_algebra/determinant-kraut.html)
+- [Rank of a matrix](https://cp-algorithms.com/linear_algebra/rank-matrix.html)
+
+---
+
+### Combinatorics
+
+- [Finding Power of Factorial Divisor](https://cp-algorithms.com/algebra/factorial-divisors.html)
+- [Binomial Coefficients](https://cp-algorithms.com/combinatorics/binomial-coefficients.html)
+- [Catalan Numbers](https://cp-algorithms.com/combinatorics/catalan-numbers.html)
 
 ---
 
