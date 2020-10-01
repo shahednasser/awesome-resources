@@ -46,7 +46,6 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Android Developer Roadmap](https://roadmap.sh/android)
 - [Android cheat sheet](http://alvinalexander.com/android/android-cheat-sheet-main-concepts/)
 
-
 ---
 
 ## CSS
