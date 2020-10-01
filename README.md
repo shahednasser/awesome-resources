@@ -47,6 +47,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 ## CSS
 
 - [CSS Variables and How To Use Them](https://medium.com/@shahedn/css-variables-and-how-to-use-them-bd9724cb6566)
+- [freeCodeCamp](https://www.freecodecamp.org/)
 
 ---
 
@@ -73,6 +74,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 - [Minimum Stack / Minimum Queue](https://cp-algorithms.com/data_structures/stack_queue_modification.html)
 - [Sparse Table](https://cp-algorithms.com/data_structures/sparse-table.html)
+- [GeeksforGeeks Editorials](https://www.geeksforgeeks.org/data-structures/)
 
 ### Dynamic Programming
 
