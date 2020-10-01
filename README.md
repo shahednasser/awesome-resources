@@ -1,13 +1,13 @@
 # Awesome Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/shahednasser/awesome-resources)
-#### Open Source is fun! [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)  
-:sunglasses: List of helpful resources added by the community for the community!  
+:sunglasses: List of helpful resources added by the community for the community!
 
 Participate in Hacktoberfest by helping others!
+#### Open Source is fun! [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 
 # Purpose
 
 This repository aims to help contributors (specifically beginners) participate in Hacktoberfest easily while also helping others as well.  
-To contribute, all you have to do is add a tutorial, article or any helpful resource you know of to the list. These can relate to any programming language, framework, library or others. Even if it's not on the list of topics, you can add a new one. This way you can participate in Hacktoberfest and help others as well!  
+To contribute, all you have to do is add a tutorial, article or any helpful resource you know of to the list. These can relate to any programming language, framework, library or others. Even if it's not on the list of topics, you can add a new one. This way you can participate in Hacktoberfest and help others as well!
 
 # Contribution
 
@@ -16,8 +16,10 @@ To contribute, please check out our contribution guide [here](https://github.com
 # Content
 
 - [Android](#android)
+- [Angular](#angular)
 - [CSS](#css)
 - [CSharp](#csharp)
+- [Express](#express)
 - [Fudamental CP algorithms](#fundamental-cp-algorithms)
   - [Algebra](#algebra)
   - [Data Structures](#data-structures)
@@ -28,19 +30,39 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Javascript](#javascript)
 - [LESS](#less)
 - [Magento](#magento)
+- [PHP](#php)
 - [Python](#python)
 - [React](#react)
 - [SASS](#sass)
 - [Unity](#unity)
+- [Vue](#vue)
 - [Others](#others)
   - [Cheat Sheets](#cheat-sheets)
   - [Design](#design)
-  
+
 ---
 
 ## Android
 
 - [Build your first app](https://developer.android.com/training/basics/firstapp)
+- [Official Documentation](https://developer.android.com/docs)
+- [Android™ Notes for Professionals book](https://books.goalkicker.com/AndroidBook/)
+- [Android Developer Roadmap](https://roadmap.sh/android)
+- [Android cheat sheet](http://alvinalexander.com/android/android-cheat-sheet-main-concepts/)
+
+---
+
+## Angular
+
+- [Egghead.io - Angular](https://egghead.io/browse/frameworks/angular)
+- [Egghead.io - Build Redux Style Applications with Angular2, RxJS, and ngrx/store](https://egghead.io/courses/building-a-time-machine-with-angular-2-and-rxjs)
+- [HiRez.io - Angular Basics](https://www.hirez.io/c/angular-basics-1/e/episode-1-course-overview)
+- [HiRez.io - Angular In Depth - Components](https://www.hirez.io/c/components-1/e/episode-1-course-overview)
+- [udemy - Introduction to Angular 2](https://www.udemy.com/introduction-to-angular2/)
+- [udemy - Angular 2 with TypeScript for Beginners: The Pragmatic Guide](https://www.udemy.com/angular-2-tutorial-for-beginners/)
+- [udemy - The Complete Guide to Angular 2](https://www.udemy.com/the-complete-guide-to-angular-2/)
+- [Pluralsight - Angular 2: First Look](https://www.pluralsight.com/courses/angular-2-first-look)
+- [Pluralsight - Angular 2: Getting Started](https://www.pluralsight.com/courses/angular-2-getting-started-update)
 
 ---
 
@@ -57,6 +79,17 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [The C# Yellow Book ](https://www.robmiles.com/c-yellow-book/)
 - [5 books every C# developer should read](https://medium.com/@jakubgarfield/5-books-every-c-developer-should-read-83844a5e2e3c)
 - [C# Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/)
+
+---
+
+## Express
+
+- [How to uncouples emit events from connection event into socket.io and express](https://dev.to/wakeupmh/how-to-decouples-emit-events-from-connection-event-into-socket-io-8dk) - Uncoupling socket emit events with express
+- [LinkedIn Login using Node JS, Express and passport](https://www.loginradius.com/engineering/blog/linkedin-login-using-node-passport/)
+- [Web Development with Node and Express](http://shop.oreilly.com/product/0636920032977.do)
+- [Express Web Application Developement](http://shop.oreilly.com/product/9781849696548.do)
+- [Curated ExpressJS Courses](https://hackr.io/tutorials/learn-express-js) - a list of community curated resources
+- [ExpressJS Courses at Classpert](https://classpert.com/express-js) - a list of courses (free and paid) from Classpert Online Course Search
 
 ---
 
@@ -114,6 +147,9 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [React Hooks Tutorial — Create a Number Trivia Generator Website](https://medium.com/@shahedn/react-hooks-tutorial-create-a-number-trivia-generator-website-32b6b3b52c3e)
 - [Callback Function in JavaScript](https://medium.com/@a.athuljoy/callback-function-in-javascript-99b5262f6750)
 - [Learn Modern JavaScript ES6 | ES7 | ES8 ](https://codeloop.org/learn-modern-javascript-es6-es7-es8/)
+- [Learn JavaScript through a game](https://dev.to/nitdgplug/learn-javascript-through-a-game-1beh)
+- [Javascript ES2020- Top Features you should know](https://dev.to/catalinmpit/javascript-es2020-the-features-you-should-know-45i2)
+- [Understanding Closures](https://blog.skay.dev/understanding-closures)
 
 ---
 
@@ -121,7 +157,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 - [Official Documentation](http://lesscss.org/)
 - [Complete tutorial from Tutorialpoint](https://www.tutorialspoint.com/less/index.htm)
-
+- [Video Tutorials for Beginners](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGCshbAx1JpBtNoKh8iKAAiy)
 ---
 
 ## Magento
@@ -130,12 +166,21 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Tips for Magento 2 Layouts](https://medium.com/@shahedn/tips-for-magento-2-layouts-d7e076812fa2)
 
 ---
+## PHP
+
+- [PHP Tutorial](https://phptherightway.com/)
+- [PHP Video Tutorials](https://www.youtube.com/playlist?list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn)
+
+---
 
 ## Python
+
 - [Python Intermediate Tutorial](https://github.com/python-engineer/python-engineer-notebooks/tree/master/advanced-python)
 - [Python Tutorial](https://www.w3schools.com/python/)
 - [Python for Everybody (14 hour course)](https://www.youtube.com/watch?v=8DvywoWv6fI&feature=emb_title)
+- [Python Tips and Tricks for Beginners](https://towardsdatascience.com/python-tips-and-tricks-for-beginners-62473d569d0a)
 - [The Hitchhiker's Guide to Python](https://docs.python-guide.org/)
+- [Python Tips and Tricks for Beginners](https://towardsdatascience.com/python-tips-and-tricks-for-beginners-62473d569d0a)
 
 ---
 
@@ -150,6 +195,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [FreeCodeCamp React Challenges](https://learn.freecodecamp.org/front-end-libraries/react)
 - [React Cheatsheet](https://devhints.io/react)
 - [React Patterns](https://reactpatterns.com/)
+- [Useful Packages you should know in React](https://medium.com/better-programming/14-useful-packages-every-react-developer-should-know-55b47a325d3)
 
 ---
 
@@ -168,7 +214,20 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 ---
 
+## Vue
+
+- [Vue x Hasura GraphQL](https://medium.com/@malgamves/vue-x-hasura-graphql-d66f585a3ba5)
+- [Using GraphQL Mutations in Vue.js](https://medium.com/@malgamves/using-graphql-mutations-in-vue-js-3b4570234edf)
+- [Learn How To Build A Data-Driven Search UI with Vue.JS](https://medium.appbase.io/learn-how-to-build-a-github-search-explorer-app-with-vue-js-c66f61d6e152)
+- [Using GitLab CI/CD to auto-deploy your Vue.js application to AWS S3](https://medium.com/@croo/using-gitlab-ci-cd-to-auto-deploy-your-vue-js-application-to-aws-s3-9affe1eb3457)
+- [Dockerizing a Vue App](https://mherman.org/blog/dockerizing-a-vue-app/)
+- [Deploying a Flask and Vue App to Heroku with Docker and Gitlab CI](https://testdriven.io/blog/deploying-flask-to-heroku-with-docker-and-gitlab/)
+- [Large-scale Vuex application structures](https://medium.com/3yourmind/large-scale-vuex-application-structures-651e44863e2f)
+
+---
+
 ## Others
+
 - [Common SpringBoard Headers for jailbreak tweaks](http://iphonedevwiki.net/index.php/Special:AllPages)
 
 ### Design
