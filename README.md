@@ -36,6 +36,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Java](#java)
 - [Javascript](#javascript)
 - [LESS](#less)
+- [Linux](#linux)
 - [Magento](#magento)
 - [PHP](#php)
 - [Python](#python)
@@ -44,7 +45,6 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Testing](#testing)
 - [Unity](#unity)
 - [Vue](#vue)
-- [Linux](#linux)
 - [Others](#others)
   - [Cheat Sheets](#cheat-sheets)
   - [Design](#design)
@@ -212,6 +212,13 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 ---
 
+## Linux
+
+- [Introduction to Linux](https://training.linuxfoundation.org/resources/free-courses/introduction-to-linux/)
+- [The Linux guide/cheatsheet/tutorial (Commands, Directories, etc)](https://dev.to/kedark/the-linux-guide-cheatsheet-commands-directories-etc-39k0)
+
+---
+
 ## Magento
 
 - [Magento 2 Creating A UI Form](https://www.mageplaza.com/devdocs/creat-a-ui-form-in-magento-2.html)
@@ -288,12 +295,6 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 ---
 
-## Linux
-
-- [Introduction to Linux](https://training.linuxfoundation.org/resources/free-courses/introduction-to-linux/)
-- [The Linux guide/cheatsheet/tutorial (Commands, Directories, etc)](https://dev.to/kedark/the-linux-guide-cheatsheet-commands-directories-etc-39k0)
-
----
 ## Others
 
 ### Design
