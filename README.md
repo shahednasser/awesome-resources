@@ -45,8 +45,9 @@ To contribute, please check out our contribution guide [here](https://github.com
     - [Design](#design)
     - [Cheat Sheets](#cheat-sheets)
     - [Computer Networks](#computer-networks)
-  - [Fundamentals of Computer Science](#fundamentals-of-computer-science)
-  - [Introduction to Data Science](#introduction-to-data-science)
+  - [Computer Science](#fundamentals-of-computer-science)
+  - [Data Science](#introduction-to-data-science)
+  - [Dev-Ops](#devops)
 
 ---
 
@@ -275,3 +276,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 ## Data Science
 
 - [IBM Data Science Coursera](https://www.coursera.org/professional-certificates/ibm-data-science)
+
+## Dev-ops
+
+- [Linkedin Learning](https://www.linkedin.com/learning/paths/become-a-devops-engineer?u=57692769)
