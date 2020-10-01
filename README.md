@@ -123,7 +123,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 - [Official Documentation](http://lesscss.org/)
 - [Complete tutorial from Tutorialpoint](https://www.tutorialspoint.com/less/index.htm)
-
+- [Video Tutorials for Beginners](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGCshbAx1JpBtNoKh8iKAAiy)
 ---
 
 ## Magento
