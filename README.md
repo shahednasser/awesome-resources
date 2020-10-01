@@ -1,8 +1,8 @@
 # Awesome Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/shahednasser/awesome-resources)
-
 :sunglasses: List of helpful resources added by the community for the community!
 
 Participate in Hacktoberfest by helping others!
+#### Open Source is fun! [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges) [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 
 # Purpose
 
@@ -69,6 +69,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 ## CSS
 
 - [CSS Variables and How To Use Them](https://medium.com/@shahedn/css-variables-and-how-to-use-them-bd9724cb6566)
+- [freeCodeCamp](https://www.freecodecamp.org/)
 
 ---
 
@@ -106,6 +107,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 - [Minimum Stack / Minimum Queue](https://cp-algorithms.com/data_structures/stack_queue_modification.html)
 - [Sparse Table](https://cp-algorithms.com/data_structures/sparse-table.html)
+- [GeeksforGeeks Editorials](https://www.geeksforgeeks.org/data-structures/)
 
 ### Dynamic Programming
 
