@@ -1,13 +1,13 @@
 # Awesome Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/shahednasser/awesome-resources)
 
-:sunglasses: List of helpful resources added by the community for the community!  
+:sunglasses: List of helpful resources added by the community for the community!
 
 Participate in Hacktoberfest by helping others!
 
 # Purpose
 
 This repository aims to help contributors (specifically beginners) participate in Hacktoberfest easily while also helping others as well.  
-To contribute, all you have to do is add a tutorial, article or any helpful resource you know of to the list. These can relate to any programming language, framework, library or others. Even if it's not on the list of topics, you can add a new one. This way you can participate in Hacktoberfest and help others as well!  
+To contribute, all you have to do is add a tutorial, article or any helpful resource you know of to the list. These can relate to any programming language, framework, library or others. Even if it's not on the list of topics, you can add a new one. This way you can participate in Hacktoberfest and help others as well!
 
 # Contribution
 
@@ -16,6 +16,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 # Content
 
 - [Android](#android)
+- [Angular](#angular)
 - [CSS](#css)
 - [CSharp](#csharp)
 - [Fudamental CP algorithms](#fundamental-cp-algorithms)
@@ -32,15 +33,30 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [React](#react)
 - [SASS](#sass)
 - [Unity](#unity)
+- [Vue](#vue)
 - [Others](#others)
   - [Cheat Sheets](#cheat-sheets)
   - [Design](#design)
-  
+
 ---
 
 ## Android
 
 - [Build your first app](https://developer.android.com/training/basics/firstapp)
+
+---
+
+## Angular
+
+- [Egghead.io - Angular](https://egghead.io/browse/frameworks/angular)
+- [Egghead.io - Build Redux Style Applications with Angular2, RxJS, and ngrx/store](https://egghead.io/courses/building-a-time-machine-with-angular-2-and-rxjs)
+- [HiRez.io - Angular Basics](https://www.hirez.io/c/angular-basics-1/e/episode-1-course-overview)
+- [HiRez.io - Angular In Depth - Components](https://www.hirez.io/c/components-1/e/episode-1-course-overview)
+- [udemy - Introduction to Angular 2](https://www.udemy.com/introduction-to-angular2/)
+- [udemy - Angular 2 with TypeScript for Beginners: The Pragmatic Guide](https://www.udemy.com/angular-2-tutorial-for-beginners/)
+- [udemy - The Complete Guide to Angular 2](https://www.udemy.com/the-complete-guide-to-angular-2/)
+- [Pluralsight - Angular 2: First Look](https://www.pluralsight.com/courses/angular-2-first-look)
+- [Pluralsight - Angular 2: Getting Started](https://www.pluralsight.com/courses/angular-2-getting-started-update)
 
 ---
 
@@ -130,6 +146,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 ---
 
 ## Python
+
 - [Python Intermediate Tutorial](https://github.com/python-engineer/python-engineer-notebooks/tree/master/advanced-python)
 - [Python Tutorial](https://www.w3schools.com/python/)
 - [Python for Everybody (14 hour course)](https://www.youtube.com/watch?v=8DvywoWv6fI&feature=emb_title)
@@ -165,7 +182,20 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 ---
 
+## Vue
+
+- [Vue x Hasura GraphQL](https://medium.com/@malgamves/vue-x-hasura-graphql-d66f585a3ba5)
+- [Using GraphQL Mutations in Vue.js](https://medium.com/@malgamves/using-graphql-mutations-in-vue-js-3b4570234edf)
+- [Learn How To Build A Data-Driven Search UI with Vue.JS](https://medium.appbase.io/learn-how-to-build-a-github-search-explorer-app-with-vue-js-c66f61d6e152)
+- [Using GitLab CI/CD to auto-deploy your Vue.js application to AWS S3](https://medium.com/@croo/using-gitlab-ci-cd-to-auto-deploy-your-vue-js-application-to-aws-s3-9affe1eb3457)
+- [Dockerizing a Vue App](https://mherman.org/blog/dockerizing-a-vue-app/)
+- [Deploying a Flask and Vue App to Heroku with Docker and Gitlab CI](https://testdriven.io/blog/deploying-flask-to-heroku-with-docker-and-gitlab/)
+- [Large-scale Vuex application structures](https://medium.com/3yourmind/large-scale-vuex-application-structures-651e44863e2f)
+
+---
+
 ## Others
+
 - [Common SpringBoard Headers for jailbreak tweaks](http://iphonedevwiki.net/index.php/Special:AllPages)
 
 ### Design
