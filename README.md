@@ -284,7 +284,3 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 - [Markdown](https://www.markdownguide.org/cheat-sheet/)
 - [Emmet](https://docs.emmet.io/cheat-sheet/)
-
-### Computer Networks
-
-- [Geeks for Geeks](https://www.geeksforgeeks.org/computer-network-tutorials/)
