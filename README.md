@@ -133,6 +133,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Python Intermediate Tutorial](https://github.com/python-engineer/python-engineer-notebooks/tree/master/advanced-python)
 - [Python Tutorial](https://www.w3schools.com/python/)
 - [Python for Everybody (14 hour course)](https://www.youtube.com/watch?v=8DvywoWv6fI&feature=emb_title)
+- [The Hitchhiker's Guide to Python](https://docs.python-guide.org/)
 
 ---
 
