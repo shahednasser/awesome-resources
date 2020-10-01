@@ -136,6 +136,10 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 - [PHP Tutorial](https://phptherightway.com/)
 - [PHP Video Tutorials](https://www.youtube.com/playlist?list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn)
+- [Online Book For Learning PHP](https://phpapprentice.com/)
+- [Interactive Lessons For PHP](https://www.sololearn.com/Course/PHP/)
+- [Useful PHP Tips For Beginners](https://www.binarytides.com/35-techniques-to-enhance-your-php-code/)
+- [PHP Cheat Sheet](https://websitesetup.org/php-cheat-sheet/)
 
 ---
 
