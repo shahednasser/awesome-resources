@@ -1,8 +1,8 @@
 # Awesome Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/shahednasser/awesome-resources)
+
 :sunglasses: List of helpful resources added by the community for the community!
 
 Participate in Hacktoberfest by helping others!
-#### Open Source is fun! [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges) [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 
 # Purpose
 
@@ -17,14 +17,19 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 - [Android](#android)
 - [Angular](#angular)
+- [Computer Science](#computer-science)
 - [CSS](#css)
 - [CSharp](#csharp)
+- [Data Science](#data-science)
 - [Express](#express)
 - [Fudamental CP algorithms](#fundamental-cp-algorithms)
   - [Algebra](#algebra)
+  - [Combinatorics](#combinatorics)
   - [Data Structures](#data-structures)
   - [Dynamic Programming](#dynamic-programming)
-  - [String Processing](#string-processing)
+  - [Linear Algebra](#linear-algebra)
+  - [String Processing](#string-processing) 
+- [GIT](#git)
 - [GitHub](#github)
 - [Java](#java)
 - [Javascript](#javascript)
@@ -34,6 +39,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Python](#python)
 - [React](#react)
 - [SASS](#sass)
+- [Testing](#testing)
 - [Unity](#unity)
 - [Vue](#vue)
 - [Others](#others)
@@ -67,10 +73,15 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 ---
 
+## Computer Science
+
+- [CS50](https://cs50.harvard.edu/college/2020/fall/)
+
+---
+
 ## CSS
 
 - [CSS Variables and How To Use Them](https://medium.com/@shahedn/css-variables-and-how-to-use-them-bd9724cb6566)
-- [freeCodeCamp](https://www.freecodecamp.org/)
 
 ---
 
@@ -80,6 +91,12 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [The C# Yellow Book ](https://www.robmiles.com/c-yellow-book/)
 - [5 books every C# developer should read](https://medium.com/@jakubgarfield/5-books-every-c-developer-should-read-83844a5e2e3c)
 - [C# Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/)
+
+---
+
+## Data Science
+
+- [IBM Data Science Coursera](https://www.coursera.org/professional-certificates/ibm-data-science)
 
 ---
 
@@ -104,11 +121,16 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Linear Diophantine Equations](https://cp-algorithms.com/algebra/linear-diophantine-equation.html)
 - [Fibonacci Numbers](https://cp-algorithms.com/algebra/fibonacci-numbers.html)
 
+### Combinatorics
+
+- [Finding Power of Factorial Divisor](https://cp-algorithms.com/algebra/factorial-divisors.html)
+- [Binomial Coefficients](https://cp-algorithms.com/combinatorics/binomial-coefficients.html)
+- [Catalan Numbers](https://cp-algorithms.com/combinatorics/catalan-numbers.html)
+
 ### Data Structures
 
 - [Minimum Stack / Minimum Queue](https://cp-algorithms.com/data_structures/stack_queue_modification.html)
 - [Sparse Table](https://cp-algorithms.com/data_structures/sparse-table.html)
-- [GeeksforGeeks Editorials](https://www.geeksforgeeks.org/data-structures/)
 
 ### Dynamic Programming
 
@@ -116,6 +138,13 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Dynamic Programming on Broken Profile. Problem "Parquet"](https://cp-algorithms.com/dynamic_programming/profile-dynamics.html)
 - [Finding the largest zero submatrix](https://cp-algorithms.com/dynamic_programming/zero_matrix.html)
 - [Dynamic Programming GeeksforGeeks](https://www.geeksforgeeks.org/dynamic-programming/)
+
+### Linear Algebra
+
+- [Gauss & System of Linear Equations](https://cp-algorithms.com/linear_algebra/linear-system-gauss.html)
+- [Gauss & Determinant](https://cp-algorithms.com/linear_algebra/determinant-gauss.html)
+- [Kraut & Determinant](https://cp-algorithms.com/linear_algebra/determinant-kraut.html)
+- [Rank of a matrix](https://cp-algorithms.com/linear_algebra/rank-matrix.html)
 
 ### String Processing
 
@@ -125,6 +154,12 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Z-function](https://cp-algorithms.com/string/z-function.html)
 - [Suffix Array](https://cp-algorithms.com/string/suffix-array.html)
 - [Aho-Corasick algorithm](https://cp-algorithms.com/string/aho_corasick.html)
+
+---
+
+## GIT
+
+- [Pro Git Book](https://git-scm.com/book/en/v2/)
 
 ---
 
@@ -153,6 +188,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Learn JavaScript through a game](https://dev.to/nitdgplug/learn-javascript-through-a-game-1beh)
 - [Javascript ES2020- Top Features you should know](https://dev.to/catalinmpit/javascript-es2020-the-features-you-should-know-45i2)
 - [Understanding Closures](https://blog.skay.dev/understanding-closures)
+- [S.O.L.I.D. Principles around You, in JavaScript](https://francescociulla.com/solid-principles-around-you-in-javascript)
 
 ---
 
@@ -161,6 +197,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Official Documentation](http://lesscss.org/)
 - [Complete tutorial from Tutorialpoint](https://www.tutorialspoint.com/less/index.htm)
 - [Video Tutorials for Beginners](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGCshbAx1JpBtNoKh8iKAAiy)
+
 ---
 
 ## Magento
@@ -213,6 +250,12 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 ---
 
+## Testing
+
+- [How to Start a Career in Testing? ](https://juniorlearnstocode.blogspot.com/2020/04/how-to-start-career-in-testing.html/)
+
+---
+
 ## Unity
 
 - [Unity Docs](https://docs.unity3d.com/Manual/index.html)
@@ -234,8 +277,6 @@ To contribute, please check out our contribution guide [here](https://github.com
 ---
 
 ## Others
-
-- [Common SpringBoard Headers for jailbreak tweaks](http://iphonedevwiki.net/index.php/Special:AllPages)
 
 ### Design
 
