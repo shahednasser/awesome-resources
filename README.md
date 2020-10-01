@@ -41,6 +41,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Python](#python)
 - [React](#react)
 - [SASS](#sass)
+- [Swift](#swift)
 - [Testing](#testing)
 - [Unity](#unity)
 - [Vue](#vue)
