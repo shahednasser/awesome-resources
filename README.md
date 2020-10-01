@@ -15,12 +15,14 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 # Content
 
+
 - [Android](#android)
 - [Angular](#angular)
 - [Computer Science](#computer-science)
 - [CSS](#css)
 - [CSharp](#csharp)
 - [Data Science](#data-science)
+- [DevOps](#devops)
 - [Express](#express)
 - [Fudamental CP algorithms](#fundamental-cp-algorithms)
   - [Algebra](#algebra)
@@ -97,6 +99,14 @@ To contribute, please check out our contribution guide [here](https://github.com
 ## Data Science
 
 - [IBM Data Science Coursera](https://www.coursera.org/professional-certificates/ibm-data-science)
+
+---
+
+## DevOps
+
+- [Linkedin Learning](https://www.linkedin.com/learning/paths/become-a-devops-engineer?u=57692769)
+- [How To Become a DevOps Engineer In Six Months or Less](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737)
+- [Azure DevOps](https://azure.microsoft.com/en-us/overview/devops-tutorial/)
 
 ---
 
@@ -295,3 +305,4 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 - [How to contribute to Open Source](https://kentcdodds.com/blog/introducing-how-to-contribute-to-open-source)
 - [What open source projects should I contribute](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to)
+
