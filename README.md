@@ -21,6 +21,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 
   - [HTML](#html)
   - [CSS](#css)
+  - [Android](#android) 
   - [AngularJS](#angularjs)
   - [CSharp](#csharp)
   - [Javascript](#javascript)
@@ -302,9 +303,9 @@ To contribute, please check out our contribution guide [here](https://github.com
 ### Cheat Sheets
 
 - [Markdown](https://www.markdownguide.org/cheat-sheet/)
-
----
+- [Emmet](https://docs.emmet.io/cheat-sheet/)
 
 ### Hosting
 
 - [Digital Ocean](https://www.digitalocean.com/solutions/website-hosting/)
+
