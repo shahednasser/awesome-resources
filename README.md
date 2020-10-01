@@ -15,41 +15,44 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 # Content
 
-
-- [Android](#android)
-- [Angular](#angular)
-- [Computer Science](#computer-science)
-- [CSS](#css)
-- [CSharp](#csharp)
-- [Data Science](#data-science)
-- [Express](#express)
-- [Fudamental CP algorithms](#fundamental-cp-algorithms)
-  - [Algebra](#algebra)
-  - [Combinatorics](#combinatorics)
-  - [Data Structures](#data-structures)
-  - [Dynamic Programming](#dynamic-programming)
-  - [Linear Algebra](#linear-algebra)
-  - [String Processing](#string-processing) 
-- [GitHub](#github)
-- [Java](#java)
-- [Javascript](#javascript)
-- [LESS](#less)
-- [Magento](#magento)
-- [PHP](#php)
-- [Python](#python)
-- [React](#react)
-- [SASS](#sass)
-- [Testing](#testing)
-- [Unity](#unity)
-- [Vue](#vue)
-- [Others](#others)
-  - [Cheat Sheets](#cheat-sheets)
-  - [Design](#design)
-  - [Computer Networks](#computer-networks)
-  - [Computer Science](#fundamentals-of-computer-science)
-  - [Data Science](#introduction-to-data-science)
-  - [Dev-Ops](#devops)
-
+- [Awesome Resources ![Awesome](https://github.com/shahednasser/awesome-resources)](#awesome-resources-img-srchttpscdnrawgitcomsindresorhusawesomed7305f38d29fed78fa85652e3a63e154dd8e8829mediabadgesvg-altawesome)
+- [Purpose](#purpose)
+- [Contribution](#contribution)
+- [Content](#content)
+  - [Android](#android)
+  - [Angular](#angular)
+  - [Computer Science](#computer-science)
+  - [CSS](#css)
+  - [CSharp](#csharp)
+  - [Data Science](#data-science)
+  - [Express](#express)
+  - [Fundamental CP algorithms](#fundamental-cp-algorithms)
+    - [Algebra](#algebra)
+    - [Combinatorics](#combinatorics)
+    - [Data Structures](#data-structures)
+    - [Dynamic Programming](#dynamic-programming)
+    - [Linear Algebra](#linear-algebra)
+    - [String Processing](#string-processing)
+  - [GitHub](#github)
+  - [Java](#java)
+  - [Javascript](#javascript)
+  - [LESS](#less)
+  - [Magento](#magento)
+  - [PHP](#php)
+  - [Python](#python)
+  - [React](#react)
+  - [SASS](#sass)
+  - [Testing](#testing)
+  - [Unity](#unity)
+  - [Vue](#vue)
+  - [Webpack](#webpack)
+  - [Others](#others)
+    - [Design](#design)
+    - [Cheat Sheets](#cheat-sheets)
+    - [Computer Networks](#computer-networks)
+  - [Computer Science](#computer-science-1)
+  - [Data Science](#data-science-1)
+  - [Dev-ops](#dev-ops)
 
 ---
 
@@ -273,6 +276,12 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 ---
 
+## Webpack
+
+- [Webpack Academy](https://webpack-academy.teachable.com/)
+- [Docs](https://webpack.js.org/guides/getting-started/)
+- [Tutorials](https://codingcompiler.com/webpack-tutorial/)
+
 ## Others
 
 ### Design
@@ -288,11 +297,9 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Markdown](https://www.markdownguide.org/cheat-sheet/)
 - [Emmet](https://docs.emmet.io/cheat-sheet/)
 
-
 ### Computer Networks
 
 - [Geeks for Geeks](https://www.geeksforgeeks.org/computer-network-tutorials/)
-
 
 ## Computer Science
 
@@ -307,4 +314,3 @@ To contribute, please check out our contribution guide [here](https://github.com
 ## Dev-ops
 
 - [Linkedin Learning](https://www.linkedin.com/learning/paths/become-a-devops-engineer?u=57692769)
-
