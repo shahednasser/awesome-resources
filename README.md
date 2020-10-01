@@ -69,6 +69,8 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Curated ExpressJS Courses](https://hackr.io/tutorials/learn-express-js) - a list of community curated resources
 - [ExpressJS Courses at Classpert](https://classpert.com/express-js) - a list of courses (free and paid) from Classpert Online Course Search
 
+---
+
 ## Fundamental CP algorithms
 
 ### Algebra
