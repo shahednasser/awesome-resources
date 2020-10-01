@@ -1,4 +1,4 @@
-# Contribution Guide
+### Contribution Guide
 
 You can contribute to this repository very easily!
 
