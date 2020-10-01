@@ -15,10 +15,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 # Content
 
-- [Awesome Resources ![Awesome](https://github.com/shahednasser/awesome-resources)](#awesome-resources-img-srchttpscdnrawgitcomsindresorhusawesomed7305f38d29fed78fa85652e3a63e154dd8e8829mediabadgesvg-altawesome)
-- [Purpose](#purpose)
-- [Contribution](#contribution)
-- [Content](#content)
+
   - [Android](#android)
   - [Angular](#angular)
   - [Computer Science](#computer-science)
@@ -107,6 +104,14 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 ---
 
+## DevOps
+
+- [Linkedin Learning](https://www.linkedin.com/learning/paths/become-a-devops-engineer?u=57692769)
+- [How To Become a DevOps Engineer In Six Months or Less](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737)
+- [Azure DevOps](https://azure.microsoft.com/en-us/overview/devops-tutorial/)
+
+---
+
 ## Express
 
 - [How to uncouples emit events from connection event into socket.io and express](https://dev.to/wakeupmh/how-to-decouples-emit-events-from-connection-event-into-socket-io-8dk) - Uncoupling socket emit events with express
@@ -144,6 +149,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Divide and Conquer DP](https://cp-algorithms.com/dynamic_programming/divide-and-conquer-dp.html)
 - [Dynamic Programming on Broken Profile. Problem "Parquet"](https://cp-algorithms.com/dynamic_programming/profile-dynamics.html)
 - [Finding the largest zero submatrix](https://cp-algorithms.com/dynamic_programming/zero_matrix.html)
+- [Dynamic Programming GeeksforGeeks](https://www.geeksforgeeks.org/dynamic-programming/)
 
 ### Linear Algebra
 
@@ -163,9 +169,16 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 ---
 
+## GIT
+
+- [Pro Git Book](https://git-scm.com/book/en/v2/)
+
+---
+
 ## GitHub
 
 - [How to create a pull request in GitHub](https://opensource.com/article/19/7/create-pull-request-github)
+- [Squash mutilple commits into one in GitHub](https://www.internalpointers.com/post/squash-commits-into-one-git)
 
 ---
 
@@ -188,6 +201,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Javascript ES2020- Top Features you should know](https://dev.to/catalinmpit/javascript-es2020-the-features-you-should-know-45i2)
 - [Understanding Closures](https://blog.skay.dev/understanding-closures)
 - [S.O.L.I.D. Principles around You, in JavaScript](https://francescociulla.com/solid-principles-around-you-in-javascript)
+- [The 30 days JavaScript Challenge](https://javascript30.com/)
 
 ---
 
@@ -203,7 +217,6 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 - [Magento 2 Creating A UI Form](https://www.mageplaza.com/devdocs/creat-a-ui-form-in-magento-2.html)
 - [Tips for Magento 2 Layouts](https://medium.com/@shahedn/tips-for-magento-2-layouts-d7e076812fa2)
-
 ---
 
 ## PHP
@@ -301,6 +314,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 - [Geeks for Geeks](https://www.geeksforgeeks.org/computer-network-tutorials/)
 
+
 ## Computer Science
 
 - [CS50](https://cs50.harvard.edu/college/2020/fall/)
@@ -314,3 +328,10 @@ To contribute, please check out our contribution guide [here](https://github.com
 ## Dev-ops
 
 - [Linkedin Learning](https://www.linkedin.com/learning/paths/become-a-devops-engineer?u=57692769)
+
+### Open Source
+
+- [How to contribute to Open Source](https://kentcdodds.com/blog/introducing-how-to-contribute-to-open-source)
+- [What open source projects should I contribute](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to)
+
+
