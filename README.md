@@ -115,6 +115,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Learn Modern JavaScript ES6 | ES7 | ES8 ](https://codeloop.org/learn-modern-javascript-es6-es7-es8/)
 - [Learn JavaScript through a game](https://dev.to/nitdgplug/learn-javascript-through-a-game-1beh)
 - [Javascript ES2020- Top Features you should know](https://dev.to/catalinmpit/javascript-es2020-the-features-you-should-know-45i2)
+- [Understanding Closures](https://blog.skay.dev/understanding-closures)
 
 ---
 
