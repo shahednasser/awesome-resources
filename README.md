@@ -28,6 +28,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Javascript](#javascript)
 - [LESS](#less)
 - [Magento](#magento)
+- [PHP](#php)
 - [Python](#python)
 - [React](#react)
 - [SASS](#sass)
@@ -41,6 +42,10 @@ To contribute, please check out our contribution guide [here](https://github.com
 ## Android
 
 - [Build your first app](https://developer.android.com/training/basics/firstapp)
+- [Official Documentation](https://developer.android.com/docs)
+- [Android™ Notes for Professionals book](https://books.goalkicker.com/AndroidBook/)
+- [Android Developer Roadmap](https://roadmap.sh/android)
+- [Android cheat sheet](http://alvinalexander.com/android/android-cheat-sheet-main-concepts/)
 
 ---
 
@@ -112,6 +117,9 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [React Hooks Tutorial — Create a Number Trivia Generator Website](https://medium.com/@shahedn/react-hooks-tutorial-create-a-number-trivia-generator-website-32b6b3b52c3e)
 - [Callback Function in JavaScript](https://medium.com/@a.athuljoy/callback-function-in-javascript-99b5262f6750)
 - [Learn Modern JavaScript ES6 | ES7 | ES8 ](https://codeloop.org/learn-modern-javascript-es6-es7-es8/)
+- [Learn JavaScript through a game](https://dev.to/nitdgplug/learn-javascript-through-a-game-1beh)
+- [Javascript ES2020- Top Features you should know](https://dev.to/catalinmpit/javascript-es2020-the-features-you-should-know-45i2)
+- [Understanding Closures](https://blog.skay.dev/understanding-closures)
 
 ---
 
@@ -119,7 +127,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 - [Official Documentation](http://lesscss.org/)
 - [Complete tutorial from Tutorialpoint](https://www.tutorialspoint.com/less/index.htm)
-
+- [Video Tutorials for Beginners](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGCshbAx1JpBtNoKh8iKAAiy)
 ---
 
 ## Magento
@@ -128,11 +136,19 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Tips for Magento 2 Layouts](https://medium.com/@shahedn/tips-for-magento-2-layouts-d7e076812fa2)
 
 ---
+## PHP
+
+- [PHP Tutorial](https://phptherightway.com/)
+- [PHP Video Tutorials](https://www.youtube.com/playlist?list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn)
+
+---
 
 ## Python
 - [Python Intermediate Tutorial](https://github.com/python-engineer/python-engineer-notebooks/tree/master/advanced-python)
 - [Python Tutorial](https://www.w3schools.com/python/)
 - [Python for Everybody (14 hour course)](https://www.youtube.com/watch?v=8DvywoWv6fI&feature=emb_title)
+- [Python Tips and Tricks for Beginners](https://towardsdatascience.com/python-tips-and-tricks-for-beginners-62473d569d0a)
+- [The Hitchhiker's Guide to Python](https://docs.python-guide.org/)
 - [Python Tips and Tricks for Beginners](https://towardsdatascience.com/python-tips-and-tricks-for-beginners-62473d569d0a)
 
 ---
