@@ -46,10 +46,6 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Others](#others)
   - [Cheat Sheets](#cheat-sheets)
   - [Design](#design)
-  - [Computer Networks](#computer-networks)
-  - [Computer Science](#fundamentals-of-computer-science)
-  - [Data Science](#introduction-to-data-science)
-  - [Dev-Ops](#devops)
   - [Open Source](#open-source)
 
 ---
