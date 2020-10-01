@@ -2,6 +2,9 @@
 
 Participate in [Hackoctoberfest](https://hacktoberfest.digitalocean.com/login) by helping others!
 
+:sunglasses: List of helpful resources added by the community for the community!  
+
+
 # Purpose
 
 This repository aims to help contributors (specifically beginners) participate in Hacktoberfest easily while also helping others as well.  
@@ -13,10 +16,6 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 # Content
 
-- [Awesome Resources ![Awesome](https://github.com/shahednasser/awesome-resources)](#awesome-resources-img-srchttpscdnrawgitcomsindresorhusawesomed7305f38d29fed78fa85652e3a63e154dd8e8829mediabadgesvg-altawesome)
-- [Purpose](#purpose)
-- [Contribution](#contribution)
-- [Content](#content)
   - [HTML](#html)
   - [CSS](#css)
   - [AngularJS](#angularjs)
@@ -37,13 +36,16 @@ To contribute, please check out our contribution guide [here](https://github.com
     - [Design](#design)
     - [Cheat Sheets](#cheat-sheets)
     - [Hosting](#hosting)
-  
+
 ---
+
 ## HTML
 
 - [Codeacademy](https://www.codecademy.com/learn/learn-html)
 
+
 ---
+
 ## CSS
 
 - [CSS Variables and How To Use Them](https://medium.com/@shahedn/css-variables-and-how-to-use-them-bd9724cb6566)
@@ -56,13 +58,13 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [W3 Schools](https://www.w3schools.com/angular/)
 
 ---
+
 ## CSharp
 
 - [C# From a Java Developer's Perspective](http://www.25hoursaday.com/CsharpVsJava.html)
 - [The C# Yellow Book ](https://www.robmiles.com/c-yellow-book/)
 - [5 books every C# developer should read](https://medium.com/@jakubgarfield/5-books-every-c-developer-should-read-83844a5e2e3c)
 
----
 
 ## Javascript
 
@@ -71,6 +73,13 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Callback Function in JavaScript](https://medium.com/@a.athuljoy/callback-function-in-javascript-99b5262f6750)
 - [Learn Modern JavaScript [ ES6 | ES7 | ES8 ](https://codeloop.org/learn-modern-javascript-es6-es7-es8/)
 
+---
+
+## React
+
+- [React Tutorial](https://www.w3schools.com/react/)
+- [Glitch: React Starter Kit](https://glitch.com/glimmer/post/react-starter-kit)
+- [Egghead.io: Start Learning React](https://egghead.io/courses/start-learning-react)
 
 ---
 
@@ -86,6 +95,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Magento 2 Creating A UI Form](https://www.mageplaza.com/devdocs/creat-a-ui-form-in-magento-2.html)
 - [Tips for Magento 2 Layouts](https://medium.com/@shahedn/tips-for-magento-2-layouts-d7e076812fa2)
 
+
 ---
 
 ## Fundamentals of  Computer Science
@@ -94,7 +104,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 ---
 
-## Introduction to Data Science 
+## Introduction to Data Science
 
 - [IBM Data Science Coursera](https://www.coursera.org/professional-certificates/ibm-data-science)
 
@@ -110,22 +120,16 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Linear Diophantine Equations](https://cp-algorithms.com/algebra/linear-diophantine-equation.html)
 - [Fibonacci Numbers](https://cp-algorithms.com/algebra/fibonacci-numbers.html)
 
----
-
 ### Data Structures
 
 - [Minimum Stack / Minimum Queue](https://cp-algorithms.com/data_structures/stack_queue_modification.html)
 - [Sparse Table](https://cp-algorithms.com/data_structures/sparse-table.html)
-
----
 
 ### Dynamic Programming
 
 - [Divide and Conquer DP](https://cp-algorithms.com/dynamic_programming/divide-and-conquer-dp.html)
 - [Dynamic Programming on Broken Profile. Problem "Parquet"](https://cp-algorithms.com/dynamic_programming/profile-dynamics.html)
 - [Finding the largest zero submatrix](https://cp-algorithms.com/dynamic_programming/zero_matrix.html)
-
----
 
 ### String Processing
 
@@ -138,22 +142,85 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 ---
 
-## Python
+## GitHub
 
+- [How to create a pull request in GitHub](https://opensource.com/article/19/7/create-pull-request-github)
+
+---
+
+## Java
+
+- [Learn Java - Free Interactive Java Tutorial](https://www.learnjavaonline.org/)
+- [10 Simple Java Projects for Beginners ](https://javahungry.blogspot.com/2019/12/java-projects-for-beginners.html)
+- [Advanced Java Programming](https://www.udemy.com/course/advanced-java-programming/)
+- [Learn Servlet Tutorial](https://www.javatpoint.com/servlet-tutorial)
+
+---
+
+## Javascript
+
+- [Chrome Extension Tutorial — Replace Images in Any Website with Pikachu](https://levelup.gitconnected.com/chrome-extension-tutorial-replace-images-in-any-website-with-pikachu-de2a6e3548bb)
+- [React Hooks Tutorial — Create a Number Trivia Generator Website](https://medium.com/@shahedn/react-hooks-tutorial-create-a-number-trivia-generator-website-32b6b3b52c3e)
+- [Callback Function in JavaScript](https://medium.com/@a.athuljoy/callback-function-in-javascript-99b5262f6750)
+- [Learn Modern JavaScript ES6 | ES7 | ES8 ](https://codeloop.org/learn-modern-javascript-es6-es7-es8/)
+
+---
+
+## LESS
+
+- [Official Documentation](http://lesscss.org/)
+- [Complete tutorial from Tutorialpoint](https://www.tutorialspoint.com/less/index.htm)
+
+---
+
+## Magento
+
+- [Magento 2 Creating A UI Form](https://www.mageplaza.com/devdocs/creat-a-ui-form-in-magento-2.html)
+- [Tips for Magento 2 Layouts](https://medium.com/@shahedn/tips-for-magento-2-layouts-d7e076812fa2)
+
+---
+
+## Python
+- [Python Intermediate Tutorial](https://github.com/python-engineer/python-engineer-notebooks/tree/master/advanced-python)
 - [Python Tutorial](https://www.w3schools.com/python/)
 - [Python for Everybody (14 hour course)](https://www.youtube.com/watch?v=8DvywoWv6fI&feature=emb_title)
 
 ---
 
-## C Sharp
+## React
 
-- [C# Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/)
+- [React Tutorial](https://www.w3schools.com/react/)
+- [Glitch: React Starter Kit](https://glitch.com/glimmer/post/react-starter-kit)
+- [Egghead.io: Start Learning React](https://egghead.io/courses/start-learning-react)
+- [React Official Tutorial](https://facebook.github.io/react/docs/tutorial.html)
+- [Using React in Visual Studio Code](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial)
+- [Scrimba - Learn React for free interactively](https://scrimba.com/g/glearnreact)
+- [FreeCodeCamp React Challenges](https://learn.freecodecamp.org/front-end-libraries/react)
+- [React Cheatsheet](https://devhints.io/react)
+- [React Patterns](https://reactpatterns.com/)
+
+---
+
+## SASS
+
+- [Sass Basics](https://sass-lang.com/guide)
+- [Complete Documentation](https://sass-lang.com/documentation)
+
+---
+
+## Unity
+
+- [Unity Docs](https://docs.unity3d.com/Manual/index.html)
+- [Official Unity Learn Page](https://learn.unity.com)
+- [Unity for Beginners](https://www.raywenderlich.com/unity/paths/learn)
 
 ---
 
 ## Others
 
 - [Common SpringBoard Headers for jailbreak tweaks](http://iphonedevwiki.net/index.php/Special:AllPages)
+
+---
 
 ### Design
 
@@ -162,6 +229,8 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Feather Icons](https://feathericons.com/)
 - [humaaans](https://humaaans.com/)
 - [absurd](https://absurd.design/)
+
+---
 
 ### Cheat Sheets
 
