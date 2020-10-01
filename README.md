@@ -199,6 +199,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Javascript ES2020- Top Features you should know](https://dev.to/catalinmpit/javascript-es2020-the-features-you-should-know-45i2)
 - [Understanding Closures](https://blog.skay.dev/understanding-closures)
 - [S.O.L.I.D. Principles around You, in JavaScript](https://francescociulla.com/solid-principles-around-you-in-javascript)
+- [The 30 days JavaScript Challenge](https://javascript30.com/)
 
 ---
 
