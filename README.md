@@ -168,12 +168,6 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Tips for Magento 2 Layouts](https://medium.com/@shahedn/tips-for-magento-2-layouts-d7e076812fa2)
 ---
 
-## Open Source
-
-- [How to contribute to Open Source](https://kentcdodds.com/blog/introducing-how-to-contribute-to-open-source)
-- [What open source projects should I contribute](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to)
----
-
 ## PHP
 
 - [PHP Tutorial](https://phptherightway.com/)
@@ -254,3 +248,8 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 - [Markdown](https://www.markdownguide.org/cheat-sheet/)
 - [Emmet](https://docs.emmet.io/cheat-sheet/)
+
+## Open Source
+
+- [How to contribute to Open Source](https://kentcdodds.com/blog/introducing-how-to-contribute-to-open-source)
+- [What open source projects should I contribute](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to)
