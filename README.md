@@ -16,38 +16,40 @@ To contribute, please check out our contribution guide [here](https://github.com
 # Content
 
 
-- [Android](#android)
-- [Angular](#angular)
-- [Computer Science](#computer-science)
-- [CSS](#css)
-- [CSharp](#csharp)
-- [Data Science](#data-science)
-- [DevOps](#devops)
-- [Express](#express)
-- [Fudamental CP algorithms](#fundamental-cp-algorithms)
-  - [Algebra](#algebra)
-  - [Combinatorics](#combinatorics)
-  - [Data Structures](#data-structures)
-  - [Dynamic Programming](#dynamic-programming)
-  - [Linear Algebra](#linear-algebra)
-  - [String Processing](#string-processing) 
-- [GIT](#git)
-- [GitHub](#github)
-- [Java](#java)
-- [Javascript](#javascript)
-- [LESS](#less)
-- [Magento](#magento)
-- [PHP](#php)
-- [Python](#python)
-- [React](#react)
-- [SASS](#sass)
-- [Testing](#testing)
-- [Unity](#unity)
-- [Vue](#vue)
-- [Others](#others)
-  - [Cheat Sheets](#cheat-sheets)
-  - [Design](#design)
-  - [Open Source](#open-source)
+  - [Android](#android)
+  - [Angular](#angular)
+  - [Computer Science](#computer-science)
+  - [CSS](#css)
+  - [CSharp](#csharp)
+  - [Data Science](#data-science)
+  - [Express](#express)
+  - [Fundamental CP algorithms](#fundamental-cp-algorithms)
+    - [Algebra](#algebra)
+    - [Combinatorics](#combinatorics)
+    - [Data Structures](#data-structures)
+    - [Dynamic Programming](#dynamic-programming)
+    - [Linear Algebra](#linear-algebra)
+    - [String Processing](#string-processing)
+  - [GitHub](#github)
+  - [Java](#java)
+  - [Javascript](#javascript)
+  - [LESS](#less)
+  - [Magento](#magento)
+  - [PHP](#php)
+  - [Python](#python)
+  - [React](#react)
+  - [SASS](#sass)
+  - [Testing](#testing)
+  - [Unity](#unity)
+  - [Vue](#vue)
+  - [Webpack](#webpack)
+  - [Others](#others)
+    - [Design](#design)
+    - [Cheat Sheets](#cheat-sheets)
+    - [Computer Networks](#computer-networks)
+  - [Computer Science](#computer-science-1)
+  - [Data Science](#data-science-1)
+  - [Dev-ops](#dev-ops)
 
 ---
 
@@ -287,6 +289,12 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 ---
 
+## Webpack
+
+- [Webpack Academy](https://webpack-academy.teachable.com/)
+- [Docs](https://webpack.js.org/guides/getting-started/)
+- [Tutorials](https://codingcompiler.com/webpack-tutorial/)
+
 ## Others
 
 ### Design
@@ -302,8 +310,28 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Markdown](https://www.markdownguide.org/cheat-sheet/)
 - [Emmet](https://docs.emmet.io/cheat-sheet/)
 
+### Computer Networks
+
+- [Geeks for Geeks](https://www.geeksforgeeks.org/computer-network-tutorials/)
+
+
+## Computer Science
+
+- [CS50](https://cs50.harvard.edu/college/2020/fall/)
+
+---
+
+## Data Science
+
+- [IBM Data Science Coursera](https://www.coursera.org/professional-certificates/ibm-data-science)
+
+## Dev-ops
+
+- [Linkedin Learning](https://www.linkedin.com/learning/paths/become-a-devops-engineer?u=57692769)
+
 ### Open Source
 
 - [How to contribute to Open Source](https://kentcdodds.com/blog/introducing-how-to-contribute-to-open-source)
 - [What open source projects should I contribute](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to)
+
 
