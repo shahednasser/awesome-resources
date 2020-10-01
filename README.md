@@ -15,39 +15,41 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 # Content
 
-- [Awesome Resources ![Awesome](https://github.com/shahednasser/awesome-resources)](#awesome-resources-img-srchttpscdnrawgitcomsindresorhusawesomed7305f38d29fed78fa85652e3a63e154dd8e8829mediabadgesvg-altawesome)
-- [Purpose](#purpose)
-- [Contribution](#contribution)
-- [Content](#content)
-  - [Android](#android)
-  - [Angular](#angular)
-  - [CSS](#css)
-  - [CSharp](#csharp)
-  - [Express](#express)
-  - [Fundamental CP algorithms](#fundamental-cp-algorithms)
-    - [Algebra](#algebra)
-    - [Data Structures](#data-structures)
-    - [Dynamic Programming](#dynamic-programming)
-    - [String Processing](#string-processing)
-  - [GitHub](#github)
-  - [Java](#java)
-  - [Javascript](#javascript)
-  - [LESS](#less)
-  - [Magento](#magento)
-  - [PHP](#php)
-  - [Python](#python)
-  - [React](#react)
-  - [SASS](#sass)
-  - [Testing](#testing)
-  - [Unity](#unity)
-  - [Vue](#vue)
-  - [Others](#others)
-    - [Design](#design)
-    - [Cheat Sheets](#cheat-sheets)
-    - [Computer Networks](#computer-networks)
+
+- [Android](#android)
+- [Angular](#angular)
+- [Computer Science](#computer-science)
+- [CSS](#css)
+- [CSharp](#csharp)
+- [Data Science](#data-science)
+- [Express](#express)
+- [Fudamental CP algorithms](#fundamental-cp-algorithms)
+  - [Algebra](#algebra)
+  - [Combinatorics](#combinatorics)
+  - [Data Structures](#data-structures)
+  - [Dynamic Programming](#dynamic-programming)
+  - [Linear Algebra](#linear-algebra)
+  - [String Processing](#string-processing) 
+- [GitHub](#github)
+- [Java](#java)
+- [Javascript](#javascript)
+- [LESS](#less)
+- [Magento](#magento)
+- [PHP](#php)
+- [Python](#python)
+- [React](#react)
+- [SASS](#sass)
+- [Testing](#testing)
+- [Unity](#unity)
+- [Vue](#vue)
+- [Others](#others)
+  - [Cheat Sheets](#cheat-sheets)
+  - [Design](#design)
+  - [Computer Networks](#computer-networks)
   - [Computer Science](#fundamentals-of-computer-science)
   - [Data Science](#introduction-to-data-science)
   - [Dev-Ops](#devops)
+
 
 ---
 
@@ -75,6 +77,12 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 ---
 
+## Computer Science
+
+- [CS50](https://cs50.harvard.edu/college/2020/fall/)
+
+---
+
 ## CSS
 
 - [CSS Variables and How To Use Them](https://medium.com/@shahedn/css-variables-and-how-to-use-them-bd9724cb6566)
@@ -87,6 +95,12 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [The C# Yellow Book ](https://www.robmiles.com/c-yellow-book/)
 - [5 books every C# developer should read](https://medium.com/@jakubgarfield/5-books-every-c-developer-should-read-83844a5e2e3c)
 - [C# Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/)
+
+---
+
+## Data Science
+
+- [IBM Data Science Coursera](https://www.coursera.org/professional-certificates/ibm-data-science)
 
 ---
 
@@ -111,6 +125,12 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Linear Diophantine Equations](https://cp-algorithms.com/algebra/linear-diophantine-equation.html)
 - [Fibonacci Numbers](https://cp-algorithms.com/algebra/fibonacci-numbers.html)
 
+### Combinatorics
+
+- [Finding Power of Factorial Divisor](https://cp-algorithms.com/algebra/factorial-divisors.html)
+- [Binomial Coefficients](https://cp-algorithms.com/combinatorics/binomial-coefficients.html)
+- [Catalan Numbers](https://cp-algorithms.com/combinatorics/catalan-numbers.html)
+
 ### Data Structures
 
 - [Minimum Stack / Minimum Queue](https://cp-algorithms.com/data_structures/stack_queue_modification.html)
@@ -121,6 +141,13 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Divide and Conquer DP](https://cp-algorithms.com/dynamic_programming/divide-and-conquer-dp.html)
 - [Dynamic Programming on Broken Profile. Problem "Parquet"](https://cp-algorithms.com/dynamic_programming/profile-dynamics.html)
 - [Finding the largest zero submatrix](https://cp-algorithms.com/dynamic_programming/zero_matrix.html)
+
+### Linear Algebra
+
+- [Gauss & System of Linear Equations](https://cp-algorithms.com/linear_algebra/linear-system-gauss.html)
+- [Gauss & Determinant](https://cp-algorithms.com/linear_algebra/determinant-gauss.html)
+- [Kraut & Determinant](https://cp-algorithms.com/linear_algebra/determinant-kraut.html)
+- [Rank of a matrix](https://cp-algorithms.com/linear_algebra/rank-matrix.html)
 
 ### String Processing
 
@@ -248,8 +275,6 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 ## Others
 
-- [Common SpringBoard Headers for jailbreak tweaks](http://iphonedevwiki.net/index.php/Special:AllPages)
-
 ### Design
 
 - [Freebie Supply](https://freebiesupply.com/)
@@ -267,6 +292,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 - [Geeks for Geeks](https://www.geeksforgeeks.org/computer-network-tutorials/)
 
+
 ## Computer Science
 
 - [CS50](https://cs50.harvard.edu/college/2020/fall/)
@@ -280,3 +306,4 @@ To contribute, please check out our contribution guide [here](https://github.com
 ## Dev-ops
 
 - [Linkedin Learning](https://www.linkedin.com/learning/paths/become-a-devops-engineer?u=57692769)
+
