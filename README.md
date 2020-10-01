@@ -17,8 +17,10 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 - [Android](#android)
 - [Angular](#angular)
+- [Computer Science](#computer-science)
 - [CSS](#css)
 - [CSharp](#csharp)
+- [Data Science](#data-science)
 - [Express](#express)
 - [Fudamental CP algorithms](#fundamental-cp-algorithms)
   - [Algebra](#algebra)
@@ -43,6 +45,9 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Others](#others)
   - [Cheat Sheets](#cheat-sheets)
   - [Design](#design)
+  - [Computer Networks](#computer-networks)
+
+
 
 ---
 
@@ -70,6 +75,12 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 ---
 
+## Computer Science
+
+- [CS50](https://cs50.harvard.edu/college/2020/fall/)
+
+---
+
 ## CSS
 
 - [CSS Variables and How To Use Them](https://medium.com/@shahedn/css-variables-and-how-to-use-them-bd9724cb6566)
@@ -82,6 +93,12 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [The C# Yellow Book ](https://www.robmiles.com/c-yellow-book/)
 - [5 books every C# developer should read](https://medium.com/@jakubgarfield/5-books-every-c-developer-should-read-83844a5e2e3c)
 - [C# Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/)
+
+---
+
+## Data Science
+
+- [IBM Data Science Coursera](https://www.coursera.org/professional-certificates/ibm-data-science)
 
 ---
 
@@ -180,6 +197,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Official Documentation](http://lesscss.org/)
 - [Complete tutorial from Tutorialpoint](https://www.tutorialspoint.com/less/index.htm)
 - [Video Tutorials for Beginners](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGCshbAx1JpBtNoKh8iKAAiy)
+
 ---
 
 ## Magento
@@ -188,6 +206,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Tips for Magento 2 Layouts](https://medium.com/@shahedn/tips-for-magento-2-layouts-d7e076812fa2)
 
 ---
+
 ## PHP
 
 - [PHP Tutorial](https://phptherightway.com/)
@@ -259,8 +278,6 @@ To contribute, please check out our contribution guide [here](https://github.com
 ---
 
 ## Others
-
-- [Common SpringBoard Headers for jailbreak tweaks](http://iphonedevwiki.net/index.php/Special:AllPages)
 
 ### Design
 
