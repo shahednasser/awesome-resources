@@ -1,5 +1,6 @@
 # Awesome Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/shahednasser/awesome-resources)
 
+
 Participate in [Hackoctoberfest](https://hacktoberfest.digitalocean.com/login) by helping others!
 
 :sunglasses: List of helpful resources added by the community for the community!  
@@ -15,6 +16,7 @@ To contribute, all you have to do is add a tutorial, article or any helpful reso
 To contribute, please check out our contribution guide [here](https://github.com/shahednasser/awesome-resources/blob/master/CONTRIBUTING.md).
 
 # Content
+
 
   - [HTML](#html)
   - [CSS](#css)
@@ -46,6 +48,12 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 ---
 
+## Android
+
+- [Build your first app](https://developer.android.com/training/basics/firstapp)
+
+---
+
 ## CSS
 
 - [CSS Variables and How To Use Them](https://medium.com/@shahedn/css-variables-and-how-to-use-them-bd9724cb6566)
@@ -64,6 +72,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [C# From a Java Developer's Perspective](http://www.25hoursaday.com/CsharpVsJava.html)
 - [The C# Yellow Book ](https://www.robmiles.com/c-yellow-book/)
 - [5 books every C# developer should read](https://medium.com/@jakubgarfield/5-books-every-c-developer-should-read-83844a5e2e3c)
+
 
 
 ## Javascript
@@ -94,6 +103,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 - [Magento 2 Creating A UI Form](https://www.mageplaza.com/devdocs/creat-a-ui-form-in-magento-2.html)
 - [Tips for Magento 2 Layouts](https://medium.com/@shahedn/tips-for-magento-2-layouts-d7e076812fa2)
+
 
 
 ---
@@ -157,6 +167,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 ---
 
+
 ## Javascript
 
 - [Chrome Extension Tutorial — Replace Images in Any Website with Pikachu](https://levelup.gitconnected.com/chrome-extension-tutorial-replace-images-in-any-website-with-pikachu-de2a6e3548bb)
@@ -165,6 +176,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Learn Modern JavaScript ES6 | ES7 | ES8 ](https://codeloop.org/learn-modern-javascript-es6-es7-es8/)
 
 ---
+
 
 ## LESS
 
@@ -189,6 +201,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 ## React
 
+
 - [React Tutorial](https://www.w3schools.com/react/)
 - [Glitch: React Starter Kit](https://glitch.com/glimmer/post/react-starter-kit)
 - [Egghead.io: Start Learning React](https://egghead.io/courses/start-learning-react)
@@ -209,6 +222,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 ---
 
 ## Unity
+
 
 - [Unity Docs](https://docs.unity3d.com/Manual/index.html)
 - [Official Unity Learn Page](https://learn.unity.com)
