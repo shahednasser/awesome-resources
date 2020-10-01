@@ -51,7 +51,7 @@ To contribute, please check out our contribution guide [here](https://github.com
   - [Design](#design)
   - [Open Source](#open-source)
 
----
+
 
 ## Android
 
@@ -61,7 +61,6 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Android Developer Roadmap](https://roadmap.sh/android)
 - [Android cheat sheet](http://alvinalexander.com/android/android-cheat-sheet-main-concepts/)
 
----
 
 ## Angular
 
@@ -75,19 +74,17 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Pluralsight - Angular 2: First Look](https://www.pluralsight.com/courses/angular-2-first-look)
 - [Pluralsight - Angular 2: Getting Started](https://www.pluralsight.com/courses/angular-2-getting-started-update)
 
----
+
 
 ## Computer Science
 
 - [CS50](https://cs50.harvard.edu/college/2020/fall/)
 
----
 
 ## CSS
 
 - [CSS Variables and How To Use Them](https://medium.com/@shahedn/css-variables-and-how-to-use-them-bd9724cb6566)
 
----
 
 ## CSharp
 
@@ -96,13 +93,11 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [5 books every C# developer should read](https://medium.com/@jakubgarfield/5-books-every-c-developer-should-read-83844a5e2e3c)
 - [C# Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/)
 
----
 
 ## Data Science
 
 - [IBM Data Science Coursera](https://www.coursera.org/professional-certificates/ibm-data-science)
 
----
 
 ## DevOps
 
@@ -110,7 +105,6 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [How To Become a DevOps Engineer In Six Months or Less](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737)
 - [Azure DevOps](https://azure.microsoft.com/en-us/overview/devops-tutorial/)
 
----
 
 ## Express
 
@@ -121,7 +115,6 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Curated ExpressJS Courses](https://hackr.io/tutorials/learn-express-js) - a list of community curated resources
 - [ExpressJS Courses at Classpert](https://classpert.com/express-js) - a list of courses (free and paid) from Classpert Online Course Search
 
----
 
 ## Fundamental CP algorithms
 
@@ -158,6 +151,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Kraut & Determinant](https://cp-algorithms.com/linear_algebra/determinant-kraut.html)
 - [Rank of a matrix](https://cp-algorithms.com/linear_algebra/rank-matrix.html)
 
+
 ### String Processing
 
 - [String Hashing](https://cp-algorithms.com/string/string-hashing.html)
@@ -167,7 +161,6 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Suffix Array](https://cp-algorithms.com/string/suffix-array.html)
 - [Aho-Corasick algorithm](https://cp-algorithms.com/string/aho_corasick.html)
 
----
 
 ## GIT
 
@@ -175,7 +168,6 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Udacity's Git Commit Style Guide](https://udacity.github.io/git-styleguide/)
 - [Learn Git Branching](https://learngitbranching.js.org/): A beautiful visual guide to learn simple and advanced Git.
 
----
 
 ## GitHub
 
@@ -184,7 +176,6 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [GitHub Guide](https://github.com/antonykidis/GitHub-guide/blob/master/Git%20and%20GitHub.pdf)
 - [GitHub Learning Lab](https://lab.github.com/)
 
----
 
 ## Java
 
@@ -193,7 +184,6 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Advanced Java Programming](https://www.udemy.com/course/advanced-java-programming/)
 - [Learn Servlet Tutorial](https://www.javatpoint.com/servlet-tutorial)
 
----
 
 ## Javascript
 
@@ -207,7 +197,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [S.O.L.I.D. Principles around You, in JavaScript](https://francescociulla.com/solid-principles-around-you-in-javascript)
 - [The 30 days JavaScript Challenge](https://javascript30.com/)
 
----
+
 
 ## LESS
 
@@ -215,21 +205,20 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Complete tutorial from Tutorialpoint](https://www.tutorialspoint.com/less/index.htm)
 - [Video Tutorials for Beginners](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGCshbAx1JpBtNoKh8iKAAiy)
 
----
+
 
 ## Linux
 
 - [Introduction to Linux](https://training.linuxfoundation.org/resources/free-courses/introduction-to-linux/)
 - [The Linux guide/cheatsheet/tutorial (Commands, Directories, etc)](https://dev.to/kedark/the-linux-guide-cheatsheet-commands-directories-etc-39k0)
 
----
+
 
 ## Magento
 
 - [Magento 2 Creating A UI Form](https://www.mageplaza.com/devdocs/creat-a-ui-form-in-magento-2.html)
 - [Tips for Magento 2 Layouts](https://medium.com/@shahedn/tips-for-magento-2-layouts-d7e076812fa2)
 
----
 
 ## PHP
 
@@ -240,7 +229,6 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Useful PHP Tips For Beginners](https://www.binarytides.com/35-techniques-to-enhance-your-php-code/)
 - [PHP Cheat Sheet](https://websitesetup.org/php-cheat-sheet/)
 
----
 
 ## Python
 
@@ -251,7 +239,6 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [The Hitchhiker's Guide to Python](https://docs.python-guide.org/)
 - [Python Tips and Tricks for Beginners](https://towardsdatascience.com/python-tips-and-tricks-for-beginners-62473d569d0a)
 
----
 
 ## React
 
@@ -266,20 +253,18 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [React Patterns](https://reactpatterns.com/)
 - [Useful Packages you should know in React](https://medium.com/better-programming/14-useful-packages-every-react-developer-should-know-55b47a325d3)
 
----
 
 ## SASS
 
 - [Sass Basics](https://sass-lang.com/guide)
 - [Complete Documentation](https://sass-lang.com/documentation)
 
----
+
 
 ## Testing
 
 - [How to Start a Career in Testing? ](https://juniorlearnstocode.blogspot.com/2020/04/how-to-start-career-in-testing.html/)
 
----
 
 ## Unity
 
@@ -287,7 +272,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Official Unity Learn Page](https://learn.unity.com)
 - [Unity for Beginners](https://www.raywenderlich.com/unity/paths/learn)
 
----
+
 
 ## Vue
 
@@ -299,7 +284,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Deploying a Flask and Vue App to Heroku with Docker and Gitlab CI](https://testdriven.io/blog/deploying-flask-to-heroku-with-docker-and-gitlab/)
 - [Large-scale Vuex application structures](https://medium.com/3yourmind/large-scale-vuex-application-structures-651e44863e2f)
 
----
+
 
 
 ## Webpack
@@ -308,7 +293,6 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Docs](https://webpack.js.org/guides/getting-started/)
 - [Tutorials](https://codingcompiler.com/webpack-tutorial/)
 
----
 
 ## Others
 
@@ -320,14 +304,13 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [humaaans](https://humaaans.com/)
 - [absurd](https://absurd.design/)
 
---- 
+
 
 ### Cheat Sheets
 
 - [Markdown](https://www.markdownguide.org/cheat-sheet/)
 - [Emmet](https://docs.emmet.io/cheat-sheet/)
 
----
 
 ### Open Source
 
