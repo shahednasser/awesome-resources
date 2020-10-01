@@ -1,3 +1,4 @@
+
 # Awesome Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/shahednasser/awesome-resources)
 
 :sunglasses: List of helpful resources added by the community for the community!
@@ -15,41 +16,40 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 # Content
 
-
-  - [Android](#android)
-  - [Angular](#angular)
-  - [Computer Science](#computer-science)
-  - [CSS](#css)
-  - [CSharp](#csharp)
-  - [Data Science](#data-science)
-  - [Express](#express)
-  - [Fundamental CP algorithms](#fundamental-cp-algorithms)
-    - [Algebra](#algebra)
-    - [Combinatorics](#combinatorics)
-    - [Data Structures](#data-structures)
-    - [Dynamic Programming](#dynamic-programming)
-    - [Linear Algebra](#linear-algebra)
-    - [String Processing](#string-processing)
-  - [GitHub](#github)
-  - [Java](#java)
-  - [Javascript](#javascript)
-  - [LESS](#less)
-  - [Magento](#magento)
-  - [PHP](#php)
-  - [Python](#python)
-  - [React](#react)
-  - [SASS](#sass)
-  - [Testing](#testing)
-  - [Unity](#unity)
-  - [Vue](#vue)
-  - [Webpack](#webpack)
-  - [Others](#others)
-    - [Design](#design)
-    - [Cheat Sheets](#cheat-sheets)
-    - [Computer Networks](#computer-networks)
-  - [Computer Science](#computer-science-1)
-  - [Data Science](#data-science-1)
-  - [Dev-ops](#dev-ops)
+- [Android](#android)
+- [Angular](#angular)
+- [Computer Science](#computer-science)
+- [CSS](#css)
+- [CSharp](#csharp)
+- [Data Science](#data-science)
+- [DevOps](#devops)
+- [Express](#express)
+- [Fudamental CP algorithms](#fundamental-cp-algorithms)
+  - [Algebra](#algebra)
+  - [Combinatorics](#combinatorics)
+  - [Data Structures](#data-structures)
+  - [Dynamic Programming](#dynamic-programming)
+  - [Linear Algebra](#linear-algebra)
+  - [String Processing](#string-processing)
+- [GIT](#git)
+- [GitHub](#github)
+- [Java](#java)
+- [Javascript](#javascript)
+- [LESS](#less)
+- [Linux](#linux)
+- [Magento](#magento)
+- [PHP](#php)
+- [Python](#python)
+- [React](#react)
+- [SASS](#sass)
+- [Testing](#testing)
+- [Unity](#unity)
+- [Vue](#vue)
+- [Webpack](#webpack)
+- [Others](#others)
+  - [Cheat Sheets](#cheat-sheets)
+  - [Design](#design)
+  - [Open Source](#open-source)
 
 ---
 
@@ -172,6 +172,8 @@ To contribute, please check out our contribution guide [here](https://github.com
 ## GIT
 
 - [Pro Git Book](https://git-scm.com/book/en/v2/)
+- [Udacity's Git Commit Style Guide](https://udacity.github.io/git-styleguide/)
+- [Learn Git Branching](https://learngitbranching.js.org/): A beautiful visual guide to learn simple and advanced Git.
 
 ---
 
@@ -179,6 +181,8 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 - [How to create a pull request in GitHub](https://opensource.com/article/19/7/create-pull-request-github)
 - [Squash mutilple commits into one in GitHub](https://www.internalpointers.com/post/squash-commits-into-one-git)
+- [GitHub Guide](https://github.com/antonykidis/GitHub-guide/blob/master/Git%20and%20GitHub.pdf)
+- [GitHub Learning Lab](https://lab.github.com/)
 
 ---
 
@@ -213,10 +217,18 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 ---
 
+## Linux
+
+- [Introduction to Linux](https://training.linuxfoundation.org/resources/free-courses/introduction-to-linux/)
+- [The Linux guide/cheatsheet/tutorial (Commands, Directories, etc)](https://dev.to/kedark/the-linux-guide-cheatsheet-commands-directories-etc-39k0)
+
+---
+
 ## Magento
 
 - [Magento 2 Creating A UI Form](https://www.mageplaza.com/devdocs/creat-a-ui-form-in-magento-2.html)
 - [Tips for Magento 2 Layouts](https://medium.com/@shahedn/tips-for-magento-2-layouts-d7e076812fa2)
+
 ---
 
 ## PHP
@@ -289,11 +301,14 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 ---
 
+
 ## Webpack
 
 - [Webpack Academy](https://webpack-academy.teachable.com/)
 - [Docs](https://webpack.js.org/guides/getting-started/)
 - [Tutorials](https://codingcompiler.com/webpack-tutorial/)
+
+---
 
 ## Others
 
@@ -305,33 +320,21 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [humaaans](https://humaaans.com/)
 - [absurd](https://absurd.design/)
 
+--- 
+
 ### Cheat Sheets
 
 - [Markdown](https://www.markdownguide.org/cheat-sheet/)
 - [Emmet](https://docs.emmet.io/cheat-sheet/)
 
-### Computer Networks
-
-- [Geeks for Geeks](https://www.geeksforgeeks.org/computer-network-tutorials/)
-
-
-## Computer Science
-
-- [CS50](https://cs50.harvard.edu/college/2020/fall/)
-
 ---
-
-## Data Science
-
-- [IBM Data Science Coursera](https://www.coursera.org/professional-certificates/ibm-data-science)
-
-## Dev-ops
-
-- [Linkedin Learning](https://www.linkedin.com/learning/paths/become-a-devops-engineer?u=57692769)
 
 ### Open Source
 
 - [How to contribute to Open Source](https://kentcdodds.com/blog/introducing-how-to-contribute-to-open-source)
 - [What open source projects should I contribute](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to)
+
+
+
 
 
