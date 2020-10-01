@@ -1,13 +1,13 @@
 # Awesome Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/shahednasser/awesome-resources)
 
-:sunglasses: List of helpful resources added by the community for the community!  
+:sunglasses: List of helpful resources added by the community for the community!
 
 Participate in Hacktoberfest by helping others!
 
 # Purpose
 
 This repository aims to help contributors (specifically beginners) participate in Hacktoberfest easily while also helping others as well.  
-To contribute, all you have to do is add a tutorial, article or any helpful resource you know of to the list. These can relate to any programming language, framework, library or others. Even if it's not on the list of topics, you can add a new one. This way you can participate in Hacktoberfest and help others as well!  
+To contribute, all you have to do is add a tutorial, article or any helpful resource you know of to the list. These can relate to any programming language, framework, library or others. Even if it's not on the list of topics, you can add a new one. This way you can participate in Hacktoberfest and help others as well!
 
 # Contribution
 
@@ -18,6 +18,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Android](#android)
 - [CSS](#css)
 - [CSharp](#csharp)
+- [Express](#express)
 - [Fudamental CP algorithms](#fundamental-cp-algorithms)
   - [Algebra](#algebra)
   - [Data Structures](#data-structures)
@@ -35,7 +36,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Others](#others)
   - [Cheat Sheets](#cheat-sheets)
   - [Design](#design)
-  
+
 ---
 
 ## Android
@@ -58,6 +59,15 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [C# Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/)
 
 ---
+
+## Express
+
+- [How to uncouples emit events from connection event into socket.io and express](https://dev.to/wakeupmh/how-to-decouples-emit-events-from-connection-event-into-socket-io-8dk) - Uncoupling socket emit events with express
+- [LinkedIn Login using Node JS, Express and passport](https://www.loginradius.com/engineering/blog/linkedin-login-using-node-passport/)
+- [Web Development with Node and Express](http://shop.oreilly.com/product/0636920032977.do)
+- [Express Web Application Developement](http://shop.oreilly.com/product/9781849696548.do)
+- [Curated ExpressJS Courses](https://hackr.io/tutorials/learn-express-js) - a list of community curated resources
+- [ExpressJS Courses at Classpert](https://classpert.com/express-js) - a list of courses (free and paid) from Classpert Online Course Search
 
 ## Fundamental CP algorithms
 
@@ -130,6 +140,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 ---
 
 ## Python
+
 - [Python Intermediate Tutorial](https://github.com/python-engineer/python-engineer-notebooks/tree/master/advanced-python)
 - [Python Tutorial](https://www.w3schools.com/python/)
 - [Python for Everybody (14 hour course)](https://www.youtube.com/watch?v=8DvywoWv6fI&feature=emb_title)
@@ -166,6 +177,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 ---
 
 ## Others
+
 - [Common SpringBoard Headers for jailbreak tweaks](http://iphonedevwiki.net/index.php/Special:AllPages)
 
 ### Design
