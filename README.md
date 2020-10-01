@@ -30,6 +30,7 @@ To contribute, please check out our contribution guide [here](https://github.com
   - [Dynamic Programming](#dynamic-programming)
   - [Linear Algebra](#linear-algebra)
   - [String Processing](#string-processing) 
+- [GIT](#git)
 - [GitHub](#github)
 - [Java](#java)
 - [Javascript](#javascript)
@@ -49,7 +50,7 @@ To contribute, please check out our contribution guide [here](https://github.com
   - [Computer Science](#fundamentals-of-computer-science)
   - [Data Science](#introduction-to-data-science)
   - [Dev-Ops](#devops)
-
+  - [Open Source](#open-source)
 
 ---
 
@@ -141,6 +142,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Divide and Conquer DP](https://cp-algorithms.com/dynamic_programming/divide-and-conquer-dp.html)
 - [Dynamic Programming on Broken Profile. Problem "Parquet"](https://cp-algorithms.com/dynamic_programming/profile-dynamics.html)
 - [Finding the largest zero submatrix](https://cp-algorithms.com/dynamic_programming/zero_matrix.html)
+- [Dynamic Programming GeeksforGeeks](https://www.geeksforgeeks.org/dynamic-programming/)
 
 ### Linear Algebra
 
@@ -160,9 +162,16 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 ---
 
+## GIT
+
+- [Pro Git Book](https://git-scm.com/book/en/v2/)
+
+---
+
 ## GitHub
 
 - [How to create a pull request in GitHub](https://opensource.com/article/19/7/create-pull-request-github)
+- [Squash mutilple commits into one in GitHub](https://www.internalpointers.com/post/squash-commits-into-one-git)
 
 ---
 
@@ -200,7 +209,6 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 - [Magento 2 Creating A UI Form](https://www.mageplaza.com/devdocs/creat-a-ui-form-in-magento-2.html)
 - [Tips for Magento 2 Layouts](https://medium.com/@shahedn/tips-for-magento-2-layouts-d7e076812fa2)
-
 ---
 
 ## PHP
@@ -307,4 +315,10 @@ To contribute, please check out our contribution guide [here](https://github.com
 ## Dev-ops
 
 - [Linkedin Learning](https://www.linkedin.com/learning/paths/become-a-devops-engineer?u=57692769)
+
+
+### Open Source
+
+- [How to contribute to Open Source](https://kentcdodds.com/blog/introducing-how-to-contribute-to-open-source)
+- [What open source projects should I contribute](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to)
 
