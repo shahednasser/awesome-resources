@@ -41,6 +41,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Python](#python)
 - [React](#react)
 - [SASS](#sass)
+- [Swift](#swift)
 - [Testing](#testing)
 - [Unity](#unity)
 - [Vue](#vue)
@@ -270,6 +271,16 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 - [Sass Basics](https://sass-lang.com/guide)
 - [Complete Documentation](https://sass-lang.com/documentation)
+
+---
+
+## Swift
+
+- [Swift Tutorial](https://www.w3schools.in/swift-tutorial/)
+- [Build your very first iOS app](https://www.edx.org/course/build-your-very-first-ios-app)
+- [Swift Programming Tutorial for Beginners](https://www.youtube.com/watch?v=Ulp1Kimblg0)
+- [Getting Started](https://swift.org/getting-started/#installing-swift)
+- [Documentation](https://swift.org/documentation/#the-swift-programming-language)
 
 ---
 
