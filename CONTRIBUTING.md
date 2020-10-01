@@ -1,4 +1,5 @@
-# Contribution Guide
+### Contribution Guide
+[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)  [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 
 You can contribute to this repository very easily!
 
@@ -6,12 +7,12 @@ You can contribute to this repository very easily!
 
 2. Go to the [README](https://github.com/shahednasser/awesome-resources/blob/master/README.md).
 
-3. Click on the edit icon at the top right
+3. Click on the edit icon at the top right corner.
 
 ![Edit README](https://github.com/shahednasser/awesome-resources/blob/master/assets/edit-README.png)
 
-4. Find the correct category for your resource. For example, if it's a Javascript tutorial, you need to add it under [Javascript](https://github.com/shahednasser/awesome-resources/blob/master/assets/edit-README.png).
-If the category does not exist, you can add it under [Content](https://github.com/shahednasser/awesome-resources/blob/master/assets/edit-README.png). Resources are added in alphabetical order.
+4. Find the correct category for your resource. For example: If it's a Javascript tutorial, you need to add it under [Javascript](https://github.com/shahednasser/awesome-resources/blob/master/assets/edit-README.png).
+If the category does not exist, you can add it under [Content](https://github.com/shahednasser/awesome-resources/blob/master/assets/edit-README.png). **Resources are added in alphabetical order, except for Other which should stay at last.**
 
 To add a new category, add a list item with the name of the category and the URL to it (hash of the slug of the name). For example:
 
@@ -30,3 +31,4 @@ To add a new category, add a list item with the name of the category and the URL
 7. After adding the commit title, click on propose changes and follow the steps to create a pull request.
 
 **That's it! Congratulations on participating in Hacktoberfest!**
+[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)  
