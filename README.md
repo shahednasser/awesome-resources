@@ -169,7 +169,6 @@ To contribute, please check out our contribution guide [here](https://github.com
 ## GIT
 
 - [Pro Git Book](https://git-scm.com/book/en/v2/)
-- [Oh Shit Git](http://ohshitgit.com/)
 - [Udacity's Git Commit Style Guide](https://udacity.github.io/git-styleguide/)
 - [Learn Git Branching](https://learngitbranching.js.org/): A beautiful visual guide to learn simple and advanced Git.
 
