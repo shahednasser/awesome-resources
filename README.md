@@ -22,6 +22,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [CSS](#css)
 - [CSharp](#csharp)
 - [Data Science](#data-science)
+- [DevOps](#devops)
 - [Express](#express)
 - [Fudamental CP algorithms](#fundamental-cp-algorithms)
   - [Algebra](#algebra)
@@ -98,6 +99,14 @@ To contribute, please check out our contribution guide [here](https://github.com
 ## Data Science
 
 - [IBM Data Science Coursera](https://www.coursera.org/professional-certificates/ibm-data-science)
+
+---
+
+## DevOps
+
+- [Linkedin Learning](https://www.linkedin.com/learning/paths/become-a-devops-engineer?u=57692769)
+- [How To Become a DevOps Engineer In Six Months or Less](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737)
+- [Azure DevOps](https://azure.microsoft.com/en-us/overview/devops-tutorial/)
 
 ---
 
@@ -291,29 +300,6 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 - [Markdown](https://www.markdownguide.org/cheat-sheet/)
 - [Emmet](https://docs.emmet.io/cheat-sheet/)
-
-
-### Computer Networks
-
-- [Geeks for Geeks](https://www.geeksforgeeks.org/computer-network-tutorials/)
-
-
-## Computer Science
-
-- [CS50](https://cs50.harvard.edu/college/2020/fall/)
-
----
-
-## Data Science
-
-- [IBM Data Science Coursera](https://www.coursera.org/professional-certificates/ibm-data-science)
-
-## Dev-ops
-
-- [Linkedin Learning](https://www.linkedin.com/learning/paths/become-a-devops-engineer?u=57692769)
-- [Medium Blog](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737)
-- [Azure Dev ops](https://azure.microsoft.com/en-us/overview/devops-tutorial/)
-
 
 ### Open Source
 
