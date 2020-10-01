@@ -266,12 +266,12 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 - [Geeks for Geeks](https://www.geeksforgeeks.org/computer-network-tutorials/)
 
-## Fundamentals of Computer Science
+## Computer Science
 
 - [CS50](https://cs50.harvard.edu/college/2020/fall/)
 
 ---
 
-## Introduction to Data Science
+## Data Science
 
 - [IBM Data Science Coursera](https://www.coursera.org/professional-certificates/ibm-data-science)
