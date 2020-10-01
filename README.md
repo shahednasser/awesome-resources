@@ -15,6 +15,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 # Content
 
+
 - [Android](#android)
 - [Angular](#angular)
 - [Computer Science](#computer-science)
@@ -45,7 +46,9 @@ To contribute, please check out our contribution guide [here](https://github.com
   - [Cheat Sheets](#cheat-sheets)
   - [Design](#design)
   - [Computer Networks](#computer-networks)
-
+  - [Computer Science](#fundamentals-of-computer-science)
+  - [Data Science](#introduction-to-data-science)
+  - [Dev-Ops](#devops)
 
 
 ---
@@ -284,3 +287,24 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 - [Markdown](https://www.markdownguide.org/cheat-sheet/)
 - [Emmet](https://docs.emmet.io/cheat-sheet/)
+
+
+### Computer Networks
+
+- [Geeks for Geeks](https://www.geeksforgeeks.org/computer-network-tutorials/)
+
+
+## Computer Science
+
+- [CS50](https://cs50.harvard.edu/college/2020/fall/)
+
+---
+
+## Data Science
+
+- [IBM Data Science Coursera](https://www.coursera.org/professional-certificates/ibm-data-science)
+
+## Dev-ops
+
+- [Linkedin Learning](https://www.linkedin.com/learning/paths/become-a-devops-engineer?u=57692769)
+
