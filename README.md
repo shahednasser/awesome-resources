@@ -35,6 +35,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Java](#java)
 - [Javascript](#javascript)
 - [LESS](#less)
+- [Linux](#linux)
 - [Magento](#magento)
 - [PHP](#php)
 - [Python](#python)
@@ -211,6 +212,13 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Official Documentation](http://lesscss.org/)
 - [Complete tutorial from Tutorialpoint](https://www.tutorialspoint.com/less/index.htm)
 - [Video Tutorials for Beginners](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGCshbAx1JpBtNoKh8iKAAiy)
+
+---
+
+## Linux
+
+- [Introduction to Linux](https://training.linuxfoundation.org/resources/free-courses/introduction-to-linux/)
+- [The Linux guide/cheatsheet/tutorial (Commands, Directories, etc)](https://dev.to/kedark/the-linux-guide-cheatsheet-commands-directories-etc-39k0)
 
 ---
 
