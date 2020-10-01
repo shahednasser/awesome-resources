@@ -311,6 +311,8 @@ To contribute, please check out our contribution guide [here](https://github.com
 ## Dev-ops
 
 - [Linkedin Learning](https://www.linkedin.com/learning/paths/become-a-devops-engineer?u=57692769)
+- [Medium Blog](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737)
+- [Azure Dev ops](https://azure.microsoft.com/en-us/overview/devops-tutorial/)
 
 
 ### Open Source
