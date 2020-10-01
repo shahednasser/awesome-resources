@@ -68,25 +68,33 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Binary Exponentiation](https://cp-algorithms.com/algebra/binary-exp.html)
 - [Euclidean algorithm for computing the greatest common divisor](https://cp-algorithms.com/algebra/euclid-algorithm.html)
 - [Extended Euclidean Algorithm](https://cp-algorithms.com/algebra/extended-euclid-algorithm.html)
-- [Linear Diophantine Equations](https://cp-algorithms.com/algebra/linear-diophantine-equation.html)
 - [Fibonacci Numbers](https://cp-algorithms.com/algebra/fibonacci-numbers.html)
+- [Linear Diophantine Equations](https://cp-algorithms.com/algebra/linear-diophantine-equation.html)
+
+---
 
 ### Combinatorics
 
-- [Finding Power of Factorial Divisor](https://cp-algorithms.com/algebra/factorial-divisors.html)
 - [Binomial Coefficients](https://cp-algorithms.com/combinatorics/binomial-coefficients.html)
 - [Catalan Numbers](https://cp-algorithms.com/combinatorics/catalan-numbers.html)
+- [Finding Power of Factorial Divisor](https://cp-algorithms.com/algebra/factorial-divisors.html)
+
+---
 
 ### Data Structures
 
 - [Minimum Stack / Minimum Queue](https://cp-algorithms.com/data_structures/stack_queue_modification.html)
 - [Sparse Table](https://cp-algorithms.com/data_structures/sparse-table.html)
 
+---
+
 ### Dynamic Programming
 
 - [Divide and Conquer DP](https://cp-algorithms.com/dynamic_programming/divide-and-conquer-dp.html)
 - [Dynamic Programming on Broken Profile. Problem "Parquet"](https://cp-algorithms.com/dynamic_programming/profile-dynamics.html)
 - [Finding the largest zero submatrix](https://cp-algorithms.com/dynamic_programming/zero_matrix.html)
+
+---
 
 ### Linear Algebra
 
@@ -95,14 +103,16 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Kraut & Determinant](https://cp-algorithms.com/linear_algebra/determinant-kraut.html)
 - [Rank of a matrix](https://cp-algorithms.com/linear_algebra/rank-matrix.html)
 
+---
+
 ### String Processing
 
-- [String Hashing](https://cp-algorithms.com/string/string-hashing.html)
-- [Rabin-Karp for String Matching](https://cp-algorithms.com/string/rabin-karp.html)
-- [Prefix function - Knuth-Morris-Pratt](https://cp-algorithms.com/string/prefix-function.html)
-- [Z-function](https://cp-algorithms.com/string/z-function.html)
-- [Suffix Array](https://cp-algorithms.com/string/suffix-array.html)
 - [Aho-Corasick algorithm](https://cp-algorithms.com/string/aho_corasick.html)
+- [Prefix function - Knuth-Morris-Pratt](https://cp-algorithms.com/string/prefix-function.html)
+- [Rabin-Karp for String Matching](https://cp-algorithms.com/string/rabin-karp.html)
+- [String Hashing](https://cp-algorithms.com/string/string-hashing.html)
+- [Suffix Array](https://cp-algorithms.com/string/suffix-array.html)
+- [Z-function](https://cp-algorithms.com/string/z-function.html)
 
 ---
 
