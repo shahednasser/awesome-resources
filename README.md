@@ -39,6 +39,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Others](#others)
   - [Cheat Sheets](#cheat-sheets)
   - [Design](#design)
+  - [Open Source](#open-source)
 
 ---
 
