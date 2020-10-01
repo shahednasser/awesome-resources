@@ -15,31 +15,38 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 # Content
 
-- [Android](#android)
-- [Angular](#angular)
-- [CSS](#css)
-- [CSharp](#csharp)
-- [Express](#express)
-- [Fudamental CP algorithms](#fundamental-cp-algorithms)
-  - [Algebra](#algebra)
-  - [Data Structures](#data-structures)
-  - [Dynamic Programming](#dynamic-programming)
-  - [String Processing](#string-processing)
-- [GitHub](#github)
-- [Java](#java)
-- [Javascript](#javascript)
-- [LESS](#less)
-- [Magento](#magento)
-- [PHP](#php)
-- [Python](#python)
-- [React](#react)
-- [SASS](#sass)
-- [Testing](#testing)
-- [Unity](#unity)
-- [Vue](#vue)
-- [Others](#others)
-  - [Cheat Sheets](#cheat-sheets)
-  - [Design](#design)
+- [Awesome Resources ![Awesome](https://github.com/shahednasser/awesome-resources)](#awesome-resources-img-srchttpscdnrawgitcomsindresorhusawesomed7305f38d29fed78fa85652e3a63e154dd8e8829mediabadgesvg-altawesome)
+- [Purpose](#purpose)
+- [Contribution](#contribution)
+- [Content](#content)
+  - [Android](#android)
+  - [Angular](#angular)
+  - [CSS](#css)
+  - [CSharp](#csharp)
+  - [Express](#express)
+  - [Fundamental CP algorithms](#fundamental-cp-algorithms)
+    - [Algebra](#algebra)
+    - [Data Structures](#data-structures)
+    - [Dynamic Programming](#dynamic-programming)
+    - [String Processing](#string-processing)
+  - [GitHub](#github)
+  - [Java](#java)
+  - [Javascript](#javascript)
+  - [LESS](#less)
+  - [Magento](#magento)
+  - [PHP](#php)
+  - [Python](#python)
+  - [React](#react)
+  - [SASS](#sass)
+  - [Testing](#testing)
+  - [Unity](#unity)
+  - [Vue](#vue)
+  - [Others](#others)
+    - [Design](#design)
+    - [Cheat Sheets](#cheat-sheets)
+    - [Computer Networks](#computer-networks)
+  - [Fundamentals of Computer Science](#fundamentals-of-computer-science)
+  - [Introduction to Data Science](#introduction-to-data-science)
 
 ---
 
@@ -158,6 +165,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Official Documentation](http://lesscss.org/)
 - [Complete tutorial from Tutorialpoint](https://www.tutorialspoint.com/less/index.htm)
 - [Video Tutorials for Beginners](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGCshbAx1JpBtNoKh8iKAAiy)
+
 ---
 
 ## Magento
@@ -166,6 +174,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Tips for Magento 2 Layouts](https://medium.com/@shahedn/tips-for-magento-2-layouts-d7e076812fa2)
 
 ---
+
 ## PHP
 
 - [PHP Tutorial](https://phptherightway.com/)
@@ -252,3 +261,17 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 - [Markdown](https://www.markdownguide.org/cheat-sheet/)
 - [Emmet](https://docs.emmet.io/cheat-sheet/)
+
+### Computer Networks
+
+- [Geeks for Geeks](https://www.geeksforgeeks.org/computer-network-tutorials/)
+
+## Fundamentals of Computer Science
+
+- [CS50](https://cs50.harvard.edu/college/2020/fall/)
+
+---
+
+## Introduction to Data Science
+
+- [IBM Data Science Coursera](https://www.coursera.org/professional-certificates/ibm-data-science)
