@@ -27,6 +27,7 @@ To contribute, please check out our contribution guide [here](https://github.com
   - [Dynamic Programming](#dynamic-programming)
   - [Linear Algebra](#linear-algebra)
   - [String Processing](#string-processing) 
+- [GIT](#git)
 - [GitHub](#github)
 - [Java](#java)
 - [Javascript](#javascript)
@@ -137,6 +138,12 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Z-function](https://cp-algorithms.com/string/z-function.html)
 - [Suffix Array](https://cp-algorithms.com/string/suffix-array.html)
 - [Aho-Corasick algorithm](https://cp-algorithms.com/string/aho_corasick.html)
+
+---
+
+## GIT
+
+- [Pro Git Book](https://git-scm.com/book/en/v2/)
 
 ---
 
