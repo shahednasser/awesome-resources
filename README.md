@@ -42,6 +42,10 @@ To contribute, please check out our contribution guide [here](https://github.com
 ## Android
 
 - [Build your first app](https://developer.android.com/training/basics/firstapp)
+- [Official Documentation](https://developer.android.com/docs)
+- [Android™ Notes for Professionals book](https://books.goalkicker.com/AndroidBook/)
+- [Android Developer Roadmap](https://roadmap.sh/android)
+- [Android cheat sheet](http://alvinalexander.com/android/android-cheat-sheet-main-concepts/)
 
 ---
 
