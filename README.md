@@ -4,6 +4,11 @@ Participate in [Hackoctoberfest](https://hacktoberfest.digitalocean.com/login) b
 
 :sunglasses: List of helpful resources added by the community for the community!
 
+
+Participate in Hacktoberfest by helping others!
+#### Open Source is fun! [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges) [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
+
+
 # Purpose
 
 This repository aims to help contributors (specifically beginners) participate in Hacktoberfest easily while also helping others as well.  
@@ -75,6 +80,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 ## CSS
 
 - [CSS Variables and How To Use Them](https://medium.com/@shahedn/css-variables-and-how-to-use-them-bd9724cb6566)
+- [freeCodeCamp](https://www.freecodecamp.org/)
 
 ---
 
@@ -124,6 +130,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 - [Minimum Stack / Minimum Queue](https://cp-algorithms.com/data_structures/stack_queue_modification.html)
 - [Sparse Table](https://cp-algorithms.com/data_structures/sparse-table.html)
+- [GeeksforGeeks Editorials](https://www.geeksforgeeks.org/data-structures/)
 
 ### Dynamic Programming
 
@@ -188,6 +195,10 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 - [PHP Tutorial](https://phptherightway.com/)
 - [PHP Video Tutorials](https://www.youtube.com/playlist?list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn)
+- [Online Book For Learning PHP](https://phpapprentice.com/)
+- [Interactive Lessons For PHP](https://www.sololearn.com/Course/PHP/)
+- [Useful PHP Tips For Beginners](https://www.binarytides.com/35-techniques-to-enhance-your-php-code/)
+- [PHP Cheat Sheet](https://websitesetup.org/php-cheat-sheet/)
 
 ---
 
