@@ -44,15 +44,13 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 ---
 
-## Others
-
---
-
 ## Testing
 
---
-
 - [How to Start a Career in Testing? ](https://juniorlearnstocode.blogspot.com/2020/04/how-to-start-career-in-testing.html/)
+
+---
+
+## Others
 
 ### Design
 
