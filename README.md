@@ -28,6 +28,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Javascript](#javascript)
 - [LESS](#less)
 - [Magento](#magento)
+- [PHP](#php)
 - [Python](#python)
 - [React](#react)
 - [SASS](#sass)
@@ -128,6 +129,12 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 - [Magento 2 Creating A UI Form](https://www.mageplaza.com/devdocs/creat-a-ui-form-in-magento-2.html)
 - [Tips for Magento 2 Layouts](https://medium.com/@shahedn/tips-for-magento-2-layouts-d7e076812fa2)
+
+---
+## PHP
+
+- [PHP Tutorial](https://phptherightway.com/)
+- [PHP Video Tutorials](https://www.youtube.com/playlist?list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn)
 
 ---
 
