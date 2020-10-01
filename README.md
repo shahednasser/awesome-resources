@@ -15,38 +15,38 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 # Content
 
-- [Awesome Resources ![Awesome](https://github.com/shahednasser/awesome-resources)](#awesome-resources-img-srchttpscdnrawgitcomsindresorhusawesomed7305f38d29fed78fa85652e3a63e154dd8e8829mediabadgesvg-altawesome)
-- [Purpose](#purpose)
-- [Contribution](#contribution)
-- [Content](#content)
-  - [Android](#android)
-  - [Angular](#angular)
-  - [CSS](#css)
-  - [CSharp](#csharp)
-  - [Express](#express)
-  - [Fundamental CP algorithms](#fundamental-cp-algorithms)
-    - [Algebra](#algebra)
-    - [Data Structures](#data-structures)
-    - [Dynamic Programming](#dynamic-programming)
-    - [String Processing](#string-processing)
-  - [GitHub](#github)
-  - [Java](#java)
-  - [Javascript](#javascript)
-  - [LESS](#less)
-  - [Magento](#magento)
-  - [PHP](#php)
-  - [Python](#python)
-  - [React](#react)
-  - [SASS](#sass)
-  - [Testing](#testing)
-  - [Unity](#unity)
-  - [Vue](#vue)
-  - [Others](#others)
-    - [Design](#design)
-    - [Cheat Sheets](#cheat-sheets)
-    - [Computer Networks](#computer-networks)
-  - [Fundamentals of Computer Science](#fundamentals-of-computer-science)
-  - [Introduction to Data Science](#introduction-to-data-science)
+- [Android](#android)
+- [Angular](#angular)
+- [CSS](#css)
+- [CSharp](#csharp)
+- [Express](#express)
+- [Fudamental CP algorithms](#fundamental-cp-algorithms)
+  - [Algebra](#algebra)
+  - [Combinatorics](#combinatorics)
+  - [Data Structures](#data-structures)
+  - [Dynamic Programming](#dynamic-programming)
+  - [Linear Algebra](#linear-algebra)
+  - [String Processing](#string-processing) 
+- [GitHub](#github)
+- [Java](#java)
+- [Javascript](#javascript)
+- [LESS](#less)
+- [Magento](#magento)
+- [PHP](#php)
+- [Python](#python)
+- [React](#react)
+- [SASS](#sass)
+- [Testing](#testing)
+- [Unity](#unity)
+- [Vue](#vue)
+- [Others](#others)
+  - [Cheat Sheets](#cheat-sheets)
+  - [Design](#design)
+  - [Computer Networks](#computer-networks)
+  - [Fundamentals of Computer Science](#computer-science)
+  - [Introduction to Data Science](#data-science)
+
+
 
 ---
 
@@ -110,6 +110,12 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Linear Diophantine Equations](https://cp-algorithms.com/algebra/linear-diophantine-equation.html)
 - [Fibonacci Numbers](https://cp-algorithms.com/algebra/fibonacci-numbers.html)
 
+### Combinatorics
+
+- [Finding Power of Factorial Divisor](https://cp-algorithms.com/algebra/factorial-divisors.html)
+- [Binomial Coefficients](https://cp-algorithms.com/combinatorics/binomial-coefficients.html)
+- [Catalan Numbers](https://cp-algorithms.com/combinatorics/catalan-numbers.html)
+
 ### Data Structures
 
 - [Minimum Stack / Minimum Queue](https://cp-algorithms.com/data_structures/stack_queue_modification.html)
@@ -120,6 +126,13 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Divide and Conquer DP](https://cp-algorithms.com/dynamic_programming/divide-and-conquer-dp.html)
 - [Dynamic Programming on Broken Profile. Problem "Parquet"](https://cp-algorithms.com/dynamic_programming/profile-dynamics.html)
 - [Finding the largest zero submatrix](https://cp-algorithms.com/dynamic_programming/zero_matrix.html)
+
+### Linear Algebra
+
+- [Gauss & System of Linear Equations](https://cp-algorithms.com/linear_algebra/linear-system-gauss.html)
+- [Gauss & Determinant](https://cp-algorithms.com/linear_algebra/determinant-gauss.html)
+- [Kraut & Determinant](https://cp-algorithms.com/linear_algebra/determinant-kraut.html)
+- [Rank of a matrix](https://cp-algorithms.com/linear_algebra/rank-matrix.html)
 
 ### String Processing
 
