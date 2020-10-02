@@ -296,6 +296,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 - [ Ruby from Tutorialspoint](https://www.tutorialspoint.com/ruby/ruby_strings.htm)
 - [Full course by freeCodeCamp.org](https://www.youtube.com/watch?v=t_ispmWmdjY)
+
 ---
 
 ## SASS
