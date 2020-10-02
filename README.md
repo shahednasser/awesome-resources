@@ -47,6 +47,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Testing](#testing)
 - [Unity](#unity)
 - [Vue](#vue)
+- [Webpack](#webpack)
 - [Others](#others)
   - [Cheat Sheets](#cheat-sheets)
   - [Design](#design)
@@ -323,6 +324,17 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Large-scale Vuex application structures](https://medium.com/3yourmind/large-scale-vuex-application-structures-651e44863e2f)
 
 ---
+
+
+## Webpack
+
+- [Webpack Academy](https://webpack-academy.teachable.com/)
+- [Docs](https://webpack.js.org/guides/getting-started/)
+- [Tutorials](https://codingcompiler.com/webpack-tutorial/)
+
+
+---
+
 
 ## Others
 
