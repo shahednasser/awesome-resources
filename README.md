@@ -23,11 +23,13 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Data Science](#data-science)
 - [DevOps](#devops)
 - [Express](#express)
+- [Ethical Hacking](#ethical-hacking)
 - [Fudamental CP algorithms](#fundamental-cp-algorithms)
   - [Algebra](#algebra)
   - [Combinatorics](#combinatorics)
   - [Data Structures](#data-structures)
   - [Dynamic Programming](#dynamic-programming)
+  - [Graph Theory](#graph-theory)
   - [Linear Algebra](#linear-algebra)
   - [String Processing](#string-processing)
 - [GIT](#git)
@@ -51,6 +53,7 @@ To contribute, please check out our contribution guide [here](https://github.com
   - [Cheat Sheets](#cheat-sheets)
   - [Design](#design)
   - [Open Source](#open-source)
+  - [Standard Template Library](#standard-template-library)
 
 ---
 
@@ -125,6 +128,13 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Security Practices in Express App](https://expressjs.com/en/advanced/best-practice-security.html)
 ---
 
+## Ethical Hacking
+- [Social Engineering](https://www.udemy.com/course-dashboard-redirect/?course_id=1155820)
+- [Ethical Hacking from Scratch](https://www.udemy.com/course/learn-ethical-hacking-from-scratch/learn/)
+- [Privacy Security and Anonymity](https://www.udemy.com/course-dashboard-redirect/?course_id=2281984)
+
+---
+
 ## Fundamental CP algorithms
 
 ### Algebra
@@ -168,6 +178,10 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Z-function](https://cp-algorithms.com/string/z-function.html)
 - [Suffix Array](https://cp-algorithms.com/string/suffix-array.html)
 - [Aho-Corasick algorithm](https://cp-algorithms.com/string/aho_corasick.html)
+
+### Graph Theory
+
+- [Introduction to Graph Theory](https://www.udemy.com/course/graph-theory-algorithms/learn/)
 
 ---
 
@@ -334,6 +348,11 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 ## Others
 
+### Cheat Sheets
+
+- [Markdown](https://www.markdownguide.org/cheat-sheet/)
+- [Emmet](https://docs.emmet.io/cheat-sheet/)
+
 ### Design
 
 - [Freebie Supply](https://freebiesupply.com/)
@@ -343,14 +362,13 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [absurd](https://absurd.design/)
 - [Crello Free Templates](https://crello.com/templates/)
 
-
-### Cheat Sheets
-
-- [Markdown](https://www.markdownguide.org/cheat-sheet/)
-- [Emmet](https://docs.emmet.io/cheat-sheet/)
-
-
 ### Open Source
 
 - [How to contribute to Open Source](https://kentcdodds.com/blog/introducing-how-to-contribute-to-open-source)
 - [What open source projects should I contribute](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to)
+
+### Standard Template Library
+
+- [C++ Standard Template Library in Practice](https://www.udemy.com/course/c-standard-template-library-in-practice/learn/)
+
+
