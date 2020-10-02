@@ -43,6 +43,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [PHP](#php)
 - [Python](#python)
 - [React](#react)
+- [Ruby](#ruby)
 - [SASS](#sass)
 - [Swift](#swift)
 - [Testing](#testing)
@@ -289,6 +290,13 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [React Patterns](https://reactpatterns.com/)
 - [Useful Packages you should know in React](https://medium.com/better-programming/14-useful-packages-every-react-developer-should-know-55b47a325d3)
 - [Learn React Test Driven Development](https://learntdd.in/react/)
+---
+
+## RUBY
+
+- [ Ruby from Tutorialspoint](https://www.tutorialspoint.com/ruby/ruby_strings.htm)
+- [Full course by freeCodeCamp.org](https://www.youtube.com/watch?v=t_ispmWmdjY)
+
 ---
 
 ## SASS
