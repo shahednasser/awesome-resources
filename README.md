@@ -319,6 +319,10 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 ## Others
 
+### Standard Template Library
+
+- [C++ Standard Template Library in Practice](https://www.udemy.com/course/c-standard-template-library-in-practice/learn/)
+
 ### Design
 
 - [Freebie Supply](https://freebiesupply.com/)
