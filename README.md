@@ -32,6 +32,7 @@ To contribute, please check out our contribution guide [here](https://github.com
   - [String Processing](#string-processing)
 - [GIT](#git)
 - [GitHub](#github)
+- [GraphQL](#graphql)
 - [Java](#java)
 - [Javascript](#javascript)
 - [LESS](#less)
@@ -86,6 +87,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 ## CSS
 
 - [CSS Variables and How To Use Them](https://medium.com/@shahedn/css-variables-and-how-to-use-them-bd9724cb6566)
+- [Daily Cool CSS Tips and Tricks](https://css-tricks.com/)
 
 ---
 
@@ -120,7 +122,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Express Web Application Developement](http://shop.oreilly.com/product/9781849696548.do)
 - [Curated ExpressJS Courses](https://hackr.io/tutorials/learn-express-js) - a list of community curated resources
 - [ExpressJS Courses at Classpert](https://classpert.com/express-js) - a list of courses (free and paid) from Classpert Online Course Search
-
+- [Security Practices in Express App](https://expressjs.com/en/advanced/best-practice-security.html)
 ---
 
 ## Fundamental CP algorithms
@@ -183,6 +185,13 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Squash mutilple commits into one in GitHub](https://www.internalpointers.com/post/squash-commits-into-one-git)
 - [GitHub Guide](https://github.com/antonykidis/GitHub-guide/blob/master/Git%20and%20GitHub.pdf)
 - [GitHub Learning Lab](https://lab.github.com/)
+
+---
+
+## GraphQL
+
+- [GraphQL tutorial for beginners](https://www.howtographql.com/)
+- [React And GraphQL](https://medium.com/codingthesmartway-com-blog/getting-started-with-react-and-graphql-395311c1e8da)
 
 ---
 
@@ -265,7 +274,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [React Cheatsheet](https://devhints.io/react)
 - [React Patterns](https://reactpatterns.com/)
 - [Useful Packages you should know in React](https://medium.com/better-programming/14-useful-packages-every-react-developer-should-know-55b47a325d3)
-
+- [Learn React Test Driven Development](https://learntdd.in/react/)
 ---
 
 ## SASS
@@ -288,6 +297,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 ## Testing
 
 - [How to Start a Career in Testing? ](https://juniorlearnstocode.blogspot.com/2020/04/how-to-start-career-in-testing.html/)
+- [Testing React with Jest and Enzyme ](https://blog.bitsrc.io/how-to-test-react-components-with-jest-and-enzyme-in-depth-145fcd06b90?gi=3bb2d7ae19f4)
 
 ---
 
@@ -331,6 +341,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Feather Icons](https://feathericons.com/)
 - [humaaans](https://humaaans.com/)
 - [absurd](https://absurd.design/)
+- [Crello Free Templates](https://crello.com/templates/)
 
 
 ### Cheat Sheets
