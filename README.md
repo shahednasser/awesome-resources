@@ -389,6 +389,7 @@ To contribute, please check out our contribution guide [here](https://github.com
  - [Normal Distribution and Binomial Distribution](https://www.coursera.org/learn/probability-intro/lecture/yef4b/working-with-the-binomial-distribution)
  - [Inferential Statistics](https://www.coursera.org/learn/inferential-statistics-intro)
  - [T-distribution and comparing two means](https://www.coursera.org/learn/inferential-statistics-intro/lecture/xtUR0)
+ 
  ### Linear Regression
  - [Intro to Simple Linear Regression,The Least Squares Regression Line,Interpreting Model Parameters](https://bit.ly/2HVrtml)
  - [Linear and Polynomial Regression in Python](https://www.youtube.com/watch?v=ro5ftxuD6is)
@@ -400,6 +401,13 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 ### ANOVA and Bootstrapping
 - [Comparing more than two means Bootstrapping](https://www.coursera.org/learn/inferential-statistics-intro/lecture/TI3DD/comparing-more-than-two-means)
+
+### Polynomial regression
+- [Polynomial Regression Intuition](https://www.youtube.com/watch?v=V8vPmi1auqM&list=PLBjazsVtMXXvl9miqmU2LTHNOnGGB7Yoa&index=44)
+- [Polynomial Regression in Python Step 1](https://www.youtube.com/watch?v=k0u8mUoc3RA&list=PLBjazsVtMXXvl9miqmU2LTHNOnGGB7Yoa&index=46)
+- [Polynomial Regression in Python Step 2](https://www.youtube.com/watch?v=IIfijG3nEAk&list=PLBjazsVtMXXvl9miqmU2LTHNOnGGB7Yoa&index=47)
+- [Polynomial Regression in Python Step 3](https://www.youtube.com/watch?v=LrSNGc0jQ5Q&list=PLBjazsVtMXXvl9miqmU2LTHNOnGGB7Yoa&index=48)
+- [Polynomial Regression in Python Step 4](https://www.youtube.com/watch?v=IZUKrC-XD9E&index=49&list=PLBjazsVtMXXvl9miqmU2LTHNOnGGB7Yoa)
 
 ---
 ## Others
