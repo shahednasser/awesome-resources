@@ -364,42 +364,42 @@ To contribute, please check out our contribution guide [here](https://github.com
 ## Machine Learning using Python
 
 ### Intro to Machine Learning
--[1. Intro to ML ](https://www.youtube.com/watch?v=HcqpanDadyQ)
--[2. Stage of Solving Problme](https://www.youtube.com/watch?v=nKW8Ndu7Mjw)
+- [Intro to ML ](https://www.youtube.com/watch?v=HcqpanDadyQ)
+- [Stage of Solving Problme](https://www.youtube.com/watch?v=nKW8Ndu7Mjw)
 ### Python Basics
--[Python](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+- [Python](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 
 ## Missing Data Imputation
--[imputing Missing Values](https://youtu.be/fCMrO_VzeL8)
--[KNN for missing values](https://www.google.co.in/url?sa=t&source=web&rct=j&url=https://towardsdatascience.com/the-use-of-knn-for-missing-values-cf33d935c637&ved=0ahUKEwjqnr-qo_jXAhXCPY8KHc9CByMQjjgIbTAG&usg=AOvVaw1XwGwluxy6Ly7qxZzXc6m3)
--[KNN Theory](https://youtu.be/j0cjUkgfacI)
+- [imputing Missing Values](https://youtu.be/fCMrO_VzeL8)
+- [KNN for missing values](https://www.google.co.in/url?sa=t&source=web&rct=j&url=https://towardsdatascience.com/the-use-of-knn-for-missing-values-cf33d935c637&ved=0ahUKEwjqnr-qo_jXAhXCPY8KHc9CByMQjjgIbTAG&usg=AOvVaw1XwGwluxy6Ly7qxZzXc6m3)
+- [KNN Theory](https://youtu.be/j0cjUkgfacI)
 
 ## Outlier Detection and Treatment
--[Outlier Detection and Treatment](https://youtu.be/nbNiD76yE8o)
--[DBSCAN Clusterin](https://youtu.be/SSFd6UHjxII)
+- [Outlier Detection and Treatment](https://youtu.be/nbNiD76yE8o)
+- [DBSCAN Clusterin](https://youtu.be/SSFd6UHjxII)
 
 ### Visualise the Data
--[Python Matplotlib Tutorial](https://www.youtube.com/watch?v=yZTBMMdPOww)
--[Data Exploration using NumPy, Matplotlib and Pandas](https://www.analyticsvidhya.com/blog/2015/04/comprehensive-guide-data-exploration-sas-using-python-numpy-scipy-matplotlib-pandas/)
+- [Python Matplotlib Tutorial](https://www.youtube.com/watch?v=yZTBMMdPOww)
+- [Data Exploration using NumPy, Matplotlib and Pandas](https://www.analyticsvidhya.com/blog/2015/04/comprehensive-guide-data-exploration-sas-using-python-numpy-scipy-matplotlib-pandas/)
 
 ### Important libraries for Data Manipulation and summarisation
--[Data analysis in Python with pandas](https://www.youtube.com/watch?v=yzIMircGU5I&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=1)
+- [Data analysis in Python with pandas](https://www.youtube.com/watch?v=yzIMircGU5I&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=1)
 
 ### Probability and Data
- -[Normal Distribution and Binomial Distribution](https://www.coursera.org/learn/probability-intro/lecture/yef4b/working-with-the-binomial-distribution)
- -[Inferential Statistics](https://www.coursera.org/learn/inferential-statistics-intro)
- -[ T-distribution and comparing two means](https://www.coursera.org/learn/inferential-statistics-intro/lecture/xtUR0)
+ - [Normal Distribution and Binomial Distribution](https://www.coursera.org/learn/probability-intro/lecture/yef4b/working-with-the-binomial-distribution)
+ - [Inferential Statistics](https://www.coursera.org/learn/inferential-statistics-intro)
+ - [T-distribution and comparing two means](https://www.coursera.org/learn/inferential-statistics-intro/lecture/xtUR0)
  ### Linear Regression
- -[Intro to Simple Linear Regression, The Least Squares Regression Line, Interpreting Model Parameters](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DKsVBBJRb9TE&h=ATOBRQnTCuEIWMF_IgpV6ruy6ZyDGCp5VobIn4jqQVBLxSHwBwF7Xe9V9Xndaf__yUQWxT8DVlJlnd9oY2WGAZ2HK20JqbVP-lq2w3PqzL0Z1lJ6_MHKQI_bCRZrI-Un9LWlzBZOW8_UWwiduRLaFxrbToliOA)
- -[Linear and Polynomial Regression in Python](https://www.youtube.com/watch?v=ro5ftxuD6is)
- -[Assumptions of Regression Model](https://www.analyticsvidhya.com/blog/2016/07/deeper-regression-analysis-assumptions-plots-solutions/)
- -[Feature Selection:The Problem of Overfitting](https://www.coursera.org/learn/machine-learning/lecture/ACpTQ/the-problem-of-overfitting)
- -[Feature Selection:Cost Function](https://www.coursera.org/learn/machine-learning/lecture/B1MnL/cost-function)
- -[Feature Selection:Regularized Linear Regression](https://www.coursera.org/learn/machine-learning/lecture/QrMXd/regularized-linear-regression)
- -[Feature Selection:Cross Validation](https://drive.google.com/open?id=1PVTp3V9Pjst35raUGr3Qj0jEy7KsZ8Cx)
+ - [Intro to Simple Linear Regression,The Least Squares Regression Line,Interpreting Model Parameters](https://bit.ly/2HVrtml)
+ - [Linear and Polynomial Regression in Python](https://www.youtube.com/watch?v=ro5ftxuD6is)
+ - [Assumptions of Regression Model](https://www.analyticsvidhya.com/blog/2016/07/deeper-regression-analysis-assumptions-plots-solutions/)
+ - [Feature Selection:The Problem of Overfitting](https://www.coursera.org/learn/machine-learning/lecture/ACpTQ/the-problem-of-overfitting)
+ - [Feature Selection:Cost Function](https://www.coursera.org/learn/machine-learning/lecture/B1MnL/cost-function)
+ - [Feature Selection:Regularized Linear Regression](https://www.coursera.org/learn/machine-learning/lecture/QrMXd/regularized-linear-regression)
+ - [Feature Selection:Cross Validation](https://drive.google.com/open?id=1PVTp3V9Pjst35raUGr3Qj0jEy7KsZ8Cx)
 
 ### ANOVA and Bootstrapping
--[Comparing more than two means (To)  Bootstrapping](https://www.coursera.org/learn/inferential-statistics-intro/lecture/TI3DD/comparing-more-than-two-means)
+- [Comparing more than two means Bootstrapping](https://www.coursera.org/learn/inferential-statistics-intro/lecture/TI3DD/comparing-more-than-two-means)
 
 ---
 ## Others
