@@ -45,6 +45,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Testing](#testing)
 - [Unity](#unity)
 - [Vue](#vue)
+- [Webpack](#webpack)
 - [Others](#others)
   - [Cheat Sheets](#cheat-sheets)
   - [Design](#design)
@@ -310,6 +311,17 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 ---
 
+
+## Webpack
+
+- [Webpack Academy](https://webpack-academy.teachable.com/)
+- [Docs](https://webpack.js.org/guides/getting-started/)
+- [Tutorials](https://codingcompiler.com/webpack-tutorial/)
+
+
+---
+
+
 ## Others
 
 ### Design
@@ -320,10 +332,12 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [humaaans](https://humaaans.com/)
 - [absurd](https://absurd.design/)
 
+
 ### Cheat Sheets
 
 - [Markdown](https://www.markdownguide.org/cheat-sheet/)
 - [Emmet](https://docs.emmet.io/cheat-sheet/)
+
 
 ### Open Source
 
