@@ -122,6 +122,13 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 ---
 
+## Ethical Hacking
+- [Social Engineering](https://www.udemy.com/course-dashboard-redirect/?course_id=1155820)
+- [Ethical Hacking from Scratch](https://www.udemy.com/course/learn-ethical-hacking-from-scratch/learn/)
+- [Privacy Security and Anonymity] (https://www.udemy.com/course-dashboard-redirect/?course_id=2281984)
+
+---
+
 ## Fundamental CP algorithms
 
 ### Algebra
@@ -329,3 +336,5 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 - [How to contribute to Open Source](https://kentcdodds.com/blog/introducing-how-to-contribute-to-open-source)
 - [What open source projects should I contribute](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to)
+
+
