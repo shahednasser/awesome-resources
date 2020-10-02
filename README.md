@@ -369,12 +369,12 @@ To contribute, please check out our contribution guide [here](https://github.com
 ### Python Basics
 - [Python](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 
-## Missing Data Imputation
+### Missing Data Imputation
 - [imputing Missing Values](https://youtu.be/fCMrO_VzeL8)
 - [KNN for missing values](https://www.google.co.in/url?sa=t&source=web&rct=j&url=https://towardsdatascience.com/the-use-of-knn-for-missing-values-cf33d935c637&ved=0ahUKEwjqnr-qo_jXAhXCPY8KHc9CByMQjjgIbTAG&usg=AOvVaw1XwGwluxy6Ly7qxZzXc6m3)
 - [KNN Theory](https://youtu.be/j0cjUkgfacI)
 
-## Outlier Detection and Treatment
+### Outlier Detection and Treatment
 - [Outlier Detection and Treatment](https://youtu.be/nbNiD76yE8o)
 - [DBSCAN Clusterin](https://youtu.be/SSFd6UHjxII)
 
@@ -389,7 +389,7 @@ To contribute, please check out our contribution guide [here](https://github.com
  - [Normal Distribution and Binomial Distribution](https://www.coursera.org/learn/probability-intro/lecture/yef4b/working-with-the-binomial-distribution)
  - [Inferential Statistics](https://www.coursera.org/learn/inferential-statistics-intro)
  - [T-distribution and comparing two means](https://www.coursera.org/learn/inferential-statistics-intro/lecture/xtUR0)
- 
+
  ### Linear Regression
  - [Intro to Simple Linear Regression,The Least Squares Regression Line,Interpreting Model Parameters](https://bit.ly/2HVrtml)
  - [Linear and Polynomial Regression in Python](https://www.youtube.com/watch?v=ro5ftxuD6is)
