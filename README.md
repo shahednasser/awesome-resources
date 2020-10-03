@@ -49,6 +49,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [SASS](#sass)
 - [Swift](#swift)
 - [Testing](#testing)
+- [Typescript](#Typescript)
 - [Unity](#unity)
 - [Vue](#vue)
 - [Webpack](#webpack)
@@ -345,6 +346,20 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 - [How to Start a Career in Testing? ](https://juniorlearnstocode.blogspot.com/2020/04/how-to-start-career-in-testing.html/)
 - [Testing React with Jest and Enzyme ](https://blog.bitsrc.io/how-to-test-react-components-with-jest-and-enzyme-in-depth-145fcd06b90?gi=3bb2d7ae19f4)
+
+---
+
+## Typescript
+
+- [ TypeScript Documentation: Handbook ](https://www.typescriptlang.org/docs/)
+- [ Scrimba - Introduction to TypeScript ](https://scrimba.com/learn/intrototypescript)
+- [ Typescript - The Basics ](https://www.youtube.com/watch?v=ahCwqrYpIuM)
+- [ Typescript - Course ](https://www.youtube.com/watch?v=YPShu0H3RbM&list=PLqq-6Pq4lTTanfgsbnFzfWUhhAz3tIezU)
+- [ Typescript - Blogs ](https://ultimatecourses.com/blog/category/typescript/)
+- [ Why You Should Choose TypeScript Over JavaScript ](https://serokell.io/blog/why-typescript)
+- [ Clean Code concepts adapted for TypeScript ](https://github.com/labs42io/clean-code-typescript)
+- [ Should You Learn TypeScript? (Benefits & Resources) ](https://snipcart.com/blog/learn-typescript-why-use-ts)
+- [ TypeScript Learing Resources...more...) ](https://medium.com/@jcreamer898/typescript-learning-resources-b1205a98c47c)
 
 ---
 
