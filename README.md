@@ -359,7 +359,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [ Why You Should Choose TypeScript Over JavaScript ](https://serokell.io/blog/why-typescript)
 - [ Clean Code concepts adapted for TypeScript ](https://github.com/labs42io/clean-code-typescript)
 - [ Should You Learn TypeScript? (Benefits & Resources) ](https://snipcart.com/blog/learn-typescript-why-use-ts)
-- [ TypeScript Learing Resources...more...) ](https://medium.com/@jcreamer898/typescript-learning-resources-b1205a98c47c)
+- [ TypeScript Learing Resources...more... ](https://medium.com/@jcreamer898/typescript-learning-resources-b1205a98c47c)
 
 ---
 
