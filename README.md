@@ -324,6 +324,15 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 ---
 
+---
+
+## System Design
+
+- [System Design Blogs](http://highscalability.com/)
+- [Videos on System Design Concepts](https://www.youtube.com/watch?v=xpDnVSmNFX0&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
+
+---
+
 ## Testing
 
 - [How to Start a Career in Testing? ](https://juniorlearnstocode.blogspot.com/2020/04/how-to-start-career-in-testing.html/)
@@ -386,5 +395,3 @@ To contribute, please check out our contribution guide [here](https://github.com
 ### Standard Template Library
 
 - [C++ Standard Template Library in Practice](https://www.udemy.com/course/c-standard-template-library-in-practice/learn/)
-
-
