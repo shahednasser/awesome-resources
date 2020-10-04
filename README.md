@@ -110,6 +110,12 @@ To contribute, please check out our contribution guide [here](https://github.com
 ## Data Science
 
 - [IBM Data Science Coursera](https://www.coursera.org/professional-certificates/ibm-data-science)
+- [Probability and Statistics](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/index.htm)
+- [Andrew Ng's machine learning course on coursera](https://www.coursera.org/learn/machine-learning)
+- [freecodecamp's courses for machine learning](https://www.freecodecamp.org/learn/)
+- [A quick review of the linear algebra concepts relevant to machine learning.](http://www.deeplearningbook.org/contents/linear_algebra.html)
+- [Calculus](http://cs231n.stanford.edu/handouts/derivatives.pdf)
+- [Statistical concepts for machine learning](http://www-bcf.usc.edu/~gareth/ISL/)
 
 ---
 
