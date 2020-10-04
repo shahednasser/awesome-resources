@@ -333,8 +333,6 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 ---
 
----
-
 ## System Design
 
 - [System Design Blogs](http://highscalability.com/)
