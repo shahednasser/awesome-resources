@@ -40,6 +40,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Javascript](#javascript)
 - [LESS](#less)
 - [Linux](#linux)
+- [Machine Learning](#machine-learning)
 - [Magento](#magento)
 - [NodeJS](#nodejs)
 - [PHP](#php)
@@ -258,6 +259,16 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 ---
 
+## Machine Learning
+
+- [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
+- [Andrew Ng's Machine Learning Coursera Course](https://www.coursera.org/learn/machine-learning)
+- [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
+- [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
+- [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html)
+
+---
+
 ## Magento
 
 - [Magento 2 Creating A UI Form](https://www.mageplaza.com/devdocs/creat-a-ui-form-in-magento-2.html)
@@ -381,16 +392,13 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 ---
 
-
 ## Webpack
 
 - [Webpack Academy](https://webpack-academy.teachable.com/)
 - [Docs](https://webpack.js.org/guides/getting-started/)
 - [Tutorials](https://codingcompiler.com/webpack-tutorial/)
 
-
 ---
-
 
 ## Others
 
