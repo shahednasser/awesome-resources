@@ -266,6 +266,11 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
 - [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
 - [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html)
+- [Probability and Statistics](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/index.htm)
+- [freecodecamp's courses for machine learning](https://www.freecodecamp.org/learn/)
+- [A quick review of the linear algebra concepts relevant to machine learning.](http://www.deeplearningbook.org/contents/linear_algebra.html)
+- [Calculus](http://cs231n.stanford.edu/handouts/derivatives.pdf)
+- [Statistical concepts for machine learning](http://www-bcf.usc.edu/~gareth/ISL/)
 
 ---
 
