@@ -219,6 +219,8 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 - [GraphQL tutorial for beginners](https://www.howtographql.com/)
 - [React And GraphQL](https://medium.com/codingthesmartway-com-blog/getting-started-with-react-and-graphql-395311c1e8da)
+- [Graph Fundamentals Part-1](https://www.hackerearth.com/practice/notes/graph-theory-part-i/)
+- [Graph Fundamentals Part-2](https://www.hackerearth.com/practice/notes/graph-theory-part-ii/)
 
 ---
 
