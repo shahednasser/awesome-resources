@@ -211,6 +211,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Squash mutilple commits into one in GitHub](https://www.internalpointers.com/post/squash-commits-into-one-git)
 - [GitHub Guide](https://github.com/antonykidis/GitHub-guide/blob/master/Git%20and%20GitHub.pdf)
 - [GitHub Learning Lab](https://lab.github.com/)
+- [Hands-on-experience-of-git-commands](https://www.youtube.com/watch?v=uj4fy4kpaOA)
 
 ---
 
