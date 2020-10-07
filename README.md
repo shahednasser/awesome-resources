@@ -38,6 +38,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [GraphQL](#graphql)
 - [Java](#java)
 - [Javascript](#javascript)
+- [Laravel](#laravel)
 - [LESS](#less)
 - [Linux](#linux)
 - [Machine Learning](#machine-learning)
@@ -243,6 +244,17 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Understanding Closures](https://blog.skay.dev/understanding-closures)
 - [S.O.L.I.D. Principles around You, in JavaScript](https://francescociulla.com/solid-principles-around-you-in-javascript)
 - [The 30 days JavaScript Challenge](https://javascript30.com/)
+
+---
+
+## Laravel
+
+- [Official Documentation](https://laravel.com)
+- [Video Tutorials for Laravel](https://laracasts.com)
+- [Discussion Forum](https://laravel.io/forum)
+- [Serverless Deployment for Laravel](https://vapor.laravel.com)
+- [Micro Laravel Framework for APIs](https://lumen.laravel.com)
+- [Server Management for Laravel](https://forge.laravel.com)
 
 ---
 
