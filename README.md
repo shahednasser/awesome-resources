@@ -253,7 +253,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Discussion Forum](https://laravel.io/forum)
 - [Serverless Deployment for Laravel](https://vapor.laravel.com)
 - [Micro Laravel Framework for APIs](https://lumen.laravel.com)
-- [Server Mangement for Laravel](https://forge.laravel.com)
+- [Server Management for Laravel](https://forge.laravel.com)
 ---
 
 ## LESS
