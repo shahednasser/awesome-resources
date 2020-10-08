@@ -256,8 +256,8 @@ To contribute, please check out our contribution guide [here](https://github.com
 ## Linux
 
 - [Introduction to Linux](https://training.linuxfoundation.org/resources/free-courses/introduction-to-linux/)
-- [The Linux guide/cheatsheet/tutorial (Commands, Directories, etc)](https://dev.to/kedark/the-linux-guide-cheatsheet-commands-directories-etc-39k0)
 - [Introduction to the world of ricing](https://zoug.top/2016/12/26/introduction-to-ricing/)
+- [The Linux guide/cheatsheet/tutorial (Commands, Directories, etc)](https://dev.to/kedark/the-linux-guide-cheatsheet-commands-directories-etc-39k0)
 
 ---
 
