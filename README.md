@@ -20,6 +20,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Computer Science](#computer-science)
 - [CSS](#css)
 - [CSharp](#csharp)
+- [Dart](#dart)
 - [Data Science](#data-science)
 - [DevOps](#devops)
 - [Docker](#docker)
