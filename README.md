@@ -109,6 +109,19 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 ---
 
+## Dart
+
+- [Intro to Dart for Java Developers](https://codelabs.developers.google.com/codelabs/from-java-to-dart/#0)
+- [Dart Cheatsheet](https://dart.dev/codelabs/dart-cheatsheet)
+- [Iterable collections](https://dart.dev/codelabs/iterables)
+- [Asynchronous programming: futures, async, await](https://dart.dev/codelabs/async-await)
+- [Books about Dart](https://dart.dev/resources/books)
+- [DartPad in tutorials: best practices](https://dart.dev/resources/dartpad-best-practices)
+- [Dart videos from Google](https://www.youtube.com/playlist?list=PLjxrf2q8roU0Net_g1NT5_vOO3s_FR02J)
+- [Dart Tutorial for Beginners: Basics and Fundamentals for Flutter](https://www.youtube.com/playlist?list=PLlxmoA0rQ-LyHW9voBdNo4gEEIh0SjG-q)
+
+---
+
 ## Data Science
 
 - [IBM Data Science Coursera](https://www.coursera.org/professional-certificates/ibm-data-science)
