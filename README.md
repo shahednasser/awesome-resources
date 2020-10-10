@@ -33,6 +33,7 @@ To contribute, please check out our contribution guide [here](https://github.com
   - [Graph Theory](#graph-theory)
   - [Linear Algebra](#linear-algebra)
   - [String Processing](#string-processing)
+- [Flutter](#flutter)
 - [GIT](#git)
 - [GitHub](#github)
 - [GraphQL](#graphql)
@@ -195,6 +196,21 @@ To contribute, please check out our contribution guide [here](https://github.com
 ### Graph Theory
 
 - [Introduction to Graph Theory](https://www.udemy.com/course/graph-theory-algorithms/learn/)
+
+---
+
+## Flutter
+
+- [Write your first Flutter app, Part 1](https://flutter.dev/docs/get-started/codelab)
+- [Write your first Flutter app, Part 2](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2/#0)
+- [Building beautiful UIs with Flutter](https://codelabs.developers.google.com/codelabs/flutter/#0)
+- [Building Beautiful Transitions with Material Motion for Flutter](https://codelabs.developers.google.com/codelabs/material-motion-flutter/)
+- [Adding Google Maps to a Flutter app](https://codelabs.developers.google.com/codelabs/google-maps-in-flutter/#0)
+- [Build a Photo Sharing app with Google Photos and Flutter](https://codelabs.developers.google.com/codelabs/google-photos-sharing/#0)
+- [Firebase for Flutter](https://codelabs.developers.google.com/codelabs/flutter-firebase/#0)
+- [Building a Cupertino app with Flutter](https://codelabs.developers.google.com/codelabs/flutter-cupertino/#0)
+- [Write a Flutter desktop application](https://codelabs.developers.google.com/codelabs/flutter-github-graphql-client/#0)
+- [How to test a Flutter app](https://codelabs.developers.google.com/codelabs/flutter-app-testing/#0)
 
 ---
 
