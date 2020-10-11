@@ -140,9 +140,11 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Curated ExpressJS Courses](https://hackr.io/tutorials/learn-express-js) - a list of community curated resources
 - [ExpressJS Courses at Classpert](https://classpert.com/express-js) - a list of courses (free and paid) from Classpert Online Course Search
 - [Security Practices in Express App](https://expressjs.com/en/advanced/best-practice-security.html)
+
 ---
 
 ## Ethical Hacking
+
 - [Social Engineering](https://www.udemy.com/course-dashboard-redirect/?course_id=1155820)
 - [Ethical Hacking from Scratch](https://www.udemy.com/course/learn-ethical-hacking-from-scratch/learn/)
 - [Privacy Security and Anonymity](https://www.udemy.com/course-dashboard-redirect/?course_id=2281984)
@@ -316,6 +318,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 - [Introduction to nodejs](https://www.tutorialspoint.com/nodejs/nodejs_introduction.htm)
 - [Beginners guide to nodejs (step by step)](https://www.w3schools.com/nodejs/nodejs_intro.asp)
+- [Official Nodejs Documentation](https://nodejs.org/en/docs/)
 
 ---
 
@@ -354,6 +357,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [React Patterns](https://reactpatterns.com/)
 - [Useful Packages you should know in React](https://medium.com/better-programming/14-useful-packages-every-react-developer-should-know-55b47a325d3)
 - [Learn React Test Driven Development](https://learntdd.in/react/)
+
 ---
 
 ## RUBY
