@@ -316,6 +316,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [A quick review of the linear algebra concepts relevant to machine learning.](http://www.deeplearningbook.org/contents/linear_algebra.html)
 - [Calculus](http://cs231n.stanford.edu/handouts/derivatives.pdf)
 - [Statistical concepts for machine learning](http://www-bcf.usc.edu/~gareth/ISL/)
+- [AWS Machine Learning Tools](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/aws-machine-learning-tools-the-complete-guide/amp/)
 
 ---
 
