@@ -20,6 +20,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Computer Science](#computer-science)
 - [CSS](#css)
 - [CSharp](#csharp)
+- [Dart](#dart)
 - [Data Science](#data-science)
 - [DevOps](#devops)
 - [Docker](#docker)
@@ -107,6 +108,19 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [The C# Yellow Book ](https://www.robmiles.com/c-yellow-book/)
 - [5 books every C# developer should read](https://medium.com/@jakubgarfield/5-books-every-c-developer-should-read-83844a5e2e3c)
 - [C# Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/)
+
+---
+
+## Dart
+
+- [Intro to Dart for Java Developers](https://codelabs.developers.google.com/codelabs/from-java-to-dart/#0)
+- [Dart Cheatsheet](https://dart.dev/codelabs/dart-cheatsheet)
+- [Iterable collections](https://dart.dev/codelabs/iterables)
+- [Asynchronous programming: futures, async, await](https://dart.dev/codelabs/async-await)
+- [Books about Dart](https://dart.dev/resources/books)
+- [DartPad in tutorials: best practices](https://dart.dev/resources/dartpad-best-practices)
+- [Dart videos from Google](https://www.youtube.com/playlist?list=PLjxrf2q8roU0Net_g1NT5_vOO3s_FR02J)
+- [Dart Tutorial for Beginners: Basics and Fundamentals for Flutter](https://www.youtube.com/playlist?list=PLlxmoA0rQ-LyHW9voBdNo4gEEIh0SjG-q)
 
 ---
 
