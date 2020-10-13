@@ -129,6 +129,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 ## Data Science
 
 - [IBM Data Science Coursera](https://www.coursera.org/professional-certificates/ibm-data-science)
+- [Introduction to Data Science with R](https://www.youtube.com/watch?v=32o0DnuRjfg&list=PLTJTBoU5HOCRrTs3cJK-PbHM39cwCU0PF&index=1)
 
 ---
 
@@ -383,6 +384,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [VSCode setup for React Native](https://medium.com/react-native-training/vscode-for-react-native-526ec4a368ce)
 - [Build E-Commerce App in React Native](https://hackernoon.com/building-an-e-commerce-search-app-with-react-native-2c87760a2315)
 - [How to deploy react native apps](https://medium.com/react-native-training/understanding-react-native-deployments-6e54157920b7)
+---
 
 ## RUBY
 
