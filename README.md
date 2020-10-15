@@ -49,6 +49,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [PHP](#php)
 - [Python](#python)
 - [React](#react)
+- [React Native](#react-native)
 - [Ruby](#ruby)
 - [SASS](#sass)
 - [Swift](#swift)
@@ -99,6 +100,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 - [CSS Variables and How To Use Them](https://medium.com/@shahedn/css-variables-and-how-to-use-them-bd9724cb6566)
 - [Daily Cool CSS Tips and Tricks](https://css-tricks.com/)
+- [Learning Advanced CSS and HTML](https://learn.shayhowe.com/advanced-html-css/)
 
 ---
 
@@ -127,6 +129,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 ## Data Science
 
 - [IBM Data Science Coursera](https://www.coursera.org/professional-certificates/ibm-data-science)
+- [Introduction to Data Science with R](https://www.youtube.com/watch?v=32o0DnuRjfg&list=PLTJTBoU5HOCRrTs3cJK-PbHM39cwCU0PF&index=1)
 
 ---
 
@@ -251,6 +254,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [GraphQL tutorial for beginners](https://www.howtographql.com/)
 - [React And GraphQL](https://medium.com/codingthesmartway-com-blog/getting-started-with-react-and-graphql-395311c1e8da)
 - [GraphQL Tutorials](https://www.tutorialspoint.com/graphql/index.htm)
+- [GraphQL with React Apollo](https://www.robinwieruch.de/react-graphql-apollo-tutorial)
 
 ---
 
@@ -331,6 +335,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 - [Introduction to nodejs](https://www.tutorialspoint.com/nodejs/nodejs_introduction.htm)
 - [Beginners guide to nodejs (step by step)](https://www.w3schools.com/nodejs/nodejs_intro.asp)
+- [Node JS Architecture](https://www.journaldev.com/7462/node-js-architecture-single-threaded-event-loop)
 
 ---
 
@@ -369,6 +374,17 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [React Patterns](https://reactpatterns.com/)
 - [Useful Packages you should know in React](https://medium.com/better-programming/14-useful-packages-every-react-developer-should-know-55b47a325d3)
 - [Learn React Test Driven Development](https://learntdd.in/react/)
+---
+
+## React Native
+
+- [React Native Tutorial](https://reactnative.dev/docs/tutorial)
+- [How react-native works and its architecture](http://www.geeksforgeeks.org/react-native-works/)
+- [React-Native performance profiling](https://medium.com/@talkol/performance-limitations-of-react-native-and-how-to-overcome-them-947630d7f440)
+- [VSCode setup for React Native](https://medium.com/react-native-training/vscode-for-react-native-526ec4a368ce)
+- [Build E-Commerce App in React Native](https://hackernoon.com/building-an-e-commerce-search-app-with-react-native-2c87760a2315)
+- [How to deploy react native apps](https://medium.com/react-native-training/understanding-react-native-deployments-6e54157920b7)
+
 ---
 
 ## RUBY
@@ -457,6 +473,8 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 - [Markdown](https://www.markdownguide.org/cheat-sheet/)
 - [Emmet](https://docs.emmet.io/cheat-sheet/)
+- [List of Badges, in Markdown](https://github.com/Naereen/badges)
+- [Cheatsheet Collection](https://devhints.io)
 
 ### Design
 
@@ -466,6 +484,9 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [humaaans](https://humaaans.com/)
 - [absurd](https://absurd.design/)
 - [Crello Free Templates](https://crello.com/templates/)
+- [404 Illustration](https://error404.fun/): Free illustrations for 404 pages
+- [Humaans](https://www.humaaans.com/): Mix-&-match illustrations of people with a design library
+- [UI Design Daily](https://uidesigndaily.com/): Awesome UI Components of all types
 
 ### Open Source
 
