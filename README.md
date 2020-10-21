@@ -228,6 +228,9 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Building a Cupertino app with Flutter](https://codelabs.developers.google.com/codelabs/flutter-cupertino/#0)
 - [Write a Flutter desktop application](https://codelabs.developers.google.com/codelabs/flutter-github-graphql-client/#0)
 - [How to test a Flutter app](https://codelabs.developers.google.com/codelabs/flutter-app-testing/#0)
+- [60 days of Flutter](https://medium.com/@adityadroid/60-days-of-flutter-building-a-messenger-from-scratch-ab2c89e1fd0f)
+- [Animation in Flutter](https://www.youtube.com/playlist?list=PLjxrf2q8roU2v6UqYlt_KPaXlnjbYySua)
+- [Reactive Programming with Flutter](https://www.youtube.com/playlist?list=PL_Wj0DgxTlJc8E3ulwdekyVI4Wc819azh)
 
 ---
 
@@ -255,6 +258,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [React And GraphQL](https://medium.com/codingthesmartway-com-blog/getting-started-with-react-and-graphql-395311c1e8da)
 - [GraphQL Tutorials](https://www.tutorialspoint.com/graphql/index.htm)
 - [GraphQL with React Apollo](https://www.robinwieruch.de/react-graphql-apollo-tutorial)
+- [Complete App with GraphQl](https://www.youtube.com/playlist?list=PL55RiY5tL51rG1x02Yyj93iypUuHYXcB_)
 
 ---
 
