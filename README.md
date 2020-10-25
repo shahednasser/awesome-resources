@@ -356,6 +356,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 ## Python
 
+- [Automate The Boring Stuff With Python](https://automatetheboringstuff.com/2e/chapter0/)
 - [Python Intermediate Tutorial](https://github.com/python-engineer/python-engineer-notebooks/tree/master/advanced-python)
 - [Python Tutorial](https://www.w3schools.com/python/)
 - [Python for Everybody (14 hour course)](https://www.youtube.com/watch?v=8DvywoWv6fI&feature=emb_title)
