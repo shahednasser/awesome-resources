@@ -353,6 +353,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Interactive Lessons For PHP](https://www.sololearn.com/Course/PHP/)
 - [Useful PHP Tips For Beginners](https://www.binarytides.com/35-techniques-to-enhance-your-php-code/)
 - [PHP Cheat Sheet](https://websitesetup.org/php-cheat-sheet/)
+- [Web Development Video Tutorials](https://websitesetup.org/php-cheat-sheet/)
 
 ---
 
