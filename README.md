@@ -103,6 +103,10 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [CSS Variables and How To Use Them](https://medium.com/@shahedn/css-variables-and-how-to-use-them-bd9724cb6566)
 - [Daily Cool CSS Tips and Tricks](https://css-tricks.com/)
 - [Learning Advanced CSS and HTML](https://learn.shayhowe.com/advanced-html-css/)
+- [CSS Framework - Bootstrap](https://getbootstrap.com/)
+- [CSS Framework - Bulma](https://bulma.io/)
+- [CSS Framework - Materialize](https://materializecss.com/)
+- [CSS Framework - Tailwind CSS](https://tailwindcss.com/)
 
 ---
 
