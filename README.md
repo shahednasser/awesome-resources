@@ -337,6 +337,8 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 - [Magento 2 Creating A UI Form](https://www.mageplaza.com/devdocs/creat-a-ui-form-in-magento-2.html)
 - [Tips for Magento 2 Layouts](https://medium.com/@shahedn/tips-for-magento-2-layouts-d7e076812fa2)
+- [Fast Virtual Machine for Magento2](https://github.com/zepgram/magento2-fast-vm/)
+- [Docker Configuration for Magento2](https://github.com/markshust/docker-magento)
 
 ---
 
