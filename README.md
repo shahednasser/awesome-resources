@@ -169,6 +169,8 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Social Engineering](https://www.udemy.com/course-dashboard-redirect/?course_id=1155820)
 - [Ethical Hacking from Scratch](https://www.udemy.com/course/learn-ethical-hacking-from-scratch/learn/)
 - [Privacy Security and Anonymity](https://www.udemy.com/course-dashboard-redirect/?course_id=2281984)
+- [Collection of hackers, pentesters & security researchers](https://github.com/Hack-with-Github/Awesome-Hacking)
+- [Open Source Reverse Engineering Platform](https://github.com/radareorg/cutter)
 
 ---
 
