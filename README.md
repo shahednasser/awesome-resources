@@ -417,6 +417,9 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 - [Sass Basics](https://sass-lang.com/guide)
 - [Complete Documentation](https://sass-lang.com/documentation)
+- [Zurb - Library to Create Transitions & Animations](https://zurb.com/playground/motion-ui)
+- [Vanilla Framework](https://vanillaframework.io/)
+- [Susy - Grid Layout Engine](https://www.oddbird.net/susy/)
 
 ---
 
