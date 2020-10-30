@@ -492,6 +492,8 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Emmet](https://docs.emmet.io/cheat-sheet/)
 - [List of Badges, in Markdown](https://github.com/Naereen/badges)
 - [Cheatsheet Collection](https://devhints.io)
+- [Cheat Sheets](http://www.cheat-sheets.org/)
+- [Programming Cheat Sheets](https://cheatography.com/)
 
 ### Design
 
