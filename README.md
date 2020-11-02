@@ -2,13 +2,6 @@
 
 :sunglasses: List of helpful resources added by the community for the community!
 
-Participate in Hacktoberfest by helping others!
-
-# Purpose
-
-This repository aims to help contributors (specifically beginners) participate in Hacktoberfest easily while also helping others as well.  
-To contribute, all you have to do is add a tutorial, article or any helpful resource you know of to the list. These can relate to any programming language, framework, library or others. Even if it's not on the list of topics, you can add a new one. This way you can participate in Hacktoberfest and help others as well!
-
 # Contribution
 
 To contribute, please check out our contribution guide [here](https://github.com/shahednasser/awesome-resources/blob/master/CONTRIBUTING.md).
