@@ -25,8 +25,8 @@ email: shahednasser@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A collection of awesome resources added by many contributors to help others
   find resources material about different programming langauges and frameworks.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://shahednasser.github.io/awesome-resources" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/awesome-resources" # the subpath of your site, e.g. /blog
+url: "https://shahednasser.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  shahednasser
 instagram_username: shahednasser95
 linkedin_username: shahed-nasser-7494b3140
