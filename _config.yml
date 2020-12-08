@@ -18,6 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+destination: ./docs
 title: Awesome Resources
 author: Shahed Nasser
 email: shahednasser@gmail.com

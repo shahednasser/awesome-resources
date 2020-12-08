@@ -1,5 +1,5 @@
-_site/*
-!_site/.gitkeep
+docs/*
+!docs/.gitkeep
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
