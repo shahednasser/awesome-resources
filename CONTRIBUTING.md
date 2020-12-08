@@ -1,5 +1,16 @@
-### Contribution Guide
+# Contribution Guide
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)  [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
+
+# Content
+
+- [Adding Resources](#adding-resources)
+- [Contributing to the Website](#contributing-to-the-website)
+  - [Changes to CSS](#changes-to-css)
+  - [Changes to The Layout](#changes-to-the-layout)
+  - [Changes to Components](#changes-to-components)
+
+
+## Adding Resources
 
 You can contribute to this repository very easily!
 
@@ -30,5 +41,34 @@ To add a new category, add a list item with the name of the category and the URL
 
 7. After adding the commit title, click on propose changes and follow the steps to create a pull request.
 
-**That's it! Congratulations on participating in Hacktoberfest!**
-[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)  
+**That's it! Congratulations on making your contribution!**
+
+## Contributing to the Website
+
+To contribute to the website, you need to have jekyll and its prerequisits installed. If you don't, you can check [here](https://jekyllrb.com/docs/).
+
+After cloning the repository, in the folder run the following to install the bundles:
+
+```
+bundle
+```
+
+And then to run the website locally, run the following commands:
+
+```
+bundle exec jekyll serve --livereload
+```
+
+the `--livereload` option ensures the website automatically refreshes on changes to the files.
+
+### Changes to CSS
+
+To edit the CSS of the website, you need to make edits in the files in the folder `css`. All the files are `.sass` files.
+
+### Changes to The Layout
+
+All changes to the layout should be done in `_layouts` folder.
+
+### Changes to Components
+
+To make changes to components like header or footer, changes should be made in `_includes` folder. You can find the list of components in the repository of the default Jekyll theme [Minima](https://github.com/jekyll/minima/tree/v2.5.1/_includes)

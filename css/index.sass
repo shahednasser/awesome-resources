@@ -1,0 +1,57 @@
+---
+---
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&display=swap');
+
+// variables
+$main-color: #75C9C8
+
+body 
+    font-family: 'Montserrat', sans-serif
+
+a
+    &, &:visited
+        color: $main-color
+    &:hover
+        text-decoration: none
+    &:visited:hover 
+        color: #111
+
+h1
+    font-size: 2rem
+
+.post-header
+    display: none
+
+#awesome-resources-
+    display: none
+
+.footer-col-wrapper
+    display: flex
+    flex-direction: row
+
+.footer-col
+    float: none
+    flex: 1
+
+.site-header
+    border-top: 0
+    background-color: $main-color
+    .site-title
+        font-weight: 500
+        color: #ffffff
+        &:hover
+            text-decoration: none
+    .page-link
+        color: #ffffff
+
+footer
+    background-color: #f9f9f9
+    .social-media-list
+        li
+            display: inline-block
+            &:not(:last-child)
+                margin-right: 15px
+            .svg-icon
+                transform: scale(1.5)
+                fill: $main-color

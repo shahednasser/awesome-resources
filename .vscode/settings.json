@@ -1,0 +1,13 @@
+{
+    "markdown.extension.toc.omittedFromToc": {
+        "README.md": [
+            "# Awesome Resources",
+            "# Contribution",
+            "# Content"
+        ],
+        "CONTRIBUTING.md": [
+            "# Contribution Guide",
+            "# Content"
+        ]
+    }
+}

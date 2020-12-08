@@ -19,14 +19,14 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Docker](#docker)
 - [Express](#express)
 - [Ethical Hacking](#ethical-hacking)
-- [Fudamental CP algorithms](#fundamental-cp-algorithms)
+- [Fundamental CP algorithms](#fundamental-cp-algorithms)
   - [Algebra](#algebra)
   - [Combinatorics](#combinatorics)
   - [Data Structures](#data-structures)
   - [Dynamic Programming](#dynamic-programming)
-  - [Graph Theory](#graph-theory)
   - [Linear Algebra](#linear-algebra)
   - [String Processing](#string-processing)
+  - [Graph Theory](#graph-theory)
 - [Flutter](#flutter)
 - [GIT](#git)
 - [GitHub](#github)
@@ -43,11 +43,12 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Python](#python)
 - [React](#react)
 - [React Native](#react-native)
-- [Ruby](#ruby)
+- [RUBY](#ruby)
 - [SASS](#sass)
 - [Swift](#swift)
+- [System Design](#system-design)
 - [Testing](#testing)
-- [Typescript](#Typescript)
+- [Typescript](#typescript)
 - [Unity](#unity)
 - [Vue](#vue)
 - [Webpack](#webpack)
@@ -56,6 +57,7 @@ To contribute, please check out our contribution guide [here](https://github.com
   - [Design](#design)
   - [Open Source](#open-source)
   - [Standard Template Library](#standard-template-library)
+
 
 ---
 
@@ -69,6 +71,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Android cheat sheet](http://alvinalexander.com/android/android-cheat-sheet-main-concepts/)
 - [Android Tips & Tricks](https://github.com/nisrulz/android-tips-tricks)
 - [Fragmented : Podcast for Android](https://fragmentedpodcast.com/) 
+
 ---
 
 ## Angular
@@ -156,6 +159,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Curated ExpressJS Courses](https://hackr.io/tutorials/learn-express-js) - a list of community curated resources
 - [ExpressJS Courses at Classpert](https://classpert.com/express-js) - a list of courses (free and paid) from Classpert Online Course Search
 - [Security Practices in Express App](https://expressjs.com/en/advanced/best-practice-security.html)
+
 ---
 
 ## Ethical Hacking
@@ -280,7 +284,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Chrome Extension Tutorial — Replace Images in Any Website with Pikachu](https://levelup.gitconnected.com/chrome-extension-tutorial-replace-images-in-any-website-with-pikachu-de2a6e3548bb)
 - [React Hooks Tutorial — Create a Number Trivia Generator Website](https://medium.com/@shahedn/react-hooks-tutorial-create-a-number-trivia-generator-website-32b6b3b52c3e)
 - [Callback Function in JavaScript](https://medium.com/@a.athuljoy/callback-function-in-javascript-99b5262f6750)
-- [Learn Modern JavaScript ES6 | ES7 | ES8 ](https://codeloop.org/learn-modern-javascript-es6-es7-es8/)
+- [Learn Modern JavaScript ES6 \| ES7 \| ES8 ](https://codeloop.org/learn-modern-javascript-es6-es7-es8/)
 - [Learn JavaScript through a game](https://dev.to/nitdgplug/learn-javascript-through-a-game-1beh)
 - [Javascript ES2020- Top Features you should know](https://dev.to/catalinmpit/javascript-es2020-the-features-you-should-know-45i2)
 - [Understanding Closures](https://blog.skay.dev/understanding-closures)
@@ -387,6 +391,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [React Patterns](https://reactpatterns.com/)
 - [Useful Packages you should know in React](https://medium.com/better-programming/14-useful-packages-every-react-developer-should-know-55b47a325d3)
 - [Learn React Test Driven Development](https://learntdd.in/react/)
+
 ---
 
 ## React Native
