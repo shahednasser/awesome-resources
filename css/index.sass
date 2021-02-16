@@ -45,24 +45,12 @@ hr
     height: 35px
     z-index: 10
     cursor: pointer
-    background-color: #ffffff
+    background-color: $main-color
     outline: none
     display: none
     border: none
-    filter: drop-shadow(0 2px 5px rgba(0,0,0,.3))
+    filter: drop-shadow(0 2px 3px rgba(0,0,0,0.2))
     border-radius: 50px
-
-#scroll-up .filter-grey
-    filter: invert(20%)
-
-//adding media to disable hover functionality on mobile devices
-
-@media (hover: hover) and (pointer: fine)
-    #scroll-up:hover
-        background: #d8d8d8
-        .filter-grey
-            filter: invert(0%)
-
 
 .footer-col-wrapper
     display: flex
