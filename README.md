@@ -292,6 +292,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [The 30 days JavaScript Challenge](https://javascript30.com/)
 - [Async/Await in JavaScript Explained](https://blog.skay.dev/asyncawait-in-javascript-explained)
 - [JavaScript: Understanding the Weird Parts](https://www.youtube.com/watch?v=Bv_5Zv5c-Ts&ab_channel=TonyAlicea)
+- [Full Stack Javascript course by The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript)
 
 ---
 
