@@ -292,6 +292,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [The 30 days JavaScript Challenge](https://javascript30.com/)
 - [Async/Await in JavaScript Explained](https://blog.skay.dev/asyncawait-in-javascript-explained)
 - [JavaScript: Understanding the Weird Parts](https://www.youtube.com/watch?v=Bv_5Zv5c-Ts&ab_channel=TonyAlicea)
+- [Full Stack Javascript course by The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript)
 
 ---
 
@@ -410,6 +411,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 - [ Ruby from Tutorialspoint](https://www.tutorialspoint.com/ruby/ruby_strings.htm)
 - [Full course by freeCodeCamp.org](https://www.youtube.com/watch?v=t_ispmWmdjY)
+- [Full Stack Ruby and Ruby on Rails course by The Odin Project](https://www.theodinproject.com/paths/full-stack-ruby-on-rails)
 
 ---
 
