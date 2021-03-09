@@ -90,45 +90,56 @@ footer
 
 // toggle button styles
 
-.toggle
-    position: relative
-    display: inline-block
-    width: 3em
-    height: 1.5em
+.themeControl
+    display: flex
+    justify-content: center
+    align-items: center
     margin-left: 1.5em
-    input
-        opacity: 0
-        width: 0
-        height: 0
-        &:checked + .slider
-            background-color: $main-color
-            &:before
-                -webkit-transform: translateX(1.5em)
-                -ms-transform: translateX(1.5em)
-                transform: translateX(1.5em)
-        &:focus + .slider
-            box-shadow: 0 0 .1em $main-color
-    .slider
-        position: absolute
-        cursor: pointer
-        top: 0
-        left: 0
-        right: 0
-        bottom: 0
-        background-color: #ccc
-        -webkit-transition: .4s
-        transition: .4s
-        &:before
+    #moon, #sun
+        color: #ccc
+        font-size: 1.8rem
+    .yellow
+        color: #fff44f !important
+        transition: .5s
+    .toggle
+        position: relative
+        display: inline-block
+        width: 3em
+        height: 1.5em
+        margin: auto .8em
+        input
+            opacity: 0
+            width: 0
+            height: 0
+            &:checked + .slider
+                background-color: $main-color
+                &:before
+                    -webkit-transform: translateX(1.5em)
+                    -ms-transform: translateX(1.5em)
+                    transform: translateX(1.5em)
+            &:focus + .slider
+                box-shadow: 0 0 .1em $main-color
+        .slider
             position: absolute
-            content: ""
-            height: 1.3em
-            width: 1.3em
-            left: .1em
-            bottom: .1em
-            background-color: white
+            cursor: pointer
+            top: 0
+            left: 0
+            right: 0
+            bottom: 0
+            background-color: #ccc
             -webkit-transition: .4s
             transition: .4s
-    .round
-        border-radius: 2em
-        &:before
-            border-radius: 50%
+            &:before
+                position: absolute
+                content: ""
+                height: 1.3em
+                width: 1.3em
+                left: .1em
+                bottom: .1em
+                background-color: white
+                -webkit-transition: .4s
+                transition: .4s
+        .round
+            border-radius: 2em
+            &:before
+                border-radius: 50%
