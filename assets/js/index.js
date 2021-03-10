@@ -23,11 +23,15 @@ const footerColor = '#f9f9f9'
 function toggleTheme(){
   const sun = document.getElementById('sun')
   const moon = document.getElementById('moon')
+  const nav = document.getElementById('nav')
+  const burgerMenu = document.getElementById('burgerMenu')
   if(document.getElementById('toggleCheckBox').checked){
     document.body.style.background = `${darkBlack}`
     document.body.style.color = 'snow'
     header.style.background = `${lightBlack}`
     footer.style.background = `${lightBlack}`
+    nav.style.background = '#3e4040de'
+    burgerMenu.style.background = `${lightBlack}`
     moon.classList.add('yellow')
     sun.classList.remove('yellow')
   }else{
@@ -35,6 +39,8 @@ function toggleTheme(){
     document.body.style.color = 'black'
     header.style.background = `${mainColor}`
     footer.style.background = `${footerColor}`
+    nav.style.background = '#75C9C8de'
+    burgerMenu.style.background = `${mainColor}`
     sun.classList.add('yellow')
     moon.classList.remove('yellow')
   }
