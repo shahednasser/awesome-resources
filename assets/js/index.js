@@ -30,7 +30,7 @@ function toggleTheme(){
     document.body.style.color = 'snow'
     header.style.background = `${lightBlack}`
     footer.style.background = `${lightBlack}`
-    nav.style.background = '#3e4040de'
+    nav.style.background = `${lightBlack}`
     burgerMenu.style.background = `${lightBlack}`
     moon.classList.add('yellow')
     sun.classList.remove('yellow')
@@ -39,7 +39,7 @@ function toggleTheme(){
     document.body.style.color = 'black'
     header.style.background = `${mainColor}`
     footer.style.background = `${footerColor}`
-    nav.style.background = '#75C9C8de'
+    nav.style.background = `${mainColor}`
     burgerMenu.style.background = `${mainColor}`
     sun.classList.add('yellow')
     moon.classList.remove('yellow')
