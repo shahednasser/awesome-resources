@@ -8,6 +8,7 @@ $main-color: #75C9C8
 
 body 
     font-family: 'Montserrat', sans-serif
+    transition: all .7s
 
 
 a
@@ -63,6 +64,7 @@ hr
 .site-header
     border-top: 0
     background-color: $main-color
+    width: 100%
     .site-title
         font-weight: 500
         color: #ffffff
@@ -81,3 +83,82 @@ footer
             .svg-icon
                 transform: scale(1.5)
                 fill: $main-color
+
+.navWrapper
+    width: 95%
+    display: flex
+    justify-content: space-between
+    align-items: center
+    #burgerMenu
+        background-color: $main-color
+        svg
+            fill: #ffffff
+
+.trigger
+    display: flex
+    justify-content: center
+    align-items: center
+    #githubIco
+        font-size: 2rem
+        &:hover
+            color: #d6d6d6
+    // toggle button style
+    .themeControl
+        display: flex
+        justify-content: center
+        align-items: center
+        margin-left: 1.5em
+        #moon, #sun
+            color: #fdfdfd
+            font-size: 1rem
+        .yellow
+            color: #fff44f !important
+            transition: .5s
+        .toggle
+            position: relative
+            display: inline-block
+            width: 3em
+            height: 1em
+            margin: auto .8em
+            input
+                opacity: 0
+                width: 0
+                height: 0
+                &:checked + .slider
+                    background-color: $main-color
+                    &:before
+                        -webkit-transform: translateX(2em)
+                        -ms-transform: translateX(2em)
+                        transform: translateX(2em)
+                &:focus + .slider
+                    box-shadow: 0 0 .1em $main-color
+            .slider
+                position: absolute
+                cursor: pointer
+                top: 0
+                left: 0
+                right: 0
+                bottom: 0
+                background-color: #f0ecec
+                -webkit-transition: .4s
+                transition: .4s
+                &:before
+                    position: absolute
+                    content: ""
+                    height: 1em
+                    width: 1em
+                    background-color: #fdfdfd
+                    box-shadow: .5px .5px .5em .5px #b6b5b5
+                    -webkit-transition: .4s
+                    transition: .4s
+            .round
+                border-radius: 2em
+                &:before
+                    border-radius: 50%
+
+// rules when the burger menu is shown
+@media screen and (max-width: 600px)
+.site-nav
+    background-color: $main-color
+    border: none
+    text-align: left
