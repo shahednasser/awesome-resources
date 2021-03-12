@@ -10,6 +10,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 - [Android](#android)
 - [Angular](#angular)
+- [Bots](#bots)
 - [Computer Science](#computer-science)
 - [CSS](#css)
 - [CSharp](#csharp)
@@ -85,6 +86,12 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [udemy - The Complete Guide to Angular 2](https://www.udemy.com/the-complete-guide-to-angular-2/)
 - [Pluralsight - Angular 2: First Look](https://www.pluralsight.com/courses/angular-2-first-look)
 - [Pluralsight - Angular 2: Getting Started](https://www.pluralsight.com/courses/angular-2-getting-started-update)
+
+---
+
+## Bots
+
+- [Simple Twitter Bot Tutorial with Node.js](https://blog.shahednasser.com/simple-twitter-bot-tutorial-with-node-js/)
 
 ---
 
