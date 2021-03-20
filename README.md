@@ -416,9 +416,10 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 ## RUBY
 
-- [ Ruby from Tutorialspoint](https://www.tutorialspoint.com/ruby/ruby_strings.htm)
+- [Ruby from Tutorialspoint](https://www.tutorialspoint.com/ruby/ruby_strings.htm)
 - [Full course by freeCodeCamp.org](https://www.youtube.com/watch?v=t_ispmWmdjY)
 - [Full Stack Ruby and Ruby on Rails course by The Odin Project](https://www.theodinproject.com/paths/full-stack-ruby-on-rails)
+- [Full Stack Ruby Online course at App Academy Open - required login to access](https://open.appacademy.io/login)
 
 ---
 
