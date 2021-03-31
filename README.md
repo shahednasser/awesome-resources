@@ -254,6 +254,8 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Pro Git Book](https://git-scm.com/book/en/v2/)
 - [Udacity's Git Commit Style Guide](https://udacity.github.io/git-styleguide/)
 - [Learn Git Branching](https://learngitbranching.js.org/): A beautiful visual guide to learn simple and advanced Git.
+- [git - the simple guide](http://rogerdudler.github.io/git-guide/)
+- [Oh Shit, Git!?!](https://ohshitgit.com/)
 
 ---
 
