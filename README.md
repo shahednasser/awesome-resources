@@ -88,7 +88,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [udemy - The Complete Guide to Angular 2](https://www.udemy.com/the-complete-guide-to-angular-2/)
 - [Pluralsight - Angular 2: First Look](https://www.pluralsight.com/courses/angular-2-first-look)
 - [Pluralsight - Angular 2: Getting Started](https://www.pluralsight.com/courses/angular-2-getting-started-update)
-- [ AngularJS for Professionals book ](https://github.com/shahednasser/awesome-resources/books/)
+- [ AngularJS for Professionals book ](https://github.com/kapoor1909/awesome-resources/blob/master/books/Angular%20JS.pdf)
 ---
 
 ## Bots
@@ -105,7 +105,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 
 ## C++
 
-- [C++ for Professionals]()
+- [C++ for Professionals](https://github.com/kapoor1909/awesome-resources/blob/master/books/CPlusPlusNotesForProfessionals.pdf)
 
 ---
 
@@ -292,7 +292,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [10 Simple Java Projects for Beginners ](https://javahungry.blogspot.com/2019/12/java-projects-for-beginners.html)
 - [Advanced Java Programming](https://www.udemy.com/course/advanced-java-programming/)
 - [Learn Servlet Tutorial](https://www.javatpoint.com/servlet-tutorial)
-- [Book ](https://github.com/shahednasser/awesome-resources/book/)
+- [Java Book](https://github.com/kapoor1909/awesome-resources/blob/master/books/Java.pdf)
 ---
 
 ## Javascript
@@ -309,12 +309,12 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Async/Await in JavaScript Explained](https://blog.skay.dev/asyncawait-in-javascript-explained)
 - [JavaScript: Understanding the Weird Parts](https://www.youtube.com/watch?v=Bv_5Zv5c-Ts&ab_channel=TonyAlicea)
 - [Full Stack Javascript course by The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript)
-- [JS for Professionals Book ](https://github.com/shahednasser/awesome-resources/book/)
-- [JS Book ](https://github.com/shahednasser/awesome-resources/book/)
+- [JS for Professionals Book ](https://github.com/kapoor1909/awesome-resources/blob/master/books/JavaScript.pdf)
+- [JS Book ](https://github.com/kapoor1909/awesome-resources/blob/master/books/JS.pdf)
 ---
 ## Jquery
 
-- [Jquery Book]()
+- [Jquery Book](https://github.com/kapoor1909/awesome-resources/blob/master/books/jQuery.pdf)
 
 ---
 
@@ -416,7 +416,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [React Patterns](https://reactpatterns.com/)
 - [Useful Packages you should know in React](https://medium.com/better-programming/14-useful-packages-every-react-developer-should-know-55b47a325d3)
 - [Learn React Test Driven Development](https://learntdd.in/react/)
-- [React JS Book ](https://github.com/shahednasser/awesome-resources/book/)
+- [React JS Book](https://github.com/kapoor1909/awesome-resources/blob/master/books/ReactJS.pdf)
 ---
 
 ## React Native
