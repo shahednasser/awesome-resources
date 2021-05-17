@@ -12,6 +12,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Angular](#angular)
 - [Bots](#bots)
 - [Computer Science](#computer-science)
+- [C++](#c++)
 - [CSS](#css)
 - [CSharp](#csharp)
 - [Dart](#dart)
@@ -34,6 +35,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [GraphQL](#graphql)
 - [Java](#java)
 - [Javascript](#javascript)
+- [Jquery](#jquery)
 - [Laravel](#laravel)
 - [LESS](#less)
 - [Linux](#linux)
@@ -86,7 +88,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [udemy - The Complete Guide to Angular 2](https://www.udemy.com/the-complete-guide-to-angular-2/)
 - [Pluralsight - Angular 2: First Look](https://www.pluralsight.com/courses/angular-2-first-look)
 - [Pluralsight - Angular 2: Getting Started](https://www.pluralsight.com/courses/angular-2-getting-started-update)
-
+- [ AngularJS for Professionals book ](https://github.com/shahednasser/awesome-resources/books/)
 ---
 
 ## Bots
@@ -100,6 +102,13 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [CS50](https://cs50.harvard.edu/college/2020/fall/)
 
 ---
+
+## C++
+
+- [C++ for Professionals]()
+
+---
+
 
 ## CSS
 
@@ -283,7 +292,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [10 Simple Java Projects for Beginners ](https://javahungry.blogspot.com/2019/12/java-projects-for-beginners.html)
 - [Advanced Java Programming](https://www.udemy.com/course/advanced-java-programming/)
 - [Learn Servlet Tutorial](https://www.javatpoint.com/servlet-tutorial)
-
+- [Book ](https://github.com/shahednasser/awesome-resources/book/)
 ---
 
 ## Javascript
@@ -300,8 +309,15 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [Async/Await in JavaScript Explained](https://blog.skay.dev/asyncawait-in-javascript-explained)
 - [JavaScript: Understanding the Weird Parts](https://www.youtube.com/watch?v=Bv_5Zv5c-Ts&ab_channel=TonyAlicea)
 - [Full Stack Javascript course by The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript)
+- [JS for Professionals Book ](https://github.com/shahednasser/awesome-resources/book/)
+- [JS Book ](https://github.com/shahednasser/awesome-resources/book/)
+---
+## Jquery
+
+- [Jquery Book]()
 
 ---
+
 
 ## Laravel
 
@@ -400,7 +416,7 @@ To contribute, please check out our contribution guide [here](https://github.com
 - [React Patterns](https://reactpatterns.com/)
 - [Useful Packages you should know in React](https://medium.com/better-programming/14-useful-packages-every-react-developer-should-know-55b47a325d3)
 - [Learn React Test Driven Development](https://learntdd.in/react/)
-
+- [React JS Book ](https://github.com/shahednasser/awesome-resources/book/)
 ---
 
 ## React Native
