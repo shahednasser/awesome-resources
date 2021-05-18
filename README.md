@@ -4,7 +4,7 @@
 
 # Contribution
 
-To contribute, please check out our contribution guide [here](https://github.com/shahednasser/awesome-resources/blob/master/CONTRIBUTING.md).
+To add a resource or contribute, please check out our contribution guide [here](https://github.com/shahednasser/awesome-resources/blob/master/CONTRIBUTING.md).
 
 # Content
 
