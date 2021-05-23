@@ -110,6 +110,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [CSS Framework - Bulma](https://bulma.io/)
 - [CSS Framework - Materialize](https://materializecss.com/)
 - [CSS Framework - Tailwind CSS](https://tailwindcss.com/)
+- [Style Stage - A modern CSS showcase styled by community contributions](https://stylestage.dev/)
 
 ---
 
