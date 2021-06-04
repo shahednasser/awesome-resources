@@ -385,6 +385,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Python Tips and Tricks for Beginners](https://towardsdatascience.com/python-tips-and-tricks-for-beginners-62473d569d0a)
 - [The Hitchhiker's Guide to Python](https://docs.python-guide.org/)
 - [Python Tips and Tricks for Beginners](https://towardsdatascience.com/python-tips-and-tricks-for-beginners-62473d569d0a)
+- [Python Tutorials with online IDE](https://jobtensor.com/Tutorial/Python/en/Introduction)
 
 ---
 
