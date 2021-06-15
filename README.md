@@ -58,6 +58,7 @@ To add a resource or contribute, please check out our contribution guide [here](
   - [Design](#design)
   - [Open Source](#open-source)
   - [Standard Template Library](#standard-template-library)
+  - [Programming Courses Free Online](#programming-courses-free-online)
 
 
 ---
@@ -533,3 +534,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 ### Standard Template Library
 
 - [C++ Standard Template Library in Practice](https://www.udemy.com/course/c-standard-template-library-in-practice/learn/)
+
+### Programming Courses Free Online
+
+- [SoloLearn](https://www.sololearn.com/learning)
