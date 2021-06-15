@@ -58,7 +58,7 @@ To add a resource or contribute, please check out our contribution guide [here](
   - [Design](#design)
   - [Open Source](#open-source)
   - [Standard Template Library](#standard-template-library)
-  - [Programming Courses Free Online](#programming-courses-free-online)
+  - [SoloLearn](#programming-courses-free-online)
 
 
 ---
@@ -537,4 +537,4 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 ### Programming Courses Free Online
 
-- [Programming Courses Free Online](https://www.sololearn.com/learning)
+- [SoloLearn](https://www.sololearn.com/learning)
