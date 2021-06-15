@@ -537,4 +537,4 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 ### Learn to Code
 
-- [Code Learning Free Courses](https://www.sololearn.com/learning)
+- [Programming Courses Free Online](https://www.sololearn.com/learning)
