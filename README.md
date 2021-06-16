@@ -138,7 +138,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 ---
 
 ## Data Science
-
+- [DPhi-Data Science Courses](https://dphi.tech/) 
 - [IBM Data Science Coursera](https://www.coursera.org/professional-certificates/ibm-data-science)
 - [Introduction to Data Science with R](https://www.youtube.com/watch?v=32o0DnuRjfg&list=PLTJTBoU5HOCRrTs3cJK-PbHM39cwCU0PF&index=1)
 
