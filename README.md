@@ -381,6 +381,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 ## Python
 
 - [Automate The Boring Stuff With Python](https://automatetheboringstuff.com/2e/chapter0/)
+- [How to start with Python](https://anurag10202.medium.com/how-to-start-with-python-ab1487721214)
 - [Python Intermediate Tutorial](https://github.com/python-engineer/python-engineer-notebooks/tree/master/advanced-python)
 - [Python Tutorial](https://www.w3schools.com/python/)
 - [Python for Everybody (14 hour course)](https://www.youtube.com/watch?v=8DvywoWv6fI&feature=emb_title)
