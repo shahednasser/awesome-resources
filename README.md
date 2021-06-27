@@ -266,6 +266,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [GitHub Guide](https://github.com/antonykidis/GitHub-guide/blob/master/Git%20and%20GitHub.pdf)
 - [GitHub Learning Lab](https://lab.github.com/)
 - [Hands-on-experience-of-git-commands](https://www.youtube.com/watch?v=uj4fy4kpaOA)
+- [Step by Step Guide to Contributing on GitHub](https://www.dataschool.io/how-to-contribute-on-github/)
 
 ---
 
