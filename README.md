@@ -309,6 +309,12 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 ---
 
+## Kubernetese
+
+-[Kubernetes - Lets learn the basic tenets](https://atharvacodes.netlify.app/kubernetes-docker/Basic-tenets/)
+
+---
+
 ## Laravel
 
 - [Official Documentation](https://laravel.com)
@@ -496,6 +502,12 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Dockerizing a Vue App](https://mherman.org/blog/dockerizing-a-vue-app/)
 - [Deploying a Flask and Vue App to Heroku with Docker and Gitlab CI](https://testdriven.io/blog/deploying-flask-to-heroku-with-docker-and-gitlab/)
 - [Large-scale Vuex application structures](https://medium.com/3yourmind/large-scale-vuex-application-structures-651e44863e2f)
+
+---
+
+## Version Control System
+
+- [Beginners guide to Git and Github](https://github.com/atharva20-coder/intro-to-git-github/raw/main/intro%20to%20git%20and%20github.pdf)
 
 ---
 
