@@ -258,6 +258,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Pro Git Book](https://git-scm.com/book/en/v2/)
 - [Udacity's Git Commit Style Guide](https://udacity.github.io/git-styleguide/)
 - [Learn Git Branching](https://learngitbranching.js.org/): A beautiful visual guide to learn simple and advanced Git.
+- [Beginners guide to Git and Github](https://github.com/atharva20-coder/intro-to-git-github/raw/main/intro%20to%20git%20and%20github.pdf)
 
 ---
 
@@ -309,6 +310,13 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 ---
 
+## Kubernetese
+
+- [Kubernetes - Lets learn the basic tenets](https://atharvacodes.netlify.app/kubernetes-docker/Basic-tenets/)
+
+---
+
+
 ## Laravel
 
 - [Official Documentation](https://laravel.com)
@@ -319,6 +327,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Server Management for Laravel](https://forge.laravel.com)
 
 ---
+
 
 ## LESS
 
