@@ -112,6 +112,8 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [CSS Framework - Materialize](https://materializecss.com/)
 - [CSS Framework - Tailwind CSS](https://tailwindcss.com/)
 - [Style Stage - A modern CSS showcase styled by community contributions](https://stylestage.dev/)
+- [CSS Flexbox - Wes Bos](https://flexbox.io/)
+- [CSS Grid - Wes Bos](https://cssgrid.io/)
 
 ---
 
@@ -259,6 +261,10 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Udacity's Git Commit Style Guide](https://udacity.github.io/git-styleguide/)
 - [Learn Git Branching](https://learngitbranching.js.org/): A beautiful visual guide to learn simple and advanced Git.
 - [Beginners guide to Git and Github](https://github.com/atharva20-coder/intro-to-git-github/raw/main/intro%20to%20git%20and%20github.pdf)
+- [Git notes for Professionals Book](https://goalkicker.com/GitBook/)
+- [Introduction to Git and Github ebook - Bobby Iliev(Markdown, PDF)](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook)
+- [Introduction to Git and Github - Launch School](https://launchschool.com/books/git)
+- [Git Immersion](https://gitimmersion.com/) 
 
 ---
 
