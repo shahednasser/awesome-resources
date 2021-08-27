@@ -313,6 +313,9 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Async/Await in JavaScript Explained](https://blog.skay.dev/asyncawait-in-javascript-explained)
 - [JavaScript: Understanding the Weird Parts](https://www.youtube.com/watch?v=Bv_5Zv5c-Ts&ab_channel=TonyAlicea)
 - [Full Stack Javascript course by The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript)
+- [Building Front-End Web Apps with Plain JavaScript](https://web-engineering.info/tech/JsFrontendApp/book/)
+- [JavaScript for impatient programmers](https://exploringjs.com/impatient-js/toc.html)
+- [The Modern JavaScript Tutorial](https://javascript.info/)
 
 ---
 
