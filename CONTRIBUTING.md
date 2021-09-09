@@ -22,7 +22,7 @@ You can contribute to this repository very easily!
 
 ![Edit README](https://github.com/shahednasser/awesome-resources/blob/master/assets/edit-README.png)
 
-4. Find the correct category for your resource. For example: If it's a Javascript tutorial, you need to add it under [Javascript](https://github.com/shahednasser/awesome-resources/blob/master/assets/edit-README.png).
+4. Find the correct category for your resource. For example: If it's a JavaScript tutorial, you need to add it under [Javascript](https://github.com/shahednasser/awesome-resources/blob/master/assets/edit-README.png).
 If the category does not exist, you can add it under [Content](https://github.com/shahednasser/awesome-resources/blob/master/assets/edit-README.png). **Resources are added in alphabetical order, except for Other which should stay at last.**
 
 To add a new category, add a list item with the name of the category and the URL to it (hash of the slug of the name). For example:
@@ -45,7 +45,7 @@ To add a new category, add a list item with the name of the category and the URL
 
 ## Contributing to the Website
 
-To contribute to the website, you need to have jekyll and its prerequisits installed. If you don't, you can check [here](https://jekyllrb.com/docs/).
+To contribute to the website, you need to have Jekyll and its prerequisites installed. If you don't, you can check [here](https://jekyllrb.com/docs/).
 
 After cloning the repository, in the folder run the following to install the bundles:
 
