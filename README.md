@@ -319,10 +319,10 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 ---
 
-## Kubernetese
+## Kubernetes
 
 - [Kubernetes - Lets learn the basic tenets](https://atharvacodes.netlify.app/kubernetes-docker/Basic-tenets/)
-
+- [Understanding Kubernetes: Developer's Guide](https://blog.thewiz.net/understanding-kubernetes-developers-guide)
 ---
 
 
