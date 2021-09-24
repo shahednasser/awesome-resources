@@ -160,6 +160,8 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 - [Docker Overview & Basics](https://docs.docker.com/get-started/overview/)
 - [Docker for beginners](https://youtu.be/zJ6WbK9zFpI)
+- [Docker Curriculum Ebook](https://docker-curriculum.com/)
+
 
 ---
 
