@@ -551,6 +551,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [404 Illustration](https://error404.fun/): Free illustrations for 404 pages
 - [Humaans](https://www.humaaans.com/): Mix-&-match illustrations of people with a design library
 - [UI Design Daily](https://uidesigndaily.com/): Awesome UI Components of all types
+- [Freepik](https://www.freepik.com/): Find Free Vectors, Stock Photos and PSD
 
 ### Open Source
 
