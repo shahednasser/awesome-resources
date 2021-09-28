@@ -566,6 +566,6 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 - [SoloLearn](https://www.sololearn.com/learning)
 
-### VS Code tricks
+### VS Code
 
 - [How to run graphics.h in VS Code](https://github.com/ullaskunder3/Solution-to-graphics.h)
