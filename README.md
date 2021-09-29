@@ -318,7 +318,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Building Front-End Web Apps with Plain JavaScript](https://web-engineering.info/tech/JsFrontendApp/book/)
 - [JavaScript for impatient programmers](https://exploringjs.com/impatient-js/toc.html)
 - [The Modern JavaScript Tutorial](https://javascript.info/)
-- [You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS)
+- [You Don't Know JS Yet (book series)](https://github.com/getify/You-Dont-Know-JS)
 
 ---
 
