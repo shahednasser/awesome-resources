@@ -59,6 +59,7 @@ To add a resource or contribute, please check out our contribution guide [here](
   - [Open Source](#open-source)
   - [Standard Template Library](#standard-template-library)
   - [Programming Courses Free Online](#programming-courses-free-online)
+  - [Web Design & Development Toolkit](#)
 
 
 ---
@@ -569,3 +570,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 ### VS Code
 
 - [How to run graphics.h in VS Code](https://github.com/ullaskunder3/Solution-to-graphics.h)
+
+### Web Design & Development Toolkit
+
+- [533 Hand-Picked Tools & Resources for Web Designers & Developers](https://toolkit.addy.codes/)
