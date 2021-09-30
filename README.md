@@ -59,6 +59,7 @@ To add a resource or contribute, please check out our contribution guide [here](
   - [Open Source](#open-source)
   - [Standard Template Library](#standard-template-library)
   - [Programming Courses Free Online](#programming-courses-free-online)
+  - [Web Design & Development Toolkit](#web-design--development-toolkit)
 
 
 ---
@@ -160,6 +161,8 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 - [Docker Overview & Basics](https://docs.docker.com/get-started/overview/)
 - [Docker for beginners](https://youtu.be/zJ6WbK9zFpI)
+- [Docker Curriculum Ebook](https://docker-curriculum.com/)
+
 
 ---
 
@@ -319,10 +322,10 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 ---
 
-## Kubernetese
+## Kubernetes
 
 - [Kubernetes - Lets learn the basic tenets](https://atharvacodes.netlify.app/kubernetes-docker/Basic-tenets/)
-
+- [Understanding Kubernetes: Developer's Guide](https://blog.thewiz.net/understanding-kubernetes-developers-guide)
 ---
 
 
@@ -351,6 +354,8 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Introduction to Linux](https://training.linuxfoundation.org/resources/free-courses/introduction-to-linux/)
 - [Introduction to the world of ricing](https://zoug.top/2016/12/26/introduction-to-ricing/)
 - [The Linux guide/cheatsheet/tutorial (Commands, Directories, etc)](https://dev.to/kedark/the-linux-guide-cheatsheet-commands-directories-etc-39k0)
+- [Linux kernel and its insides](https://0xax.gitbooks.io/linux-insides/content/)
+- [Interactive map of Linux Kernel](https://makelinux.github.io/kernel/map/)
 
 ---
 
@@ -547,6 +552,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [404 Illustration](https://error404.fun/): Free illustrations for 404 pages
 - [Humaans](https://www.humaaans.com/): Mix-&-match illustrations of people with a design library
 - [UI Design Daily](https://uidesigndaily.com/): Awesome UI Components of all types
+- [Freepik](https://www.freepik.com/): Find Free Vectors, Stock Photos and PSD
 
 ### Open Source
 
@@ -560,3 +566,11 @@ To add a resource or contribute, please check out our contribution guide [here](
 ### Programming Courses Free Online
 
 - [SoloLearn](https://www.sololearn.com/learning)
+
+### VS Code
+
+- [How to run graphics.h in VS Code](https://github.com/ullaskunder3/Solution-to-graphics.h)
+
+### Web Design & Development Toolkit
+
+- [533 Hand-Picked Tools & Resources for Web Designers & Developers](https://toolkit.addy.codes/)
