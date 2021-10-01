@@ -335,6 +335,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [You Don't Know JS Yet (book series)](https://github.com/getify/You-Dont-Know-JS)
 - [30SecondsOfCode JavaScript Snippets](https://www.30secondsofcode.org/js/p/1)
 - [Full Stack open 2021](https://fullstackopen.com/en/)
+- [Demystifying JavaScript Promises - A New Way to Learn](https://blog.greenroots.info/series/javascript-promises)
 
 ---
 
