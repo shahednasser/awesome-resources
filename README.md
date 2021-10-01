@@ -116,6 +116,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Style Stage - A modern CSS showcase styled by community contributions](https://stylestage.dev/)
 - [CSS Flexbox - Wes Bos](https://flexbox.io/)
 - [CSS Grid - Wes Bos](https://cssgrid.io/)
+- [30SecondsOfCode CSS Snippet](https://www.30secondsofcode.org/css/p/1)
 
 ---
 
