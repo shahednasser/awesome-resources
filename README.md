@@ -336,8 +336,14 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 - [Kubernetes - Lets learn the basic tenets](https://atharvacodes.netlify.app/kubernetes-docker/Basic-tenets/)
 - [Understanding Kubernetes: Developer's Guide](https://blog.thewiz.net/understanding-kubernetes-developers-guide)
+- [Kubernetes Hands On & Training](https://www.katacoda.com/courses/kubernetes)
 ---
 
+## OpenShift
+
+- [OpenShift Interactive Learning Portal](https://learn.openshift.com)
+- [OpenShift Tutorials](https://developers.redhat.com)
+---
 
 ## Laravel
 
