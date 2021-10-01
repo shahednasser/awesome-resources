@@ -329,6 +329,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [The Modern JavaScript Tutorial](https://javascript.info/)
 - [20 Killer JavaScript One Liners ☝️](https://dev.to/saviomartin/20-killer-javascript-one-liners-94f)
 - [You Don't Know JS Yet (book series)](https://github.com/getify/You-Dont-Know-JS)
+- [30SecodsOfCode JavaScript Snippets](https://www.30secondsofcode.org/js/p/1)
 
 ---
 
