@@ -145,6 +145,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [DPhi-Data Science Courses](https://dphi.tech/) 
 - [IBM Data Science Coursera](https://www.coursera.org/professional-certificates/ibm-data-science)
 - [Introduction to Data Science with R](https://www.youtube.com/watch?v=32o0DnuRjfg&list=PLTJTBoU5HOCRrTs3cJK-PbHM39cwCU0PF&index=1)
+- [Data Science Methodology](https://cognitiveclass.ai/courses/data-science-methodology-2)
 
 ---
 
@@ -337,12 +338,14 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Kubernetes - Lets learn the basic tenets](https://atharvacodes.netlify.app/kubernetes-docker/Basic-tenets/)
 - [Understanding Kubernetes: Developer's Guide](https://blog.thewiz.net/understanding-kubernetes-developers-guide)
 - [Kubernetes Hands On & Training](https://www.katacoda.com/courses/kubernetes)
+
 ---
 
 ## OpenShift
 
 - [OpenShift Interactive Learning Portal](https://learn.openshift.com)
 - [OpenShift Tutorials](https://developers.redhat.com)
+
 ---
 
 ## Laravel
