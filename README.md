@@ -326,6 +326,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Building Front-End Web Apps with Plain JavaScript](https://web-engineering.info/tech/JsFrontendApp/book/)
 - [JavaScript for impatient programmers](https://exploringjs.com/impatient-js/toc.html)
 - [The Modern JavaScript Tutorial](https://javascript.info/)
+- [20 Killer JavaScript One Liners ☝️](https://dev.to/saviomartin/20-killer-javascript-one-liners-94f)
 - [You Don't Know JS Yet (book series)](https://github.com/getify/You-Dont-Know-JS)
 
 ---
