@@ -568,6 +568,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Freepik](https://www.freepik.com/): Find Free Vectors, Stock Photos and PSD
 - [Geometric Shapes](https://tool.graphics/shapes): Free Geometric Shapes to use in Figma and download
 - [3D-Icons](https://free3dicon.com/): Free 3D - Icons to download
+- [533 Hand-Picked Tools & Resources for Web Designers & Developers](https://toolkit.addy.codes/)
 
 ### Open Source
 
