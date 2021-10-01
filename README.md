@@ -31,6 +31,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Flutter](#flutter)
 - [GIT](#git)
 - [GitHub](#github)
+- [Go](#go)
 - [GraphQL](#graphql)
 - [Java](#java)
 - [Javascript](#javascript)
@@ -99,6 +100,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 ## Computer Science
 
 - [CS50](https://cs50.harvard.edu/college/2020/fall/)
+- [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 
 ---
 
@@ -281,6 +283,12 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 ---
 
+## Go
+
+- [A Tour of Go - A Complete Tour of the Go Programming Language.](https://tour.golang.org/)
+
+---
+
 ## GraphQL
 
 - [GraphQL tutorial for beginners](https://www.howtographql.com/)
@@ -319,6 +327,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [JavaScript for impatient programmers](https://exploringjs.com/impatient-js/toc.html)
 - [The Modern JavaScript Tutorial](https://javascript.info/)
 - [20 Killer JavaScript One Liners ☝️](https://dev.to/saviomartin/20-killer-javascript-one-liners-94f)
+- [You Don't Know JS Yet (book series)](https://github.com/getify/You-Dont-Know-JS)
 
 ---
 
@@ -372,6 +381,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Calculus](http://cs231n.stanford.edu/handouts/derivatives.pdf)
 - [Statistical concepts for machine learning](http://www-bcf.usc.edu/~gareth/ISL/)
 - [AWS Machine Learning Tools](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/aws-machine-learning-tools-the-complete-guide/amp/)
+- [Introductory Primer](https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer)
 
 ---
 
@@ -553,6 +563,8 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Humaans](https://www.humaaans.com/): Mix-&-match illustrations of people with a design library
 - [UI Design Daily](https://uidesigndaily.com/): Awesome UI Components of all types
 - [Freepik](https://www.freepik.com/): Find Free Vectors, Stock Photos and PSD
+- [Geometric Shapes](https://tool.graphics/shapes): Free Geometric Shapes to use in Figma and download
+- [3D-Icons](https://free3dicon.com/): Free 3D - Icons to download
 
 ### Open Source
 
