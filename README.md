@@ -270,6 +270,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Introduction to Git and Github ebook - Bobby Iliev(Markdown, PDF)](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook)
 - [Introduction to Git and Github - Launch School](https://launchschool.com/books/git)
 - [Git Immersion](https://gitimmersion.com/) 
+- [30SecondsOfCode Git Snippets](https://www.30secondsofcode.org/git/p/1)
 
 ---
 
@@ -568,7 +569,6 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Freepik](https://www.freepik.com/): Find Free Vectors, Stock Photos and PSD
 - [Geometric Shapes](https://tool.graphics/shapes): Free Geometric Shapes to use in Figma and download
 - [3D-Icons](https://free3dicon.com/): Free 3D - Icons to download
-- [533 Hand-Picked Tools & Resources for Web Designers & Developers](https://toolkit.addy.codes/)
 
 ### Open Source
 
