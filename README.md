@@ -211,6 +211,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Minimum Stack / Minimum Queue](https://cp-algorithms.com/data_structures/stack_queue_modification.html)
 - [Sparse Table](https://cp-algorithms.com/data_structures/sparse-table.html)
 - [DSA + Java Interview Preparation Course](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
+- [DSA + C++ Interview Preparation Course](https://www.youtube.com/watch?v=z9bZufPHFLU&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ)
 
 ### Dynamic Programming
 
@@ -273,7 +274,6 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Introduction to Git and Github - Launch School](https://launchschool.com/books/git)
 - [Git Immersion](https://gitimmersion.com/) 
 - [30SecondsOfCode Git Snippets](https://www.30secondsofcode.org/git/p/1)
-- [Git - the simple guide](https://rogerdudler.github.io/git-guide/)
 
 ---
 
@@ -594,6 +594,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 ### Programming Courses Free Online
 
 - [SoloLearn](https://www.sololearn.com/learning)
+- [Learn C++](https://www.codecademy.com/learn/learn-c-plus-plus)
 
 ### VS Code
 
