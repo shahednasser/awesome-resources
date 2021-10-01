@@ -590,6 +590,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 ### Standard Template Library
 
 - [C++ Standard Template Library in Practice](https://www.udemy.com/course/c-standard-template-library-in-practice/learn/)
+- [Learn C++ STL by reading documentation](https://www.learncpp.com/cpp-tutorial/the-standard-template-library-stl/)
 
 ### Programming Courses Free Online
 
