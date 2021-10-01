@@ -270,6 +270,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Introduction to Git and Github ebook - Bobby Iliev(Markdown, PDF)](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook)
 - [Introduction to Git and Github - Launch School](https://launchschool.com/books/git)
 - [Git Immersion](https://gitimmersion.com/) 
+- [30SecondsOfCode Git Snippets](https://www.30secondsofcode.org/git/p/1)
 
 ---
 
