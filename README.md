@@ -400,6 +400,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Introduction to nodejs](https://www.tutorialspoint.com/nodejs/nodejs_introduction.htm)
 - [Beginners guide to nodejs (step by step)](https://www.w3schools.com/nodejs/nodejs_intro.asp)
 - [Node JS Architecture](https://www.journaldev.com/7462/node-js-architecture-single-threaded-event-loop)
+- [Deploy Node App on AWS EC2](https://jobin.hashnode.dev/deploy-your-node-js-app-into-production-with-nginx-and-ssl-installationstep-by-step-tutorial)
 
 ---
 
@@ -583,3 +584,4 @@ To add a resource or contribute, please check out our contribution guide [here](
 ### VS Code
 
 - [How to run graphics.h in VS Code](https://github.com/ullaskunder3/Solution-to-graphics.h)
+- [Top 5 VS Code extensions for web developers](https://jobin.hashnode.dev/top-5-vs-code-extension-for-web-developers-in-2021)
