@@ -206,6 +206,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 - [Minimum Stack / Minimum Queue](https://cp-algorithms.com/data_structures/stack_queue_modification.html)
 - [Sparse Table](https://cp-algorithms.com/data_structures/sparse-table.html)
+- [DSA + Java Interview Preparation Course](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
 
 ### Dynamic Programming
 
