@@ -31,6 +31,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Flutter](#flutter)
 - [GIT](#git)
 - [GitHub](#github)
+- [Go](#go)
 - [GraphQL](#graphql)
 - [Java](#java)
 - [Javascript](#javascript)
@@ -279,6 +280,12 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [GitHub Learning Lab](https://lab.github.com/)
 - [Hands-on-experience-of-git-commands](https://www.youtube.com/watch?v=uj4fy4kpaOA)
 - [Step by Step Guide to Contributing on GitHub](https://www.dataschool.io/how-to-contribute-on-github/)
+
+---
+
+## Go
+
+- [A Tour of Go - A Complete Tour of the Go Programming Language.](https://tour.golang.org/)
 
 ---
 
