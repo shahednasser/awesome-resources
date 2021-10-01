@@ -61,19 +61,18 @@ To add a resource or contribute, please check out our contribution guide [here](
   - [Standard Template Library](#standard-template-library)
   - [Programming Courses Free Online](#programming-courses-free-online)
 
-
 ---
 
 ## Android
 
-- [Vogella Tutorials](https://www.vogella.com/tutorials/android.html) 
+- [Vogella Tutorials](https://www.vogella.com/tutorials/android.html)
 - [Build your first app](https://developer.android.com/training/basics/firstapp)
 - [Official Documentation](https://developer.android.com/docs)
 - [Android™ Notes for Professionals book](https://books.goalkicker.com/AndroidBook/)
 - [Android Developer Roadmap](https://roadmap.sh/android)
 - [Android cheat sheet](http://alvinalexander.com/android/android-cheat-sheet-main-concepts/)
 - [Android Tips & Tricks](https://github.com/nisrulz/android-tips-tricks)
-- [Fragmented : Podcast for Android](https://fragmentedpodcast.com/) 
+- [Fragmented : Podcast for Android](https://fragmentedpodcast.com/)
 
 ---
 
@@ -143,7 +142,8 @@ To add a resource or contribute, please check out our contribution guide [here](
 ---
 
 ## Data Science
-- [DPhi-Data Science Courses](https://dphi.tech/) 
+
+- [DPhi-Data Science Courses](https://dphi.tech/)
 - [IBM Data Science Coursera](https://www.coursera.org/professional-certificates/ibm-data-science)
 - [Introduction to Data Science with R](https://www.youtube.com/watch?v=32o0DnuRjfg&list=PLTJTBoU5HOCRrTs3cJK-PbHM39cwCU0PF&index=1)
 - [Data Science Methodology](https://cognitiveclass.ai/courses/data-science-methodology-2)
@@ -166,7 +166,6 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Docker for beginners](https://youtu.be/zJ6WbK9zFpI)
 - [Docker Curriculum Ebook](https://docker-curriculum.com/)
 
-
 ---
 
 ## Express
@@ -182,6 +181,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 ---
 
 ## Ethical Hacking
+
 - [Social Engineering](https://www.udemy.com/course-dashboard-redirect/?course_id=1155820)
 - [Ethical Hacking from Scratch](https://www.udemy.com/course/learn-ethical-hacking-from-scratch/learn/)
 - [Privacy Security and Anonymity](https://www.udemy.com/course-dashboard-redirect/?course_id=2281984)
@@ -271,7 +271,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Git notes for Professionals Book](https://goalkicker.com/GitBook/)
 - [Introduction to Git and Github ebook - Bobby Iliev(Markdown, PDF)](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook)
 - [Introduction to Git and Github - Launch School](https://launchschool.com/books/git)
-- [Git Immersion](https://gitimmersion.com/) 
+- [Git Immersion](https://gitimmersion.com/)
 - [30SecondsOfCode Git Snippets](https://www.30secondsofcode.org/git/p/1)
 - [Git - the simple guide](https://rogerdudler.github.io/git-guide/)
 
@@ -291,6 +291,10 @@ To add a resource or contribute, please check out our contribution guide [here](
 ## Go
 
 - [A Tour of Go - A Complete Tour of the Go Programming Language.](https://tour.golang.org/)
+- [Go by Example](https://gobyexample.com/)
+- [Gophercises: Free Coding Exercises for Budding Gophers](https://gophercises.com/)
+- [Justforfunc: Programming in Go](https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw)
+- [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/)
 
 ---
 
@@ -362,7 +366,6 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Server Management for Laravel](https://forge.laravel.com)
 
 ---
-
 
 ## LESS
 
