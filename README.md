@@ -440,6 +440,11 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [The Hitchhiker's Guide to Python](https://docs.python-guide.org/)
 - [Python Tips and Tricks for Beginners](https://towardsdatascience.com/python-tips-and-tricks-for-beginners-62473d569d0a)
 - [Python Tutorials with online IDE](https://jobtensor.com/Tutorial/Python/en/Introduction)
+- [Video Tutorials for Absolute Beginers | YouTube](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
+- [Learning Python from Zero To Hero | FreeCodeCamp](https://www.freecodecamp.org/news/learning-python-from-zero-to-hero-120ea540b567/)
+- [Automating Stuff with Python](https://automatetheboringstuff.com/)
+- [Learning Python from Basics | YouTube](https://www.youtube.com/playlist?list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j)
+- [Various Algorithm Implementations in Python | Popular GitHub Repository](https://github.com/TheAlgorithms/Python) 
 
 ---
 
