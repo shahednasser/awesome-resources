@@ -31,7 +31,6 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Flutter](#flutter)
 - [GIT](#git)
 - [GitHub](#github)
-- [Go](#go)
 - [GraphQL](#graphql)
 - [Java](#java)
 - [Javascript](#javascript)
@@ -100,7 +99,6 @@ To add a resource or contribute, please check out our contribution guide [here](
 ## Computer Science
 
 - [CS50](https://cs50.harvard.edu/college/2020/fall/)
-- [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 
 ---
 
@@ -116,7 +114,6 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Style Stage - A modern CSS showcase styled by community contributions](https://stylestage.dev/)
 - [CSS Flexbox - Wes Bos](https://flexbox.io/)
 - [CSS Grid - Wes Bos](https://cssgrid.io/)
-- [30SecondsOfCode CSS Snippet](https://www.30secondsofcode.org/css/p/1)
 
 ---
 
@@ -146,7 +143,6 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [DPhi-Data Science Courses](https://dphi.tech/) 
 - [IBM Data Science Coursera](https://www.coursera.org/professional-certificates/ibm-data-science)
 - [Introduction to Data Science with R](https://www.youtube.com/watch?v=32o0DnuRjfg&list=PLTJTBoU5HOCRrTs3cJK-PbHM39cwCU0PF&index=1)
-- [Data Science Methodology](https://cognitiveclass.ai/courses/data-science-methodology-2)
 
 ---
 
@@ -210,7 +206,6 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 - [Minimum Stack / Minimum Queue](https://cp-algorithms.com/data_structures/stack_queue_modification.html)
 - [Sparse Table](https://cp-algorithms.com/data_structures/sparse-table.html)
-- [DSA + Java Interview Preparation Course](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
 
 ### Dynamic Programming
 
@@ -272,8 +267,6 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Introduction to Git and Github ebook - Bobby Iliev(Markdown, PDF)](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook)
 - [Introduction to Git and Github - Launch School](https://launchschool.com/books/git)
 - [Git Immersion](https://gitimmersion.com/) 
-- [30SecondsOfCode Git Snippets](https://www.30secondsofcode.org/git/p/1)
-- [Git - the simple guide](https://rogerdudler.github.io/git-guide/)
 
 ---
 
@@ -285,12 +278,6 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [GitHub Learning Lab](https://lab.github.com/)
 - [Hands-on-experience-of-git-commands](https://www.youtube.com/watch?v=uj4fy4kpaOA)
 - [Step by Step Guide to Contributing on GitHub](https://www.dataschool.io/how-to-contribute-on-github/)
-
----
-
-## Go
-
-- [A Tour of Go - A Complete Tour of the Go Programming Language.](https://tour.golang.org/)
 
 ---
 
@@ -331,9 +318,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Building Front-End Web Apps with Plain JavaScript](https://web-engineering.info/tech/JsFrontendApp/book/)
 - [JavaScript for impatient programmers](https://exploringjs.com/impatient-js/toc.html)
 - [The Modern JavaScript Tutorial](https://javascript.info/)
-- [20 Killer JavaScript One Liners ☝️](https://dev.to/saviomartin/20-killer-javascript-one-liners-94f)
-- [You Don't Know JS Yet (book series)](https://github.com/getify/You-Dont-Know-JS)
-- [30SecondsOfCode JavaScript Snippets](https://www.30secondsofcode.org/js/p/1)
+- [JavaScript Code Analogies](https://www.codeanalogies.com/#javascript)
 
 ---
 
@@ -341,16 +326,8 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 - [Kubernetes - Lets learn the basic tenets](https://atharvacodes.netlify.app/kubernetes-docker/Basic-tenets/)
 - [Understanding Kubernetes: Developer's Guide](https://blog.thewiz.net/understanding-kubernetes-developers-guide)
-- [Kubernetes Hands On & Training](https://www.katacoda.com/courses/kubernetes)
-
 ---
 
-## OpenShift
-
-- [OpenShift Interactive Learning Portal](https://learn.openshift.com)
-- [OpenShift Tutorials](https://developers.redhat.com)
-
----
 
 ## Laravel
 
@@ -395,7 +372,6 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Calculus](http://cs231n.stanford.edu/handouts/derivatives.pdf)
 - [Statistical concepts for machine learning](http://www-bcf.usc.edu/~gareth/ISL/)
 - [AWS Machine Learning Tools](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/aws-machine-learning-tools-the-complete-guide/amp/)
-- [Introductory Primer](https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer)
 
 ---
 
@@ -413,7 +389,6 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Introduction to nodejs](https://www.tutorialspoint.com/nodejs/nodejs_introduction.htm)
 - [Beginners guide to nodejs (step by step)](https://www.w3schools.com/nodejs/nodejs_intro.asp)
 - [Node JS Architecture](https://www.journaldev.com/7462/node-js-architecture-single-threaded-event-loop)
-- [Deploy Node App on AWS EC2](https://jobin.hashnode.dev/deploy-your-node-js-app-into-production-with-nginx-and-ssl-installationstep-by-step-tutorial)
 
 ---
 
@@ -578,9 +553,6 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Humaans](https://www.humaaans.com/): Mix-&-match illustrations of people with a design library
 - [UI Design Daily](https://uidesigndaily.com/): Awesome UI Components of all types
 - [Freepik](https://www.freepik.com/): Find Free Vectors, Stock Photos and PSD
-- [Geometric Shapes](https://tool.graphics/shapes): Free Geometric Shapes to use in Figma and download
-- [3D-Icons](https://free3dicon.com/): Free 3D - Icons to download
-- [533 Hand-Picked Tools & Resources for Web Designers & Developers](https://toolkit.addy.codes/)
 
 ### Open Source
 
@@ -598,4 +570,3 @@ To add a resource or contribute, please check out our contribution guide [here](
 ### VS Code
 
 - [How to run graphics.h in VS Code](https://github.com/ullaskunder3/Solution-to-graphics.h)
-- [Top 5 VS Code extensions for web developers](https://jobin.hashnode.dev/top-5-vs-code-extension-for-web-developers-in-2021)
