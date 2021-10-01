@@ -59,7 +59,6 @@ To add a resource or contribute, please check out our contribution guide [here](
   - [Open Source](#open-source)
   - [Standard Template Library](#standard-template-library)
   - [Programming Courses Free Online](#programming-courses-free-online)
-  - [Web Design & Development Toolkit](#web-design--development-toolkit)
 
 
 ---
@@ -553,6 +552,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Humaans](https://www.humaaans.com/): Mix-&-match illustrations of people with a design library
 - [UI Design Daily](https://uidesigndaily.com/): Awesome UI Components of all types
 - [Freepik](https://www.freepik.com/): Find Free Vectors, Stock Photos and PSD
+- [533 Hand-Picked Tools & Resources for Web Designers & Developers](https://toolkit.addy.codes/)
 
 ### Open Source
 
@@ -571,6 +571,3 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 - [How to run graphics.h in VS Code](https://github.com/ullaskunder3/Solution-to-graphics.h)
 
-### Web Design & Development Toolkit
-
-- [533 Hand-Picked Tools & Resources for Web Designers & Developers](https://toolkit.addy.codes/)
