@@ -238,6 +238,9 @@ To add a resource or contribute, please check out our contribution guide [here](
 ### Graph Theory
 
 - [Introduction to Graph Theory](https://www.udemy.com/course/graph-theory-algorithms/learn/)
+- [Finding Connected Components in a Graph](https://cp-algorithms.com/graph/search-for-connected-components.html)
+- [Minimum Spanning Tree(Prims's Algorithm](https://cp-algorithms.com/graph/mst_prim.html)
+- [Lowest Common Ancestor](https://cp-algorithms.com/graph/lca.html)
 
 ---
 
