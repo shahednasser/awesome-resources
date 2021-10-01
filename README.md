@@ -414,6 +414,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Beginners guide to nodejs (step by step)](https://www.w3schools.com/nodejs/nodejs_intro.asp)
 - [Node JS Architecture](https://www.journaldev.com/7462/node-js-architecture-single-threaded-event-loop)
 - [Deploy Node App on AWS EC2](https://jobin.hashnode.dev/deploy-your-node-js-app-into-production-with-nginx-and-ssl-installationstep-by-step-tutorial)
+- [30SecondsOfCode Node JS Snippets](https://www.30secondsofcode.org/js/t/node/p/1)
 
 ---
 
@@ -440,6 +441,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [The Hitchhiker's Guide to Python](https://docs.python-guide.org/)
 - [Python Tips and Tricks for Beginners](https://towardsdatascience.com/python-tips-and-tricks-for-beginners-62473d569d0a)
 - [Python Tutorials with online IDE](https://jobtensor.com/Tutorial/Python/en/Introduction)
+- [30SecondsOfCode Python Snippets](https://www.30secondsofcode.org/python/p/1)
 
 ---
 
