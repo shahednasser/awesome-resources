@@ -31,6 +31,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Flutter](#flutter)
 - [GIT](#git)
 - [GitHub](#github)
+- [Go](#go)
 - [GraphQL](#graphql)
 - [Java](#java)
 - [Javascript](#javascript)
@@ -60,19 +61,17 @@ To add a resource or contribute, please check out our contribution guide [here](
   - [Standard Template Library](#standard-template-library)
   - [Programming Courses Free Online](#programming-courses-free-online)
 
-
 ---
 
 ## Android
 
-- [Vogella Tutorials](https://www.vogella.com/tutorials/android.html) 
+- [Vogella Tutorials](https://www.vogella.com/tutorials/android.html)
 - [Build your first app](https://developer.android.com/training/basics/firstapp)
 - [Official Documentation](https://developer.android.com/docs)
 - [Android™ Notes for Professionals book](https://books.goalkicker.com/AndroidBook/)
 - [Android Developer Roadmap](https://roadmap.sh/android)
 - [Android cheat sheet](http://alvinalexander.com/android/android-cheat-sheet-main-concepts/)
 - [Android Tips & Tricks](https://github.com/nisrulz/android-tips-tricks)
-- [Fragmented : Podcast for Android](https://fragmentedpodcast.com/) 
 
 ---
 
@@ -93,12 +92,14 @@ To add a resource or contribute, please check out our contribution guide [here](
 ## Bots
 
 - [Simple Twitter Bot Tutorial with Node.js](https://blog.shahednasser.com/simple-twitter-bot-tutorial-with-node-js/)
-
+- [Create a Simple WhatsApp Chatbot without Coding](https://medium.com/ibm-data-ai/integrating-ibm-watson-assistant-with-whatsapp-e62dcaa803fd)
+ 
 ---
 
 ## Computer Science
 
 - [CS50](https://cs50.harvard.edu/college/2020/fall/)
+- [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 
 ---
 
@@ -114,6 +115,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Style Stage - A modern CSS showcase styled by community contributions](https://stylestage.dev/)
 - [CSS Flexbox - Wes Bos](https://flexbox.io/)
 - [CSS Grid - Wes Bos](https://cssgrid.io/)
+- [30SecondsOfCode CSS Snippet](https://www.30secondsofcode.org/css/p/1)
 
 ---
 
@@ -140,9 +142,12 @@ To add a resource or contribute, please check out our contribution guide [here](
 ---
 
 ## Data Science
-- [DPhi-Data Science Courses](https://dphi.tech/) 
+
+- [DPhi-Data Science Courses](https://dphi.tech/)
 - [IBM Data Science Coursera](https://www.coursera.org/professional-certificates/ibm-data-science)
 - [Introduction to Data Science with R](https://www.youtube.com/watch?v=32o0DnuRjfg&list=PLTJTBoU5HOCRrTs3cJK-PbHM39cwCU0PF&index=1)
+- [Data Science Methodology](https://cognitiveclass.ai/courses/data-science-methodology-2)
+- [Data Science Cheat Sheets](https://www.kaggle.com/timoboz/data-science-cheat-sheets)
 
 ---
 
@@ -162,7 +167,6 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Docker for beginners](https://youtu.be/zJ6WbK9zFpI)
 - [Docker Curriculum Ebook](https://docker-curriculum.com/)
 
-
 ---
 
 ## Express
@@ -178,6 +182,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 ---
 
 ## Ethical Hacking
+
 - [Social Engineering](https://www.udemy.com/course-dashboard-redirect/?course_id=1155820)
 - [Ethical Hacking from Scratch](https://www.udemy.com/course/learn-ethical-hacking-from-scratch/learn/)
 - [Privacy Security and Anonymity](https://www.udemy.com/course-dashboard-redirect/?course_id=2281984)
@@ -206,6 +211,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 - [Minimum Stack / Minimum Queue](https://cp-algorithms.com/data_structures/stack_queue_modification.html)
 - [Sparse Table](https://cp-algorithms.com/data_structures/sparse-table.html)
+- [DSA + Java Interview Preparation Course](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
 
 ### Dynamic Programming
 
@@ -266,7 +272,9 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Git notes for Professionals Book](https://goalkicker.com/GitBook/)
 - [Introduction to Git and Github ebook - Bobby Iliev(Markdown, PDF)](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook)
 - [Introduction to Git and Github - Launch School](https://launchschool.com/books/git)
-- [Git Immersion](https://gitimmersion.com/) 
+- [Git Immersion](https://gitimmersion.com/)
+- [30SecondsOfCode Git Snippets](https://www.30secondsofcode.org/git/p/1)
+- [Git - the simple guide](https://rogerdudler.github.io/git-guide/)
 
 ---
 
@@ -278,6 +286,15 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [GitHub Learning Lab](https://lab.github.com/)
 - [Hands-on-experience-of-git-commands](https://www.youtube.com/watch?v=uj4fy4kpaOA)
 - [Step by Step Guide to Contributing on GitHub](https://www.dataschool.io/how-to-contribute-on-github/)
+
+---
+
+## Go
+
+- [A Tour of Go - A Complete Tour of the Go Programming Language.](https://tour.golang.org/)
+- [Go by Example](https://gobyexample.com/)
+- [Gophercises: Free Coding Exercises for Budding Gophers](https://gophercises.com/)
+- [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/)
 
 ---
 
@@ -318,6 +335,12 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Building Front-End Web Apps with Plain JavaScript](https://web-engineering.info/tech/JsFrontendApp/book/)
 - [JavaScript for impatient programmers](https://exploringjs.com/impatient-js/toc.html)
 - [The Modern JavaScript Tutorial](https://javascript.info/)
+- [20 Killer JavaScript One Liners ☝️](https://dev.to/saviomartin/20-killer-javascript-one-liners-94f)
+- [You Don't Know JS Yet (book series)](https://github.com/getify/You-Dont-Know-JS)
+- [30SecondsOfCode JavaScript Snippets](https://www.30secondsofcode.org/js/p/1)
+- [Full Stack open 2021](https://fullstackopen.com/en/)
+- [Demystifying JavaScript Promises - A New Way to Learn](https://blog.greenroots.info/series/javascript-promises)
+- [ Favorite JavaScript Utilities in single line of code! No more!](https://1loc.dev/)
 
 ---
 
@@ -325,8 +348,16 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 - [Kubernetes - Lets learn the basic tenets](https://atharvacodes.netlify.app/kubernetes-docker/Basic-tenets/)
 - [Understanding Kubernetes: Developer's Guide](https://blog.thewiz.net/understanding-kubernetes-developers-guide)
+- [Kubernetes Hands On & Training](https://www.katacoda.com/courses/kubernetes)
+
 ---
 
+## OpenShift
+
+- [OpenShift Interactive Learning Portal](https://learn.openshift.com)
+- [OpenShift Tutorials](https://developers.redhat.com)
+
+---
 
 ## Laravel
 
@@ -338,7 +369,6 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Server Management for Laravel](https://forge.laravel.com)
 
 ---
-
 
 ## LESS
 
@@ -371,6 +401,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Calculus](http://cs231n.stanford.edu/handouts/derivatives.pdf)
 - [Statistical concepts for machine learning](http://www-bcf.usc.edu/~gareth/ISL/)
 - [AWS Machine Learning Tools](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/aws-machine-learning-tools-the-complete-guide/amp/)
+- [Introductory Primer](https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer)
 
 ---
 
@@ -388,6 +419,8 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Introduction to nodejs](https://www.tutorialspoint.com/nodejs/nodejs_introduction.htm)
 - [Beginners guide to nodejs (step by step)](https://www.w3schools.com/nodejs/nodejs_intro.asp)
 - [Node JS Architecture](https://www.journaldev.com/7462/node-js-architecture-single-threaded-event-loop)
+- [Deploy Node App on AWS EC2](https://jobin.hashnode.dev/deploy-your-node-js-app-into-production-with-nginx-and-ssl-installationstep-by-step-tutorial)
+- [30SecondsOfCode Node JS Snippets](https://www.30secondsofcode.org/js/t/node/p/1)
 
 ---
 
@@ -414,6 +447,12 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [The Hitchhiker's Guide to Python](https://docs.python-guide.org/)
 - [Python Tips and Tricks for Beginners](https://towardsdatascience.com/python-tips-and-tricks-for-beginners-62473d569d0a)
 - [Python Tutorials with online IDE](https://jobtensor.com/Tutorial/Python/en/Introduction)
+- [Python 3 Basics Tutorial Series - YouTube](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
+- [Learning Python: From Zero To Hero](https://www.freecodecamp.org/news/learning-python-from-zero-to-hero-120ea540b567/)
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+- [Complete Python Tutorial In Hindi - YouTube](https://www.youtube.com/playlist?list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j)
+- [TheAlgorithms/Python: All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python) 
+- [30SecondsOfCode Python Snippets](https://www.30secondsofcode.org/python/p/1)
 
 ---
 
@@ -543,7 +582,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 ### Design
 
 - [Freebie Supply](https://freebiesupply.com/)
-- [unDraw](https://undraw.co/)
+- [unDraw](https://undraw.co/): Free illustrations, updated regularly
 - [Feather Icons](https://feathericons.com/)
 - [humaaans](https://humaaans.com/)
 - [absurd](https://absurd.design/)
@@ -552,15 +591,25 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Humaans](https://www.humaaans.com/): Mix-&-match illustrations of people with a design library
 - [UI Design Daily](https://uidesigndaily.com/): Awesome UI Components of all types
 - [Freepik](https://www.freepik.com/): Find Free Vectors, Stock Photos and PSD
+- [Geometric Shapes](https://tool.graphics/shapes): Free Geometric Shapes to use in Figma and download
+- [3D-Icons](https://free3dicon.com/): Free 3D - Icons to download
+- [533 Hand-Picked Tools & Resources for Web Designers & Developers](https://toolkit.addy.codes/)
+- [Illlustrations](https://illlustrations.co/): Awesome 120+ free illustrations
+- [ls.graphics](https://www.ls.graphics/free-mockups): Free mockups for different type of products
+- [Unsplash](https://unsplash.com/): Free high quality stock images and videos
+- [Undesign](https://undesign.learn.uno/): Collection of free design tools and resources for makers, developers and designers
+- [DopeUI](https://dopeui.co/): High quality website UI templates
 
 ### Open Source
 
 - [How to contribute to Open Source](https://kentcdodds.com/blog/introducing-how-to-contribute-to-open-source)
 - [What open source projects should I contribute](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to)
+- [Why Open Source is Important for Students?](https://dev.to/mridulrb/series/11633)
 
 ### Standard Template Library
 
 - [C++ Standard Template Library in Practice](https://www.udemy.com/course/c-standard-template-library-in-practice/learn/)
+- [Learn C++ STL by reading documentation](https://www.learncpp.com/cpp-tutorial/the-standard-template-library-stl/)
 
 ### Programming Courses Free Online
 
@@ -569,3 +618,4 @@ To add a resource or contribute, please check out our contribution guide [here](
 ### VS Code
 
 - [How to run graphics.h in VS Code](https://github.com/ullaskunder3/Solution-to-graphics.h)
+- [Top 5 VS Code extensions for web developers](https://jobin.hashnode.dev/top-5-vs-code-extension-for-web-developers-in-2021)
