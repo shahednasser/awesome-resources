@@ -92,7 +92,8 @@ To add a resource or contribute, please check out our contribution guide [here](
 ## Bots
 
 - [Simple Twitter Bot Tutorial with Node.js](https://blog.shahednasser.com/simple-twitter-bot-tutorial-with-node-js/)
-
+- [Create a Simple WhatsApp Chatbot without Coding](https://medium.com/ibm-data-ai/integrating-ibm-watson-assistant-with-whatsapp-e62dcaa803fd)
+ 
 ---
 
 ## Computer Science
@@ -339,6 +340,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [30SecondsOfCode JavaScript Snippets](https://www.30secondsofcode.org/js/p/1)
 - [Full Stack open 2021](https://fullstackopen.com/en/)
 - [Demystifying JavaScript Promises - A New Way to Learn](https://blog.greenroots.info/series/javascript-promises)
+- [ Favorite JavaScript Utilities in single line of code! No more!](https://1loc.dev/)
 
 ---
 
@@ -445,6 +447,11 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [The Hitchhiker's Guide to Python](https://docs.python-guide.org/)
 - [Python Tips and Tricks for Beginners](https://towardsdatascience.com/python-tips-and-tricks-for-beginners-62473d569d0a)
 - [Python Tutorials with online IDE](https://jobtensor.com/Tutorial/Python/en/Introduction)
+- [Python 3 Basics Tutorial Series - YouTube](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
+- [Learning Python: From Zero To Hero](https://www.freecodecamp.org/news/learning-python-from-zero-to-hero-120ea540b567/)
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+- [Complete Python Tutorial In Hindi - YouTube](https://www.youtube.com/playlist?list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j)
+- [TheAlgorithms/Python: All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python) 
 - [30SecondsOfCode Python Snippets](https://www.30secondsofcode.org/python/p/1)
 
 ---
@@ -588,14 +595,16 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [3D-Icons](https://free3dicon.com/): Free 3D - Icons to download
 - [533 Hand-Picked Tools & Resources for Web Designers & Developers](https://toolkit.addy.codes/)
 - [Illlustrations](https://illlustrations.co/): Awesome 120+ free illustrations
-- [remove.bg](https://www.remove.bg/): Remove background from images and videos quickly
 - [ls.graphics](https://www.ls.graphics/free-mockups): Free mockups for different type of products
 - [Unsplash](https://unsplash.com/): Free high quality stock images and videos
+- [Undesign](https://undesign.learn.uno/): Collection of free design tools and resources for makers, developers and designers
+- [DopeUI](https://dopeui.co/): High quality website UI templates
 
 ### Open Source
 
 - [How to contribute to Open Source](https://kentcdodds.com/blog/introducing-how-to-contribute-to-open-source)
 - [What open source projects should I contribute](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to)
+- [Why Open Source is Important for Students?](https://dev.to/mridulrb/series/11633)
 
 ### Standard Template Library
 
