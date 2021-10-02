@@ -61,19 +61,17 @@ To add a resource or contribute, please check out our contribution guide [here](
   - [Standard Template Library](#standard-template-library)
   - [Programming Courses Free Online](#programming-courses-free-online)
 
-
 ---
 
 ## Android
 
-- [Vogella Tutorials](https://www.vogella.com/tutorials/android.html) 
+- [Vogella Tutorials](https://www.vogella.com/tutorials/android.html)
 - [Build your first app](https://developer.android.com/training/basics/firstapp)
 - [Official Documentation](https://developer.android.com/docs)
 - [Android™ Notes for Professionals book](https://books.goalkicker.com/AndroidBook/)
 - [Android Developer Roadmap](https://roadmap.sh/android)
 - [Android cheat sheet](http://alvinalexander.com/android/android-cheat-sheet-main-concepts/)
 - [Android Tips & Tricks](https://github.com/nisrulz/android-tips-tricks)
-- [Fragmented : Podcast for Android](https://fragmentedpodcast.com/) 
 
 ---
 
@@ -143,10 +141,12 @@ To add a resource or contribute, please check out our contribution guide [here](
 ---
 
 ## Data Science
-- [DPhi-Data Science Courses](https://dphi.tech/) 
+
+- [DPhi-Data Science Courses](https://dphi.tech/)
 - [IBM Data Science Coursera](https://www.coursera.org/professional-certificates/ibm-data-science)
 - [Introduction to Data Science with R](https://www.youtube.com/watch?v=32o0DnuRjfg&list=PLTJTBoU5HOCRrTs3cJK-PbHM39cwCU0PF&index=1)
 - [Data Science Methodology](https://cognitiveclass.ai/courses/data-science-methodology-2)
+- [Data Science Cheat Sheets](https://www.kaggle.com/timoboz/data-science-cheat-sheets)
 
 ---
 
@@ -166,7 +166,6 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Docker for beginners](https://youtu.be/zJ6WbK9zFpI)
 - [Docker Curriculum Ebook](https://docker-curriculum.com/)
 
-
 ---
 
 ## Express
@@ -182,6 +181,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 ---
 
 ## Ethical Hacking
+
 - [Social Engineering](https://www.udemy.com/course-dashboard-redirect/?course_id=1155820)
 - [Ethical Hacking from Scratch](https://www.udemy.com/course/learn-ethical-hacking-from-scratch/learn/)
 - [Privacy Security and Anonymity](https://www.udemy.com/course-dashboard-redirect/?course_id=2281984)
@@ -271,7 +271,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Git notes for Professionals Book](https://goalkicker.com/GitBook/)
 - [Introduction to Git and Github ebook - Bobby Iliev(Markdown, PDF)](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook)
 - [Introduction to Git and Github - Launch School](https://launchschool.com/books/git)
-- [Git Immersion](https://gitimmersion.com/) 
+- [Git Immersion](https://gitimmersion.com/)
 - [30SecondsOfCode Git Snippets](https://www.30secondsofcode.org/git/p/1)
 - [Git - the simple guide](https://rogerdudler.github.io/git-guide/)
 
@@ -291,6 +291,9 @@ To add a resource or contribute, please check out our contribution guide [here](
 ## Go
 
 - [A Tour of Go - A Complete Tour of the Go Programming Language.](https://tour.golang.org/)
+- [Go by Example](https://gobyexample.com/)
+- [Gophercises: Free Coding Exercises for Budding Gophers](https://gophercises.com/)
+- [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/)
 
 ---
 
@@ -334,6 +337,9 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [20 Killer JavaScript One Liners ☝️](https://dev.to/saviomartin/20-killer-javascript-one-liners-94f)
 - [You Don't Know JS Yet (book series)](https://github.com/getify/You-Dont-Know-JS)
 - [30SecondsOfCode JavaScript Snippets](https://www.30secondsofcode.org/js/p/1)
+- [Full Stack open 2021](https://fullstackopen.com/en/)
+- [Demystifying JavaScript Promises - A New Way to Learn](https://blog.greenroots.info/series/javascript-promises)
+- [ Favorite JavaScript Utilities in single line of code! No more!](https://1loc.dev/)
 
 ---
 
@@ -362,7 +368,6 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Server Management for Laravel](https://forge.laravel.com)
 
 ---
-
 
 ## LESS
 
@@ -414,6 +419,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Beginners guide to nodejs (step by step)](https://www.w3schools.com/nodejs/nodejs_intro.asp)
 - [Node JS Architecture](https://www.journaldev.com/7462/node-js-architecture-single-threaded-event-loop)
 - [Deploy Node App on AWS EC2](https://jobin.hashnode.dev/deploy-your-node-js-app-into-production-with-nginx-and-ssl-installationstep-by-step-tutorial)
+- [30SecondsOfCode Node JS Snippets](https://www.30secondsofcode.org/js/t/node/p/1)
 
 ---
 
@@ -445,6 +451,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 - [Complete Python Tutorial In Hindi - YouTube](https://www.youtube.com/playlist?list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j)
 - [TheAlgorithms/Python: All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python) 
+- [30SecondsOfCode Python Snippets](https://www.30secondsofcode.org/python/p/1)
 
 ---
 
@@ -586,6 +593,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Geometric Shapes](https://tool.graphics/shapes): Free Geometric Shapes to use in Figma and download
 - [3D-Icons](https://free3dicon.com/): Free 3D - Icons to download
 - [533 Hand-Picked Tools & Resources for Web Designers & Developers](https://toolkit.addy.codes/)
+- [Illlustrations](https://illlustrations.co/): Awesome 120+ free illustrations
 
 ### Open Source
 
@@ -595,6 +603,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 ### Standard Template Library
 
 - [C++ Standard Template Library in Practice](https://www.udemy.com/course/c-standard-template-library-in-practice/learn/)
+- [Learn C++ STL by reading documentation](https://www.learncpp.com/cpp-tutorial/the-standard-template-library-stl/)
 
 ### Programming Courses Free Online
 
