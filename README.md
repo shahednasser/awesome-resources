@@ -212,6 +212,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Sparse Table](https://cp-algorithms.com/data_structures/sparse-table.html)
 - [DSA + Java Interview Preparation Course](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
 - [DSA + C++ Interview Preparation Course](https://www.youtube.com/watch?v=z9bZufPHFLU&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ)
+- 
 
 ### Dynamic Programming
 
@@ -595,6 +596,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 - [SoloLearn](https://www.sololearn.com/learning)
 - [Learn C++](https://www.codecademy.com/learn/learn-c-plus-plus)
+- 
 
 ### VS Code
 
