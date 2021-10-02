@@ -575,7 +575,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 ### Design
 
 - [Freebie Supply](https://freebiesupply.com/)
-- [unDraw](https://undraw.co/)
+- [unDraw](https://undraw.co/): Free illustrations, updated regularly
 - [Feather Icons](https://feathericons.com/)
 - [humaaans](https://humaaans.com/)
 - [absurd](https://absurd.design/)
@@ -588,6 +588,9 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [3D-Icons](https://free3dicon.com/): Free 3D - Icons to download
 - [533 Hand-Picked Tools & Resources for Web Designers & Developers](https://toolkit.addy.codes/)
 - [Illlustrations](https://illlustrations.co/): Awesome 120+ free illustrations
+- [remove.bg](https://www.remove.bg/): Remove background from images and videos quickly
+- [ls.graphics](https://www.ls.graphics/free-mockups): Free mockups for different type of products
+- [Unsplash](https://unsplash.com/): Free high quality stock images and videos
 
 ### Open Source
 
