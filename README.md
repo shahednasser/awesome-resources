@@ -99,6 +99,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 ## Computer Science
 
 - [CS50](https://cs50.harvard.edu/college/2020/fall/)
+- [Graph Theory](https://www.youtube.com/watch?v=LFKZLXVO-Dg&list=WL&index=4)
 
 ---
 
