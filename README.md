@@ -339,6 +339,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [30SecondsOfCode JavaScript Snippets](https://www.30secondsofcode.org/js/p/1)
 - [Full Stack open 2021](https://fullstackopen.com/en/)
 - [Demystifying JavaScript Promises - A New Way to Learn](https://blog.greenroots.info/series/javascript-promises)
+- [JavaScript Core Concepts series](https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
 
 ---
 
