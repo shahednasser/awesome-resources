@@ -148,6 +148,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Introduction to Data Science with R](https://www.youtube.com/watch?v=32o0DnuRjfg&list=PLTJTBoU5HOCRrTs3cJK-PbHM39cwCU0PF&index=1)
 - [Data Science Methodology](https://cognitiveclass.ai/courses/data-science-methodology-2)
 - [Data Science Cheat Sheets](https://www.kaggle.com/timoboz/data-science-cheat-sheets)
+- [Towards Data Science](https://towardsdatascience.com)
 
 ---
 
@@ -402,6 +403,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Statistical concepts for machine learning](http://www-bcf.usc.edu/~gareth/ISL/)
 - [AWS Machine Learning Tools](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/aws-machine-learning-tools-the-complete-guide/amp/)
 - [Introductory Primer](https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer)
+- [TinyML Course](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning)
 
 ---
 
