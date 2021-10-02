@@ -94,11 +94,8 @@ To add a resource or contribute, please check out our contribution guide [here](
 ## Bots
 
 - [Simple Twitter Bot Tutorial with Node.js](https://blog.shahednasser.com/simple-twitter-bot-tutorial-with-node-js/)
-- [Create a Simple WhatsApp Chatbot without Coding](https://twitter.com/mridulrb/status/1410221692819968006?s=20)
-    1. English Blog (https://medium.com/ibm-data-ai/integrating-ibm-watson-assistant-with-whatsapp-e62dcaa803fd)
-    2. Spanish Blog (https://developer.ibm.com/es/tutorials/integrating-ibm-watson-assistant-with-whatsapp/)
-    3. YouTube (https://youtu.be/UtB2klF1h7c)
-
+- [Create a Simple WhatsApp Chatbot without Coding](https://medium.com/ibm-data-ai/integrating-ibm-watson-assistant-with-whatsapp-e62dcaa803fd)
+ 
 ---
 
 ## Computer Science
@@ -400,7 +397,6 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Statistical concepts for machine learning](http://www-bcf.usc.edu/~gareth/ISL/)
 - [AWS Machine Learning Tools](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/aws-machine-learning-tools-the-complete-guide/amp/)
 - [Introductory Primer](https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer)
-- [Predict Loan Eligibility using Machine Learning Models](https://towardsdatascience.com/predict-loan-eligibility-using-machine-learning-models-7a14ef904057)
 
 ---
 
