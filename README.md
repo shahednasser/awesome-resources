@@ -47,6 +47,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [React Native](#react-native)
 - [RUBY](#ruby)
 - [SASS](#sass)
+- [Svelte](#svelte)
 - [Swift](#swift)
 - [System Design](#system-design)
 - [Testing](#testing)
@@ -499,6 +500,16 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Zurb - Library to Create Transitions & Animations](https://zurb.com/playground/motion-ui)
 - [Vanilla Framework](https://vanillaframework.io/)
 - [Susy - Grid Layout Engine](https://www.oddbird.net/susy/)
+
+---
+
+## Svelte
+
+- [Svelte Official documentation](https://svelte.dev/tutorial/basics)
+- [Svelte for beginners](https://coursetro.com/posts/code/176/Learn-Svelte-3.0---Svelte-Tutorial-for-Beginners)
+- [Svelte tutorial by MDN](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_getting_started)
+- [Youtube - The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO)
+- [Youtube - Freecodecamp](https://www.youtube.com/watch?v=ujbE0mzX-CU)
 
 ---
 
