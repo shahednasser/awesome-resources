@@ -72,7 +72,6 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Android Developer Roadmap](https://roadmap.sh/android)
 - [Android cheat sheet](http://alvinalexander.com/android/android-cheat-sheet-main-concepts/)
 - [Android Tips & Tricks](https://github.com/nisrulz/android-tips-tricks)
-- [Fragmented : Podcast for Android](https://fragmentedpodcast.com/)
 
 ---
 
@@ -293,7 +292,6 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [A Tour of Go - A Complete Tour of the Go Programming Language.](https://tour.golang.org/)
 - [Go by Example](https://gobyexample.com/)
 - [Gophercises: Free Coding Exercises for Budding Gophers](https://gophercises.com/)
-- [Justforfunc: Programming in Go](https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw)
 - [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/)
 
 ---
