@@ -60,6 +60,7 @@ To add a resource or contribute, please check out our contribution guide [here](
   - [Open Source](#open-source)
   - [Standard Template Library](#standard-template-library)
   - [Programming Courses Free Online](#programming-courses-free-online)
+- [Tools](#tools)
 
 ---
 
@@ -599,10 +600,6 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [C++ Standard Template Library in Practice](https://www.udemy.com/course/c-standard-template-library-in-practice/learn/)
 - [Learn C++ STL by reading documentation](https://www.learncpp.com/cpp-tutorial/the-standard-template-library-stl/)
 
-### Tools
-
-- [Tiny helpers](https://tiny-helpers.dev/): A collection of free single-purpose online tools for web developers
-
 ### Programming Courses Free Online
 
 - [SoloLearn](https://www.sololearn.com/learning)
@@ -611,3 +608,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 - [How to run graphics.h in VS Code](https://github.com/ullaskunder3/Solution-to-graphics.h)
 - [Top 5 VS Code extensions for web developers](https://jobin.hashnode.dev/top-5-vs-code-extension-for-web-developers-in-2021)
+
+## Tools
+
+- [Tiny helpers](https://tiny-helpers.dev/): A collection of free single-purpose online tools for web developers
