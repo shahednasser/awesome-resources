@@ -599,6 +599,10 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [C++ Standard Template Library in Practice](https://www.udemy.com/course/c-standard-template-library-in-practice/learn/)
 - [Learn C++ STL by reading documentation](https://www.learncpp.com/cpp-tutorial/the-standard-template-library-stl/)
 
+### Tools
+
+- [Tiny helpers](https://tiny-helpers.dev/): A collection of free single-purpose online tools for web developers
+
 ### Programming Courses Free Online
 
 - [SoloLearn](https://www.sololearn.com/learning)
