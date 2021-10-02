@@ -588,6 +588,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [3D-Icons](https://free3dicon.com/): Free 3D - Icons to download
 - [533 Hand-Picked Tools & Resources for Web Designers & Developers](https://toolkit.addy.codes/)
 - [Illlustrations](https://illlustrations.co/): Awesome 120+ free illustrations
+- [DopeUI](https://dopeui.co/): High quality website UI templates
 
 ### Open Source
 
