@@ -3,6 +3,7 @@
 
 # Content
 
+- [Resources Qualifications](#resources-qualifications)
 - [Adding Resources](#adding-resources)
 - [Contributing to the Website](#contributing-to-the-website)
   - [Changes to CSS](#changes-to-css)
