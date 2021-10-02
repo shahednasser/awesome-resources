@@ -20,7 +20,7 @@ const footerColor = '#f9f9f9'
 
 
 
-function toggleTheme(){
+function toggleTheme(){    /*Setting theme changer*/
   const sun = document.getElementById('sun')
   const moon = document.getElementById('moon')
   const nav = document.getElementById('nav')
