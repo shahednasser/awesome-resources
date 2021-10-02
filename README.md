@@ -19,7 +19,6 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [DevOps](#devops)
 - [Docker](#docker)
 - [Express](#express)
-- [C++ Algorithms](https://github.com/shahednasser/awesome-resources/#c++-algorithms)
 - [Ethical Hacking](#ethical-hacking)
 - [Fundamental CP algorithms](#fundamental-cp-algorithms)
   - [Algebra](#algebra)
