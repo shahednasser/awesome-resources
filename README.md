@@ -586,6 +586,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Geometric Shapes](https://tool.graphics/shapes): Free Geometric Shapes to use in Figma and download
 - [3D-Icons](https://free3dicon.com/): Free 3D - Icons to download
 - [533 Hand-Picked Tools & Resources for Web Designers & Developers](https://toolkit.addy.codes/)
+- [Illlustrations](https://illlustrations.co/): Awesome 120+ free illustrations
 
 ### Open Source
 
