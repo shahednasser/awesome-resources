@@ -12,7 +12,7 @@
 
 ## Resources Qualifications
 
-Allowed resources can be videos, articles, tutorials, or anything similar. It has to be helpful, whether as a tool to be used or as a source of information.
+Resources have to be in the form of links. Allowed resources can be videos, articles, tutorials, or anything similar. It has to be helpful, whether as a tool to be used or as a source of information.
 
 Here are some rules to follow when adding a resource to make sure it qualifies:
 
@@ -22,7 +22,8 @@ Here are some rules to follow when adding a resource to make sure it qualifies:
 4. Make sure the resource is objective and not opinionated. This means no resources that talks about someone's thoughts of a topic, even if you personally find it helpful.
 5. No links to personal projects that have helped you learn something, unless the link is a tutorial or guide on how you did that project.
 6. No links to twitter accounts, telegram channels, Youtube channels (Youtube videos and playlists are allowed), and so on.
-7. You are allowed to add your own content as a resource as long as it is helpful and follows the other rules detailed above.
+7. No content with licensing issues.
+8. You are allowed to add your own content as a resource as long as it is helpful and follows the other rules detailed above.
 
 ## Adding Resources
 
