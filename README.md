@@ -92,7 +92,8 @@ To add a resource or contribute, please check out our contribution guide [here](
 ## Bots
 
 - [Simple Twitter Bot Tutorial with Node.js](https://blog.shahednasser.com/simple-twitter-bot-tutorial-with-node-js/)
-
+- [Create a Simple WhatsApp Chatbot without Coding](https://medium.com/ibm-data-ai/integrating-ibm-watson-assistant-with-whatsapp-e62dcaa803fd)
+ 
 ---
 
 ## Computer Science
@@ -600,6 +601,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 - [How to contribute to Open Source](https://kentcdodds.com/blog/introducing-how-to-contribute-to-open-source)
 - [What open source projects should I contribute](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to)
+- [Why Open Source is Important for Students?](https://dev.to/mridulrb/series/11633)
 
 ### Standard Template Library
 
