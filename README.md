@@ -319,6 +319,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [10 Simple Java Projects for Beginners ](https://javahungry.blogspot.com/2019/12/java-projects-for-beginners.html)
 - [Advanced Java Programming](https://www.udemy.com/course/advanced-java-programming/)
 - [Learn Servlet Tutorial](https://www.javatpoint.com/servlet-tutorial)
+- [Object Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java)
 
 ---
 
