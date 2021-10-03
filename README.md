@@ -615,6 +615,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Undesign](https://undesign.learn.uno/): Collection of free design tools and resources for makers, developers and designers
 - [DopeUI](https://dopeui.co/): High quality website UI templates
 - [Coolors](https://coolors.co/): The super fast color schemes generator
+- [uiGradients](https://uigradients.com/): An awesome gradient generator
 
 ### Open Source
 
