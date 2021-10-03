@@ -473,6 +473,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [React Patterns](https://reactpatterns.com/)
 - [Useful Packages you should know in React](https://medium.com/better-programming/14-useful-packages-every-react-developer-should-know-55b47a325d3)
 - [Learn React Test Driven Development](https://learntdd.in/react/)
+- [The React Beginner's Handbook](https://flaviocopes.com/page/react-handbook/)
 
 ---
 
