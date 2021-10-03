@@ -156,6 +156,8 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 - [Deep Learning eBook By Ian Goodfellow](https://gitlab.com/insider_for_greatness/deep-learning/-/raw/main/Ian_Goodfellow__Yoshua_Bengio__Aaron_Courville_-_Deep_Learning__2017__MIT_.pdf)
 
+---
+
 ## DevOps
 
 - [Linkedin Learning](https://www.linkedin.com/learning/paths/become-a-devops-engineer?u=57692769)
