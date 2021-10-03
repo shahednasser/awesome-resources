@@ -277,6 +277,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Git Immersion](https://gitimmersion.com/)
 - [30SecondsOfCode Git Snippets](https://www.30secondsofcode.org/git/p/1)
 - [Git - the simple guide](https://rogerdudler.github.io/git-guide/)
+- [Oh My Git](https://blinry.itch.io/oh-my-git): Open source Git learning game.
 - [Git Exercises by Fracz](https://gitexercises.fracz.com/)
 
 ---
