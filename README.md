@@ -346,6 +346,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Full Stack open 2021](https://fullstackopen.com/en/)
 - [Demystifying JavaScript Promises - A New Way to Learn](https://blog.greenroots.info/series/javascript-promises)
 - [ Favorite JavaScript Utilities in single line of code! No more!](https://1loc.dev/)
+- [JavaScript Design Patterns - Digital Ocean](https://www.digitalocean.com/community/tutorial_series/javascript-design-patterns)
 
 ---
 
