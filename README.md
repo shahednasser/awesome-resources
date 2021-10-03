@@ -181,9 +181,9 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 ---
 
-## C++
+## Algorithms
 
-- [Algorithms](https://cp-algorithms.com/index.html)
+- [CP Algorithms](https://cp-algorithms.com/index.html)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
 
 ---
