@@ -381,7 +381,6 @@ To add a resource or contribute, please check out our contribution guide [here](
 ## Linux
 
 - [Introduction to Linux](https://training.linuxfoundation.org/resources/free-courses/introduction-to-linux/)
-- [Introduction to the world of ricing](https://zoug.top/posts/introduction-to-ricing/)
 - [The Linux guide/cheatsheet/tutorial (Commands, Directories, etc)](https://dev.to/kedark/the-linux-guide-cheatsheet-commands-directories-etc-39k0)
 - [Linux kernel and its insides](https://0xax.gitbooks.io/linux-insides/content/)
 - [Interactive map of Linux Kernel](https://makelinux.github.io/kernel/map/)
