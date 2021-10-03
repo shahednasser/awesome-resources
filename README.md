@@ -596,7 +596,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 - [SoloLearn](https://www.sololearn.com/learning)
 - [Learn C++](https://www.codecademy.com/learn/learn-c-plus-plus)
-- 
+
 
 ### VS Code
 
