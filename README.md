@@ -95,12 +95,12 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 - [Simple Twitter Bot Tutorial with Node.js](https://blog.shahednasser.com/simple-twitter-bot-tutorial-with-node-js/)
 - [Create a Simple WhatsApp Chatbot without Coding](https://medium.com/ibm-data-ai/integrating-ibm-watson-assistant-with-whatsapp-e62dcaa803fd)
- 
+
 ---
 
 ## Computer Science
 
-- [CS50](https://cs50.harvard.edu/college/2020/fall/)
+- [CS50](https://cs50.harvard.edu/)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 
 ---
@@ -455,7 +455,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Learning Python: From Zero To Hero](https://www.freecodecamp.org/news/learning-python-from-zero-to-hero-120ea540b567/)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 - [Complete Python Tutorial In Hindi - YouTube](https://www.youtube.com/playlist?list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j)
-- [TheAlgorithms/Python: All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python) 
+- [TheAlgorithms/Python: All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python)
 - [30SecondsOfCode Python Snippets](https://www.30secondsofcode.org/python/p/1)
 
 ---
@@ -567,6 +567,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 ## Webpack
 
+- [Getting Started Guide](https://www.valentinog.com/blog/webpack/)
 - [Webpack Academy](https://webpack-academy.teachable.com/)
 - [Docs](https://webpack.js.org/guides/getting-started/)
 - [Tutorials](https://codingcompiler.com/webpack-tutorial/)
