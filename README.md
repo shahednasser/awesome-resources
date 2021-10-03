@@ -16,6 +16,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [CSharp](#csharp)
 - [Dart](#dart)
 - [Data Science](#data-science)
+- [Deep Learning](#deep-learning)
 - [DevOps](#devops)
 - [Docker](#docker)
 - [Express](#express)
@@ -150,6 +151,10 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Data Science Cheat Sheets](https://www.kaggle.com/timoboz/data-science-cheat-sheets)
 
 ---
+
+## Deep Learning
+
+- [Deep Learning eBook By Ian Goodfellow](https://gitlab.com/insider_for_greatness/deep-learning/-/raw/main/Ian_Goodfellow__Yoshua_Bengio__Aaron_Courville_-_Deep_Learning__2017__MIT_.pdf)
 
 ## DevOps
 
