@@ -17,7 +17,7 @@ Resources have to be in the form of links. Allowed resources can be videos, arti
 Here are some rules to follow when adding a resource to make sure it qualifies:
 
 1. Make sure the resource is not too specific of a topic. For example, if adding a resource under JavaScript don't add a tutorial on how to check if an element is in viewport. Only add general resources that are related to the topic.
-2. Based on the point above, single blog posts are not accepted. This is simply because if single blog posts are allowed then this list would be endless.
+2. Based on the point above, single blog posts are not accepted. This is simply because if single blog posts are allowed then this list would be endless. There could be some exceptions, like if the single post is very extensive or includes details that are hard to find elsewhere. If the resource you're adding falls under the exception then please detail that in the PR.
 3. If you want to add multiple links of the same topic under the same website, just include a general link that might lead to all these links. For example, instead of adding multiple Youtube videos under the same series, add the playlist link.
 4. Take the time to make sure the resource has not been already added as it saves the maintainers time when reviewing your pull request.
 5. Make sure the resource is objective and not opinionated. This means no resources that talks about someone's thoughts of a topic, even if you personally find it helpful.
