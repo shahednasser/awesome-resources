@@ -69,6 +69,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 ## Android
 
 - [Vogella Tutorials](https://www.vogella.com/tutorials/android.html)
+- [Android Basics with Kotlin Course](https://developer.android.com/courses/android-basics-kotlin/course)
 - [Build your first app](https://developer.android.com/training/basics/firstapp)
 - [Official Documentation](https://developer.android.com/docs)
 - [Android™ Notes for Professionals book](https://books.goalkicker.com/AndroidBook/)
