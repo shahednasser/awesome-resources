@@ -17,13 +17,14 @@ Resources have to be in the form of links. Allowed resources can be videos, arti
 Here are some rules to follow when adding a resource to make sure it qualifies:
 
 1. Make sure the resource is not too specific of a topic. For example, if adding a resource under JavaScript don't add a tutorial on how to check if an element is in viewport. Only add general resources that are related to the topic.
-2. If you want to add multiple links of the same topic under the same website, just include a general link that might lead to all these links. For example, instead of adding multiple Youtube videos under the same series, add the playlist link.
-3. Take the time to make sure the resource has not been already added as it saves the maintainers time when reviewing your pull request.
-4. Make sure the resource is objective and not opinionated. This means no resources that talks about someone's thoughts of a topic, even if you personally find it helpful.
-5. No links to personal projects that have helped you learn something, unless the link is a tutorial or guide on how you did that project.
-6. No links to twitter accounts, telegram channels, Youtube channels (Youtube videos and playlists are allowed), and so on.
-7. No content with licensing issues.
-8. You are allowed to add your own content as a resource as long as it is helpful and follows the other rules detailed above.
+2. Based on the point above, single blog posts are not accepted. This is simply because if single blog posts are allowed then this list would be endless.
+3. If you want to add multiple links of the same topic under the same website, just include a general link that might lead to all these links. For example, instead of adding multiple Youtube videos under the same series, add the playlist link.
+4. Take the time to make sure the resource has not been already added as it saves the maintainers time when reviewing your pull request.
+5. Make sure the resource is objective and not opinionated. This means no resources that talks about someone's thoughts of a topic, even if you personally find it helpful.
+6. No links to personal projects that have helped you learn something, unless the link is a tutorial or guide on how you did that project.
+7. No links to twitter accounts, telegram channels, Youtube channels (Youtube videos and playlists are allowed), and so on.
+8. No content with licensing issues.
+9. You are allowed to add your own content as a resource as long as it is helpful and follows the other rules detailed above.
 
 ## Adding Resources
 
