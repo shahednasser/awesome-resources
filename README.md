@@ -76,6 +76,8 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Android Developer Roadmap](https://roadmap.sh/android)
 - [Android cheat sheet](http://alvinalexander.com/android/android-cheat-sheet-main-concepts/)
 - [Android Tips & Tricks](https://github.com/nisrulz/android-tips-tricks)
+- [Android Developer Certification Exam Guide](https://developers.google.com/certification/associate-android-developer/study-guide)
+- [Android developer Exam](https://app.trueability.com/google-certifications/associate-android-developer)
 
 ---
 
