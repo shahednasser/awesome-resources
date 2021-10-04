@@ -51,6 +51,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [System Design](#system-design)
+- [Terraform](#terraform)
 - [Testing](#testing)
 - [Typescript](#typescript)
 - [Unity](#unity)
@@ -519,6 +520,17 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [System Design Concepts](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
 
 ---
+
+## Terraform 
+
+- [Terraform Study Guide](https://github.com/ari-hacks/terraform-study-guide)
+- [Zeal Vora - Udemy course](https://www.udemy.com/course/terraform-beginner-to-advanced/)
+- [Deep Dive - Terraform (Pluralsight)](https://www.pluralsight.com/courses/deep-dive-terraform)
+- [freecodecamp YT video](https://youtu.be/SLB_c_ayRMo)
+- [KodeKloud YT Video](https://youtu.be/YcJ9IeukJL8)
+- [250 Practice Questions For Terraform Associate Certification](https://medium.com/bb-tutorials-and-thoughts/250-practice-questions-for-terraform-associate-certification-7a3ccebe6a1a)
+
+--- 
 
 ## Testing
 
