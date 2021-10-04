@@ -195,6 +195,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 ## Expo
 
 - [Expo Crash Course by Traversy Media](https://www.youtube.com/watch?v=Hf4MJH0jDb4)
+- [Expo Snack](https://snack.expo.dev/)
 
 ---
 
