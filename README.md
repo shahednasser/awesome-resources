@@ -33,6 +33,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [GitHub](#github)
 - [Go](#go)
 - [GraphQL](#graphql)
+- [HTML](#html)
 - [Java](#java)
 - [Javascript](#javascript)
 - [Laravel](#laravel)
@@ -302,6 +303,13 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [GraphQL tutorial for beginners](https://www.howtographql.com/)
 - [GraphQL Tutorials](https://www.tutorialspoint.com/graphql/index.htm)
 - [Complete App with GraphQl](https://www.youtube.com/playlist?list=PL55RiY5tL51rG1x02Yyj93iypUuHYXcB_)
+
+---
+
+## HTML
+
+- [HTML Cheat sheet by CodeWithHarry](https://www.codewithharry.com/blogpost/html-cheatsheet)
+- [5 HTML Tricks Nobody is Talking About](https://javascript.plainenglish.io/5-html-tricks-nobody-is-talking-about-a0480104fe19)
 
 ---
 
