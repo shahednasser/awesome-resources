@@ -645,9 +645,6 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 - [How to run graphics.h in VS Code](https://github.com/ullaskunder3/Solution-to-graphics.h)
 - [Top 5 VS Code extensions for web developers](https://jobin.hashnode.dev/top-5-vs-code-extension-for-web-developers-in-2021)
-- [20 VS Code Shortcuts for Faster Coding](https://betterprogramming.pub/20-vs-code-shortcuts-for-fast-coding-cheatsheet-10b0e72fd5d)
-- [Toward a Mouse-Free Developer Experience in VSCode](https://medium.com/productivedev/toward-a-mouse-free-developer-experience-in-vscode-97e621d5136e)
-- [18 Plugins for Writing Python in VS Code](https://levelup.gitconnected.com/18-plugins-for-writing-python-in-vs-code-7390afb70a2a)
 
 ### Tools
 
