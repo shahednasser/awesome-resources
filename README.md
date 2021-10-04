@@ -47,6 +47,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [React Native](#react-native)
 - [RUBY](#ruby)
 - [SASS](#sass)
+- [Svelte](#svelte)
 - [Swift](#swift)
 - [System Design](#system-design)
 - [Testing](#testing)
@@ -60,6 +61,8 @@ To add a resource or contribute, please check out our contribution guide [here](
   - [Open Source](#open-source)
   - [Standard Template Library](#standard-template-library)
   - [Programming Courses Free Online](#programming-courses-free-online)
+  - [VS Code](#vs-code)
+  - [Tools](#tools)
 
 ---
 
@@ -93,12 +96,12 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 - [Simple Twitter Bot Tutorial with Node.js](https://blog.shahednasser.com/simple-twitter-bot-tutorial-with-node-js/)
 - [Create a Simple WhatsApp Chatbot without Coding](https://medium.com/ibm-data-ai/integrating-ibm-watson-assistant-with-whatsapp-e62dcaa803fd)
- 
+
 ---
 
 ## Computer Science
 
-- [CS50](https://cs50.harvard.edu/college/2020/fall/)
+- [CS50](https://cs50.harvard.edu/)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 
 ---
@@ -275,6 +278,8 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Git Immersion](https://gitimmersion.com/)
 - [30SecondsOfCode Git Snippets](https://www.30secondsofcode.org/git/p/1)
 - [Git - the simple guide](https://rogerdudler.github.io/git-guide/)
+- [Oh My Git](https://blinry.itch.io/oh-my-git): Open source Git learning game.
+- [Git Exercises by Fracz](https://gitexercises.fracz.com/)
 
 ---
 
@@ -314,6 +319,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [10 Simple Java Projects for Beginners ](https://javahungry.blogspot.com/2019/12/java-projects-for-beginners.html)
 - [Advanced Java Programming](https://www.udemy.com/course/advanced-java-programming/)
 - [Learn Servlet Tutorial](https://www.javatpoint.com/servlet-tutorial)
+- [Object Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java)
 
 ---
 
@@ -381,7 +387,6 @@ To add a resource or contribute, please check out our contribution guide [here](
 ## Linux
 
 - [Introduction to Linux](https://training.linuxfoundation.org/resources/free-courses/introduction-to-linux/)
-- [Introduction to the world of ricing](https://zoug.top/2016/12/26/introduction-to-ricing/)
 - [The Linux guide/cheatsheet/tutorial (Commands, Directories, etc)](https://dev.to/kedark/the-linux-guide-cheatsheet-commands-directories-etc-39k0)
 - [Linux kernel and its insides](https://0xax.gitbooks.io/linux-insides/content/)
 - [Interactive map of Linux Kernel](https://makelinux.github.io/kernel/map/)
@@ -451,7 +456,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Learning Python: From Zero To Hero](https://www.freecodecamp.org/news/learning-python-from-zero-to-hero-120ea540b567/)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 - [Complete Python Tutorial In Hindi - YouTube](https://www.youtube.com/playlist?list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j)
-- [TheAlgorithms/Python: All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python) 
+- [TheAlgorithms/Python: All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python)
 - [30SecondsOfCode Python Snippets](https://www.30secondsofcode.org/python/p/1)
 
 ---
@@ -469,8 +474,8 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [React Patterns](https://reactpatterns.com/)
 - [Useful Packages you should know in React](https://medium.com/better-programming/14-useful-packages-every-react-developer-should-know-55b47a325d3)
 - [Learn React Test Driven Development](https://learntdd.in/react/)
-- [ReactJS Tutorial for Begiiners] (https://youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)
-- 
+- [ReactJS Tutorial for Beginners](https://youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)
+- [The React Beginner's Handbook](https://flaviocopes.com/page/react-handbook/)
 
 ---
 
@@ -501,6 +506,15 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Zurb - Library to Create Transitions & Animations](https://zurb.com/playground/motion-ui)
 - [Vanilla Framework](https://vanillaframework.io/)
 - [Susy - Grid Layout Engine](https://www.oddbird.net/susy/)
+
+---
+
+## Svelte
+
+- [Introduction and basics of Svelte](https://svelte.dev/tutorial/basics)
+- [Getting started with Svelte | MDN](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_getting_started)
+- [Svelte for beginners - The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO)
+- [Learn the Svelte JavaScript Framework: Full Course - Freecodecamp](https://www.youtube.com/watch?v=ujbE0mzX-CU)
 
 ---
 
@@ -564,6 +578,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 ## Webpack
 
+- [Getting Started Guide](https://www.valentinog.com/blog/webpack/)
 - [Webpack Academy](https://webpack-academy.teachable.com/)
 - [Docs](https://webpack.js.org/guides/getting-started/)
 - [Tutorials](https://codingcompiler.com/webpack-tutorial/)
@@ -601,6 +616,8 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Unsplash](https://unsplash.com/): Free high quality stock images and videos
 - [Undesign](https://undesign.learn.uno/): Collection of free design tools and resources for makers, developers and designers
 - [DopeUI](https://dopeui.co/): High quality website UI templates
+- [Coolors](https://coolors.co/): The super fast color schemes generator
+- [uiGradients](https://uigradients.com/): An awesome gradient generator
 
 ### Open Source
 
@@ -621,3 +638,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 - [How to run graphics.h in VS Code](https://github.com/ullaskunder3/Solution-to-graphics.h)
 - [Top 5 VS Code extensions for web developers](https://jobin.hashnode.dev/top-5-vs-code-extension-for-web-developers-in-2021)
+
+### Tools
+
+- [Tiny helpers](https://tiny-helpers.dev/): A collection of free single-purpose online tools for web developers
