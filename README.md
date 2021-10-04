@@ -318,7 +318,8 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 - [HTML Cheat sheet by CodeWithHarry](https://www.codewithharry.com/blogpost/html-cheatsheet)
 - [How to make your HTML responsive by adding a single line of CSS](https://medium.com/free-code-camp/how-to-make-your-html-responsive-by-adding-a-single-line-of-css-2a62de81e431)
-
+- [15 HTML element methods you’ve potentially never heard of](https://medium.com/hackernoon/15-html-element-methods-youve-potentially-never-heard-of-fc6863e41b2a)
+- [5 HTML Tricks Nobody is Talking About](https://javascript.plainenglish.io/5-html-tricks-nobody-is-talking-about-a0480104fe19)
 ---
 
 ## Java
