@@ -158,6 +158,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Introduction to Data Science with R](https://www.youtube.com/watch?v=32o0DnuRjfg&list=PLTJTBoU5HOCRrTs3cJK-PbHM39cwCU0PF&index=1)
 - [Data Science Methodology](https://cognitiveclass.ai/courses/data-science-methodology-2)
 - [Data Science Cheat Sheets](https://www.kaggle.com/timoboz/data-science-cheat-sheets)
+- [Machine Learning Algorithms from Scratch](https://github.com/python-engineer/MLfromscratch)
 
 ---
 
