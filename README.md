@@ -19,6 +19,8 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [DevOps](#devops)
 - [Docker](#docker)
 - [Express](#express)
+- [C++](#c)
+- [Algorithms](#algorithms)
 - [Ethical Hacking](#ethical-hacking)
 - [Fundamental CP algorithms](#fundamental-cp-algorithms)
   - [Algebra](#algebra)
@@ -184,10 +186,16 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 ---
 
-## Algorithms
+## C++
 
 - [CP Algorithms](https://cp-algorithms.com/index.html)
-- [GeeksforGeeks](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
+- [List of specified topics](https://www.tutorialspoint.com/cplusplus/index.htm)
+
+---
+
+## Algorithms
+
+- [List of helpful algos](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
 
 ---
 
