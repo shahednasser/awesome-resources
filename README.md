@@ -384,7 +384,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Introduction to Linux](https://training.linuxfoundation.org/resources/free-courses/introduction-to-linux/)\
 - [Linux kernel and its insides](https://0xax.gitbooks.io/linux-insides/content/)
 - [Interactive map of Linux Kernel](https://makelinux.github.io/kernel/map/)
-- [Linux Device Driver Development](https://lwn.net/Kernel/LDD3/)
+- [Linux Device Drivers, Third Edition](https://lwn.net/Kernel/LDD3/)
 
 ---
 
