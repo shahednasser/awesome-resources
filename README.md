@@ -37,6 +37,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Go](#go)
 - [GraphQL](#graphql)
 - [HTML](#html)
+- [Ionic](#ionic)
 - [Java](#java)
 - [Javascript](#javascript)
 - [Laravel](#laravel)
@@ -341,6 +342,14 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 - [HTML Cheat sheet by CodeWithHarry](https://www.codewithharry.com/blogpost/html-cheatsheet)
 - [5 HTML Tricks Nobody is Talking About](https://javascript.plainenglish.io/5-html-tricks-nobody-is-talking-about-a0480104fe19)
+
+---
+
+## Ionic
+
+- [Getting Started with Ionic Framework](https://ionicframework.com/docs)
+- [Deploying Ionic Apps](https://ionicframework.com/docs/angular/your-first-app/6-deploying-mobile)
+- [Ionic Tips and Trick from Josh Morony Blog](https://www.joshmorony.com/tags/ionic/)
 
 ---
 
