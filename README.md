@@ -210,7 +210,8 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Ethical Hacking from Scratch](https://www.udemy.com/course/learn-ethical-hacking-from-scratch/learn/)
 - [Collection of hackers, pentesters & security researchers](https://github.com/Hack-with-Github/Awesome-Hacking)
 - [Open Source Reverse Engineering Platform](https://github.com/radareorg/cutter)
-
+- [Penetration Testing Bootcamp](https://hackersploit.org/penetration-testing-bootcamp/)
+- [Practical-Ethical-Hacking-Resources](https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources)
 ---
 
 ## Expo
