@@ -280,6 +280,9 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Git - the simple guide](https://rogerdudler.github.io/git-guide/)
 - [Oh My Git](https://blinry.itch.io/oh-my-git): Open source Git learning game.
 - [Git Exercises by Fracz](https://gitexercises.fracz.com/)
+- [A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html)
+- [GIT PURR! Git Commands Explained with Cats](https://girliemac.com/blog/2017/12/26/git-purr/)
+- [Top GitHub best practices for developers](https://www.datree.io/resources/github-best-practices)
 
 ---
 
