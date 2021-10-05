@@ -22,6 +22,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [C++](#c)
 - [Algorithms](#algorithms)
 - [Ethical Hacking](#ethical-hacking)
+- [Expo](#expo)
 - [Fundamental CP algorithms](#fundamental-cp-algorithms)
   - [Algebra](#algebra)
   - [Combinatorics](#combinatorics)
@@ -207,6 +208,12 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Ethical Hacking from Scratch](https://www.udemy.com/course/learn-ethical-hacking-from-scratch/learn/)
 - [Collection of hackers, pentesters & security researchers](https://github.com/Hack-with-Github/Awesome-Hacking)
 - [Open Source Reverse Engineering Platform](https://github.com/radareorg/cutter)
+
+---
+
+## Expo
+
+- [Expo Crash Course by Traversy Media](https://www.youtube.com/watch?v=Hf4MJH0jDb4)
 
 ---
 
