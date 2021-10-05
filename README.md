@@ -47,6 +47,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [React](#react)
 - [React Native](#react-native)
 - [RUBY](#ruby)
+- [Rust] (#rust)
 - [SASS](#sass)
 - [Svelte](#svelte)
 - [Swift](#swift)
@@ -489,6 +490,14 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Full course by freeCodeCamp.org](https://www.youtube.com/watch?v=t_ispmWmdjY)
 - [Full Stack Ruby and Ruby on Rails course by The Odin Project](https://www.theodinproject.com/paths/full-stack-ruby-on-rails)
 - [Full Stack Ruby Online course at App Academy Open - required login to access](https://open.appacademy.io/login)
+
+---
+
+## Rust
+
+- [The Rust Programming Language book](https://doc.rust-lang.org/book/)
+- [Rustlings - small exercises to get you used to reading and writing Rust code](https://github.com/rust-lang/rustlings)
+- [The Rust Lang Book video series by Let's Get Rusty](https://youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8)
 
 ---
 
