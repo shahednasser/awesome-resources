@@ -524,10 +524,10 @@ To add a resource or contribute, please check out our contribution guide [here](
 ## Terraform 
 
 - [Terraform Study Guide](https://github.com/ari-hacks/terraform-study-guide)
-- [Zeal Vora - Udemy course](https://www.udemy.com/course/terraform-beginner-to-advanced/)
+- [HashiCorp Certified: Terraform Associate 2021 (Zeal Vora)](https://www.udemy.com/course/terraform-beginner-to-advanced/)
 - [Deep Dive - Terraform (Pluralsight)](https://www.pluralsight.com/courses/deep-dive-terraform)
-- [freecodecamp YT video](https://youtu.be/SLB_c_ayRMo)
-- [KodeKloud YT Video](https://youtu.be/YcJ9IeukJL8)
+- [Terraform Course - Automate your AWS cloud infrastructure](https://youtu.be/SLB_c_ayRMo)
+- [Terraform for DevOps Beginners + Labs: Complete Step by Step Guide!](https://youtu.be/YcJ9IeukJL8)
 - [250 Practice Questions For Terraform Associate Certification](https://medium.com/bb-tutorials-and-thoughts/250-practice-questions-for-terraform-associate-certification-7a3ccebe6a1a)
 
 --- 
