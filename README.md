@@ -19,6 +19,8 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [DevOps](#devops)
 - [Docker](#docker)
 - [Express](#express)
+- [C++](#c)
+- [Algorithms](#algorithms)
 - [Ethical Hacking](#ethical-hacking)
 - [Fundamental CP algorithms](#fundamental-cp-algorithms)
   - [Algebra](#algebra)
@@ -184,6 +186,19 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Curated ExpressJS Courses](https://hackr.io/tutorials/learn-express-js) - a list of community curated resources
 - [ExpressJS Courses at Classpert](https://classpert.com/express-js) - a list of courses (free and paid) from Classpert Online Course Search
 - [Security Practices in Express App](https://expressjs.com/en/advanced/best-practice-security.html)
+
+---
+
+## C++
+
+- [CP Algorithms](https://cp-algorithms.com/index.html)
+- [List of specified topics](https://www.tutorialspoint.com/cplusplus/index.htm)
+
+---
+
+## Algorithms
+
+- [List of helpful algos](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
 
 ---
 
