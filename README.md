@@ -348,9 +348,11 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 ## Ionic
 
-- [Getting Started with Ionic Framework](https://ionicframework.com/docs)
-- [Deploying Ionic Apps](https://ionicframework.com/docs/angular/your-first-app/6-deploying-mobile)
-- [Ionic Tips and Trick from Josh Morony Blog](https://www.joshmorony.com/tags/ionic/)
+- [Getting Started with Ionic: Angular Concepts & Syntax](https://www.joshmorony.com/ionic-2-first-look-series-new-angular-2-concepts-syntax/)
+- [Simple animation library to use in Ionic Apps](https://www.youtube.com/watch?v=zCwWKhiED6E)
+- [An Introduction to HTTP Requests & Fetching Data in Ionic](https://www.joshmorony.com/an-introduction-to-http-requests-fetching-data-in-ionic/)
+- [Angular to React for Ionic Developers](https://www.youtube.com/watch?v=r0OqtdjCUK8)
+- [Add a Firebase Database to your Ionic App](https://ionicthemes.com/tutorials/add-a-firebase-database-to-your-ionic-app)
 
 ---
 
