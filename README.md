@@ -20,6 +20,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Docker](#docker)
 - [Express](#express)
 - [Ethical Hacking](#ethical-hacking)
+- [Expo](#expo)
 - [Fundamental CP algorithms](#fundamental-cp-algorithms)
   - [Algebra](#algebra)
   - [Combinatorics](#combinatorics)
