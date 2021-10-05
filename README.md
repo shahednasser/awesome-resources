@@ -19,6 +19,8 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [DevOps](#devops)
 - [Docker](#docker)
 - [Express](#express)
+- [C++](#c)
+- [Algorithms](#algorithms)
 - [Ethical Hacking](#ethical-hacking)
 - [Expo](#expo)
 - [Fundamental CP algorithms](#fundamental-cp-algorithms)
@@ -48,6 +50,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [React](#react)
 - [React Native](#react-native)
 - [RUBY](#ruby)
+- [Rust] (#rust)
 - [SASS](#sass)
 - [Svelte](#svelte)
 - [Swift](#swift)
@@ -171,6 +174,8 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Docker Overview & Basics](https://docs.docker.com/get-started/overview/)
 - [Docker for beginners](https://youtu.be/zJ6WbK9zFpI)
 - [Docker Curriculum Ebook](https://docker-curriculum.com/)
+- [Docker Labs](https://labs.play-with-docker.com/)
+- [Docker Cheat Sheet](https://www.shrlrn.com/practice/dockerlabs)
 
 ---
 
@@ -182,6 +187,19 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Curated ExpressJS Courses](https://hackr.io/tutorials/learn-express-js) - a list of community curated resources
 - [ExpressJS Courses at Classpert](https://classpert.com/express-js) - a list of courses (free and paid) from Classpert Online Course Search
 - [Security Practices in Express App](https://expressjs.com/en/advanced/best-practice-security.html)
+
+---
+
+## C++
+
+- [CP Algorithms](https://cp-algorithms.com/index.html)
+- [List of specified topics](https://www.tutorialspoint.com/cplusplus/index.htm)
+
+---
+
+## Algorithms
+
+- [List of helpful algos](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
 
 ---
 
@@ -285,6 +303,9 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Git - the simple guide](https://rogerdudler.github.io/git-guide/)
 - [Oh My Git](https://blinry.itch.io/oh-my-git): Open source Git learning game.
 - [Git Exercises by Fracz](https://gitexercises.fracz.com/)
+- [A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html)
+- [GIT PURR! Git Commands Explained with Cats](https://girliemac.com/blog/2017/12/26/git-purr/)
+- [Top GitHub best practices for developers](https://www.datree.io/resources/github-best-practices)
 
 ---
 
@@ -391,6 +412,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Introduction to Linux](https://training.linuxfoundation.org/resources/free-courses/introduction-to-linux/)\
 - [Linux kernel and its insides](https://0xax.gitbooks.io/linux-insides/content/)
 - [Interactive map of Linux Kernel](https://makelinux.github.io/kernel/map/)
+- [Linux Device Drivers, Third Edition](https://lwn.net/Kernel/LDD3/)
 
 ---
 
@@ -491,6 +513,14 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Full course by freeCodeCamp.org](https://www.youtube.com/watch?v=t_ispmWmdjY)
 - [Full Stack Ruby and Ruby on Rails course by The Odin Project](https://www.theodinproject.com/paths/full-stack-ruby-on-rails)
 - [Full Stack Ruby Online course at App Academy Open - required login to access](https://open.appacademy.io/login)
+
+---
+
+## Rust
+
+- [The Rust Programming Language book](https://doc.rust-lang.org/book/)
+- [Rustlings - small exercises to get you used to reading and writing Rust code](https://github.com/rust-lang/rustlings)
+- [The Rust Lang Book video series by Let's Get Rusty](https://youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8)
 
 ---
 
