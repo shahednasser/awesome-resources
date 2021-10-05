@@ -646,6 +646,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [DopeUI](https://dopeui.co/): High quality website UI templates
 - [Coolors](https://coolors.co/): The super fast color schemes generator
 - [uiGradients](https://uigradients.com/): An awesome gradient generator
+- [Glassmorphism Generator](https://ui.glass/generator/): Amazing tool to generate glassmorphism design.
 
 ### Open Source
 
