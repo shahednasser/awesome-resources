@@ -527,6 +527,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Full course by freeCodeCamp.org](https://www.youtube.com/watch?v=t_ispmWmdjY)
 - [Full Stack Ruby and Ruby on Rails course by The Odin Project](https://www.theodinproject.com/paths/full-stack-ruby-on-rails)
 - [Full Stack Ruby Online course at App Academy Open - required login to access](https://open.appacademy.io/login)
+- [Ruby on Rails](https://rubyonrails.org/)
 
 ---
 
