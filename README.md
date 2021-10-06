@@ -37,6 +37,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Go](#go)
 - [GraphQL](#graphql)
 - [HTML](#html)
+- [Ionic](#ionic)
 - [Java](#java)
 - [Javascript](#javascript)
 - [Laravel](#laravel)
@@ -342,6 +343,14 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 - [HTML Cheat sheet by CodeWithHarry](https://www.codewithharry.com/blogpost/html-cheatsheet)
 - [5 HTML Tricks Nobody is Talking About](https://javascript.plainenglish.io/5-html-tricks-nobody-is-talking-about-a0480104fe19)
+
+---
+
+## Ionic
+
+- [Angular to React for Ionic Developers](https://www.youtube.com/watch?v=r0OqtdjCUK8)
+- [Add a Firebase Database to your Ionic App](https://ionicthemes.com/tutorials/add-a-firebase-database-to-your-ionic-app)
+- [Awesome Ionic - A curated list of awesome Ionic libraries, resources, and solutions from Ionic 1 to the latest version of the framework](https://github.com/Alexintosh/Awesome-Ionic)
 
 ---
 
