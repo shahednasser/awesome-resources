@@ -289,7 +289,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Flutter Tutorial for Beginners - YouTube](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
 - [Flutter Animation Tutorial - YouTube](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gP1qg8yj-Jokef29VRCLt1)
 - [Flutter & Firebase App Build - YouTube](https://www.youtube.com/playlist?list=PL4cUxeGkcC9j--TKIdkb3ISfRbJeJYQwC)
-- [Using Packages](https://flutter.dev/docs/development/packages-and-plugins/using-packages)
+- [Flutter Documentation](https://flutter.dev/docs)
 
 ---
 
