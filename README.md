@@ -496,6 +496,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Learn React Test Driven Development](https://learntdd.in/react/)
 - [ReactJS Tutorial for Beginners](https://youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)
 - [The React Beginner's Handbook](https://flaviocopes.com/page/react-handbook/)
+- [React.js Clones by PAPA React](https://youtube.com/playlist?list=PLf16UKl7nR5AjcrYOe1niifJSAls3spDk)
 
 ---
 
