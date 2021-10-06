@@ -292,6 +292,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Flutter Tutorial for Beginners - YouTube](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
 - [Flutter Animation Tutorial - YouTube](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gP1qg8yj-Jokef29VRCLt1)
 - [Flutter & Firebase App Build - YouTube](https://www.youtube.com/playlist?list=PL4cUxeGkcC9j--TKIdkb3ISfRbJeJYQwC)
+- [Flutter Documentation](https://flutter.dev/docs)
 
 ---
 
@@ -508,6 +509,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Learn React Test Driven Development](https://learntdd.in/react/)
 - [ReactJS Tutorial for Beginners](https://youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)
 - [The React Beginner's Handbook](https://flaviocopes.com/page/react-handbook/)
+- [React.js Clones by PAPA React](https://youtube.com/playlist?list=PLf16UKl7nR5AjcrYOe1niifJSAls3spDk)
 
 ---
 
