@@ -135,6 +135,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [The C# Yellow Book ](https://www.robmiles.com/c-yellow-book/)
 - [5 books every C# developer should read](https://medium.com/@jakubgarfield/5-books-every-c-developer-should-read-83844a5e2e3c)
 - [C# Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/)
+- [Using The CQRS Pattern In C#](https://www.c-sharpcorner.com/article/using-the-cqrs-pattern-in-c-sharp/)
 
 ---
 
