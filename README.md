@@ -51,7 +51,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [React](#react)
 - [React Native](#react-native)
 - [RUBY](#ruby)
-- [Rust] (#rust)
+- [Rust](#rust)
 - [SASS](#sass)
 - [Svelte](#svelte)
 - [Swift](#swift)
