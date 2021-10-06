@@ -51,7 +51,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [React](#react)
 - [React Native](#react-native)
 - [RUBY](#ruby)
-- [Rust](#rust)
+- [Rust] (#rust)
 - [SASS](#sass)
 - [Svelte](#svelte)
 - [Swift](#swift)
@@ -82,6 +82,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Android Developer Roadmap](https://roadmap.sh/android)
 - [Android cheat sheet](http://alvinalexander.com/android/android-cheat-sheet-main-concepts/)
 - [Android Tips & Tricks](https://github.com/nisrulz/android-tips-tricks)
+- [Android Libraries and Resources](https://github.com/JStumpp/awesome-android)
 
 ---
 
@@ -110,6 +111,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 - [CS50](https://cs50.harvard.edu/)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+- [A curated list of amazingly awesome Resources](https://github.com/bayandin/awesome-awesomeness)
 
 ---
 
