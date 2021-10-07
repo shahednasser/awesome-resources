@@ -127,7 +127,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [30SecondsOfCode CSS Snippet](https://www.30secondsofcode.org/css/p/1)
 - [CSS Box-Shadow Generator](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Backgrounds_and_Borders/Box-shadow_generator)
 - [CSS Grid - A simple visual cheatsheet by Malven](https://grid.malven.co/)
-- [CSS Flex - A simple visual cheatsheet by Malven](https://grid.malven.co/)
+- [CSS Flex - A simple visual cheatsheet by Malven](https://flexbox.malven.co/)
 
 ---
 
