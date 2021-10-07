@@ -82,6 +82,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Android Developer Roadmap](https://roadmap.sh/android)
 - [Android cheat sheet](http://alvinalexander.com/android/android-cheat-sheet-main-concepts/)
 - [Android Tips & Tricks](https://github.com/nisrulz/android-tips-tricks)
+- [Awesome Android](https://github.com/JStumpp/awesome-android)
 
 ---
 
@@ -110,6 +111,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 - [CS50](https://cs50.harvard.edu/)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
 
 ---
 
