@@ -10,6 +10,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 - [Android](#android)
 - [Angular](#angular)
+- [Blockchain](#blockchain)
 - [Bots](#bots)
 - [Computer Science](#computer-science)
 - [CSS](#css)
@@ -82,6 +83,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Android Developer Roadmap](https://roadmap.sh/android)
 - [Android cheat sheet](http://alvinalexander.com/android/android-cheat-sheet-main-concepts/)
 - [Android Tips & Tricks](https://github.com/nisrulz/android-tips-tricks)
+- [Awesome Android](https://github.com/JStumpp/awesome-android)
 
 ---
 
@@ -99,6 +101,12 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 ---
 
+## Blockchain
+
+- [KnowEthereum (handpicked ethereum resources)](https://knowethereum.com/)
+
+---
+
 ## Bots
 
 - [Simple Twitter Bot Tutorial with Node.js](https://blog.shahednasser.com/simple-twitter-bot-tutorial-with-node-js/)
@@ -110,6 +118,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 - [CS50](https://cs50.harvard.edu/)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
 
 ---
 
@@ -448,6 +457,8 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [AWS Machine Learning Tools](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/aws-machine-learning-tools-the-complete-guide/amp/)
 - [Introductory Primer](https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer)
 - [Machine Learning Roadmap](https://whimsical.com/machine-learning-roadmap-2020-CA7f3ykvXpnJ9Az32vYXva)
+- [TinyML Course](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning)
+
 
 ---
 
