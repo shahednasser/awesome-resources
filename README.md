@@ -126,6 +126,8 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [CSS Grid - Wes Bos](https://cssgrid.io/)
 - [30SecondsOfCode CSS Snippet](https://www.30secondsofcode.org/css/p/1)
 - [CSS Box-Shadow Generator](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Backgrounds_and_Borders/Box-shadow_generator)
+- [CSS Grid - A simple visual cheatsheet by Malven](https://grid.malven.co/)
+- [CSS Flex - A simple visual cheatsheet by Malven](https://grid.malven.co/)
 
 ---
 
@@ -344,6 +346,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 - [HTML Cheat sheet by CodeWithHarry](https://www.codewithharry.com/blogpost/html-cheatsheet)
 - [5 HTML Tricks Nobody is Talking About](https://javascript.plainenglish.io/5-html-tricks-nobody-is-talking-about-a0480104fe19)
+- [HTML CheatSheet](https://htmlcheatsheet.com/)
 
 ---
 
@@ -384,6 +387,8 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Full Stack open 2021](https://fullstackopen.com/en/)
 - [Demystifying JavaScript Promises - A New Way to Learn](https://blog.greenroots.info/series/javascript-promises)
 - [ Favorite JavaScript Utilities in single line of code! No more!](https://1loc.dev/)
+- [JavaScript CheatSheet by DaveChild](https://cheatography.com/davechild/cheat-sheets/javascript/)
+- [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet)
 
 ---
 
@@ -442,6 +447,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Statistical concepts for machine learning](http://www-bcf.usc.edu/~gareth/ISL/)
 - [AWS Machine Learning Tools](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/aws-machine-learning-tools-the-complete-guide/amp/)
 - [Introductory Primer](https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer)
+- [Machine Learning Roadmap](https://whimsical.com/machine-learning-roadmap-2020-CA7f3ykvXpnJ9Az32vYXva)
 
 ---
 
