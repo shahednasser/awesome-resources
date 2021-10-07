@@ -451,6 +451,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Statistical concepts for machine learning](http://www-bcf.usc.edu/~gareth/ISL/)
 - [AWS Machine Learning Tools](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/aws-machine-learning-tools-the-complete-guide/amp/)
 - [Introductory Primer](https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer)
+- [TinyML Course](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning)
 
 ---
 
