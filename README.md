@@ -54,6 +54,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [RUBY](#ruby)
 - [Rust](#rust)
 - [SASS](#sass)
+- [Solidity](#solidity)
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [System Design](#system-design)
@@ -563,6 +564,17 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Susy - Grid Layout Engine](https://www.oddbird.net/susy/)
 
 ---
+
+## Solidity
+
+- [Introduction to Solidity](https://blog.suhailkakar.com/a-beginners-guide-to-solidity-blockchain-development)
+- [Introduction to Blockchain](https://pdfcoffee.com/cbbf-exam-prep-guide-v11-pdf-free.html)
+- [Complete Documentation](hhttps://docs.soliditylang.org/en/v0.8.9/n)
+- [Introduction to Smart Contracts](https://www.youtube.com/watch?v=ZE2HxTmxfrI)
+- [Smart Contract Development Learning](https://cryptozombies.io/en/course/)
+- [Resources](https://medium.com/quiknode/awesome-ethereum-resource-lists-dd28a9c17fc1)
+
+--
 
 ## Svelte
 
