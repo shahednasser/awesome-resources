@@ -104,6 +104,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 ## Blockchain
 
 - [KnowEthereum (handpicked ethereum resources)](https://knowethereum.com/)
+- [IBM Blockchain Foundation Developer](https://cognitiveclass.ai/badges/ibm-blockchain-foundation-developer/)
 
 ---
 
@@ -111,6 +112,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 - [Simple Twitter Bot Tutorial with Node.js](https://blog.shahednasser.com/simple-twitter-bot-tutorial-with-node-js/)
 - [Create a Simple WhatsApp Chatbot without Coding](https://medium.com/ibm-data-ai/integrating-ibm-watson-assistant-with-whatsapp-e62dcaa803fd)
+- [Build Your First Wit App](https://wit.ai/docs/quickstart)
 
 ---
 
@@ -180,6 +182,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Azure DevOps](https://azure.microsoft.com/en-us/overview/devops-tutorial/)
 - [Agile vs Devops](https://enterprisersproject.com/article/2019/1/agile-vs-devops-whats-difference)
 - [Dev Op Terms](https://enterprisersproject.com/article/2019/8/devops-terms-10-essential-concepts)
+- [DevOps for Dummies - by IBM](https://www.ibm.com/downloads/cas/P9NYOK3B)
 
 ---
 
@@ -374,6 +377,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Advanced Java Programming](https://www.udemy.com/course/advanced-java-programming/)
 - [Learn Servlet Tutorial](https://www.javatpoint.com/servlet-tutorial)
 - [Object Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java)
+- [Learn Java Programming Language Step by Step](http://www.c4learn.com/javaprogramming/)
 
 ---
 
