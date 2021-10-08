@@ -321,6 +321,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html)
 - [GIT PURR! Git Commands Explained with Cats](https://girliemac.com/blog/2017/12/26/git-purr/)
 - [Top GitHub best practices for developers](https://www.datree.io/resources/github-best-practices)
+- [Learning Git By Atlassian](https://www.atlassian.com/git)
 
 ---
 
@@ -398,6 +399,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [ Favorite JavaScript Utilities in single line of code! No more!](https://1loc.dev/)
 - [JavaScript CheatSheet by DaveChild](https://cheatography.com/davechild/cheat-sheets/javascript/)
 - [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet)
+- [Free js.org Subdomain For Github Pages](https://github.com/js-org/js.org)
 
 ---
 
