@@ -104,7 +104,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 ## Blockchain
 
 - [KnowEthereum (handpicked ethereum resources)](https://knowethereum.com/)
-- [IBM Blockchain Foundation Developer](https://cognitiveclass.ai/badges/ibm-blockchain-foundation-developer/)
+
 
 ---
 
