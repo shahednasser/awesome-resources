@@ -99,7 +99,11 @@ To add a resource or contribute, please check out our contribution guide [here](
 ## Computer Science
 
 - [CS50](https://cs50.harvard.edu/college/2020/fall/)
+<<<<<<< HEAD
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+=======
+- [Graph Theory](https://www.youtube.com/watch?v=LFKZLXVO-Dg&list=WL&index=4)
+>>>>>>> parent of 29b0fa4 (Revert "added the graph theory in Computer Science section")
 
 ---
 
