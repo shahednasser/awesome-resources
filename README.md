@@ -208,6 +208,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 - [CP Algorithms](https://cp-algorithms.com/index.html)
 - [List of specified topics](https://www.tutorialspoint.com/cplusplus/index.htm)
+- [How to Learn the C++ Languages: The Ultimate List](https://www.toptal.com/c/the-ultimate-list-of-resources-to-learn-c-and-c-plus-plus)
 
 ---
 
