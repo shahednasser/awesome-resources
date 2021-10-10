@@ -644,6 +644,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/ER/tools/)
 - [Mozilla Accessibility Guide](https://developer.mozilla.org/en-US/docs/Web/Accessibility)
 - [Google Developers Guide on Accessibility](https://developers.google.com/web/fundamentals/accessibility)
+- [Accessibility Testing Tutorial | A Complete Step By Step Guide](https://www.softwaretestingmaterial.com/accessibility-testing/)
 
 ---
 
