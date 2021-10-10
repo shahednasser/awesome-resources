@@ -68,6 +68,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Others](#others)
   - [Cheat Sheets](#cheat-sheets)
   - [Design](#design)
+  - [Hosting](#hosting)
   - [Open Source](#open-source)
   - [Standard Template Library](#standard-template-library)
   - [VS Code](#vs-code)
@@ -372,6 +373,12 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [GraphQL tutorial for beginners](https://www.howtographql.com/)
 - [GraphQL Tutorials](https://www.tutorialspoint.com/graphql/index.htm)
 - [Complete App with GraphQl](https://www.youtube.com/playlist?list=PL55RiY5tL51rG1x02Yyj93iypUuHYXcB_)
+
+---
+
+## Hosting
+
+- [Netlify](https://www.netlify.com/)
 
 ---
 
