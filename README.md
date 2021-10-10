@@ -17,6 +17,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [CSharp](#csharp)
 - [Dart](#dart)
 - [Data Science](#data-science)
+- [Deep Learning](#deep-learning)
 - [DevOps](#devops)
 - [Docker](#docker)
 - [Express](#express)
@@ -170,6 +171,16 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Data Science Methodology](https://cognitiveclass.ai/courses/data-science-methodology-2)
 - [Data Science Cheat Sheets](https://www.kaggle.com/timoboz/data-science-cheat-sheets)
 - [Machine Learning Algorithms from Scratch](https://github.com/python-engineer/MLfromscratch)
+
+---
+
+## Deep Learning
+
+- [Andrew Ng's Deep Learning Specializations Course](https://www.coursera.org/specializations/deep-learning)
+- [Convolutional networks CS231n](https://cs231n.github.io/convolutional-networks/)
+- [Natural Language Processing CS224n](http://web.stanford.edu/class/cs224n/)
+- [Deep learning cheat sheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning)
+- [Google AI Blog](https://ai.googleblog.com/)
 
 ---
 
