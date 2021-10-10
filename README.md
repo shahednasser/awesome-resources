@@ -12,6 +12,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Angular](#angular)
 - [Blockchain](#blockchain)
 - [Bots](#bots)
+- [C](#c)
 - [Computer Science](#computer-science)
 - [CSS](#css)
 - [CSharp](#csharp)
@@ -111,6 +112,12 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 - [Simple Twitter Bot Tutorial with Node.js](https://blog.shahednasser.com/simple-twitter-bot-tutorial-with-node-js/)
 - [Create a Simple WhatsApp Chatbot without Coding](https://medium.com/ibm-data-ai/integrating-ibm-watson-assistant-with-whatsapp-e62dcaa803fd)
+
+---
+
+## C
+
+- [C Full Course](https://www.youtube.com/watch?v=87SH2Cn0s9A&t=3s)
 
 ---
 
@@ -377,6 +384,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Advanced Java Programming](https://www.udemy.com/course/advanced-java-programming/)
 - [Learn Servlet Tutorial](https://www.javatpoint.com/servlet-tutorial)
 - [Object Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java)
+- [Java Full Course](https://www.youtube.com/watch?v=xk4_1vDrzzo)
 
 ---
 
