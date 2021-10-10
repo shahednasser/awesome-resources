@@ -67,6 +67,7 @@ To add a resource or contribute, please check out our contribution guide [here](
   - [Cheat Sheets](#cheat-sheets)
   - [Design](#design)
   - [Open Source](#open-source)
+  - [Security](#security)
   - [Standard Template Library](#standard-template-library)
   - [VS Code](#vs-code)
   - [Tools](#tools)
@@ -691,6 +692,10 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 - [C++ Standard Template Library in Practice](https://www.udemy.com/course/c-standard-template-library-in-practice/learn/)
 - [Learn C++ STL by reading documentation](https://www.learncpp.com/cpp-tutorial/the-standard-template-library-stl/)
+
+### Security
+
+- [DoubleOctopus: Security Wiki](https://doubleoctopus.com/security-wiki/)
 
 ### VS Code
 
