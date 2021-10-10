@@ -100,6 +100,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [udemy - The Complete Guide to Angular 2](https://www.udemy.com/the-complete-guide-to-angular-2/)
 - [Pluralsight - Angular 2: First Look](https://www.pluralsight.com/courses/angular-2-first-look)
 - [Pluralsight - Angular 2: Getting Started](https://www.pluralsight.com/courses/angular-2-getting-started-update)
+- [Angular Material - Material Design components for Angular](https://material.angular.io/)
 
 ---
 
