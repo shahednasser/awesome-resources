@@ -62,6 +62,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Typescript](#typescript)
 - [Unity](#unity)
 - [Vue](#vue)
+- [Web Accessibility](#web-accessibility)
 - [Webpack](#webpack)
 - [Others](#others)
   - [Cheat Sheets](#cheat-sheets)
@@ -634,6 +635,15 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Dockerizing a Vue App](https://mherman.org/blog/dockerizing-a-vue-app/)
 - [Deploying a Flask and Vue App to Heroku with Docker and Gitlab CI](https://testdriven.io/blog/deploying-flask-to-heroku-with-docker-and-gitlab/)
 - [Large-scale Vuex application structures](https://medium.com/3yourmind/large-scale-vuex-application-structures-651e44863e2f)
+
+---
+
+## Web Accessibility
+
+- [Web Accessibility For Beginners](https://www.digitalocean.com/community/tutorials/web-accessibility-for-beginners)
+- [Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/ER/tools/)
+- [Mozilla Accessibility Guide](https://developer.mozilla.org/en-US/docs/Web/Accessibility)
+- [Google Developers Guide on Accessibility](https://developers.google.com/web/fundamentals/accessibility)
 
 ---
 
