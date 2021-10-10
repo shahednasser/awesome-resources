@@ -382,6 +382,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 ## Javascript
 
+- [Javascript course](https://js.coderslang.com/sign-in)
 - [Beginner JavaScript Notes + Reference by Wes Bos](https://wesbos.com/javascript)
 - [Learn Modern JavaScript ES6 \| ES7 \| ES8 ](https://codeloop.org/learn-modern-javascript-es6-es7-es8/)
 - [Learn JavaScript through a game](https://dev.to/nitdgplug/learn-javascript-through-a-game-1beh)
