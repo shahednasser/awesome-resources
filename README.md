@@ -105,7 +105,6 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 - [KnowEthereum (handpicked ethereum resources)](https://knowethereum.com/)
 
-
 ---
 
 ## Bots
