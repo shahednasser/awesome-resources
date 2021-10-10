@@ -12,11 +12,13 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Angular](#angular)
 - [Blockchain](#blockchain)
 - [Bots](#bots)
+- [C](#c)
 - [Computer Science](#computer-science)
 - [CSS](#css)
 - [CSharp](#csharp)
 - [Dart](#dart)
 - [Data Science](#data-science)
+- [Deep Learning](#deep-learning)
 - [DevOps](#devops)
 - [Docker](#docker)
 - [Express](#express)
@@ -98,6 +100,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [udemy - The Complete Guide to Angular 2](https://www.udemy.com/the-complete-guide-to-angular-2/)
 - [Pluralsight - Angular 2: First Look](https://www.pluralsight.com/courses/angular-2-first-look)
 - [Pluralsight - Angular 2: Getting Started](https://www.pluralsight.com/courses/angular-2-getting-started-update)
+- [Angular Material - Material Design components for Angular](https://material.angular.io/)
 
 ---
 
@@ -112,6 +115,12 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Simple Twitter Bot Tutorial with Node.js](https://blog.shahednasser.com/simple-twitter-bot-tutorial-with-node-js/)
 - [Create a Simple WhatsApp Chatbot without Coding](https://medium.com/ibm-data-ai/integrating-ibm-watson-assistant-with-whatsapp-e62dcaa803fd)
 - [Build Your First Wit App](https://wit.ai/docs/quickstart)
+
+---
+
+## C
+
+- [C Full Course](https://www.youtube.com/watch?v=87SH2Cn0s9A&t=3s)
 
 ---
 
@@ -174,6 +183,16 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 ---
 
+## Deep Learning
+
+- [Andrew Ng's Deep Learning Specializations Course](https://www.coursera.org/specializations/deep-learning)
+- [Convolutional networks CS231n](https://cs231n.github.io/convolutional-networks/)
+- [Natural Language Processing CS224n](http://web.stanford.edu/class/cs224n/)
+- [Deep learning cheat sheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning)
+- [Google AI Blog](https://ai.googleblog.com/)
+
+---
+
 ## DevOps
 
 - [Become a DevOps Engineer - Linkedin Learning](https://www.linkedin.com/learning/paths/become-a-devops-engineer?u=57692769)
@@ -224,6 +243,8 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Ethical Hacking from Scratch](https://www.udemy.com/course/learn-ethical-hacking-from-scratch/learn/)
 - [Collection of hackers, pentesters & security researchers](https://github.com/Hack-with-Github/Awesome-Hacking)
 - [Open Source Reverse Engineering Platform](https://github.com/radareorg/cutter)
+- [Penetration Testing Bootcamp](https://hackersploit.org/penetration-testing-bootcamp/)
+- [Practical-Ethical-Hacking-Resources](https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources)
 
 ---
 
@@ -323,6 +344,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html)
 - [GIT PURR! Git Commands Explained with Cats](https://girliemac.com/blog/2017/12/26/git-purr/)
 - [Top GitHub best practices for developers](https://www.datree.io/resources/github-best-practices)
+- [Learning Git By Atlassian](https://www.atlassian.com/git)
 
 ---
 
@@ -377,6 +399,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Learn Servlet Tutorial](https://www.javatpoint.com/servlet-tutorial)
 - [Object Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java)
 - [Learn Java Programming Language Step by Step](http://www.c4learn.com/javaprogramming/)
+- [Java Full Course](https://www.youtube.com/watch?v=xk4_1vDrzzo)
 
 ---
 
@@ -401,6 +424,8 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [ Favorite JavaScript Utilities in single line of code! No more!](https://1loc.dev/)
 - [JavaScript CheatSheet by DaveChild](https://cheatography.com/davechild/cheat-sheets/javascript/)
 - [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet)
+- [Free js.org Subdomain For Github Pages](https://github.com/js-org/js.org)
+- [Eloquent JavaScript - A Modern Introduction to Programming](https://eloquentjavascript.net/)
 
 ---
 
