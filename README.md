@@ -201,7 +201,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Agile vs Devops](https://enterprisersproject.com/article/2019/1/agile-vs-devops-whats-difference)
 - [Dev Op Terms](https://enterprisersproject.com/article/2019/8/devops-terms-10-essential-concepts)
 - [DevOps for Dummies - by IBM](https://www.ibm.com/downloads/cas/P9NYOK3B)
-
+- [DevOps Roadmap and Resources](https://www.contino.io/insights/devops-engineer-guide)
 ---
 
 ## Docker
