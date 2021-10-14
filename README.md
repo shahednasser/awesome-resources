@@ -535,6 +535,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Complete Python Tutorial In Hindi - YouTube](https://www.youtube.com/playlist?list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j)
 - [TheAlgorithms/Python: All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python)
 - [30SecondsOfCode Python Snippets](https://www.30secondsofcode.org/python/p/1)
+- [Regex - The most important tool to have in your IT Toolbox](https://github.com/pdesai878/Regexes)
 
 ---
 
