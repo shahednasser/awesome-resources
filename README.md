@@ -148,6 +148,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [CSS Box-Shadow Generator](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Backgrounds_and_Borders/Box-shadow_generator)
 - [CSS Grid - A simple visual cheatsheet by Malven](https://grid.malven.co/)
 - [CSS Flex - A simple visual cheatsheet by Malven](https://flexbox.malven.co/)
+- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ---
 
@@ -230,6 +231,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 - [CP Algorithms](https://cp-algorithms.com/index.html)
 - [List of specified topics](https://www.tutorialspoint.com/cplusplus/index.htm)
+- [How to Learn the C++ Languages: The Ultimate List](https://www.toptal.com/c/the-ultimate-list-of-resources-to-learn-c-and-c-plus-plus)
 
 ---
 
@@ -346,6 +348,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [GIT PURR! Git Commands Explained with Cats](https://girliemac.com/blog/2017/12/26/git-purr/)
 - [Top GitHub best practices for developers](https://www.datree.io/resources/github-best-practices)
 - [Learning Git By Atlassian](https://www.atlassian.com/git)
+- [An Introduction to Git and GitHub by Brian Yu](https://www.youtube.com/watch?v=MJUJ4wbFm_A)
 
 ---
 
@@ -406,6 +409,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 ## Javascript
 
+- [CoderslangJS](https://js.coderslang.com/)
 - [Beginner JavaScript Notes + Reference by Wes Bos](https://wesbos.com/javascript)
 - [Learn Modern JavaScript ES6 \| ES7 \| ES8 ](https://codeloop.org/learn-modern-javascript-es6-es7-es8/)
 - [Learn JavaScript through a game](https://dev.to/nitdgplug/learn-javascript-through-a-game-1beh)
@@ -705,6 +709,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Coolors](https://coolors.co/): The super fast color schemes generator
 - [uiGradients](https://uigradients.com/): An awesome gradient generator
 - [Glassmorphism Generator](https://ui.glass/generator/): Amazing tool to generate glassmorphism design.
+- [Lorem Ipsum Generators](https://loremipsum.io/): Awesome collection of Lorem Ipsum Generators
 
 ### Open Source
 
