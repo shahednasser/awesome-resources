@@ -347,6 +347,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [GIT PURR! Git Commands Explained with Cats](https://girliemac.com/blog/2017/12/26/git-purr/)
 - [Top GitHub best practices for developers](https://www.datree.io/resources/github-best-practices)
 - [Learning Git By Atlassian](https://www.atlassian.com/git)
+- [An Introduction to Git and GitHub by Brian Yu](https://www.youtube.com/watch?v=MJUJ4wbFm_A)
 
 ---
 
