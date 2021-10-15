@@ -129,6 +129,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [CS50](https://cs50.harvard.edu/)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
+- [OSSU](https://github.com/ossu/computer-science)
 
 ---
 
