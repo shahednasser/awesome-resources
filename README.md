@@ -12,11 +12,14 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Angular](#angular)
 - [Blockchain](#blockchain)
 - [Bots](#bots)
+- [C](#c)
 - [Computer Science](#computer-science)
+  - [Theoretical Computer Science](#theoretical-computer-science)  
 - [CSS](#css)
 - [CSharp](#csharp)
 - [Dart](#dart)
 - [Data Science](#data-science)
+- [Deep Learning](#deep-learning)
 - [DevOps](#devops)
 - [Docker](#docker)
 - [Express](#express)
@@ -99,6 +102,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [udemy - The Complete Guide to Angular 2](https://www.udemy.com/the-complete-guide-to-angular-2/)
 - [Pluralsight - Angular 2: First Look](https://www.pluralsight.com/courses/angular-2-first-look)
 - [Pluralsight - Angular 2: Getting Started](https://www.pluralsight.com/courses/angular-2-getting-started-update)
+- [Angular Material - Material Design components for Angular](https://material.angular.io/)
 
 ---
 
@@ -114,6 +118,13 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Create a Simple WhatsApp Chatbot without Coding](https://medium.com/ibm-data-ai/integrating-ibm-watson-assistant-with-whatsapp-e62dcaa803fd)
 - [Build Your First Wit App](https://wit.ai/docs/quickstart)
 - [How to Make a Twitter Bot in Python With Tweepy](https://realpython.com/twitter-bot-python-tweepy/)
+- [Discord.JS v13 - Make your own Discord bots by following this video series](https://www.youtube.com/playlist?list=PLaxxQQak6D_f4Z5DtQo0b1McgjLVHmE8Q)
+
+---
+
+## C
+
+- [C Full Course](https://www.youtube.com/watch?v=87SH2Cn0s9A&t=3s)
 
 ---
 
@@ -122,6 +133,15 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [CS50](https://cs50.harvard.edu/)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
+- [Open Source Society University - Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science)
+
+---
+
+## Theoretical Computer Science
+
+- [Agda usage](https://agda.readthedocs.io/en/v2.6.0.1/getting-started/what-is-agda.html)
+- [Type Theory playlist](https://www.youtube.com/playlist?list=PLoPjtLnIwJuJcZpSHIsVliXFsTH99-2W5)
+- [Programming Language Foundation in Agda](https://plfa.github.io/)
 
 ---
 
@@ -140,6 +160,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [CSS Box-Shadow Generator](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Backgrounds_and_Borders/Box-shadow_generator)
 - [CSS Grid - A simple visual cheatsheet by Malven](https://grid.malven.co/)
 - [CSS Flex - A simple visual cheatsheet by Malven](https://flexbox.malven.co/)
+- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ---
 
@@ -173,6 +194,18 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Data Science Methodology](https://cognitiveclass.ai/courses/data-science-methodology-2)
 - [Data Science Cheat Sheets](https://www.kaggle.com/timoboz/data-science-cheat-sheets)
 - [Machine Learning Algorithms from Scratch](https://github.com/python-engineer/MLfromscratch)
+- [Python for Data Science: Fundamentals](https://www.dataquest.io/course/python-for-data-science-fundamentals)
+- [Python for Data Science: Intermediate](https://www.dataquest.io/course/python-for-data-science-intermediate/)
+---
+
+## Deep Learning
+
+- [Andrew Ng's Deep Learning Specializations Course](https://www.coursera.org/specializations/deep-learning)
+- [Convolutional networks CS231n](https://cs231n.github.io/convolutional-networks/)
+- [Natural Language Processing CS224n](http://web.stanford.edu/class/cs224n/)
+- [Deep learning cheat sheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning)
+- [Google AI Blog](https://ai.googleblog.com/)
+- [Deep Learning Fundamentals](https://www.dataquest.io/course/deep-learning-fundamentals/)
 
 ---
 
@@ -184,6 +217,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Agile vs Devops](https://enterprisersproject.com/article/2019/1/agile-vs-devops-whats-difference)
 - [Dev Op Terms](https://enterprisersproject.com/article/2019/8/devops-terms-10-essential-concepts)
 - [DevOps for Dummies - by IBM](https://www.ibm.com/downloads/cas/P9NYOK3B)
+- [DevOps Roadmap for beginners](https://roadmap.sh/devops)
 
 ---
 
@@ -212,6 +246,8 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 - [CP Algorithms](https://cp-algorithms.com/index.html)
 - [List of specified topics](https://www.tutorialspoint.com/cplusplus/index.htm)
+- [How to Learn the C++ Languages: The Ultimate List](https://www.toptal.com/c/the-ultimate-list-of-resources-to-learn-c-and-c-plus-plus)
+- [The C++ Standard Template Library (STL)](https://www.geeksforgeeks.org/the-c-standard-template-library-stl/)
 
 ---
 
@@ -226,6 +262,8 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Ethical Hacking from Scratch](https://www.udemy.com/course/learn-ethical-hacking-from-scratch/learn/)
 - [Collection of hackers, pentesters & security researchers](https://github.com/Hack-with-Github/Awesome-Hacking)
 - [Open Source Reverse Engineering Platform](https://github.com/radareorg/cutter)
+- [Penetration Testing Bootcamp](https://hackersploit.org/penetration-testing-bootcamp/)
+- [Practical-Ethical-Hacking-Resources](https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources)
 
 ---
 
@@ -325,6 +363,9 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html)
 - [GIT PURR! Git Commands Explained with Cats](https://girliemac.com/blog/2017/12/26/git-purr/)
 - [Top GitHub best practices for developers](https://www.datree.io/resources/github-best-practices)
+- [Learning Git By Atlassian](https://www.atlassian.com/git)
+- [An Introduction to Git and GitHub by Brian Yu](https://www.youtube.com/watch?v=MJUJ4wbFm_A)
+- [Git Documentaton](https://git-scm.com/docs)
 
 ---
 
@@ -335,6 +376,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [GitHub Learning Lab](https://lab.github.com/)
 - [Hands-on-experience-of-git-commands](https://www.youtube.com/watch?v=uj4fy4kpaOA)
 - [Step by Step Guide to Contributing on GitHub](https://www.dataschool.io/how-to-contribute-on-github/)
+- [GitHub Protips: Tips, tricks, hacks, and secrets from Lee Reilly](https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/)
 
 ---
 
@@ -344,6 +386,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Go by Example](https://gobyexample.com/)
 - [Gophercises: Free Coding Exercises for Budding Gophers](https://gophercises.com/)
 - [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/)
+- [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/) 
 
 ---
 
@@ -360,6 +403,8 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [HTML Cheat sheet by CodeWithHarry](https://www.codewithharry.com/blogpost/html-cheatsheet)
 - [5 HTML Tricks Nobody is Talking About](https://javascript.plainenglish.io/5-html-tricks-nobody-is-talking-about-a0480104fe19)
 - [HTML CheatSheet](https://htmlcheatsheet.com/)
+- [HTML documentation for beginners](https://html.com/)
+- [HTML tutorial for beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ibZ2TSBaGGNrgh4ZgYE6Cc)
 
 ---
 
@@ -379,11 +424,13 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Learn Servlet Tutorial](https://www.javatpoint.com/servlet-tutorial)
 - [Object Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java)
 - [Learn Java Programming Language Step by Step](http://www.c4learn.com/javaprogramming/)
+- [Java Full Course](https://www.youtube.com/watch?v=xk4_1vDrzzo)
 
 ---
 
 ## Javascript
 
+- [CoderslangJS](https://js.coderslang.com/)
 - [Beginner JavaScript Notes + Reference by Wes Bos](https://wesbos.com/javascript)
 - [Learn Modern JavaScript ES6 \| ES7 \| ES8 ](https://codeloop.org/learn-modern-javascript-es6-es7-es8/)
 - [Learn JavaScript through a game](https://dev.to/nitdgplug/learn-javascript-through-a-game-1beh)
@@ -403,6 +450,8 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [ Favorite JavaScript Utilities in single line of code! No more!](https://1loc.dev/)
 - [JavaScript CheatSheet by DaveChild](https://cheatography.com/davechild/cheat-sheets/javascript/)
 - [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet)
+- [Free js.org Subdomain For Github Pages](https://github.com/js-org/js.org)
+- [Eloquent JavaScript - A Modern Introduction to Programming](https://eloquentjavascript.net/)
 
 ---
 
@@ -463,7 +512,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Introductory Primer](https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer)
 - [Machine Learning Roadmap](https://whimsical.com/machine-learning-roadmap-2020-CA7f3ykvXpnJ9Az32vYXva)
 - [TinyML Course](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning)
-
+- [Machine Learning Introduction with Python](https://www.dataquest.io/path/machine-learning-intro-with-python/)
 
 ---
 
@@ -666,6 +715,8 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Cheatsheet Collection](https://devhints.io)
 - [Cheat Sheets](http://www.cheat-sheets.org/)
 - [Programming Cheat Sheets](https://cheatography.com/)
+- [Devhints - TL;DR for developer documentation](https://devhints.io/)
+- [Linux Commands Cheat Sheet](https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet/)
 
 ### Design
 
@@ -692,6 +743,8 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Glassmorphism Generator](https://ui.glass/generator/): Amazing tool to generate glassmorphism design.
 - [Canva](https://www.canva.com/)
 - [Photopea](https://www.photopea.com/): Free online editor supporting PSD, XCF, Sketch, XD and CDR formats.
+- [Lorem Ipsum Generators](https://loremipsum.io/): Awesome collection of Lorem Ipsum Generators
+- [Font Awesome](https://fontawesome.com/): Vector icons and social logos for your website
 
 ### Open Source
 
