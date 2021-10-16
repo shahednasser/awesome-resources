@@ -202,6 +202,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Dev Op Terms](https://enterprisersproject.com/article/2019/8/devops-terms-10-essential-concepts)
 - [DevOps for Dummies - by IBM](https://www.ibm.com/downloads/cas/P9NYOK3B)
 - [DevOps Roadmap for beginners](https://roadmap.sh/devops)
+
 ---
 
 ## Docker
