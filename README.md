@@ -367,6 +367,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Go by Example](https://gobyexample.com/)
 - [Gophercises: Free Coding Exercises for Budding Gophers](https://gophercises.com/)
 - [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/)
+- [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/) 
 
 ---
 
