@@ -130,6 +130,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [CS50](https://cs50.harvard.edu/)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
+- [Open Source Society University - Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science)
 
 ---
 
