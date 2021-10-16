@@ -115,6 +115,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Simple Twitter Bot Tutorial with Node.js](https://blog.shahednasser.com/simple-twitter-bot-tutorial-with-node-js/)
 - [Create a Simple WhatsApp Chatbot without Coding](https://medium.com/ibm-data-ai/integrating-ibm-watson-assistant-with-whatsapp-e62dcaa803fd)
 - [Build Your First Wit App](https://wit.ai/docs/quickstart)
+- [Discord.JS v13 - Make your own Discord bots by following this video series](https://www.youtube.com/playlist?list=PLaxxQQak6D_f4Z5DtQo0b1McgjLVHmE8Q)
 
 ---
 
