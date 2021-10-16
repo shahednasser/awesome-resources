@@ -65,6 +65,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Typescript](#typescript)
 - [Unity](#unity)
 - [Vue](#vue)
+- [Web Accessibility](#web-accessibility)
 - [Webpack](#webpack)
 - [Others](#others)
   - [Cheat Sheets](#cheat-sheets)
@@ -116,6 +117,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Simple Twitter Bot Tutorial with Node.js](https://blog.shahednasser.com/simple-twitter-bot-tutorial-with-node-js/)
 - [Create a Simple WhatsApp Chatbot without Coding](https://medium.com/ibm-data-ai/integrating-ibm-watson-assistant-with-whatsapp-e62dcaa803fd)
 - [Build Your First Wit App](https://wit.ai/docs/quickstart)
+- [How to Make a Twitter Bot in Python With Tweepy](https://realpython.com/twitter-bot-python-tweepy/)
 - [Discord.JS v13 - Make your own Discord bots by following this video series](https://www.youtube.com/playlist?list=PLaxxQQak6D_f4Z5DtQo0b1McgjLVHmE8Q)
 
 ---
@@ -686,6 +688,15 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 ---
 
+## Web Accessibility
+
+- [Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/ER/tools/)
+- [Mozilla Accessibility Guide](https://developer.mozilla.org/en-US/docs/Web/Accessibility)
+- [Google Developers Guide on Accessibility](https://developers.google.com/web/fundamentals/accessibility)
+- [Accessibility Testing Tutorial | A Complete Step By Step Guide](https://www.softwaretestingmaterial.com/accessibility-testing/)
+
+---
+
 ## Webpack
 
 - [Getting Started Guide](https://www.valentinog.com/blog/webpack/)
@@ -731,6 +742,8 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Coolors](https://coolors.co/): The super fast color schemes generator
 - [uiGradients](https://uigradients.com/): An awesome gradient generator
 - [Glassmorphism Generator](https://ui.glass/generator/): Amazing tool to generate glassmorphism design.
+- [Canva](https://www.canva.com/)
+- [Photopea](https://www.photopea.com/): Free online editor supporting PSD, XCF, Sketch, XD and CDR formats.
 - [Lorem Ipsum Generators](https://loremipsum.io/): Awesome collection of Lorem Ipsum Generators
 - [Font Awesome](https://fontawesome.com/): Vector icons and social logos for your website
 
