@@ -234,6 +234,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [CP Algorithms](https://cp-algorithms.com/index.html)
 - [List of specified topics](https://www.tutorialspoint.com/cplusplus/index.htm)
 - [How to Learn the C++ Languages: The Ultimate List](https://www.toptal.com/c/the-ultimate-list-of-resources-to-learn-c-and-c-plus-plus)
+- [The C++ Standard Template Library (STL)](https://www.geeksforgeeks.org/the-c-standard-template-library-stl/)
 
 ---
 
@@ -351,6 +352,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Top GitHub best practices for developers](https://www.datree.io/resources/github-best-practices)
 - [Learning Git By Atlassian](https://www.atlassian.com/git)
 - [An Introduction to Git and GitHub by Brian Yu](https://www.youtube.com/watch?v=MJUJ4wbFm_A)
+- [Git Documentaton](https://git-scm.com/docs)
 
 ---
 
@@ -386,6 +388,8 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [HTML Cheat sheet by CodeWithHarry](https://www.codewithharry.com/blogpost/html-cheatsheet)
 - [5 HTML Tricks Nobody is Talking About](https://javascript.plainenglish.io/5-html-tricks-nobody-is-talking-about-a0480104fe19)
 - [HTML CheatSheet](https://htmlcheatsheet.com/)
+- [HTML documentation for beginners](https://html.com/)
+- [HTML tutorial for beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ibZ2TSBaGGNrgh4ZgYE6Cc)
 
 ---
 
@@ -687,6 +691,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Cheatsheet Collection](https://devhints.io)
 - [Cheat Sheets](http://www.cheat-sheets.org/)
 - [Programming Cheat Sheets](https://cheatography.com/)
+- [Linux Commands Cheat Sheet](https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet/)
 
 ### Design
 
@@ -712,6 +717,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [uiGradients](https://uigradients.com/): An awesome gradient generator
 - [Glassmorphism Generator](https://ui.glass/generator/): Amazing tool to generate glassmorphism design.
 - [Lorem Ipsum Generators](https://loremipsum.io/): Awesome collection of Lorem Ipsum Generators
+- [Font Awesome](https://fontawesome.com/): Vector icons and social logos for your website
 
 ### Open Source
 
