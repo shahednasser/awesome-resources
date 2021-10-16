@@ -105,7 +105,6 @@ To add a resource or contribute, please check out our contribution guide [here](
 ## Blockchain
 
 - [KnowEthereum (handpicked ethereum resources)](https://knowethereum.com/)
-- [IBM Blockchain Foundation Developer](https://cognitiveclass.ai/badges/ibm-blockchain-foundation-developer/)
 
 ---
 
@@ -692,9 +691,8 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Coolors](https://coolors.co/): The super fast color schemes generator
 - [uiGradients](https://uigradients.com/): An awesome gradient generator
 - [Glassmorphism Generator](https://ui.glass/generator/): Amazing tool to generate glassmorphism design.
-- [Adobe XD](https://www.adobe.com/products/xd.html)
 - [Canva](https://www.canva.com/)
-- [Online Photoshop-like editor](https://www.photopea.com/)
+- [Photopea](https://www.photopea.com/): Free online editor supporting PSD, XCF, Sketch, XD and CDR formats.
 
 ### Open Source
 
