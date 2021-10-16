@@ -640,7 +640,6 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 ## Web Accessibility
 
-- [Web Accessibility For Beginners](https://www.digitalocean.com/community/tutorials/web-accessibility-for-beginners)
 - [Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/ER/tools/)
 - [Mozilla Accessibility Guide](https://developer.mozilla.org/en-US/docs/Web/Accessibility)
 - [Google Developers Guide on Accessibility](https://developers.google.com/web/fundamentals/accessibility)
