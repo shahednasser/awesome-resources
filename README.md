@@ -703,6 +703,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Cheatsheet Collection](https://devhints.io)
 - [Cheat Sheets](http://www.cheat-sheets.org/)
 - [Programming Cheat Sheets](https://cheatography.com/)
+- [Devhints - TL;DR for developer documentation](https://devhints.io/)
 - [Linux Commands Cheat Sheet](https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet/)
 
 ### Design
