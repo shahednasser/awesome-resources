@@ -141,6 +141,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 - [Agda usage](https://agda.readthedocs.io/en/v2.6.0.1/getting-started/what-is-agda.html)
 - [Type Theory playlist](https://www.youtube.com/playlist?list=PLoPjtLnIwJuJcZpSHIsVliXFsTH99-2W5)
+- [Freely available programming books](https://github.com/EbookFoundation/free-programming-books)
 - [Programming Language Foundation in Agda](https://plfa.github.io/)
 
 ---
