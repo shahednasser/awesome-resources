@@ -14,6 +14,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Bots](#bots)
 - [C](#c)
 - [Computer Science](#computer-science)
+  - [Theoretical Computer Science](#theoretical-computer-science)  
 - [CSS](#css)
 - [CSharp](#csharp)
 - [Dart](#dart)
@@ -131,6 +132,14 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
 - [Open Source Society University - Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science)
+
+---
+
+## Theoretical Computer Science
+
+- [Agda usage](https://agda.readthedocs.io/en/v2.6.0.1/getting-started/what-is-agda.html)
+- [Type Theory playlist](https://www.youtube.com/playlist?list=PLoPjtLnIwJuJcZpSHIsVliXFsTH99-2W5)
+- [Programming Language Foundation in Agda](https://plfa.github.io/)
 
 ---
 
