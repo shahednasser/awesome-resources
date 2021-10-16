@@ -181,7 +181,8 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Data Science Methodology](https://cognitiveclass.ai/courses/data-science-methodology-2)
 - [Data Science Cheat Sheets](https://www.kaggle.com/timoboz/data-science-cheat-sheets)
 - [Machine Learning Algorithms from Scratch](https://github.com/python-engineer/MLfromscratch)
-
+- [Python for Data Science: Fundamentals](https://www.dataquest.io/course/python-for-data-science-fundamentals)
+- [Python for Data Science: Intermediate](https://www.dataquest.io/course/python-for-data-science-intermediate/)
 ---
 
 ## Deep Learning
@@ -191,6 +192,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Natural Language Processing CS224n](http://web.stanford.edu/class/cs224n/)
 - [Deep learning cheat sheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning)
 - [Google AI Blog](https://ai.googleblog.com/)
+- [Deep Learning Fundamentals](https://www.dataquest.io/course/deep-learning-fundamentals/)
 
 ---
 
@@ -490,7 +492,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Introductory Primer](https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer)
 - [Machine Learning Roadmap](https://whimsical.com/machine-learning-roadmap-2020-CA7f3ykvXpnJ9Az32vYXva)
 - [TinyML Course](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning)
-
+- [Machine Learning Introduction with Python](https://www.dataquest.io/path/machine-learning-intro-with-python/)
 
 ---
 
