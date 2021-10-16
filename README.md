@@ -133,8 +133,6 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 ---
 
----
-
 ## Theoretical Computer Science
 
 - [Agda usage](https://agda.readthedocs.io/en/v2.6.0.1/getting-started/what-is-agda.html)
