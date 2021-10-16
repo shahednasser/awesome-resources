@@ -364,6 +364,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Learning Git By Atlassian](https://www.atlassian.com/git)
 - [An Introduction to Git and GitHub by Brian Yu](https://www.youtube.com/watch?v=MJUJ4wbFm_A)
 - [Git Documentaton](https://git-scm.com/docs)
+- [Dangit, Git!?!](https://dangitgit.com/en)
 
 ---
 
