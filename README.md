@@ -10,16 +10,22 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 - [Android](#android)
 - [Angular](#angular)
+- [Blockchain](#blockchain)
 - [Bots](#bots)
+- [C](#c)
 - [Computer Science](#computer-science)
 - [CSS](#css)
 - [CSharp](#csharp)
 - [Dart](#dart)
 - [Data Science](#data-science)
+- [Deep Learning](#deep-learning)
 - [DevOps](#devops)
 - [Docker](#docker)
 - [Express](#express)
+- [C++](#c)
+- [Algorithms](#algorithms)
 - [Ethical Hacking](#ethical-hacking)
+- [Expo](#expo)
 - [Fundamental CP algorithms](#fundamental-cp-algorithms)
   - [Algebra](#algebra)
   - [Combinatorics](#combinatorics)
@@ -33,6 +39,8 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [GitHub](#github)
 - [Go](#go)
 - [GraphQL](#graphql)
+- [HTML](#html)
+- [Ionic](#ionic)
 - [Java](#java)
 - [Javascript](#javascript)
 - [Laravel](#laravel)
@@ -46,9 +54,12 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [React](#react)
 - [React Native](#react-native)
 - [RUBY](#ruby)
+- [Rust](#rust)
 - [SASS](#sass)
+- [Svelte](#svelte)
 - [Swift](#swift)
 - [System Design](#system-design)
+- [Terraform](#terraform)
 - [Testing](#testing)
 - [Typescript](#typescript)
 - [Unity](#unity)
@@ -59,19 +70,22 @@ To add a resource or contribute, please check out our contribution guide [here](
   - [Design](#design)
   - [Open Source](#open-source)
   - [Standard Template Library](#standard-template-library)
-  - [Programming Courses Free Online](#programming-courses-free-online)
+  - [VS Code](#vs-code)
+  - [Tools](#tools)
 
 ---
 
 ## Android
 
 - [Vogella Tutorials](https://www.vogella.com/tutorials/android.html)
+- [Android Basics with Kotlin Course](https://developer.android.com/courses/android-basics-kotlin/course)
 - [Build your first app](https://developer.android.com/training/basics/firstapp)
 - [Official Documentation](https://developer.android.com/docs)
 - [Android™ Notes for Professionals book](https://books.goalkicker.com/AndroidBook/)
 - [Android Developer Roadmap](https://roadmap.sh/android)
 - [Android cheat sheet](http://alvinalexander.com/android/android-cheat-sheet-main-concepts/)
 - [Android Tips & Tricks](https://github.com/nisrulz/android-tips-tricks)
+- [Awesome Android](https://github.com/JStumpp/awesome-android)
 
 ---
 
@@ -86,6 +100,13 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [udemy - The Complete Guide to Angular 2](https://www.udemy.com/the-complete-guide-to-angular-2/)
 - [Pluralsight - Angular 2: First Look](https://www.pluralsight.com/courses/angular-2-first-look)
 - [Pluralsight - Angular 2: Getting Started](https://www.pluralsight.com/courses/angular-2-getting-started-update)
+- [Angular Material - Material Design components for Angular](https://material.angular.io/)
+
+---
+
+## Blockchain
+
+- [KnowEthereum (handpicked ethereum resources)](https://knowethereum.com/)
 
 ---
 
@@ -93,19 +114,26 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 - [Simple Twitter Bot Tutorial with Node.js](https://blog.shahednasser.com/simple-twitter-bot-tutorial-with-node-js/)
 - [Create a Simple WhatsApp Chatbot without Coding](https://medium.com/ibm-data-ai/integrating-ibm-watson-assistant-with-whatsapp-e62dcaa803fd)
- 
+- [Build Your First Wit App](https://wit.ai/docs/quickstart)
+
+---
+
+## C
+
+- [C Full Course](https://www.youtube.com/watch?v=87SH2Cn0s9A&t=3s)
+
 ---
 
 ## Computer Science
 
-- [CS50](https://cs50.harvard.edu/college/2020/fall/)
+- [CS50](https://cs50.harvard.edu/)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
 
 ---
 
 ## CSS
 
-- [CSS Variables and How To Use Them](https://medium.com/@shahedn/css-variables-and-how-to-use-them-bd9724cb6566)
 - [Daily Cool CSS Tips and Tricks](https://css-tricks.com/)
 - [Learning Advanced CSS and HTML](https://learn.shayhowe.com/advanced-html-css/)
 - [CSS Framework - Bootstrap](https://getbootstrap.com/)
@@ -116,6 +144,10 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [CSS Flexbox - Wes Bos](https://flexbox.io/)
 - [CSS Grid - Wes Bos](https://cssgrid.io/)
 - [30SecondsOfCode CSS Snippet](https://www.30secondsofcode.org/css/p/1)
+- [CSS Box-Shadow Generator](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Backgrounds_and_Borders/Box-shadow_generator)
+- [CSS Grid - A simple visual cheatsheet by Malven](https://grid.malven.co/)
+- [CSS Flex - A simple visual cheatsheet by Malven](https://flexbox.malven.co/)
+- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ---
 
@@ -148,16 +180,28 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Introduction to Data Science with R](https://www.youtube.com/watch?v=32o0DnuRjfg&list=PLTJTBoU5HOCRrTs3cJK-PbHM39cwCU0PF&index=1)
 - [Data Science Methodology](https://cognitiveclass.ai/courses/data-science-methodology-2)
 - [Data Science Cheat Sheets](https://www.kaggle.com/timoboz/data-science-cheat-sheets)
+- [Machine Learning Algorithms from Scratch](https://github.com/python-engineer/MLfromscratch)
+
+---
+
+## Deep Learning
+
+- [Andrew Ng's Deep Learning Specializations Course](https://www.coursera.org/specializations/deep-learning)
+- [Convolutional networks CS231n](https://cs231n.github.io/convolutional-networks/)
+- [Natural Language Processing CS224n](http://web.stanford.edu/class/cs224n/)
+- [Deep learning cheat sheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning)
+- [Google AI Blog](https://ai.googleblog.com/)
 
 ---
 
 ## DevOps
 
-- [Linkedin Learning](https://www.linkedin.com/learning/paths/become-a-devops-engineer?u=57692769)
+- [Become a DevOps Engineer - Linkedin Learning](https://www.linkedin.com/learning/paths/become-a-devops-engineer?u=57692769)
 - [How To Become a DevOps Engineer In Six Months or Less](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737)
 - [Azure DevOps](https://azure.microsoft.com/en-us/overview/devops-tutorial/)
 - [Agile vs Devops](https://enterprisersproject.com/article/2019/1/agile-vs-devops-whats-difference)
 - [Dev Op Terms](https://enterprisersproject.com/article/2019/8/devops-terms-10-essential-concepts)
+- [DevOps for Dummies - by IBM](https://www.ibm.com/downloads/cas/P9NYOK3B)
 
 ---
 
@@ -166,12 +210,13 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Docker Overview & Basics](https://docs.docker.com/get-started/overview/)
 - [Docker for beginners](https://youtu.be/zJ6WbK9zFpI)
 - [Docker Curriculum Ebook](https://docker-curriculum.com/)
+- [Docker Labs](https://labs.play-with-docker.com/)
+- [Docker Cheat Sheet](https://www.shrlrn.com/practice/dockerlabs)
 
 ---
 
 ## Express
 
-- [How to uncouples emit events from connection event into socket.io and express](https://dev.to/wakeupmh/how-to-decouples-emit-events-from-connection-event-into-socket-io-8dk) - Uncoupling socket emit events with express
 - [LinkedIn Login using Node JS, Express and passport](https://www.loginradius.com/engineering/blog/linkedin-login-using-node-passport/)
 - [Web Development with Node and Express](http://shop.oreilly.com/product/0636920032977.do)
 - [Express Web Application Developement](http://shop.oreilly.com/product/9781849696548.do)
@@ -181,13 +226,33 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 ---
 
+## C++
+
+- [CP Algorithms](https://cp-algorithms.com/index.html)
+- [List of specified topics](https://www.tutorialspoint.com/cplusplus/index.htm)
+- [How to Learn the C++ Languages: The Ultimate List](https://www.toptal.com/c/the-ultimate-list-of-resources-to-learn-c-and-c-plus-plus)
+
+---
+
+## Algorithms
+
+- [List of helpful algos](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
+
+---
+
 ## Ethical Hacking
 
-- [Social Engineering](https://www.udemy.com/course-dashboard-redirect/?course_id=1155820)
 - [Ethical Hacking from Scratch](https://www.udemy.com/course/learn-ethical-hacking-from-scratch/learn/)
-- [Privacy Security and Anonymity](https://www.udemy.com/course-dashboard-redirect/?course_id=2281984)
 - [Collection of hackers, pentesters & security researchers](https://github.com/Hack-with-Github/Awesome-Hacking)
 - [Open Source Reverse Engineering Platform](https://github.com/radareorg/cutter)
+- [Penetration Testing Bootcamp](https://hackersploit.org/penetration-testing-bootcamp/)
+- [Practical-Ethical-Hacking-Resources](https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources)
+
+---
+
+## Expo
+
+- [Expo Crash Course by Traversy Media](https://www.youtube.com/watch?v=Hf4MJH0jDb4)
 
 ---
 
@@ -212,6 +277,8 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Minimum Stack / Minimum Queue](https://cp-algorithms.com/data_structures/stack_queue_modification.html)
 - [Sparse Table](https://cp-algorithms.com/data_structures/sparse-table.html)
 - [DSA + Java Interview Preparation Course](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
+- [DSA + C++ Interview Preparation Course](https://www.youtube.com/watch?v=z9bZufPHFLU&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ)
+ 
 
 ### Dynamic Programming
 
@@ -254,12 +321,12 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Building a Cupertino app with Flutter](https://codelabs.developers.google.com/codelabs/flutter-cupertino/#0)
 - [Write a Flutter desktop application](https://codelabs.developers.google.com/codelabs/flutter-github-graphql-client/#0)
 - [How to test a Flutter app](https://codelabs.developers.google.com/codelabs/flutter-app-testing/#0)
-- [60 days of Flutter](https://medium.com/@adityadroid/60-days-of-flutter-building-a-messenger-from-scratch-ab2c89e1fd0f)
 - [Animation in Flutter](https://www.youtube.com/playlist?list=PLjxrf2q8roU2v6UqYlt_KPaXlnjbYySua)
 - [Reactive Programming with Flutter](https://www.youtube.com/playlist?list=PL_Wj0DgxTlJc8E3ulwdekyVI4Wc819azh)
 - [Flutter Tutorial for Beginners - YouTube](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
 - [Flutter Animation Tutorial - YouTube](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gP1qg8yj-Jokef29VRCLt1)
 - [Flutter & Firebase App Build - YouTube](https://www.youtube.com/playlist?list=PL4cUxeGkcC9j--TKIdkb3ISfRbJeJYQwC)
+- [Flutter Documentation](https://flutter.dev/docs)
 
 ---
 
@@ -268,14 +335,19 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Pro Git Book](https://git-scm.com/book/en/v2/)
 - [Udacity's Git Commit Style Guide](https://udacity.github.io/git-styleguide/)
 - [Learn Git Branching](https://learngitbranching.js.org/): A beautiful visual guide to learn simple and advanced Git.
-- [Beginners guide to Git and Github](https://github.com/atharva20-coder/intro-to-git-github/raw/main/intro%20to%20git%20and%20github.pdf)
 - [Git notes for Professionals Book](https://goalkicker.com/GitBook/)
 - [Introduction to Git and Github ebook - Bobby Iliev(Markdown, PDF)](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook)
 - [Introduction to Git and Github - Launch School](https://launchschool.com/books/git)
 - [Git Immersion](https://gitimmersion.com/)
 - [30SecondsOfCode Git Snippets](https://www.30secondsofcode.org/git/p/1)
 - [Git - the simple guide](https://rogerdudler.github.io/git-guide/)
+- [Oh My Git](https://blinry.itch.io/oh-my-git): Open source Git learning game.
 - [Git Exercises by Fracz](https://gitexercises.fracz.com/)
+- [A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html)
+- [GIT PURR! Git Commands Explained with Cats](https://girliemac.com/blog/2017/12/26/git-purr/)
+- [Top GitHub best practices for developers](https://www.datree.io/resources/github-best-practices)
+- [Learning Git By Atlassian](https://www.atlassian.com/git)
+- [An Introduction to Git and GitHub by Brian Yu](https://www.youtube.com/watch?v=MJUJ4wbFm_A)
 
 ---
 
@@ -283,7 +355,6 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 - [How to create a pull request in GitHub](https://opensource.com/article/19/7/create-pull-request-github)
 - [Squash mutilple commits into one in GitHub](https://www.internalpointers.com/post/squash-commits-into-one-git)
-- [GitHub Guide](https://github.com/antonykidis/GitHub-guide/blob/master/Git%20and%20GitHub.pdf)
 - [GitHub Learning Lab](https://lab.github.com/)
 - [Hands-on-experience-of-git-commands](https://www.youtube.com/watch?v=uj4fy4kpaOA)
 - [Step by Step Guide to Contributing on GitHub](https://www.dataschool.io/how-to-contribute-on-github/)
@@ -302,10 +373,24 @@ To add a resource or contribute, please check out our contribution guide [here](
 ## GraphQL
 
 - [GraphQL tutorial for beginners](https://www.howtographql.com/)
-- [React And GraphQL](https://medium.com/codingthesmartway-com-blog/getting-started-with-react-and-graphql-395311c1e8da)
 - [GraphQL Tutorials](https://www.tutorialspoint.com/graphql/index.htm)
-- [GraphQL with React Apollo](https://www.robinwieruch.de/react-graphql-apollo-tutorial)
 - [Complete App with GraphQl](https://www.youtube.com/playlist?list=PL55RiY5tL51rG1x02Yyj93iypUuHYXcB_)
+
+---
+
+## HTML
+
+- [HTML Cheat sheet by CodeWithHarry](https://www.codewithharry.com/blogpost/html-cheatsheet)
+- [5 HTML Tricks Nobody is Talking About](https://javascript.plainenglish.io/5-html-tricks-nobody-is-talking-about-a0480104fe19)
+- [HTML CheatSheet](https://htmlcheatsheet.com/)
+
+---
+
+## Ionic
+
+- [Angular to React for Ionic Developers](https://www.youtube.com/watch?v=r0OqtdjCUK8)
+- [Add a Firebase Database to your Ionic App](https://ionicthemes.com/tutorials/add-a-firebase-database-to-your-ionic-app)
+- [Awesome Ionic - A curated list of awesome Ionic libraries, resources, and solutions from Ionic 1 to the latest version of the framework](https://github.com/Alexintosh/Awesome-Ionic)
 
 ---
 
@@ -315,22 +400,21 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [10 Simple Java Projects for Beginners ](https://javahungry.blogspot.com/2019/12/java-projects-for-beginners.html)
 - [Advanced Java Programming](https://www.udemy.com/course/advanced-java-programming/)
 - [Learn Servlet Tutorial](https://www.javatpoint.com/servlet-tutorial)
+- [Object Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java)
+- [Learn Java Programming Language Step by Step](http://www.c4learn.com/javaprogramming/)
+- [Java Full Course](https://www.youtube.com/watch?v=xk4_1vDrzzo)
 
 ---
 
 ## Javascript
 
+- [CoderslangJS](https://js.coderslang.com/)
 - [Beginner JavaScript Notes + Reference by Wes Bos](https://wesbos.com/javascript)
-- [Chrome Extension Tutorial — Replace Images in Any Website with Pikachu](https://levelup.gitconnected.com/chrome-extension-tutorial-replace-images-in-any-website-with-pikachu-de2a6e3548bb)
-- [React Hooks Tutorial — Create a Number Trivia Generator Website](https://medium.com/@shahedn/react-hooks-tutorial-create-a-number-trivia-generator-website-32b6b3b52c3e)
-- [Callback Function in JavaScript](https://medium.com/@a.athuljoy/callback-function-in-javascript-99b5262f6750)
 - [Learn Modern JavaScript ES6 \| ES7 \| ES8 ](https://codeloop.org/learn-modern-javascript-es6-es7-es8/)
 - [Learn JavaScript through a game](https://dev.to/nitdgplug/learn-javascript-through-a-game-1beh)
 - [Javascript ES2020- Top Features you should know](https://dev.to/catalinmpit/javascript-es2020-the-features-you-should-know-45i2)
-- [Understanding Closures](https://blog.skay.dev/understanding-closures)
 - [S.O.L.I.D. Principles around You, in JavaScript](https://francescociulla.com/solid-principles-around-you-in-javascript)
 - [The 30 days JavaScript Challenge](https://javascript30.com/)
-- [Async/Await in JavaScript Explained](https://blog.skay.dev/asyncawait-in-javascript-explained)
 - [JavaScript: Understanding the Weird Parts](https://www.youtube.com/watch?v=Bv_5Zv5c-Ts&ab_channel=TonyAlicea)
 - [Full Stack Javascript course by The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript)
 - [Building Front-End Web Apps with Plain JavaScript](https://web-engineering.info/tech/JsFrontendApp/book/)
@@ -342,12 +426,15 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Full Stack open 2021](https://fullstackopen.com/en/)
 - [Demystifying JavaScript Promises - A New Way to Learn](https://blog.greenroots.info/series/javascript-promises)
 - [ Favorite JavaScript Utilities in single line of code! No more!](https://1loc.dev/)
+- [JavaScript CheatSheet by DaveChild](https://cheatography.com/davechild/cheat-sheets/javascript/)
+- [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet)
+- [Free js.org Subdomain For Github Pages](https://github.com/js-org/js.org)
+- [Eloquent JavaScript - A Modern Introduction to Programming](https://eloquentjavascript.net/)
 
 ---
 
 ## Kubernetes
 
-- [Kubernetes - Lets learn the basic tenets](https://atharvacodes.netlify.app/kubernetes-docker/Basic-tenets/)
 - [Understanding Kubernetes: Developer's Guide](https://blog.thewiz.net/understanding-kubernetes-developers-guide)
 - [Kubernetes Hands On & Training](https://www.katacoda.com/courses/kubernetes)
 
@@ -364,7 +451,6 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 - [Official Documentation](https://laravel.com)
 - [Video Tutorials for Laravel](https://laracasts.com)
-- [Discussion Forum](https://laravel.io/forum)
 - [Serverless Deployment for Laravel](https://vapor.laravel.com)
 - [Micro Laravel Framework for APIs](https://lumen.laravel.com)
 - [Server Management for Laravel](https://forge.laravel.com)
@@ -375,17 +461,16 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 - [Official Documentation](http://lesscss.org/)
 - [Complete tutorial from Tutorialpoint](https://www.tutorialspoint.com/less/index.htm)
-- [Video Tutorials for Beginners](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGCshbAx1JpBtNoKh8iKAAiy)
+- [Less CSS Tutorials for Beginners Playlist](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGCshbAx1JpBtNoKh8iKAAiy)
 
 ---
 
 ## Linux
 
-- [Introduction to Linux](https://training.linuxfoundation.org/resources/free-courses/introduction-to-linux/)
-- [Introduction to the world of ricing](https://zoug.top/2016/12/26/introduction-to-ricing/)
-- [The Linux guide/cheatsheet/tutorial (Commands, Directories, etc)](https://dev.to/kedark/the-linux-guide-cheatsheet-commands-directories-etc-39k0)
+- [Introduction to Linux](https://training.linuxfoundation.org/resources/free-courses/introduction-to-linux/)\
 - [Linux kernel and its insides](https://0xax.gitbooks.io/linux-insides/content/)
 - [Interactive map of Linux Kernel](https://makelinux.github.io/kernel/map/)
+- [Linux Device Drivers, Third Edition](https://lwn.net/Kernel/LDD3/)
 
 ---
 
@@ -403,13 +488,14 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Statistical concepts for machine learning](http://www-bcf.usc.edu/~gareth/ISL/)
 - [AWS Machine Learning Tools](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/aws-machine-learning-tools-the-complete-guide/amp/)
 - [Introductory Primer](https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer)
+- [Machine Learning Roadmap](https://whimsical.com/machine-learning-roadmap-2020-CA7f3ykvXpnJ9Az32vYXva)
+- [TinyML Course](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning)
+
 
 ---
 
 ## Magento
 
-- [Magento 2 Creating A UI Form](https://www.mageplaza.com/devdocs/creat-a-ui-form-in-magento-2.html)
-- [Tips for Magento 2 Layouts](https://medium.com/@shahedn/tips-for-magento-2-layouts-d7e076812fa2)
 - [Fast Virtual Machine for Magento2](https://github.com/zepgram/magento2-fast-vm/)
 - [Docker Configuration for Magento2](https://github.com/markshust/docker-magento)
 
@@ -422,25 +508,24 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Node JS Architecture](https://www.journaldev.com/7462/node-js-architecture-single-threaded-event-loop)
 - [Deploy Node App on AWS EC2](https://jobin.hashnode.dev/deploy-your-node-js-app-into-production-with-nginx-and-ssl-installationstep-by-step-tutorial)
 - [30SecondsOfCode Node JS Snippets](https://www.30secondsofcode.org/js/t/node/p/1)
+- [The only NodeJs introduction you’ll ever need](https://codeburst.io/the-only-nodejs-introduction-youll-ever-need-d969a47ef219)
 
 ---
 
 ## PHP
 
-- [PHP Tutorial](https://phptherightway.com/)
-- [PHP Video Tutorials](https://www.youtube.com/playlist?list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn)
-- [Online Book For Learning PHP](https://phpapprentice.com/)
-- [Interactive Lessons For PHP](https://www.sololearn.com/Course/PHP/)
-- [Useful PHP Tips For Beginners](https://www.binarytides.com/35-techniques-to-enhance-your-php-code/)
+- [PHP: The Right Way](https://phptherightway.com/)
+- [PHP Front to Back](https://www.youtube.com/playlist?list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn)
+- [PHP Apprentice: An Online Book For Learning PHP](https://phpapprentice.com/)
+- [Learn PHP | SoloLearn](https://www.sololearn.com/Course/PHP/)
+- [40+ Useful Php tips for beginners](https://www.binarytides.com/35-techniques-to-enhance-your-php-code/)
 - [PHP Cheat Sheet](https://websitesetup.org/php-cheat-sheet/)
-- [Web Development Video Tutorials](https://websitesetup.org/php-cheat-sheet/)
 
 ---
 
 ## Python
 
 - [Automate The Boring Stuff With Python](https://automatetheboringstuff.com/2e/chapter0/)
-- [How to start with Python](https://anurag10202.medium.com/how-to-start-with-python-ab1487721214)
 - [Python Intermediate Tutorial](https://github.com/python-engineer/python-engineer-notebooks/tree/master/advanced-python)
 - [Python Tutorial](https://www.w3schools.com/python/)
 - [Python for Everybody (14 hour course)](https://www.youtube.com/watch?v=8DvywoWv6fI&feature=emb_title)
@@ -452,15 +537,14 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Learning Python: From Zero To Hero](https://www.freecodecamp.org/news/learning-python-from-zero-to-hero-120ea540b567/)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 - [Complete Python Tutorial In Hindi - YouTube](https://www.youtube.com/playlist?list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j)
-- [TheAlgorithms/Python: All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python) 
+- [TheAlgorithms/Python: All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python)
 - [30SecondsOfCode Python Snippets](https://www.30secondsofcode.org/python/p/1)
 
 ---
 
 ## React
 
-- [React Tutorial](https://www.w3schools.com/react/)
-- [Glitch: React Starter Kit](https://glitch.com/glimmer/post/react-starter-kit)
+- [React Tutorial - W3Schools](https://www.w3schools.com/react/)
 - [Egghead.io: Start Learning React](https://egghead.io/courses/start-learning-react)
 - [React Official Tutorial](https://facebook.github.io/react/docs/tutorial.html)
 - [Using React in Visual Studio Code](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial)
@@ -470,14 +554,16 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [React Patterns](https://reactpatterns.com/)
 - [Useful Packages you should know in React](https://medium.com/better-programming/14-useful-packages-every-react-developer-should-know-55b47a325d3)
 - [Learn React Test Driven Development](https://learntdd.in/react/)
+- [ReactJS Tutorial for Beginners](https://youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)
+- [The React Beginner's Handbook](https://flaviocopes.com/page/react-handbook/)
+- [React.js Clones by PAPA React](https://youtube.com/playlist?list=PLf16UKl7nR5AjcrYOe1niifJSAls3spDk)
 
 ---
 
 ## React Native
 
 - [React Native Tutorial](https://reactnative.dev/docs/tutorial)
-- [How react-native works and its architecture](http://www.geeksforgeeks.org/react-native-works/)
-- [React-Native performance profiling](https://medium.com/@talkol/performance-limitations-of-react-native-and-how-to-overcome-them-947630d7f440)
+- [Performance Limitations of React Native and How to Overcome Them](https://medium.com/@talkol/performance-limitations-of-react-native-and-how-to-overcome-them-947630d7f440)
 - [VSCode setup for React Native](https://medium.com/react-native-training/vscode-for-react-native-526ec4a368ce)
 - [Build E-Commerce App in React Native](https://hackernoon.com/building-an-e-commerce-search-app-with-react-native-2c87760a2315)
 - [How to deploy react native apps](https://medium.com/react-native-training/understanding-react-native-deployments-6e54157920b7)
@@ -486,20 +572,36 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 ## RUBY
 
-- [Ruby from Tutorialspoint](https://www.tutorialspoint.com/ruby/ruby_strings.htm)
+- [Ruby from Tutorialspoint](https://www.tutorialspoint.com/ruby/index.htm)
 - [Full course by freeCodeCamp.org](https://www.youtube.com/watch?v=t_ispmWmdjY)
 - [Full Stack Ruby and Ruby on Rails course by The Odin Project](https://www.theodinproject.com/paths/full-stack-ruby-on-rails)
 - [Full Stack Ruby Online course at App Academy Open - required login to access](https://open.appacademy.io/login)
 
 ---
 
+## Rust
+
+- [The Rust Programming Language book](https://doc.rust-lang.org/book/)
+- [Rustlings - small exercises to get you used to reading and writing Rust code](https://github.com/rust-lang/rustlings)
+- [The Rust Lang Book video series by Let's Get Rusty](https://youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8)
+
+---
+
 ## SASS
 
-- [Sass Basics](https://sass-lang.com/guide)
 - [Complete Documentation](https://sass-lang.com/documentation)
 - [Zurb - Library to Create Transitions & Animations](https://zurb.com/playground/motion-ui)
 - [Vanilla Framework](https://vanillaframework.io/)
 - [Susy - Grid Layout Engine](https://www.oddbird.net/susy/)
+
+---
+
+## Svelte
+
+- [Introduction and basics of Svelte](https://svelte.dev/tutorial/basics)
+- [Getting started with Svelte | MDN](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_getting_started)
+- [Svelte for beginners - The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO)
+- [Learn the Svelte JavaScript Framework: Full Course - Freecodecamp](https://www.youtube.com/watch?v=ujbE0mzX-CU)
 
 ---
 
@@ -508,17 +610,26 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Swift Tutorial](https://www.w3schools.in/swift-tutorial/)
 - [Build your very first iOS app](https://www.edx.org/course/build-your-very-first-ios-app)
 - [Swift Programming Tutorial for Beginners](https://www.youtube.com/watch?v=Ulp1Kimblg0)
-- [Getting Started](https://swift.org/getting-started/#installing-swift)
 - [Documentation](https://swift.org/documentation/#the-swift-programming-language)
 
 ---
 
 ## System Design
 
-- [System Design Blogs](http://highscalability.com/)
-- [Videos on System Design Concepts](https://www.youtube.com/watch?v=xpDnVSmNFX0&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
+- [System Design Concepts](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
 
 ---
+
+## Terraform 
+
+- [Terraform Study Guide](https://github.com/ari-hacks/terraform-study-guide)
+- [HashiCorp Certified: Terraform Associate 2021 (Zeal Vora)](https://www.udemy.com/course/terraform-beginner-to-advanced/)
+- [Deep Dive - Terraform (Pluralsight)](https://www.pluralsight.com/courses/deep-dive-terraform)
+- [Terraform Course - Automate your AWS cloud infrastructure](https://youtu.be/SLB_c_ayRMo)
+- [Terraform for DevOps Beginners + Labs: Complete Step by Step Guide!](https://youtu.be/YcJ9IeukJL8)
+- [250 Practice Questions For Terraform Associate Certification](https://medium.com/bb-tutorials-and-thoughts/250-practice-questions-for-terraform-associate-certification-7a3ccebe6a1a)
+
+--- 
 
 ## Testing
 
@@ -529,15 +640,11 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 ## Typescript
 
-- [ TypeScript Documentation: Handbook ](https://www.typescriptlang.org/docs/)
-- [ Scrimba - Introduction to TypeScript ](https://scrimba.com/learn/intrototypescript)
-- [ Typescript - The Basics ](https://www.youtube.com/watch?v=ahCwqrYpIuM)
-- [ Typescript - Course ](https://www.youtube.com/watch?v=YPShu0H3RbM&list=PLqq-6Pq4lTTanfgsbnFzfWUhhAz3tIezU)
-- [ Typescript - Blogs ](https://ultimatecourses.com/blog/category/typescript/)
-- [ Why You Should Choose TypeScript Over JavaScript ](https://serokell.io/blog/why-typescript)
-- [ Clean Code concepts adapted for TypeScript ](https://github.com/labs42io/clean-code-typescript)
-- [ Should You Learn TypeScript? (Benefits & Resources) ](https://snipcart.com/blog/learn-typescript-why-use-ts)
-- [ TypeScript Learing Resources...more... ](https://medium.com/@jcreamer898/typescript-learning-resources-b1205a98c47c)
+- [TypeScript Documentation: Handbook](https://www.typescriptlang.org/docs/)
+- [Scrimba - Introduction to TypeScript](https://scrimba.com/learn/intrototypescript)
+- [Typescript - The Basics](https://www.youtube.com/watch?v=ahCwqrYpIuM)
+- [Typescript Basics - Course](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTanfgsbnFzfWUhhAz3tIezU)
+- [Clean Code concepts adapted for TypeScript](https://github.com/labs42io/clean-code-typescript)
 
 ---
 
@@ -551,9 +658,6 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 ## Vue
 
-- [Vue x Hasura GraphQL](https://medium.com/@malgamves/vue-x-hasura-graphql-d66f585a3ba5)
-- [Using GraphQL Mutations in Vue.js](https://medium.com/@malgamves/using-graphql-mutations-in-vue-js-3b4570234edf)
-- [Learn How To Build A Data-Driven Search UI with Vue.JS](https://medium.appbase.io/learn-how-to-build-a-github-search-explorer-app-with-vue-js-c66f61d6e152)
 - [Using GitLab CI/CD to auto-deploy your Vue.js application to AWS S3](https://medium.com/@croo/using-gitlab-ci-cd-to-auto-deploy-your-vue-js-application-to-aws-s3-9affe1eb3457)
 - [Dockerizing a Vue App](https://mherman.org/blog/dockerizing-a-vue-app/)
 - [Deploying a Flask and Vue App to Heroku with Docker and Gitlab CI](https://testdriven.io/blog/deploying-flask-to-heroku-with-docker-and-gitlab/)
@@ -563,6 +667,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 ## Webpack
 
+- [Getting Started Guide](https://www.valentinog.com/blog/webpack/)
 - [Webpack Academy](https://webpack-academy.teachable.com/)
 - [Docs](https://webpack.js.org/guides/getting-started/)
 - [Tutorials](https://codingcompiler.com/webpack-tutorial/)
@@ -601,6 +706,10 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Unsplash](https://unsplash.com/): Free high quality stock images and videos
 - [Undesign](https://undesign.learn.uno/): Collection of free design tools and resources for makers, developers and designers
 - [DopeUI](https://dopeui.co/): High quality website UI templates
+- [Coolors](https://coolors.co/): The super fast color schemes generator
+- [uiGradients](https://uigradients.com/): An awesome gradient generator
+- [Glassmorphism Generator](https://ui.glass/generator/): Amazing tool to generate glassmorphism design.
+- [Lorem Ipsum Generators](https://loremipsum.io/): Awesome collection of Lorem Ipsum Generators
 
 ### Open Source
 
@@ -613,11 +722,12 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [C++ Standard Template Library in Practice](https://www.udemy.com/course/c-standard-template-library-in-practice/learn/)
 - [Learn C++ STL by reading documentation](https://www.learncpp.com/cpp-tutorial/the-standard-template-library-stl/)
 
-### Programming Courses Free Online
-
-- [SoloLearn](https://www.sololearn.com/learning)
-
 ### VS Code
 
 - [How to run graphics.h in VS Code](https://github.com/ullaskunder3/Solution-to-graphics.h)
 - [Top 5 VS Code extensions for web developers](https://jobin.hashnode.dev/top-5-vs-code-extension-for-web-developers-in-2021)
+
+### Tools
+
+- [Tiny helpers](https://tiny-helpers.dev/): A collection of free single-purpose online tools for web developers
+
