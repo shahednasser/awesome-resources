@@ -416,6 +416,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Ignoring invalid SSL Cerificate on Cordova](http://ivancevich.me/articles/ignoring-invalid-ssl-certificates-on-cordova-android-ios/)
 - [Ionic Responsive Grid Tutorial and Example](https://morioh.com/p/8a41252e05a1)
 - [Ionic Environment Setting Starter](https://github.com/writer0713/ionic-environment-setting)
+- [Building an Ionic JWT Refresh Token Flow](https://devdactic.com/ionic-jwt-refresh-token/)
 
 ---
 
