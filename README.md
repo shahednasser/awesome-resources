@@ -413,6 +413,9 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Angular to React for Ionic Developers](https://www.youtube.com/watch?v=r0OqtdjCUK8)
 - [Add a Firebase Database to your Ionic App](https://ionicthemes.com/tutorials/add-a-firebase-database-to-your-ionic-app)
 - [Awesome Ionic - A curated list of awesome Ionic libraries, resources, and solutions from Ionic 1 to the latest version of the framework](https://github.com/Alexintosh/Awesome-Ionic)
+- [Ignoring invalid SSL Cerificate on Cordova](http://ivancevich.me/articles/ignoring-invalid-ssl-certificates-on-cordova-android-ios/)
+- [Ionic Responsive Grid Tutorial and Example](https://morioh.com/p/8a41252e05a1)
+- [Ionic Environment Setting Starter](https://github.com/writer0713/ionic-environment-setting)
 
 ---
 
