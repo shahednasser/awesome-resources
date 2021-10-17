@@ -418,6 +418,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Angular to React for Ionic Developers](https://www.youtube.com/watch?v=r0OqtdjCUK8)
 - [Add a Firebase Database to your Ionic App](https://ionicthemes.com/tutorials/add-a-firebase-database-to-your-ionic-app)
 - [Awesome Ionic - A curated list of awesome Ionic libraries, resources, and solutions from Ionic 1 to the latest version of the framework](https://github.com/Alexintosh/Awesome-Ionic)
+- [Building an Ionic JWT Refresh Token Flow](https://devdactic.com/ionic-jwt-refresh-token/)
 
 ---
 
