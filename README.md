@@ -406,6 +406,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [HTML CheatSheet](https://htmlcheatsheet.com/)
 - [HTML documentation for beginners](https://html.com/)
 - [HTML tutorial for beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ibZ2TSBaGGNrgh4ZgYE6Cc)
+- [Build your first HTML Project](https://www.freecodecamp.org/news/html-css-tutorial-build-a-recipe-website/)
 
 ---
 
