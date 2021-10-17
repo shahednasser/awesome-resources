@@ -250,6 +250,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [List of specified topics](https://www.tutorialspoint.com/cplusplus/index.htm)
 - [How to Learn the C++ Languages: The Ultimate List](https://www.toptal.com/c/the-ultimate-list-of-resources-to-learn-c-and-c-plus-plus)
 - [The C++ Standard Template Library (STL)](https://www.geeksforgeeks.org/the-c-standard-template-library-stl/)
+- [C++ Series GeeksForGeeks](https://www.geeksforgeeks.org/c-plus-plus/)
 
 ---
 
