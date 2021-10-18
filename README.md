@@ -300,6 +300,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Sparse Table](https://cp-algorithms.com/data_structures/sparse-table.html)
 - [DSA + Java Interview Preparation Course](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
 - [DSA + C++ Interview Preparation Course](https://www.youtube.com/watch?v=z9bZufPHFLU&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ)
+- [Data Structures](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
  
 
 ### Dynamic Programming
