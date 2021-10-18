@@ -160,6 +160,8 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [CSS Grid - Wes Bos](https://cssgrid.io/)
 - [30SecondsOfCode CSS Snippet](https://www.30secondsofcode.org/css/p/1)
 - [CSS Box-Shadow Generator](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Backgrounds_and_Borders/Box-shadow_generator)
+- [CSS Gradient Generator](https://cssgradient.io/)
+- [CSS Animated Gradient Background Generator](https://animated-gradient-background-generator.netlify.app/)
 - [CSS Grid - A simple visual cheatsheet by Malven](https://grid.malven.co/)
 - [CSS Flex - A simple visual cheatsheet by Malven](https://flexbox.malven.co/)
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
@@ -370,6 +372,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [An Introduction to Git and GitHub by Brian Yu](https://www.youtube.com/watch?v=MJUJ4wbFm_A)
 - [Git Documentaton](https://git-scm.com/docs)
 - [Dangit, Git!?!](https://dangitgit.com/en)
+- [Using multiple Git accounts with SSH keys](https://gist.github.com/oanhnn/80a89405ab9023894df7)
 
 ---
 
