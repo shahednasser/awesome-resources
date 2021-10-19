@@ -301,7 +301,9 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [DSA + Java Interview Preparation Course](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
 - [DSA + C++ Interview Preparation Course](https://www.youtube.com/watch?v=z9bZufPHFLU&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ)
 - [Data Structures](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
- 
+- [Princeton University Algorithms, Part 1](https://www.coursera.org/learn/algorithms-part1)
+- [Princeton University Algorithms, Part 2](https://www.coursera.org/learn/algorithms-part2)
+- [This is CS50x](https://cs50.harvard.edu/x/2021) - David J. Malan
 
 ### Dynamic Programming
 
