@@ -125,6 +125,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 ## C
 
 - [C Full Course](https://www.youtube.com/watch?v=87SH2Cn0s9A&t=3s)
+- [C Programming for Beginners](https://youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR)
 - [Learn C Org](https://www.learn-c.org)
 
 ---
