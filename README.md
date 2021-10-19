@@ -125,7 +125,8 @@ To add a resource or contribute, please check out our contribution guide [here](
 ## C
 
 - [C Full Course](https://www.youtube.com/watch?v=87SH2Cn0s9A&t=3s)
-- [Introduction to C Programming](https://youtu.be/zYierUhIFNQ?list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8)
+- [C Programming for Beginners](https://youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR)
+- [Learn C Org](https://www.learn-c.org)
 
 ---
 
@@ -142,6 +143,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 - [Agda usage](https://agda.readthedocs.io/en/v2.6.0.1/getting-started/what-is-agda.html)
 - [Type Theory playlist](https://www.youtube.com/playlist?list=PLoPjtLnIwJuJcZpSHIsVliXFsTH99-2W5)
+- [Freely available programming books](https://github.com/EbookFoundation/free-programming-books)
 - [Programming Language Foundation in Agda](https://plfa.github.io/)
 
 ---
@@ -159,6 +161,8 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [CSS Grid - Wes Bos](https://cssgrid.io/)
 - [30SecondsOfCode CSS Snippet](https://www.30secondsofcode.org/css/p/1)
 - [CSS Box-Shadow Generator](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Backgrounds_and_Borders/Box-shadow_generator)
+- [CSS Gradient Generator](https://cssgradient.io/)
+- [CSS Animated Gradient Background Generator](https://animated-gradient-background-generator.netlify.app/)
 - [CSS Grid - A simple visual cheatsheet by Malven](https://grid.malven.co/)
 - [CSS Flex - A simple visual cheatsheet by Malven](https://flexbox.malven.co/)
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
@@ -249,6 +253,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [List of specified topics](https://www.tutorialspoint.com/cplusplus/index.htm)
 - [How to Learn the C++ Languages: The Ultimate List](https://www.toptal.com/c/the-ultimate-list-of-resources-to-learn-c-and-c-plus-plus)
 - [The C++ Standard Template Library (STL)](https://www.geeksforgeeks.org/the-c-standard-template-library-stl/)
+- [C++ Series GeeksForGeeks](https://www.geeksforgeeks.org/c-plus-plus/)
 
 ---
 
@@ -296,6 +301,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Sparse Table](https://cp-algorithms.com/data_structures/sparse-table.html)
 - [DSA + Java Interview Preparation Course](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
 - [DSA + C++ Interview Preparation Course](https://www.youtube.com/watch?v=z9bZufPHFLU&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ)
+- [Data Structures](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
  
 
 ### Dynamic Programming
@@ -367,6 +373,8 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Learning Git By Atlassian](https://www.atlassian.com/git)
 - [An Introduction to Git and GitHub by Brian Yu](https://www.youtube.com/watch?v=MJUJ4wbFm_A)
 - [Git Documentaton](https://git-scm.com/docs)
+- [Dangit, Git!?!](https://dangitgit.com/en)
+- [Using multiple Git accounts with SSH keys](https://gist.github.com/oanhnn/80a89405ab9023894df7)
 
 ---
 
@@ -378,6 +386,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Hands-on-experience-of-git-commands](https://www.youtube.com/watch?v=uj4fy4kpaOA)
 - [Step by Step Guide to Contributing on GitHub](https://www.dataschool.io/how-to-contribute-on-github/)
 - [GitHub Protips: Tips, tricks, hacks, and secrets from Lee Reilly](https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/)
+- [GitHub Minesweeper](https://profy.dev/project/github-minesweeper/intro-overview): hands-on introduction to working with Git and GitHub in a team
 
 ---
 
@@ -406,6 +415,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [HTML CheatSheet](https://htmlcheatsheet.com/)
 - [HTML documentation for beginners](https://html.com/)
 - [HTML tutorial for beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ibZ2TSBaGGNrgh4ZgYE6Cc)
+- [Build your first HTML Project](https://www.freecodecamp.org/news/html-css-tutorial-build-a-recipe-website/)
 
 ---
 
@@ -414,6 +424,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Angular to React for Ionic Developers](https://www.youtube.com/watch?v=r0OqtdjCUK8)
 - [Add a Firebase Database to your Ionic App](https://ionicthemes.com/tutorials/add-a-firebase-database-to-your-ionic-app)
 - [Awesome Ionic - A curated list of awesome Ionic libraries, resources, and solutions from Ionic 1 to the latest version of the framework](https://github.com/Alexintosh/Awesome-Ionic)
+- [Building an Ionic JWT Refresh Token Flow](https://devdactic.com/ionic-jwt-refresh-token/)
 
 ---
 
