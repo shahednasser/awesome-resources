@@ -57,6 +57,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [RUBY](#ruby)
 - [Rust](#rust)
 - [SASS](#sass)
+- [Spring](#spring)
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [System Design](#system-design)
@@ -630,6 +631,13 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Zurb - Library to Create Transitions & Animations](https://zurb.com/playground/motion-ui)
 - [Vanilla Framework](https://vanillaframework.io/)
 - [Susy - Grid Layout Engine](https://www.oddbird.net/susy/)
+
+---
+
+## Spring
+
+- [Getting Started - Building an Application](https://spring.io/guides/gs/spring-boot/)
+- [Spring Security Architecture](https://spring.io/guides/topicals/spring-security-architecture/)
 
 ---
 
