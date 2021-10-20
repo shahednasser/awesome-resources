@@ -508,6 +508,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Linux kernel and its insides](https://0xax.gitbooks.io/linux-insides/content/)
 - [Interactive map of Linux Kernel](https://makelinux.github.io/kernel/map/)
 - [Linux Device Drivers, Third Edition](https://lwn.net/Kernel/LDD3/)
+- [Linux Notes ] (https://github.com/prajeshy/linux/blob/main/Linux%20Notes.pdf)
 
 ---
 
