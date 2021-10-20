@@ -270,6 +270,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Open Source Reverse Engineering Platform](https://github.com/radareorg/cutter)
 - [Penetration Testing Bootcamp](https://hackersploit.org/penetration-testing-bootcamp/)
 - [Practical-Ethical-Hacking-Resources](https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources)
+- [Sociel Engineering Cheatsheets] (https://github.com/prajeshy/linux/blob/main/Module%2011%20references.pdf)
 
 ---
 
