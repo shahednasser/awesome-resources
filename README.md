@@ -271,6 +271,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Penetration Testing Bootcamp](https://hackersploit.org/penetration-testing-bootcamp/)
 - [Practical-Ethical-Hacking-Resources](https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources)
 - [Sociel Engineering Cheatsheets] (https://github.com/prajeshy/linux/blob/main/Module%2011%20references.pdf)
+- [Various Types of Injections , How to use them, How to be safe from them ] (https://github.com/prajeshy/linux/blob/main/references.pdf)
 
 ---
 
