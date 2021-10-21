@@ -57,6 +57,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [RUBY](#ruby)
 - [Rust](#rust)
 - [SASS](#sass)
+- [Spring](#spring)
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [System Design](#system-design)
@@ -103,6 +104,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Pluralsight - Angular 2: First Look](https://www.pluralsight.com/courses/angular-2-first-look)
 - [Pluralsight - Angular 2: Getting Started](https://www.pluralsight.com/courses/angular-2-getting-started-update)
 - [Angular Material - Material Design components for Angular](https://material.angular.io/)
+- [Angular Powered Bootstrap - Bootstrap widgets for Angular](https://ng-bootstrap.github.io/#/home)
 
 ---
 
@@ -125,6 +127,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 ## C
 
 - [C Full Course](https://www.youtube.com/watch?v=87SH2Cn0s9A&t=3s)
+- [C Programming for Beginners](https://youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR)
 - [Learn C Org](https://www.learn-c.org)
 
 ---
@@ -162,6 +165,8 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [CSS Flexbox - Wes Bos](https://flexbox.io/)
 - [CSS Grid - Wes Bos](https://cssgrid.io/)
 - [CSS Box-Shadow Generator](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Backgrounds_and_Borders/Box-shadow_generator)
+- [CSS Gradient Generator](https://cssgradient.io/)
+- [CSS Animated Gradient Background Generator](https://animated-gradient-background-generator.netlify.app/)
 - [CSS Grid - A simple visual cheatsheet by Malven](https://grid.malven.co/)
 - [CSS Flex - A simple visual cheatsheet by Malven](https://flexbox.malven.co/)
 - [Learning Advanced CSS and HTML](https://learn.shayhowe.com/advanced-html-css/)
@@ -305,10 +310,13 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 - [DSA + Java Interview Preparation Course](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
 - [DSA + C++ Interview Preparation Course](https://www.youtube.com/watch?v=z9bZufPHFLU&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ)
+- [Data Structures](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
 - [Minimum Stack / Minimum Queue](https://cp-algorithms.com/data_structures/stack_queue_modification.html)
+- [Princeton University Algorithms, Part 1](https://www.coursera.org/learn/algorithms-part1)
+- [Princeton University Algorithms, Part 2](https://www.coursera.org/learn/algorithms-part2)
 - [Sparse Table](https://cp-algorithms.com/data_structures/sparse-table.html)
+- [This is CS50x](https://cs50.harvard.edu/x/2021) - David J. Malan
 
- 
 
 ### Dynamic Programming
 
@@ -383,6 +391,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [An Introduction to Git and GitHub by Brian Yu](https://www.youtube.com/watch?v=MJUJ4wbFm_A)
 - [Git Documentaton](https://git-scm.com/docs)
 - [Dangit, Git!?!](https://dangitgit.com/en)
+- [Using multiple Git accounts with SSH keys](https://gist.github.com/oanhnn/80a89405ab9023894df7)
 
 ---
 
@@ -394,6 +403,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Hands-on-experience-of-git-commands](https://www.youtube.com/watch?v=uj4fy4kpaOA)
 - [Step by Step Guide to Contributing on GitHub](https://www.dataschool.io/how-to-contribute-on-github/)
 - [GitHub Protips: Tips, tricks, hacks, and secrets from Lee Reilly](https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/)
+- [GitHub Minesweeper](https://profy.dev/project/github-minesweeper/intro-overview): hands-on introduction to working with Git and GitHub in a team
 
 ---
 
@@ -471,6 +481,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet)
 - [Free js.org Subdomain For Github Pages](https://github.com/js-org/js.org)
 - [Eloquent JavaScript - A Modern Introduction to Programming](https://eloquentjavascript.net/)
+- [JavaScript Garden](https://bonsaiden.github.io/JavaScript-Garden/)
 
 ---
 
@@ -532,6 +543,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Machine Learning Roadmap](https://whimsical.com/machine-learning-roadmap-2020-CA7f3ykvXpnJ9Az32vYXva)
 - [TinyML Course](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning)
 - [Machine Learning Introduction with Python](https://www.dataquest.io/path/machine-learning-intro-with-python/)
+- [Machine Learning Guide Podcast](https://ocdevel.com/mlg)
 
 ---
 
@@ -598,6 +610,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [ReactJS Tutorial for Beginners](https://youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)
 - [The React Beginner's Handbook](https://flaviocopes.com/page/react-handbook/)
 - [React.js Clones by PAPA React](https://youtube.com/playlist?list=PLf16UKl7nR5AjcrYOe1niifJSAls3spDk)
+- [Full-Stack Web Development with React Specialization](https://www.coursera.org/specializations/full-stack-react?)
 
 ---
 
@@ -634,6 +647,13 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Zurb - Library to Create Transitions & Animations](https://zurb.com/playground/motion-ui)
 - [Vanilla Framework](https://vanillaframework.io/)
 - [Susy - Grid Layout Engine](https://www.oddbird.net/susy/)
+
+---
+
+## Spring
+
+- [Getting Started - Building an Application](https://spring.io/guides/gs/spring-boot/)
+- [Spring Security Architecture](https://spring.io/guides/topicals/spring-security-architecture/)
 
 ---
 
@@ -676,6 +696,8 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 - [How to Start a Career in Testing? ](https://juniorlearnstocode.blogspot.com/2020/04/how-to-start-career-in-testing.html/)
 - [Testing React with Jest and Enzyme ](https://blog.bitsrc.io/how-to-test-react-components-with-jest-and-enzyme-in-depth-145fcd06b90?gi=3bb2d7ae19f4)
+- [TestProject: Free Test Automation For All](https://testproject.io)
+- [Apache JMeter](https://jmeter.apache.org)
 
 ---
 
@@ -736,6 +758,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Programming Cheat Sheets](https://cheatography.com/)
 - [Devhints - TL;DR for developer documentation](https://devhints.io/)
 - [Linux Commands Cheat Sheet](https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet/)
+- [Codehouse - Cheatsheet Collection](https://codehouse.vercel.app/app)
 
 ### Design
 
