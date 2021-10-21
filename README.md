@@ -262,7 +262,9 @@ To add a resource or contribute, please check out our contribution guide [here](
 ## Algorithms
 
 - [List of helpful algos](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
-
+- [Stanford University Algorithms: Design and Analysis, Part 1](https://online.stanford.edu/courses/soe-ycsalgorithms1-algorithms-design-and-analysis-part-1)
+- [Stanford University Algorithms: Design and Analysis, Part 2](https://online.stanford.edu/courses/soe-ycs0001-algorithms-design-and-analysis-part-2)
+- [Sorting Algorithms](https://www.youtube.com/playlist?list=PL2_aWCzGMAwKedT2KfDMB9YA5DgASZb3U) - mycodeschool
 ---
 
 ## Ethical Hacking
@@ -307,6 +309,8 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Princeton University Algorithms, Part 1](https://www.coursera.org/learn/algorithms-part1)
 - [Princeton University Algorithms, Part 2](https://www.coursera.org/learn/algorithms-part2)
 - [This is CS50x](https://cs50.harvard.edu/x/2021) - David J. Malan
+- [IIT Bombay Foundation of Data Structures (CS213.1x)](https://courses.edx.org/courses/course-v1:IITBombayX+CS213.1x+1T2017/course/)
+- [Intro to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513) - Brynn Claypoole, Horatio Thomas
 
 ### Dynamic Programming
 
