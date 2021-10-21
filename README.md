@@ -530,6 +530,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Machine Learning Roadmap](https://whimsical.com/machine-learning-roadmap-2020-CA7f3ykvXpnJ9Az32vYXva)
 - [TinyML Course](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning)
 - [Machine Learning Introduction with Python](https://www.dataquest.io/path/machine-learning-intro-with-python/)
+- [Machine Learning Guide Podcast](https://ocdevel.com/mlg)
 
 ---
 
