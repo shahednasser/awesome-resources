@@ -790,6 +790,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 - [How to run graphics.h in VS Code](https://github.com/ullaskunder3/Solution-to-graphics.h)
 - [Top 5 VS Code extensions for web developers](https://jobin.hashnode.dev/top-5-vs-code-extension-for-web-developers-in-2021)
+- [VS Code Tutorial for Beginners](https://youtu.be/VqCgcpAypFQ?t=21)
 
 ### Tools
 
