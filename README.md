@@ -746,6 +746,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Devhints - TL;DR for developer documentation](https://devhints.io/)
 - [Linux Commands Cheat Sheet](https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet/)
 - [Codehouse - Cheatsheet Collection](https://codehouse.vercel.app/app)
+- [CSS Cheat Sheet](https://www.hostinger.com/tutorials/css-cheat-sheet)
 
 ### Design
 
