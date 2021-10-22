@@ -68,7 +68,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Others](#others)
   - [Cheat Sheets](#cheat-sheets)
   - [Design](#design)
-  - [Hosting](#hosting)
+  - [Free Hosting](#free-hosting)
   - [Open Source](#open-source)
   - [Standard Template Library](#standard-template-library)
   - [VS Code](#vs-code)
@@ -376,7 +376,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 ---
 
-## Hosting
+## Free Hosting
 
 - [Netlify](https://www.netlify.com/)
 
