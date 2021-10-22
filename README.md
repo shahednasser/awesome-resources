@@ -168,6 +168,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [CSS Grid - A simple visual cheatsheet by Malven](https://grid.malven.co/)
 - [CSS Flex - A simple visual cheatsheet by Malven](https://flexbox.malven.co/)
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [CSSBattle](https://cssbattle.dev/)
 
 ---
 
