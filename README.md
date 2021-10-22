@@ -446,6 +446,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 ## Javascript
 
+- [Learn How JavaScripts works Behind the Scene by Akshay Saini](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
 - [CoderslangJS](https://js.coderslang.com/)
 - [Beginner JavaScript Notes + Reference by Wes Bos](https://wesbos.com/javascript)
 - [Learn Modern JavaScript ES6 \| ES7 \| ES8 ](https://codeloop.org/learn-modern-javascript-es6-es7-es8/)
