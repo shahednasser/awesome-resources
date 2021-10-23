@@ -8,11 +8,13 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 # Content
 
+- [Algorithms](#algorithms)
 - [Android](#android)
 - [Angular](#angular)
 - [Blockchain](#blockchain)
 - [Bots](#bots)
 - [C](#c)
+- [C++](#c)
 - [Computer Science](#computer-science)
   - [Theoretical Computer Science](#theoretical-computer-science)  
 - [CSS](#css)
@@ -23,8 +25,6 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [DevOps](#devops)
 - [Docker](#docker)
 - [Express](#express)
-- [C++](#c)
-- [Algorithms](#algorithms)
 - [Ethical Hacking](#ethical-hacking)
 - [Expo](#expo)
 - [Fundamental CP algorithms](#fundamental-cp-algorithms)
@@ -32,9 +32,9 @@ To add a resource or contribute, please check out our contribution guide [here](
   - [Combinatorics](#combinatorics)
   - [Data Structures](#data-structures)
   - [Dynamic Programming](#dynamic-programming)
+  - [Graph Theory](#graph-theory)
   - [Linear Algebra](#linear-algebra)
   - [String Processing](#string-processing)
-  - [Graph Theory](#graph-theory)
 - [Flutter](#flutter)
 - [GIT](#git)
 - [GitHub](#github)
@@ -134,73 +134,79 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 ## Computer Science
 
-- [CS50](https://cs50.harvard.edu/)
-- [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
+- [CS50](https://cs50.harvard.edu/)
 - [Open Source Society University - Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science)
+- [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+
+
 
 ---
 
 ## Theoretical Computer Science
 
 - [Agda usage](https://agda.readthedocs.io/en/v2.6.0.1/getting-started/what-is-agda.html)
-- [Type Theory playlist](https://www.youtube.com/playlist?list=PLoPjtLnIwJuJcZpSHIsVliXFsTH99-2W5)
 - [Freely available programming books](https://github.com/EbookFoundation/free-programming-books)
 - [Programming Language Foundation in Agda](https://plfa.github.io/)
+- [Type Theory playlist](https://www.youtube.com/playlist?list=PLoPjtLnIwJuJcZpSHIsVliXFsTH99-2W5)
+
+
 
 ---
 
 ## CSS
 
-- [Daily Cool CSS Tips and Tricks](https://css-tricks.com/)
-- [Learning Advanced CSS and HTML](https://learn.shayhowe.com/advanced-html-css/)
+- [30SecondsOfCode CSS Snippet](https://www.30secondsofcode.org/css/p/1)
+- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [CSS Framework - Bootstrap](https://getbootstrap.com/)
 - [CSS Framework - Bulma](https://bulma.io/)
 - [CSS Framework - Materialize](https://materializecss.com/)
 - [CSS Framework - Tailwind CSS](https://tailwindcss.com/)
-- [Style Stage - A modern CSS showcase styled by community contributions](https://stylestage.dev/)
 - [CSS Flexbox - Wes Bos](https://flexbox.io/)
 - [CSS Grid - Wes Bos](https://cssgrid.io/)
-- [30SecondsOfCode CSS Snippet](https://www.30secondsofcode.org/css/p/1)
 - [CSS Box-Shadow Generator](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Backgrounds_and_Borders/Box-shadow_generator)
 - [CSS Gradient Generator](https://cssgradient.io/)
 - [CSS Animated Gradient Background Generator](https://animated-gradient-background-generator.netlify.app/)
 - [CSS Grid - A simple visual cheatsheet by Malven](https://grid.malven.co/)
 - [CSS Flex - A simple visual cheatsheet by Malven](https://flexbox.malven.co/)
-- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [CSSBattle](https://cssbattle.dev/)
+- [Learning Advanced CSS and HTML](https://learn.shayhowe.com/advanced-html-css/)
+- [Style Stage - A modern CSS showcase styled by community contributions](https://stylestage.dev/)
 
 ---
 
 ## CSharp
 
-- [C# From a Java Developer's Perspective](http://www.25hoursaday.com/CsharpVsJava.html)
-- [The C# Yellow Book ](https://www.robmiles.com/c-yellow-book/)
 - [5 books every C# developer should read](https://medium.com/@jakubgarfield/5-books-every-c-developer-should-read-83844a5e2e3c)
+- [C# From a Java Developer's Perspective](http://www.25hoursaday.com/CsharpVsJava.html)
 - [C# Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/)
+- [The C# Yellow Book ](https://www.robmiles.com/c-yellow-book/)
 
 ---
 
 ## Dart
 
-- [Intro to Dart for Java Developers](https://codelabs.developers.google.com/codelabs/from-java-to-dart/#0)
-- [Dart Cheatsheet](https://dart.dev/codelabs/dart-cheatsheet)
-- [Iterable collections](https://dart.dev/codelabs/iterables)
 - [Asynchronous programming: futures, async, await](https://dart.dev/codelabs/async-await)
 - [Books about Dart](https://dart.dev/resources/books)
+- [Dart Cheatsheet](https://dart.dev/codelabs/dart-cheatsheet)
 - [DartPad in tutorials: best practices](https://dart.dev/resources/dartpad-best-practices)
 - [Dart videos from Google](https://www.youtube.com/playlist?list=PLjxrf2q8roU0Net_g1NT5_vOO3s_FR02J)
 - [Dart Tutorial for Beginners: Basics and Fundamentals for Flutter](https://www.youtube.com/playlist?list=PLlxmoA0rQ-LyHW9voBdNo4gEEIh0SjG-q)
+- [Intro to Dart for Java Developers](https://codelabs.developers.google.com/codelabs/from-java-to-dart/#0)
+- [Iterable collections](https://dart.dev/codelabs/iterables)
+
+
+
 
 ---
 
 ## Data Science
 
 - [DPhi-Data Science Courses](https://dphi.tech/)
-- [IBM Data Science Coursera](https://www.coursera.org/professional-certificates/ibm-data-science)
-- [Introduction to Data Science with R](https://www.youtube.com/watch?v=32o0DnuRjfg&list=PLTJTBoU5HOCRrTs3cJK-PbHM39cwCU0PF&index=1)
 - [Data Science Methodology](https://cognitiveclass.ai/courses/data-science-methodology-2)
 - [Data Science Cheat Sheets](https://www.kaggle.com/timoboz/data-science-cheat-sheets)
+- [IBM Data Science Coursera](https://www.coursera.org/professional-certificates/ibm-data-science)
+- [Introduction to Data Science with R](https://www.youtube.com/watch?v=32o0DnuRjfg&list=PLTJTBoU5HOCRrTs3cJK-PbHM39cwCU0PF&index=1)
 - [Machine Learning Algorithms from Scratch](https://github.com/python-engineer/MLfromscratch)
 - [Python for Data Science: Fundamentals](https://www.dataquest.io/course/python-for-data-science-fundamentals)
 - [Python for Data Science: Intermediate](https://www.dataquest.io/course/python-for-data-science-intermediate/)
@@ -210,22 +216,22 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 - [Andrew Ng's Deep Learning Specializations Course](https://www.coursera.org/specializations/deep-learning)
 - [Convolutional networks CS231n](https://cs231n.github.io/convolutional-networks/)
-- [Natural Language Processing CS224n](http://web.stanford.edu/class/cs224n/)
+- [Deep Learning Fundamentals](https://www.dataquest.io/course/deep-learning-fundamentals/)
 - [Deep learning cheat sheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning)
 - [Google AI Blog](https://ai.googleblog.com/)
-- [Deep Learning Fundamentals](https://www.dataquest.io/course/deep-learning-fundamentals/)
+- [Natural Language Processing CS224n](http://web.stanford.edu/class/cs224n/)
 
 ---
 
 ## DevOps
 
-- [Become a DevOps Engineer - Linkedin Learning](https://www.linkedin.com/learning/paths/become-a-devops-engineer?u=57692769)
-- [How To Become a DevOps Engineer In Six Months or Less](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737)
 - [Azure DevOps](https://azure.microsoft.com/en-us/overview/devops-tutorial/)
 - [Agile vs Devops](https://enterprisersproject.com/article/2019/1/agile-vs-devops-whats-difference)
+- [Become a DevOps Engineer - Linkedin Learning](https://www.linkedin.com/learning/paths/become-a-devops-engineer?u=57692769)
 - [Dev Op Terms](https://enterprisersproject.com/article/2019/8/devops-terms-10-essential-concepts)
 - [DevOps for Dummies - by IBM](https://www.ibm.com/downloads/cas/P9NYOK3B)
 - [DevOps Roadmap for beginners](https://roadmap.sh/devops)
+- [How To Become a DevOps Engineer In Six Months or Less](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737)
 
 ---
 
@@ -263,13 +269,15 @@ To add a resource or contribute, please check out our contribution guide [here](
 ## Algorithms
 
 - [List of helpful algos](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
-
+- [Stanford University Algorithms: Design and Analysis, Part 1](https://online.stanford.edu/courses/soe-ycsalgorithms1-algorithms-design-and-analysis-part-1)
+- [Stanford University Algorithms: Design and Analysis, Part 2](https://online.stanford.edu/courses/soe-ycs0001-algorithms-design-and-analysis-part-2)
+- [Sorting Algorithms](https://www.youtube.com/playlist?list=PL2_aWCzGMAwKedT2KfDMB9YA5DgASZb3U) - mycodeschool
 ---
 
 ## Ethical Hacking
 
-- [Ethical Hacking from Scratch](https://www.udemy.com/course/learn-ethical-hacking-from-scratch/learn/)
 - [Collection of hackers, pentesters & security researchers](https://github.com/Hack-with-Github/Awesome-Hacking)
+- [Ethical Hacking from Scratch](https://www.udemy.com/course/learn-ethical-hacking-from-scratch/learn/)
 - [Open Source Reverse Engineering Platform](https://github.com/radareorg/cutter)
 - [Penetration Testing Bootcamp](https://hackersploit.org/penetration-testing-bootcamp/)
 - [Practical-Ethical-Hacking-Resources](https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources)
@@ -289,32 +297,38 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Binary Exponentiation](https://cp-algorithms.com/algebra/binary-exp.html)
 - [Euclidean algorithm for computing the greatest common divisor](https://cp-algorithms.com/algebra/euclid-algorithm.html)
 - [Extended Euclidean Algorithm](https://cp-algorithms.com/algebra/extended-euclid-algorithm.html)
-- [Linear Diophantine Equations](https://cp-algorithms.com/algebra/linear-diophantine-equation.html)
 - [Fibonacci Numbers](https://cp-algorithms.com/algebra/fibonacci-numbers.html)
+- [Linear Diophantine Equations](https://cp-algorithms.com/algebra/linear-diophantine-equation.html)
+
 
 ### Combinatorics
 
-- [Finding Power of Factorial Divisor](https://cp-algorithms.com/algebra/factorial-divisors.html)
 - [Binomial Coefficients](https://cp-algorithms.com/combinatorics/binomial-coefficients.html)
 - [Catalan Numbers](https://cp-algorithms.com/combinatorics/catalan-numbers.html)
+- [Finding Power of Factorial Divisor](https://cp-algorithms.com/algebra/factorial-divisors.html)
+
 
 ### Data Structures
 
-- [Minimum Stack / Minimum Queue](https://cp-algorithms.com/data_structures/stack_queue_modification.html)
-- [Sparse Table](https://cp-algorithms.com/data_structures/sparse-table.html)
 - [DSA + Java Interview Preparation Course](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
 - [DSA + C++ Interview Preparation Course](https://www.youtube.com/watch?v=z9bZufPHFLU&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ)
 - [Data Structures](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
+- [Minimum Stack / Minimum Queue](https://cp-algorithms.com/data_structures/stack_queue_modification.html)
 - [Princeton University Algorithms, Part 1](https://www.coursera.org/learn/algorithms-part1)
 - [Princeton University Algorithms, Part 2](https://www.coursera.org/learn/algorithms-part2)
+- [Sparse Table](https://cp-algorithms.com/data_structures/sparse-table.html)
 - [This is CS50x](https://cs50.harvard.edu/x/2021) - David J. Malan
+- [IIT Bombay Foundation of Data Structures (CS213.1x)](https://courses.edx.org/courses/course-v1:IITBombayX+CS213.1x+1T2017/course/)
+- [Intro to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513) - Brynn Claypoole, Horatio Thomas
+
 
 ### Dynamic Programming
 
 - [Divide and Conquer DP](https://cp-algorithms.com/dynamic_programming/divide-and-conquer-dp.html)
 - [Dynamic Programming on Broken Profile. Problem "Parquet"](https://cp-algorithms.com/dynamic_programming/profile-dynamics.html)
-- [Finding the largest zero submatrix](https://cp-algorithms.com/dynamic_programming/zero_matrix.html)
 - [Dynamic Programming GeeksforGeeks](https://www.geeksforgeeks.org/dynamic-programming/)
+- [Finding the largest zero submatrix](https://cp-algorithms.com/dynamic_programming/zero_matrix.html)
+
 
 ### Linear Algebra
 
@@ -325,12 +339,12 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 ### String Processing
 
-- [String Hashing](https://cp-algorithms.com/string/string-hashing.html)
-- [Rabin-Karp for String Matching](https://cp-algorithms.com/string/rabin-karp.html)
-- [Prefix function - Knuth-Morris-Pratt](https://cp-algorithms.com/string/prefix-function.html)
-- [Z-function](https://cp-algorithms.com/string/z-function.html)
-- [Suffix Array](https://cp-algorithms.com/string/suffix-array.html)
 - [Aho-Corasick algorithm](https://cp-algorithms.com/string/aho_corasick.html)
+- [Prefix function - Knuth-Morris-Pratt](https://cp-algorithms.com/string/prefix-function.html)
+- [Rabin-Karp for String Matching](https://cp-algorithms.com/string/rabin-karp.html)
+- [String Hashing](https://cp-algorithms.com/string/string-hashing.html)
+- [Suffix Array](https://cp-algorithms.com/string/suffix-array.html)
+- [Z-function](https://cp-algorithms.com/string/z-function.html)
 
 ### Graph Theory
 
@@ -340,22 +354,24 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 ## Flutter
 
-- [Write your first Flutter app, Part 1](https://flutter.dev/docs/get-started/codelab)
-- [Write your first Flutter app, Part 2](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2/#0)
+- [Adding Google Maps to a Flutter app](https://codelabs.developers.google.com/codelabs/google-maps-in-flutter/#0)
+- [Animation in Flutter](https://www.youtube.com/playlist?list=PLjxrf2q8roU2v6UqYlt_KPaXlnjbYySua)
 - [Building beautiful UIs with Flutter](https://codelabs.developers.google.com/codelabs/flutter/#0)
 - [Building Beautiful Transitions with Material Motion for Flutter](https://codelabs.developers.google.com/codelabs/material-motion-flutter/)
-- [Adding Google Maps to a Flutter app](https://codelabs.developers.google.com/codelabs/google-maps-in-flutter/#0)
+- [Building a Cupertino app with Flutter](https://codelabs.developers.google.com/codelabs/flutter-cupertino/#0)
 - [Build a Photo Sharing app with Google Photos and Flutter](https://codelabs.developers.google.com/codelabs/google-photos-sharing/#0)
 - [Firebase for Flutter](https://codelabs.developers.google.com/codelabs/flutter-firebase/#0)
-- [Building a Cupertino app with Flutter](https://codelabs.developers.google.com/codelabs/flutter-cupertino/#0)
-- [Write a Flutter desktop application](https://codelabs.developers.google.com/codelabs/flutter-github-graphql-client/#0)
-- [How to test a Flutter app](https://codelabs.developers.google.com/codelabs/flutter-app-testing/#0)
-- [Animation in Flutter](https://www.youtube.com/playlist?list=PLjxrf2q8roU2v6UqYlt_KPaXlnjbYySua)
-- [Reactive Programming with Flutter](https://www.youtube.com/playlist?list=PL_Wj0DgxTlJc8E3ulwdekyVI4Wc819azh)
 - [Flutter Tutorial for Beginners - YouTube](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
 - [Flutter Animation Tutorial - YouTube](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gP1qg8yj-Jokef29VRCLt1)
 - [Flutter & Firebase App Build - YouTube](https://www.youtube.com/playlist?list=PL4cUxeGkcC9j--TKIdkb3ISfRbJeJYQwC)
 - [Flutter Documentation](https://flutter.dev/docs)
+- [How to test a Flutter app](https://codelabs.developers.google.com/codelabs/flutter-app-testing/#0)
+- [Reactive Programming with Flutter](https://www.youtube.com/playlist?list=PL_Wj0DgxTlJc8E3ulwdekyVI4Wc819azh)
+- [Write your first Flutter app, Part 1](https://flutter.dev/docs/get-started/codelab)
+- [Write your first Flutter app, Part 2](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2/#0)
+- [Write a Flutter desktop application](https://codelabs.developers.google.com/codelabs/flutter-github-graphql-client/#0)
+
+
 
 ---
 
@@ -442,11 +458,17 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Object Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java)
 - [Learn Java Programming Language Step by Step](http://www.c4learn.com/javaprogramming/)
 - [Java Full Course](https://www.youtube.com/watch?v=xk4_1vDrzzo)
+- [Java Programming - Test Automation University](https://testautomationu.applitools.com/java-programming-course)
+- [Java Programming - University of Helsinki](https://java-programming.mooc.fi)
+- [Learn Java 8 - Full Tutorial for Beginners - freeCodeCamp](https://youtu.be/grEKMHGYyns)
+- [Java Beginner Course - freeCodeCamp](https://youtu.be/7WiJGTPuVeU)
+- [Java Tutorial for Beginners - Programming with Mosh](https://youtu.be/eIrMbAQSU34)
 
 ---
 
 ## Javascript
 
+- [Learn How JavaScripts works Behind the Scene by Akshay Saini](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
 - [CoderslangJS](https://js.coderslang.com/)
 - [Beginner JavaScript Notes + Reference by Wes Bos](https://wesbos.com/javascript)
 - [Learn Modern JavaScript ES6 \| ES7 \| ES8 ](https://codeloop.org/learn-modern-javascript-es6-es7-es8/)
@@ -686,6 +708,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Testing React with Jest and Enzyme ](https://blog.bitsrc.io/how-to-test-react-components-with-jest-and-enzyme-in-depth-145fcd06b90?gi=3bb2d7ae19f4)
 - [TestProject: Free Test Automation For All](https://testproject.io)
 - [Apache JMeter](https://jmeter.apache.org)
+- [API Testing 101: Learn The Basics](https://www.soapui.org/learn/functional-testing/api-testing-101/)
 
 ---
 
@@ -747,6 +770,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Devhints - TL;DR for developer documentation](https://devhints.io/)
 - [Linux Commands Cheat Sheet](https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet/)
 - [Codehouse - Cheatsheet Collection](https://codehouse.vercel.app/app)
+- [CSS Cheat Sheet](https://www.hostinger.com/tutorials/css-cheat-sheet)
 
 ### Design
 
@@ -791,6 +815,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 - [How to run graphics.h in VS Code](https://github.com/ullaskunder3/Solution-to-graphics.h)
 - [Top 5 VS Code extensions for web developers](https://jobin.hashnode.dev/top-5-vs-code-extension-for-web-developers-in-2021)
+- [VS Code Tutorial for Beginners](https://youtu.be/VqCgcpAypFQ?t=21)
 
 ### Tools
 
