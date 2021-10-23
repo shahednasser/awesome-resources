@@ -169,9 +169,9 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [CSS Animated Gradient Background Generator](https://animated-gradient-background-generator.netlify.app/)
 - [CSS Grid - A simple visual cheatsheet by Malven](https://grid.malven.co/)
 - [CSS Flex - A simple visual cheatsheet by Malven](https://flexbox.malven.co/)
+- [CSSBattle](https://cssbattle.dev/)
 - [Learning Advanced CSS and HTML](https://learn.shayhowe.com/advanced-html-css/)
 - [Style Stage - A modern CSS showcase styled by community contributions](https://stylestage.dev/)
-
 
 ---
 
