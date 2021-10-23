@@ -71,6 +71,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Others](#others)
   - [Cheat Sheets](#cheat-sheets)
   - [Design](#design)
+  - [Free Hosting](#free-hosting)
   - [Open Source](#open-source)
   - [Standard Template Library](#standard-template-library)
   - [VS Code](#vs-code)
@@ -433,6 +434,12 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [GraphQL tutorial for beginners](https://www.howtographql.com/)
 - [GraphQL Tutorials](https://www.tutorialspoint.com/graphql/index.htm)
 - [Complete App with GraphQl](https://www.youtube.com/playlist?list=PL55RiY5tL51rG1x02Yyj93iypUuHYXcB_)
+
+---
+
+## Free Hosting
+
+- [Netlify](https://www.netlify.com/)
 
 ---
 
@@ -806,6 +813,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Photopea](https://www.photopea.com/): Free online editor supporting PSD, XCF, Sketch, XD and CDR formats.
 - [Lorem Ipsum Generators](https://loremipsum.io/): Awesome collection of Lorem Ipsum Generators
 - [Font Awesome](https://fontawesome.com/): Vector icons and social logos for your website
+- [SVG Backgrounds](https://www.svgbackgrounds.com/): Customize and apply backgrounds fast.
 
 ### Open Source
 
