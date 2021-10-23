@@ -349,6 +349,13 @@ To add a resource or contribute, please check out our contribution guide [here](
 ### Graph Theory
 
 - [Introduction to Graph Theory](https://www.udemy.com/course/graph-theory-algorithms/learn/)
+- [Breadth First Search](https://cp-algorithms.com/graph/breadth-first-search.html)
+- [Depth First Search](https://cp-algorithms.com/graph/depth-first-search.html)
+- [Shortest Path (Dijkstra's Algorithm)](https://cp-algorithms.com/graph/dijkstra.html)
+- [Shortest Path with Negative Weights (Bellman Ford Algorithm)](https://cp-algorithms.com/graph/bellman_ford.html)
+- [Minimum Spanning Tree (Prim's Algorithm)](https://cp-algorithms.com/graph/mst_prim.html)
+- [Minimum Spanning Tree (Kruskal's Algorithm)](https://cp-algorithms.com/graph/mst_kruskal.html)
+- [Max Flow (Ford-Fulkerson and Edmonds-Karp Algorithms)](https://cp-algorithms.com/graph/edmonds_karp.html)
 
 ---
 
