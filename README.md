@@ -454,6 +454,11 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Object Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java)
 - [Learn Java Programming Language Step by Step](http://www.c4learn.com/javaprogramming/)
 - [Java Full Course](https://www.youtube.com/watch?v=xk4_1vDrzzo)
+- [Java Programming - Test Automation University](https://testautomationu.applitools.com/java-programming-course)
+- [Java Programming - University of Helsinki](https://java-programming.mooc.fi)
+- [Learn Java 8 - Full Tutorial for Beginners - freeCodeCamp](https://youtu.be/grEKMHGYyns)
+- [Java Beginner Course - freeCodeCamp](https://youtu.be/7WiJGTPuVeU)
+- [Java Tutorial for Beginners - Programming with Mosh](https://youtu.be/eIrMbAQSU34)
 
 ---
 
