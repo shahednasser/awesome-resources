@@ -487,7 +487,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Beginner JavaScript Notes + Reference by Wes Bos](https://wesbos.com/javascript)
 - [Learn Modern JavaScript ES6 \| ES7 \| ES8 ](https://codeloop.org/learn-modern-javascript-es6-es7-es8/)
 - [Learn JavaScript through a game](https://dev.to/nitdgplug/learn-javascript-through-a-game-1beh)
-- [Javascript ES2020- Top Features you should know](https://dev.to/catalinmpit/javascript-es2020-the-features-you-should-know-45i2)
+- [JavaScript ES2020 - The Features You Should Know](https://catalins.tech/javascript-es2020-the-features-you-should-know)
 - [S.O.L.I.D. Principles around You, in JavaScript](https://francescociulla.com/solid-principles-around-you-in-javascript)
 - [The 30 days JavaScript Challenge](https://javascript30.com/)
 - [JavaScript: Understanding the Weird Parts](https://www.youtube.com/watch?v=Bv_5Zv5c-Ts&ab_channel=TonyAlicea)
