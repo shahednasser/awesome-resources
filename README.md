@@ -769,6 +769,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Devhints - TL;DR for developer documentation](https://devhints.io/)
 - [Linux Commands Cheat Sheet](https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet/)
 - [Codehouse - Cheatsheet Collection](https://codehouse.vercel.app/app)
+- [CSS Cheat Sheet](https://www.hostinger.com/tutorials/css-cheat-sheet)
 
 ### Design
 
@@ -813,6 +814,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 - [How to run graphics.h in VS Code](https://github.com/ullaskunder3/Solution-to-graphics.h)
 - [Top 5 VS Code extensions for web developers](https://jobin.hashnode.dev/top-5-vs-code-extension-for-web-developers-in-2021)
+- [VS Code Tutorial for Beginners](https://youtu.be/VqCgcpAypFQ?t=21)
 
 ### Tools
 
