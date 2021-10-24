@@ -43,13 +43,23 @@ If the category does not exist, you can add it under [Content](https://github.co
 
 To add a new category, add a list item with the name of the category and the URL to it (hash of the slug of the name). For example:
 
-```
+```markdown
 - [New Category](#new-category)
+```
+
+Also, don't forget to add a shortcut to content index above the new category heading you are adding. For example:
+```markdown
+---
+
+**[⬆ Back to Index](#content)**
+
+## Android
+
 ```
 
 5. Once you find or add the correct category, add the new resource at the end of the list. It should have the title and the link to the resource. For example:
 
-```
+```markdown
 - [How to contribute](https://github.com/shahednasser/awesome-resources/blob/master/CONTRIBUTING.md)
 ```
 
