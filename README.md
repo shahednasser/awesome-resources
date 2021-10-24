@@ -227,7 +227,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 ## Django
 
-- [Django](https://docs.djangoproject.com/)
+- [Django Documentation](https://docs.djangoproject.com/)
 - [Deploy Django Application on Heroku](https://www.codementor.io/@jamesezechukwu/how-to-deploy-django-app-on-heroku-dtsee04d4)
 
 ---
