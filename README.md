@@ -575,6 +575,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 - [Fast Virtual Machine for Magento2](https://github.com/zepgram/magento2-fast-vm/)
 - [Docker Configuration for Magento2](https://github.com/markshust/docker-magento)
+- [Become Magento 2 Developer with Mage Mastery (online courses and workshops)](https://magemastery.net/)
 
 ---
 
