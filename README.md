@@ -671,6 +671,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [TestProject: Free Test Automation For All](https://testproject.io)
 - [Apache JMeter](https://jmeter.apache.org)
 - [API Testing 101: Learn The Basics](https://www.soapui.org/learn/functional-testing/api-testing-101/)
+- [Selenium with Python Tutorial](https://www.javatpoint.com/selenium-python#Selenium-with-python)
 
 ---
 
