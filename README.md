@@ -78,7 +78,9 @@ To add a resource or contribute, please check out our contribution guide [here](
   - [Tools](#tools)
 
 ---
+
 **[⬆ Back to Index](#content)**
+
 ## Android
 
 - [Vogella Tutorials](https://www.vogella.com/tutorials/android.html)
@@ -92,7 +94,9 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Awesome Android](https://github.com/JStumpp/awesome-android)
 
 ---
+
 **[⬆ Back to Index](#content)**
+
 ## Angular
 
 - [Egghead.io - Angular](https://egghead.io/browse/frameworks/angular)
@@ -108,13 +112,17 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Angular Powered Bootstrap - Bootstrap widgets for Angular](https://ng-bootstrap.github.io/#/home)
 
 ---
+
 **[⬆ Back to Index](#content)**
+
 ## Blockchain
 
 - [KnowEthereum (handpicked ethereum resources)](https://knowethereum.com/)
 
 ---
+
 **[⬆ Back to Index](#content)**
+
 ## Bots
 
 - [Simple Twitter Bot Tutorial with Node.js](https://blog.shahednasser.com/simple-twitter-bot-tutorial-with-node-js/)
@@ -124,7 +132,9 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Discord.JS v13 - Make your own Discord bots by following this video series](https://www.youtube.com/playlist?list=PLaxxQQak6D_f4Z5DtQo0b1McgjLVHmE8Q)
 
 ---
+
 **[⬆ Back to Index](#content)**
+
 ## C
 
 - [C Full Course](https://www.youtube.com/watch?v=87SH2Cn0s9A&t=3s)
@@ -132,7 +142,9 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Learn C Org](https://www.learn-c.org)
 
 ---
+
 **[⬆ Back to Index](#content)**
+
 ## Computer Science
 
 - [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
@@ -143,7 +155,9 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 
 ---
+
 **[⬆ Back to Index](#content)**
+
 ## Theoretical Computer Science
 
 - [Agda usage](https://agda.readthedocs.io/en/v2.6.0.1/getting-started/what-is-agda.html)
@@ -154,7 +168,9 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 
 ---
+
 **[⬆ Back to Index](#content)**
+
 ## CSS
 
 - [30SecondsOfCode CSS Snippet](https://www.30secondsofcode.org/css/p/1)
@@ -175,7 +191,9 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Style Stage - A modern CSS showcase styled by community contributions](https://stylestage.dev/)
 
 ---
+
 **[⬆ Back to Index](#content)**
+
 ## CSharp
 
 - [5 books every C# developer should read](https://medium.com/@jakubgarfield/5-books-every-c-developer-should-read-83844a5e2e3c)
@@ -184,7 +202,9 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [The C# Yellow Book ](https://www.robmiles.com/c-yellow-book/)
 
 ---
+
 **[⬆ Back to Index](#content)**
+
 ## Dart
 
 - [Asynchronous programming: futures, async, await](https://dart.dev/codelabs/async-await)
@@ -200,7 +220,9 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 
 ---
+
 **[⬆ Back to Index](#content)**
+
 ## Data Science
 
 - [DPhi-Data Science Courses](https://dphi.tech/)
@@ -212,7 +234,9 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Python for Data Science: Fundamentals](https://www.dataquest.io/course/python-for-data-science-fundamentals)
 - [Python for Data Science: Intermediate](https://www.dataquest.io/course/python-for-data-science-intermediate/)
 ---
+
 **[⬆ Back to Index](#content)**
+
 ## Deep Learning
 
 - [Andrew Ng's Deep Learning Specializations Course](https://www.coursera.org/specializations/deep-learning)
@@ -223,7 +247,9 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Natural Language Processing CS224n](http://web.stanford.edu/class/cs224n/)
 
 ---
+
 **[⬆ Back to Index](#content)**
+
 ## DevOps
 
 - [Azure DevOps](https://azure.microsoft.com/en-us/overview/devops-tutorial/)
@@ -235,7 +261,9 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [How To Become a DevOps Engineer In Six Months or Less](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737)
 
 ---
+
 **[⬆ Back to Index](#content)**
+
 ## Docker
 
 - [Docker Overview & Basics](https://docs.docker.com/get-started/overview/)
@@ -245,7 +273,9 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Docker Cheat Sheet](https://www.shrlrn.com/practice/dockerlabs)
 
 ---
+
 **[⬆ Back to Index](#content)**
+
 ## Express
 
 - [LinkedIn Login using Node JS, Express and passport](https://www.loginradius.com/engineering/blog/linkedin-login-using-node-passport/)
@@ -256,7 +286,9 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Security Practices in Express App](https://expressjs.com/en/advanced/best-practice-security.html)
 
 ---
+
 **[⬆ Back to Index](#content)**
+
 ## C++
 
 - [CP Algorithms](https://cp-algorithms.com/index.html)
@@ -266,7 +298,9 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [C++ Series GeeksForGeeks](https://www.geeksforgeeks.org/c-plus-plus/)
 
 ---
+
 **[⬆ Back to Index](#content)**
+
 ## Algorithms
 
 - [List of helpful algos](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
@@ -274,7 +308,9 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Stanford University Algorithms: Design and Analysis, Part 2](https://online.stanford.edu/courses/soe-ycs0001-algorithms-design-and-analysis-part-2)
 - [Sorting Algorithms](https://www.youtube.com/playlist?list=PL2_aWCzGMAwKedT2KfDMB9YA5DgASZb3U) - mycodeschool
 ---
+
 **[⬆ Back to Index](#content)**
+
 ## Ethical Hacking
 
 - [Collection of hackers, pentesters & security researchers](https://github.com/Hack-with-Github/Awesome-Hacking)
@@ -284,13 +320,17 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Practical-Ethical-Hacking-Resources](https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources)
 
 ---
+
 **[⬆ Back to Index](#content)**
+
 ## Expo
 
 - [Expo Crash Course by Traversy Media](https://www.youtube.com/watch?v=Hf4MJH0jDb4)
 
 ---
+
 **[⬆ Back to Index](#content)**
+
 ## Fundamental CP algorithms
 
 ### Algebra
@@ -359,7 +399,9 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Max Flow (Ford-Fulkerson and Edmonds-Karp Algorithms)](https://cp-algorithms.com/graph/edmonds_karp.html)
 
 ---
+
 **[⬆ Back to Index](#content)**
+
 ## Flutter
 
 - [Adding Google Maps to a Flutter app](https://codelabs.developers.google.com/codelabs/google-maps-in-flutter/#0)
@@ -382,7 +424,9 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 
 ---
+
 **[⬆ Back to Index](#content)**
+
 ## GIT
 
 - [Pro Git Book](https://git-scm.com/book/en/v2/)
@@ -406,7 +450,9 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Using multiple Git accounts with SSH keys](https://gist.github.com/oanhnn/80a89405ab9023894df7)
 
 ---
+
 **[⬆ Back to Index](#content)**
+
 ## GitHub
 
 - [How to create a pull request in GitHub](https://opensource.com/article/19/7/create-pull-request-github)
@@ -418,7 +464,9 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [GitHub Minesweeper](https://profy.dev/project/github-minesweeper/intro-overview): hands-on introduction to working with Git and GitHub in a team
 
 ---
+
 **[⬆ Back to Index](#content)**
+
 ## Go
 
 - [A Tour of Go - A Complete Tour of the Go Programming Language.](https://tour.golang.org/)
@@ -428,7 +476,9 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/) 
 
 ---
+
 **[⬆ Back to Index](#content)**
+
 ## GraphQL
 
 - [GraphQL tutorial for beginners](https://www.howtographql.com/)
@@ -436,13 +486,17 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Complete App with GraphQl](https://www.youtube.com/playlist?list=PL55RiY5tL51rG1x02Yyj93iypUuHYXcB_)
 
 ---
+
 **[⬆ Back to Index](#content)**
+
 ## Free Hosting
 
 - [Netlify](https://www.netlify.com/)
 
 ---
+
 **[⬆ Back to Index](#content)**
+
 ## HTML
 
 - [HTML Cheat sheet by CodeWithHarry](https://www.codewithharry.com/blogpost/html-cheatsheet)
@@ -453,7 +507,9 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Build your first HTML Project](https://www.freecodecamp.org/news/html-css-tutorial-build-a-recipe-website/)
 
 ---
+
 **[⬆ Back to Index](#content)**
+
 ## Ionic
 
 - [Angular to React for Ionic Developers](https://www.youtube.com/watch?v=r0OqtdjCUK8)
@@ -462,7 +518,9 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Building an Ionic JWT Refresh Token Flow](https://devdactic.com/ionic-jwt-refresh-token/)
 
 ---
+
 **[⬆ Back to Index](#content)**
+
 ## Java
 
 - [Learn Java - Free Interactive Java Tutorial](https://www.learnjavaonline.org/)
@@ -479,7 +537,9 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Java Tutorial for Beginners - Programming with Mosh](https://youtu.be/eIrMbAQSU34)
 
 ---
+
 **[⬆ Back to Index](#content)**
+
 ## Javascript
 
 - [Learn How JavaScripts works Behind the Scene by Akshay Saini](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
@@ -508,21 +568,27 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [JavaScript Garden](https://bonsaiden.github.io/JavaScript-Garden/)
 
 ---
+
 **[⬆ Back to Index](#content)**
+
 ## Kubernetes
 
 - [Understanding Kubernetes: Developer's Guide](https://blog.thewiz.net/understanding-kubernetes-developers-guide)
 - [Kubernetes Hands On & Training](https://www.katacoda.com/courses/kubernetes)
 
 ---
+
 **[⬆ Back to Index](#content)**
+
 ## OpenShift
 
 - [OpenShift Interactive Learning Portal](https://learn.openshift.com)
 - [OpenShift Tutorials](https://developers.redhat.com)
 
 ---
+
 **[⬆ Back to Index](#content)**
+
 ## Laravel
 
 - [Official Documentation](https://laravel.com)
@@ -532,7 +598,9 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Server Management for Laravel](https://forge.laravel.com)
 
 ---
+
 **[⬆ Back to Index](#content)**
+
 ## LESS
 
 - [Official Documentation](http://lesscss.org/)
@@ -540,7 +608,9 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Less CSS Tutorials for Beginners Playlist](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGCshbAx1JpBtNoKh8iKAAiy)
 
 ---
+
 **[⬆ Back to Index](#content)**
+
 ## Linux
 
 - [Introduction to Linux](https://training.linuxfoundation.org/resources/free-courses/introduction-to-linux/)\
@@ -549,7 +619,9 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Linux Device Drivers, Third Edition](https://lwn.net/Kernel/LDD3/)
 
 ---
+
 **[⬆ Back to Index](#content)**
+
 ## Machine Learning
 
 - [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
@@ -570,14 +642,18 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Machine Learning Guide Podcast](https://ocdevel.com/mlg)
 
 ---
+
 **[⬆ Back to Index](#content)**
+
 ## Magento
 
 - [Fast Virtual Machine for Magento2](https://github.com/zepgram/magento2-fast-vm/)
 - [Docker Configuration for Magento2](https://github.com/markshust/docker-magento)
 
 ---
+
 **[⬆ Back to Index](#content)**
+
 ## NodeJS
 
 - [Introduction to nodejs](https://www.tutorialspoint.com/nodejs/nodejs_introduction.htm)
@@ -588,7 +664,9 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [The only NodeJs introduction you’ll ever need](https://codeburst.io/the-only-nodejs-introduction-youll-ever-need-d969a47ef219)
 
 ---
+
 **[⬆ Back to Index](#content)**
+
 ## PHP
 
 - [PHP: The Right Way](https://phptherightway.com/)
@@ -599,7 +677,9 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [PHP Cheat Sheet](https://websitesetup.org/php-cheat-sheet/)
 
 ---
+
 **[⬆ Back to Index](#content)**
+
 ## Python
 
 - [Automate The Boring Stuff With Python](https://automatetheboringstuff.com/2e/chapter0/)
@@ -618,7 +698,9 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [30SecondsOfCode Python Snippets](https://www.30secondsofcode.org/python/p/1)
 
 ---
+
 **[⬆ Back to Index](#content)**
+
 ## React
 
 - [React Tutorial - W3Schools](https://www.w3schools.com/react/)
@@ -637,7 +719,9 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Full-Stack Web Development with React Specialization](https://www.coursera.org/specializations/full-stack-react?)
 
 ---
+
 **[⬆ Back to Index](#content)**
+
 ## React Native
 
 - [React Native Tutorial](https://reactnative.dev/docs/tutorial)
@@ -647,7 +731,9 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [How to deploy react native apps](https://medium.com/react-native-training/understanding-react-native-deployments-6e54157920b7)
 
 ---
+
 **[⬆ Back to Index](#content)**
+
 ## RUBY
 
 - [Ruby from Tutorialspoint](https://www.tutorialspoint.com/ruby/index.htm)
@@ -656,7 +742,9 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Full Stack Ruby Online course at App Academy Open - required login to access](https://open.appacademy.io/login)
 
 ---
+
 **[⬆ Back to Index](#content)**
+
 ## Rust
 
 - [The Rust Programming Language book](https://doc.rust-lang.org/book/)
@@ -664,7 +752,9 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [The Rust Lang Book video series by Let's Get Rusty](https://youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8)
 
 ---
+
 **[⬆ Back to Index](#content)**
+
 ## SASS
 
 - [Complete Documentation](https://sass-lang.com/documentation)
@@ -673,14 +763,18 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Susy - Grid Layout Engine](https://www.oddbird.net/susy/)
 
 ---
+
 **[⬆ Back to Index](#content)**
+
 ## Spring
 
 - [Getting Started - Building an Application](https://spring.io/guides/gs/spring-boot/)
 - [Spring Security Architecture](https://spring.io/guides/topicals/spring-security-architecture/)
 
 ---
+
 **[⬆ Back to Index](#content)**
+
 ## Svelte
 
 - [Introduction and basics of Svelte](https://svelte.dev/tutorial/basics)
@@ -689,7 +783,9 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Learn the Svelte JavaScript Framework: Full Course - Freecodecamp](https://www.youtube.com/watch?v=ujbE0mzX-CU)
 
 ---
+
 **[⬆ Back to Index](#content)**
+
 ## Swift
 
 - [Swift Tutorial](https://www.w3schools.in/swift-tutorial/)
@@ -698,13 +794,17 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Documentation](https://swift.org/documentation/#the-swift-programming-language)
 
 ---
+
 **[⬆ Back to Index](#content)**
+
 ## System Design
 
 - [System Design Concepts](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
 
 ---
+
 **[⬆ Back to Index](#content)**
+
 ## Terraform 
 
 - [Terraform Study Guide](https://github.com/ari-hacks/terraform-study-guide)
@@ -715,7 +815,9 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [250 Practice Questions For Terraform Associate Certification](https://medium.com/bb-tutorials-and-thoughts/250-practice-questions-for-terraform-associate-certification-7a3ccebe6a1a)
 
 --- 
+
 **[⬆ Back to Index](#content)**
+
 ## Testing
 
 - [How to Start a Career in Testing? ](https://juniorlearnstocode.blogspot.com/2020/04/how-to-start-career-in-testing.html/)
@@ -725,7 +827,9 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [API Testing 101: Learn The Basics](https://www.soapui.org/learn/functional-testing/api-testing-101/)
 
 ---
+
 **[⬆ Back to Index](#content)**
+
 ## Typescript
 
 - [TypeScript Documentation: Handbook](https://www.typescriptlang.org/docs/)
@@ -735,7 +839,9 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Clean Code concepts adapted for TypeScript](https://github.com/labs42io/clean-code-typescript)
 
 ---
+
 **[⬆ Back to Index](#content)**
+
 ## Unity
 
 - [Unity Docs](https://docs.unity3d.com/Manual/index.html)
@@ -743,7 +849,9 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Unity for Beginners](https://www.raywenderlich.com/unity/paths/learn)
 
 ---
+
 **[⬆ Back to Index](#content)**
+
 ## Vue
 
 - [Using GitLab CI/CD to auto-deploy your Vue.js application to AWS S3](https://medium.com/@croo/using-gitlab-ci-cd-to-auto-deploy-your-vue-js-application-to-aws-s3-9affe1eb3457)
@@ -752,7 +860,9 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Large-scale Vuex application structures](https://medium.com/3yourmind/large-scale-vuex-application-structures-651e44863e2f)
 
 ---
+
 **[⬆ Back to Index](#content)**
+
 ## Web Accessibility
 
 - [Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/ER/tools/)
@@ -761,7 +871,9 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Accessibility Testing Tutorial | A Complete Step By Step Guide](https://www.softwaretestingmaterial.com/accessibility-testing/)
 
 ---
+
 **[⬆ Back to Index](#content)**
+
 ## Webpack
 
 - [Getting Started Guide](https://www.valentinog.com/blog/webpack/)
@@ -770,7 +882,9 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Tutorials](https://codingcompiler.com/webpack-tutorial/)
 
 ---
+
 **[⬆ Back to Index](#content)**
+
 ## Others
 
 ### Cheat Sheets
