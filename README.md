@@ -36,6 +36,7 @@ To add a resource or contribute, please check out our contribution guide [here](
   - [Linear Algebra](#linear-algebra)
   - [String Processing](#string-processing)
 - [Flutter](#flutter)
+- [Free Hosting](#free-hosting)
 - [GIT](#git)
 - [GitHub](#github)
 - [Go](#go)
@@ -427,6 +428,15 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 **[⬆ Back to Index](#content)**
 
+## Free Hosting
+
+- [Netlify](https://www.netlify.com/)
+- [Heroku](https://www.heroku.com/)
+
+---
+
+**[⬆ Back to Index](#content)**
+
 ## GIT
 
 - [Pro Git Book](https://git-scm.com/book/en/v2/)
@@ -485,14 +495,6 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [GraphQL tutorial for beginners](https://www.howtographql.com/)
 - [GraphQL Tutorials](https://www.tutorialspoint.com/graphql/index.htm)
 - [Complete App with GraphQl](https://www.youtube.com/playlist?list=PL55RiY5tL51rG1x02Yyj93iypUuHYXcB_)
-
----
-
-**[⬆ Back to Index](#content)**
-
-## Free Hosting
-
-- [Netlify](https://www.netlify.com/)
 
 ---
 
