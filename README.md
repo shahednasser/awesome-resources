@@ -23,6 +23,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Data Science](#data-science)
 - [Deep Learning](#deep-learning)
 - [DevOps](#devops)
+- [Django](#django)
 - [Docker](#docker)
 - [Express](#express)
 - [Ethical Hacking](#ethical-hacking)
@@ -111,6 +112,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Pluralsight - Angular 2: Getting Started](https://www.pluralsight.com/courses/angular-2-getting-started-update)
 - [Angular Material - Material Design components for Angular](https://material.angular.io/)
 - [Angular Powered Bootstrap - Bootstrap widgets for Angular](https://ng-bootstrap.github.io/#/home)
+- [freeCodeCamp.org - Learn Angular - Full Tutorial Course](https://www.youtube.com/watch?v=2OHbjep_WjQ)
 
 ---
 
@@ -246,6 +248,15 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Deep learning cheat sheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning)
 - [Google AI Blog](https://ai.googleblog.com/)
 - [Natural Language Processing CS224n](http://web.stanford.edu/class/cs224n/)
+
+---
+
+**[⬆ Back to Index](#content)**
+
+## Django
+
+- [Django Documentation](https://docs.djangoproject.com/)
+- [Deploy Django Application on Heroku](https://www.codementor.io/@jamesezechukwu/how-to-deploy-django-app-on-heroku-dtsee04d4)
 
 ---
 
@@ -500,6 +511,15 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 **[⬆ Back to Index](#content)**
 
+## Free Hosting
+
+- [Netlify](https://www.netlify.com/)
+- [Heroku](https://www.heroku.com/)
+
+---
+
+**[⬆ Back to Index](#content)**
+
 ## HTML
 
 - [HTML Cheat sheet by CodeWithHarry](https://www.codewithharry.com/blogpost/html-cheatsheet)
@@ -700,6 +720,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Complete Python Tutorial In Hindi - YouTube](https://www.youtube.com/playlist?list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j)
 - [TheAlgorithms/Python: All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python)
 - [30SecondsOfCode Python Snippets](https://www.30secondsofcode.org/python/p/1)
+- [Selenium with Python Tutorial](https://www.javatpoint.com/selenium-python#Selenium-with-python)
 
 ---
 
@@ -721,6 +742,8 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [The React Beginner's Handbook](https://flaviocopes.com/page/react-handbook/)
 - [React.js Clones by PAPA React](https://youtube.com/playlist?list=PLf16UKl7nR5AjcrYOe1niifJSAls3spDk)
 - [Full-Stack Web Development with React Specialization](https://www.coursera.org/specializations/full-stack-react?)
+- [React Custom Hooks Tutorial](https://usehooks.com/)
+
 
 ---
 
@@ -932,6 +955,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Lorem Ipsum Generators](https://loremipsum.io/): Awesome collection of Lorem Ipsum Generators
 - [Font Awesome](https://fontawesome.com/): Vector icons and social logos for your website
 - [SVG Backgrounds](https://www.svgbackgrounds.com/): Customize and apply backgrounds fast.
+- [Vecteezy](https://www.vecteezy.com/): Download Free Vector Art, Stock Photos & Stock Videos.
 
 ### Open Source
 
@@ -953,4 +977,3 @@ To add a resource or contribute, please check out our contribution guide [here](
 ### Tools
 
 - [Tiny helpers](https://tiny-helpers.dev/): A collection of free single-purpose online tools for web developers
-
