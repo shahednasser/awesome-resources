@@ -110,6 +110,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Pluralsight - Angular 2: Getting Started](https://www.pluralsight.com/courses/angular-2-getting-started-update)
 - [Angular Material - Material Design components for Angular](https://material.angular.io/)
 - [Angular Powered Bootstrap - Bootstrap widgets for Angular](https://ng-bootstrap.github.io/#/home)
+- [freeCodeCamp.org - Learn Angular - Full Tutorial Course](https://www.youtube.com/watch?v=2OHbjep_WjQ)
 
 ---
 
