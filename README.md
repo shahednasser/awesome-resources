@@ -719,6 +719,8 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [The React Beginner's Handbook](https://flaviocopes.com/page/react-handbook/)
 - [React.js Clones by PAPA React](https://youtube.com/playlist?list=PLf16UKl7nR5AjcrYOe1niifJSAls3spDk)
 - [Full-Stack Web Development with React Specialization](https://www.coursera.org/specializations/full-stack-react?)
+- [React Custom Hooks Tutorial](https://usehooks.com/)
+
 
 ---
 
@@ -930,6 +932,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Lorem Ipsum Generators](https://loremipsum.io/): Awesome collection of Lorem Ipsum Generators
 - [Font Awesome](https://fontawesome.com/): Vector icons and social logos for your website
 - [SVG Backgrounds](https://www.svgbackgrounds.com/): Customize and apply backgrounds fast.
+- [Vecteezy](https://www.vecteezy.com/): Download Free Vector Art, Stock Photos & Stock Videos.
 
 ### Open Source
 
@@ -951,4 +954,3 @@ To add a resource or contribute, please check out our contribution guide [here](
 ### Tools
 
 - [Tiny helpers](https://tiny-helpers.dev/): A collection of free single-purpose online tools for web developers
-
