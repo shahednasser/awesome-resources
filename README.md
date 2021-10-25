@@ -698,6 +698,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Complete Python Tutorial In Hindi - YouTube](https://www.youtube.com/playlist?list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j)
 - [TheAlgorithms/Python: All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python)
 - [30SecondsOfCode Python Snippets](https://www.30secondsofcode.org/python/p/1)
+- [Selenium with Python Tutorial](https://www.javatpoint.com/selenium-python#Selenium-with-python)
 
 ---
 
