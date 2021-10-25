@@ -23,6 +23,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Data Science](#data-science)
 - [Deep Learning](#deep-learning)
 - [DevOps](#devops)
+- [Django](#django)
 - [Docker](#docker)
 - [Express](#express)
 - [Ethical Hacking](#ethical-hacking)
@@ -246,6 +247,15 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Deep learning cheat sheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning)
 - [Google AI Blog](https://ai.googleblog.com/)
 - [Natural Language Processing CS224n](http://web.stanford.edu/class/cs224n/)
+
+---
+
+**[⬆ Back to Index](#content)**
+
+## Django
+
+- [Django Documentation](https://docs.djangoproject.com/)
+- [Deploy Django Application on Heroku](https://www.codementor.io/@jamesezechukwu/how-to-deploy-django-app-on-heroku-dtsee04d4)
 
 ---
 
@@ -494,6 +504,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 ## Free Hosting
 
 - [Netlify](https://www.netlify.com/)
+- [Heroku](https://www.heroku.com/)
 
 ---
 
