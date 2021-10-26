@@ -77,6 +77,7 @@ To add a resource or contribute, please check out our contribution guide [here](
   - [Standard Template Library](#standard-template-library)
   - [VS Code](#vs-code)
   - [Tools](#tools)
+  - [Talks and Podcasts](#talks-podcasts)
 
 ---
 
@@ -967,3 +968,9 @@ To add a resource or contribute, please check out our contribution guide [here](
 ### Tools
 
 - [Tiny helpers](https://tiny-helpers.dev/): A collection of free single-purpose online tools for web developers
+
+### Talks and Podcasts
+
+- [Coding Better World Together Live Session with Uncle Bob (Robert C. Martin](https://www.youtube.com/watch?v=7EmboKQH8lM&list=PLmmYSbUCWJ4x1GO839azG_BBw8rkh-zOj) : Coding Better World Together is a set of master lessons from the famous Uncle Bob (Robert Cecil Martin), where he gives us a broad vision of the importance and future of Software in today's society.
+
+**[⬆ Back to Index](#content)**
