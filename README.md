@@ -733,6 +733,8 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [React.js Clones by PAPA React](https://youtube.com/playlist?list=PLf16UKl7nR5AjcrYOe1niifJSAls3spDk)
 - [Full-Stack Web Development with React Specialization](https://www.coursera.org/specializations/full-stack-react?)
 - [React Custom Hooks Tutorial](https://usehooks.com/)
+- [React Suspense for Data Fetching](https://levelup.gitconnected.com/how-you-can-use-react-suspense-for-data-fetching-in-real-world-applications-now-9fda8138f687)
+
 
 
 ---
@@ -842,6 +844,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [TestProject: Free Test Automation For All](https://testproject.io)
 - [Apache JMeter](https://jmeter.apache.org)
 - [API Testing 101: Learn The Basics](https://www.soapui.org/learn/functional-testing/api-testing-101/)
+- [Automation Testing for JavaScripts libraries](https://nemo.js.org/)
 
 ---
 
@@ -897,6 +900,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Webpack Academy](https://webpack-academy.teachable.com/)
 - [Docs](https://webpack.js.org/guides/getting-started/)
 - [Tutorials](https://codingcompiler.com/webpack-tutorial/)
+- [Module Federation Single SPA](https://webpack.js.org/concepts/module-federation/)
 
 ---
 
