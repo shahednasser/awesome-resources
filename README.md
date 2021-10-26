@@ -50,6 +50,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Linux](#linux)
 - [Machine Learning](#machine-learning)
 - [Magento](#magento)
+- [MySQL](#MySQL)
 - [NodeJS](#nodejs)
 - [PHP](#php)
 - [PostgreSQL](#postgresql)
@@ -665,6 +666,19 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Fast Virtual Machine for Magento2](https://github.com/zepgram/magento2-fast-vm/)
 - [Docker Configuration for Magento2](https://github.com/markshust/docker-magento)
 - [Become Magento 2 Developer with Mage Mastery (online courses and workshops)](https://magemastery.net/)
+
+---
+
+**[⬆ Back to Index](#content)**
+
+## MySQL
+
+- [MySQL Tutorial](https://www.mysqltutorial.org)
+- [MySQL - The Basics // Learn SQL in 23 Easy Steps - Fireship](https://youtu.be/Cz3WcZLRaWc)
+- [MySQL Crash Course - Traversy Media](https://youtu.be/9ylj9NR0Lcg)
+- [MySQL Tutorial for Beginners - Programming with Mosh](https://youtu.be/7S_tz1z_5bA)
+- [SQL Tutorial - Full Database Course for Beginners - freeCodeCamp](https://youtu.be/HXV3zeQKqGY)
+- [MySQL Database - Full Course - freeCodeCamp](https://youtu.be/ER8oKX5myE0)
 
 ---
 
