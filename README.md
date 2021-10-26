@@ -612,7 +612,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Serverless Deployment for Laravel](https://vapor.laravel.com)
 - [Micro Laravel Framework for APIs](https://lumen.laravel.com)
 - [Server Management for Laravel](https://forge.laravel.com)
-
+- [Laravel Daily](https://www.youtube.com/channel/UCTuplgOBi6tJIlesIboymGA)
 ---
 
 **[⬆ Back to Index](#content)**
@@ -692,6 +692,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Deploy Node App on AWS EC2](https://jobin.hashnode.dev/deploy-your-node-js-app-into-production-with-nginx-and-ssl-installationstep-by-step-tutorial)
 - [30SecondsOfCode Node JS Snippets](https://www.30secondsofcode.org/js/t/node/p/1)
 - [The only NodeJs introduction you’ll ever need](https://codeburst.io/the-only-nodejs-introduction-youll-ever-need-d969a47ef219)
+- [Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/)
 
 ---
 
@@ -705,6 +706,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Learn PHP | SoloLearn](https://www.sololearn.com/Course/PHP/)
 - [40+ Useful Php tips for beginners](https://www.binarytides.com/35-techniques-to-enhance-your-php-code/)
 - [PHP Cheat Sheet](https://websitesetup.org/php-cheat-sheet/)
+- [Design Patterns](https://refactoring.guru/design-patterns/php)
 
 ---
 
