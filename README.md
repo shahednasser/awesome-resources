@@ -550,7 +550,6 @@ To add a resource or contribute, please check out our contribution guide [here](
 ## MySQL
 
 - [MySQL Tutorial](https://www.mysqltutorial.org)
-- [An Introduction to Queries in MySQL - DigitalOcean](https://www.digitalocean.com/community/tutorials/introduction-to-queries-mysql)
 - [MySQL - The Basics // Learn SQL in 23 Easy Steps - Fireship](https://youtu.be/Cz3WcZLRaWc)
 - [MySQL Crash Course - Traversy Media](https://youtu.be/9ylj9NR0Lcg)
 - [MySQL Tutorial for Beginners - Programming with Mosh](https://youtu.be/7S_tz1z_5bA)
