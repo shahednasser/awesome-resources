@@ -52,6 +52,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Magento](#magento)
 - [NodeJS](#nodejs)
 - [PHP](#php)
+- [PostgreSQL](#postgresql)
 - [Python](#python)
 - [React](#react)
 - [React Native](#react-native)
@@ -690,6 +691,18 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Learn PHP | SoloLearn](https://www.sololearn.com/Course/PHP/)
 - [40+ Useful Php tips for beginners](https://www.binarytides.com/35-techniques-to-enhance-your-php-code/)
 - [PHP Cheat Sheet](https://websitesetup.org/php-cheat-sheet/)
+
+---
+
+**[⬆ Back to Index](#content)**
+
+## PostgreSQL
+
+- [SQL Cheat Sheet - ABZ-Aaron](https://github.com/ABZ-Aaron/CheatSheets/blob/main/SQL-V2-Light.pdf)
+- [PostgreSQL Tutorial](https://www.postgresqltutorial.com)
+- [Learn PostgreSQL Tutorial - freeCodeCamp](https://youtu.be/qw--VYLpxG4)
+- [SQL Tutorial for Beginners - Ben Awad](https://youtu.be/tp_5c6jaNQE)
+- [SQL Tutorials - Corey Schafer](https://youtube.com/playlist?list=PL-osiE80TeTsKOdPrKeSOp4rN3mza8VHN)
 
 ---
 
