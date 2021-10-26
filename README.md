@@ -575,7 +575,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [PostgreSQL Tutorial](https://www.postgresqltutorial.com)
 - [Learn PostgreSQL Tutorial - freeCodeCamp](https://youtu.be/qw--VYLpxG4)
 - [SQL Tutorial for Beginners - Ben Awad](https://youtu.be/tp_5c6jaNQE)
-- [SQL Tutorials - Corey Schafer](https://youtu.be/xaWlS9HtWYw)
+- [SQL Tutorials - Corey Schafer](https://youtube.com/playlist?list=PL-osiE80TeTsKOdPrKeSOp4rN3mza8VHN)
 
 ---
 
