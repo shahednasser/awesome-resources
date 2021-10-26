@@ -256,6 +256,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 - [Django Documentation](https://docs.djangoproject.com/)
 - [Deploy Django Application on Heroku](https://www.codementor.io/@jamesezechukwu/how-to-deploy-django-app-on-heroku-dtsee04d4)
+- [Everything about using Celery with Django](https://youtube.com/playlist?list=PLLz6Bi1mIXhHKA1Szy2aj9Jbs6nw9fhNY)
 
 ---
 
