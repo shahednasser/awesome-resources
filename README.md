@@ -50,8 +50,10 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Linux](#linux)
 - [Machine Learning](#machine-learning)
 - [Magento](#magento)
+- [MySQL](#MySQL)
 - [NodeJS](#nodejs)
 - [PHP](#php)
+- [PostgreSQL](#postgresql)
 - [Python](#python)
 - [React](#react)
 - [React Native](#react-native)
@@ -256,6 +258,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 - [Django Documentation](https://docs.djangoproject.com/)
 - [Deploy Django Application on Heroku](https://www.codementor.io/@jamesezechukwu/how-to-deploy-django-app-on-heroku-dtsee04d4)
+- [Everything about using Celery with Django](https://youtube.com/playlist?list=PLLz6Bi1mIXhHKA1Szy2aj9Jbs6nw9fhNY)
 
 ---
 
@@ -668,6 +671,19 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 **[⬆ Back to Index](#content)**
 
+## MySQL
+
+- [MySQL Tutorial](https://www.mysqltutorial.org)
+- [MySQL - The Basics // Learn SQL in 23 Easy Steps - Fireship](https://youtu.be/Cz3WcZLRaWc)
+- [MySQL Crash Course - Traversy Media](https://youtu.be/9ylj9NR0Lcg)
+- [MySQL Tutorial for Beginners - Programming with Mosh](https://youtu.be/7S_tz1z_5bA)
+- [SQL Tutorial - Full Database Course for Beginners - freeCodeCamp](https://youtu.be/HXV3zeQKqGY)
+- [MySQL Database - Full Course - freeCodeCamp](https://youtu.be/ER8oKX5myE0)
+
+---
+
+**[⬆ Back to Index](#content)**
+
 ## NodeJS
 
 - [Introduction to nodejs](https://www.tutorialspoint.com/nodejs/nodejs_introduction.htm)
@@ -689,6 +705,18 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Learn PHP | SoloLearn](https://www.sololearn.com/Course/PHP/)
 - [40+ Useful Php tips for beginners](https://www.binarytides.com/35-techniques-to-enhance-your-php-code/)
 - [PHP Cheat Sheet](https://websitesetup.org/php-cheat-sheet/)
+
+---
+
+**[⬆ Back to Index](#content)**
+
+## PostgreSQL
+
+- [SQL Cheat Sheet - ABZ-Aaron](https://github.com/ABZ-Aaron/CheatSheets/blob/main/SQL-V2-Light.pdf)
+- [PostgreSQL Tutorial](https://www.postgresqltutorial.com)
+- [Learn PostgreSQL Tutorial - freeCodeCamp](https://youtu.be/qw--VYLpxG4)
+- [SQL Tutorial for Beginners - Ben Awad](https://youtu.be/tp_5c6jaNQE)
+- [SQL Tutorials - Corey Schafer](https://youtube.com/playlist?list=PL-osiE80TeTsKOdPrKeSOp4rN3mza8VHN)
 
 ---
 
