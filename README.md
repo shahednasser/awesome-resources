@@ -761,6 +761,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [React.js Clones by PAPA React](https://youtube.com/playlist?list=PLf16UKl7nR5AjcrYOe1niifJSAls3spDk)
 - [Full-Stack Web Development with React Specialization](https://www.coursera.org/specializations/full-stack-react?)
 - [React Custom Hooks Tutorial](https://usehooks.com/)
+- [10 react hooks explained](https://youtu.be/TNhaISOUy6Q)
 
 
 ---
