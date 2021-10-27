@@ -508,6 +508,23 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 - [Netlify](https://www.netlify.com/)
 - [Heroku](https://www.heroku.com/)
+- - [Amazon Web Services](http://aws.amazon.com)
+- [Byet Host](https://byet.host/)
+- [Cloudflare Pages](https://pages.cloudflare.com/)
+- [Deta](https://www.deta.sh/)
+- [Firebase](http://firebase.google.com)
+- [Freehosting](https://www.freehosting.com/)
+- [Github Pages](http://pages.github.com)
+- [Gitlab Pages](http://docs.gitlab.com/ee/user/project/pages)
+- [Google Cloud](https://cloud.google.com/)
+- [Hostinger](https://www.hostinger.in/free-web-hosting)
+- [HyperPHP](http://hyperphp.com/)
+- [InfinityFree](https://infinityfree.net/)
+- [Render](http://render.com)
+- [Surge](http://surge.sh)
+- [Vercel](http://vercel.com)
+- [Webhost](https://in.000webhost.com/)
+- [W3 Spaces](https://www.w3schools.com/spaces/)
 
 ---
 
