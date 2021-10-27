@@ -508,6 +508,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 - [Netlify](https://www.netlify.com/)
 - [Heroku](https://www.heroku.com/)
+- [Vercel](https://vercel.com/)
 
 ---
 
