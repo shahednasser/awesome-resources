@@ -612,7 +612,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Serverless Deployment for Laravel](https://vapor.laravel.com)
 - [Micro Laravel Framework for APIs](https://lumen.laravel.com)
 - [Server Management for Laravel](https://forge.laravel.com)
-- [Laravel Daily](https://www.youtube.com/channel/UCTuplgOBi6tJIlesIboymGA)
+- [Creating "Laravel Checklister"](https://www.youtube.com/watch?v=yZ01AXJKYvU&list=PLdXLsjL7A9k0D8fXpJl4Rc1ffmAs5XIEg)
 ---
 
 **[⬆ Back to Index](#content)**
