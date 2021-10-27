@@ -552,7 +552,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Learn Java 8 - Full Tutorial for Beginners - freeCodeCamp](https://youtu.be/grEKMHGYyns)
 - [Java Beginner Course - freeCodeCamp](https://youtu.be/7WiJGTPuVeU)
 - [Java Tutorial for Beginners - Programming with Mosh](https://youtu.be/eIrMbAQSU34)
-
+- [Java Tutorials for beginners - Pep Coding][]https://www.youtube.com/watch?v=KhrD5WW02ro&list=PL-Jc9J83PIiHxc8vuYMq3C1KUvqc_jB6L
 ---
 
 **[⬆ Back to Index](#content)**
