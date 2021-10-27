@@ -16,7 +16,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [C](#c)
 - [C++](#c)
 - [Computer Science](#computer-science)
-  - [Theoretical Computer Science](#theoretical-computer-science)  
+  - [Theoretical Computer Science](#theoretical-computer-science)
 - [CSS](#css)
 - [CSharp](#csharp)
 - [Dart](#dart)
@@ -156,8 +156,6 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Open Source Society University - Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 
-
-
 ---
 
 **[⬆ Back to Index](#content)**
@@ -168,8 +166,6 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Freely available programming books](https://github.com/EbookFoundation/free-programming-books)
 - [Programming Language Foundation in Agda](https://plfa.github.io/)
 - [Type Theory playlist](https://www.youtube.com/playlist?list=PLoPjtLnIwJuJcZpSHIsVliXFsTH99-2W5)
-
-
 
 ---
 
@@ -220,9 +216,6 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Intro to Dart for Java Developers](https://codelabs.developers.google.com/codelabs/from-java-to-dart/#0)
 - [Iterable collections](https://dart.dev/codelabs/iterables)
 
-
-
-
 ---
 
 **[⬆ Back to Index](#content)**
@@ -237,6 +230,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Machine Learning Algorithms from Scratch](https://github.com/python-engineer/MLfromscratch)
 - [Python for Data Science: Fundamentals](https://www.dataquest.io/course/python-for-data-science-fundamentals)
 - [Python for Data Science: Intermediate](https://www.dataquest.io/course/python-for-data-science-intermediate/)
+
 ---
 
 **[⬆ Back to Index](#content)**
@@ -321,6 +315,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Stanford University Algorithms: Design and Analysis, Part 1](https://online.stanford.edu/courses/soe-ycsalgorithms1-algorithms-design-and-analysis-part-1)
 - [Stanford University Algorithms: Design and Analysis, Part 2](https://online.stanford.edu/courses/soe-ycs0001-algorithms-design-and-analysis-part-2)
 - [Sorting Algorithms](https://www.youtube.com/playlist?list=PL2_aWCzGMAwKedT2KfDMB9YA5DgASZb3U) - mycodeschool
+
 ---
 
 **[⬆ Back to Index](#content)**
@@ -355,13 +350,11 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Fibonacci Numbers](https://cp-algorithms.com/algebra/fibonacci-numbers.html)
 - [Linear Diophantine Equations](https://cp-algorithms.com/algebra/linear-diophantine-equation.html)
 
-
 ### Combinatorics
 
 - [Binomial Coefficients](https://cp-algorithms.com/combinatorics/binomial-coefficients.html)
 - [Catalan Numbers](https://cp-algorithms.com/combinatorics/catalan-numbers.html)
 - [Finding Power of Factorial Divisor](https://cp-algorithms.com/algebra/factorial-divisors.html)
-
 
 ### Data Structures
 
@@ -376,14 +369,12 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [IIT Bombay Foundation of Data Structures (CS213.1x)](https://courses.edx.org/courses/course-v1:IITBombayX+CS213.1x+1T2017/course/)
 - [Intro to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513) - Brynn Claypoole, Horatio Thomas
 
-
 ### Dynamic Programming
 
 - [Divide and Conquer DP](https://cp-algorithms.com/dynamic_programming/divide-and-conquer-dp.html)
 - [Dynamic Programming on Broken Profile. Problem "Parquet"](https://cp-algorithms.com/dynamic_programming/profile-dynamics.html)
 - [Dynamic Programming GeeksforGeeks](https://www.geeksforgeeks.org/dynamic-programming/)
 - [Finding the largest zero submatrix](https://cp-algorithms.com/dynamic_programming/zero_matrix.html)
-
 
 ### Linear Algebra
 
@@ -435,8 +426,6 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Write your first Flutter app, Part 2](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2/#0)
 - [Write a Flutter desktop application](https://codelabs.developers.google.com/codelabs/flutter-github-graphql-client/#0)
 
-
-
 ---
 
 **[⬆ Back to Index](#content)**
@@ -462,6 +451,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Git Documentaton](https://git-scm.com/docs)
 - [Dangit, Git!?!](https://dangitgit.com/en)
 - [Using multiple Git accounts with SSH keys](https://gist.github.com/oanhnn/80a89405ab9023894df7)
+- [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 
 ---
 
@@ -488,7 +478,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Go by Example](https://gobyexample.com/)
 - [Gophercises: Free Coding Exercises for Budding Gophers](https://gophercises.com/)
 - [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/)
-- [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/) 
+- [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
 
 ---
 
@@ -764,7 +754,6 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [React Custom Hooks Tutorial](https://usehooks.com/)
 - [10 react hooks explained](https://youtu.be/TNhaISOUy6Q)
 
-
 ---
 
 **[⬆ Back to Index](#content)**
@@ -852,7 +841,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 **[⬆ Back to Index](#content)**
 
-## Terraform 
+## Terraform
 
 - [Terraform Study Guide](https://github.com/ari-hacks/terraform-study-guide)
 - [HashiCorp Certified: Terraform Associate 2021 (Zeal Vora)](https://www.udemy.com/course/terraform-beginner-to-advanced/)
@@ -861,7 +850,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Terraform for DevOps Beginners + Labs: Complete Step by Step Guide!](https://youtu.be/YcJ9IeukJL8)
 - [250 Practice Questions For Terraform Associate Certification](https://medium.com/bb-tutorials-and-thoughts/250-practice-questions-for-terraform-associate-certification-7a3ccebe6a1a)
 
---- 
+---
 
 **[⬆ Back to Index](#content)**
 
