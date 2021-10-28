@@ -574,6 +574,8 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Free js.org Subdomain For Github Pages](https://github.com/js-org/js.org)
 - [Eloquent JavaScript - A Modern Introduction to Programming](https://eloquentjavascript.net/)
 - [JavaScript Garden](https://bonsaiden.github.io/JavaScript-Garden/)
+- [JavaScript by Example - Level 1 by Hussein Nasser](https://www.youtube.com/playlist?list=PLQnljOFTspQW9tY3eqBrmbY7CqxNrW-g3)
+- [JavaScript by Example - Level 2 by Hussein Nasser](https://www.youtube.com/playlist?list=PLQnljOFTspQWab0g3W6ZaDM6_Buh20EWM)
 
 ---
 
