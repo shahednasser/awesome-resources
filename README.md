@@ -837,7 +837,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 ## System Design
 
 - [System Design Concepts](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
-
+- [System Design Interview Preparation Series by codeKarle](https://www.youtube.com/playlist?list=PLhgw50vUymycJPN6ZbGTpVKAJ0cL4OEH3)
 ---
 
 **[⬆ Back to Index](#content)**
