@@ -675,7 +675,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [MySQL Tutorial for Beginners - Programming with Mosh](https://youtu.be/7S_tz1z_5bA)
 - [SQL Tutorial - Full Database Course for Beginners - freeCodeCamp](https://youtu.be/HXV3zeQKqGY)
 - [MySQL Database - Full Course - freeCodeCamp](https://youtu.be/ER8oKX5myE0)
-
+- [MySQL tutorial](https://www.youtube.com/watch?v=u96rVINbAUI&list=PLZlA0Gpn_vH9lZBruSHgs41ldy5gZgknU)
 ---
 
 **[⬆ Back to Index](#content)**
