@@ -837,7 +837,8 @@ To add a resource or contribute, please check out our contribution guide [here](
 ## System Design
 
 - [System Design Concepts](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
-- [A primer course on System Design by sudoCODE](https://www.youtube.com/playlist?list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a)
+- [System Design Primer Course](https://www.youtube.com/playlist?list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a)
+
 ---
 
 **[⬆ Back to Index](#content)**
