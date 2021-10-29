@@ -810,6 +810,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 - [Getting Started - Building an Application](https://spring.io/guides/gs/spring-boot/)
 - [Spring Security Architecture](https://spring.io/guides/topicals/spring-security-architecture/)
+- [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
 
 ---
 
