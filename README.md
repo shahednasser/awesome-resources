@@ -837,6 +837,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 ## System Design
 
 - [System Design Concepts](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
+- [Basics of System Design by Coding Simplified](https://www.youtube.com/playlist?list=PLt4nG7RVVk1g_LutiJ8_LvE914rIE5z4u)
 
 ---
 
