@@ -190,6 +190,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [CSSBattle](https://cssbattle.dev/)
 - [Learning Advanced CSS and HTML](https://learn.shayhowe.com/advanced-html-css/)
 - [Style Stage - A modern CSS showcase styled by community contributions](https://stylestage.dev/)
+- [Tailwind CSS Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=4wGmylafgM4)
 
 ---
 
