@@ -574,6 +574,8 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Free js.org Subdomain For Github Pages](https://github.com/js-org/js.org)
 - [Eloquent JavaScript - A Modern Introduction to Programming](https://eloquentjavascript.net/)
 - [JavaScript Garden](https://bonsaiden.github.io/JavaScript-Garden/)
+- [JavaScript by Example - Level 1 by Hussein Nasser](https://www.youtube.com/playlist?list=PLQnljOFTspQW9tY3eqBrmbY7CqxNrW-g3)
+- [JavaScript by Example - Level 2 by Hussein Nasser](https://www.youtube.com/playlist?list=PLQnljOFTspQWab0g3W6ZaDM6_Buh20EWM)
 
 ---
 
@@ -838,6 +840,8 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 - [System Design Concepts](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
 - [System Design Primer Course](https://www.youtube.com/playlist?list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a)
+- [System Design Interview Preparation Series by codeKarle](https://www.youtube.com/playlist?list=PLhgw50vUymycJPN6ZbGTpVKAJ0cL4OEH3)
+- [Basics of System Design by Coding Simplified](https://www.youtube.com/playlist?list=PLt4nG7RVVk1g_LutiJ8_LvE914rIE5z4u)
 
 ---
 
@@ -892,6 +896,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 ## Vue
 
+- [Vue JS 3 Tutorial for Beginners - Youtube Playlist of a Series of 12 Videos](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hYYGbV60Vq3IXYNfDk8At1)
 - [Using GitLab CI/CD to auto-deploy your Vue.js application to AWS S3](https://medium.com/@croo/using-gitlab-ci-cd-to-auto-deploy-your-vue-js-application-to-aws-s3-9affe1eb3457)
 - [Dockerizing a Vue App](https://mherman.org/blog/dockerizing-a-vue-app/)
 - [Deploying a Flask and Vue App to Heroku with Docker and Gitlab CI](https://testdriven.io/blog/deploying-flask-to-heroku-with-docker-and-gitlab/)
@@ -984,6 +989,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [How to run graphics.h in VS Code](https://github.com/ullaskunder3/Solution-to-graphics.h)
 - [Top 5 VS Code extensions for web developers](https://jobin.hashnode.dev/top-5-vs-code-extension-for-web-developers-in-2021)
 - [VS Code Tutorial for Beginners](https://youtu.be/VqCgcpAypFQ?t=21)
+- [The Best VS Code Extensions to Supercharge Your Git](https://betterprogramming.pub/the-best-vs-code-extensions-to-supercharge-your-git-5d5ab3f64f64)
 
 ### Tools
 
@@ -992,3 +998,4 @@ To add a resource or contribute, please check out our contribution guide [here](
 ### Talks and Podcasts
 
 - [Coding Better World Together Live Session with Uncle Bob (Robert C. Martin](https://www.youtube.com/playlist?list=PLmmYSbUCWJ4x1GO839azG_BBw8rkh-zOj) : Coding Better World Together is a set of master lessons from the famous Uncle Bob (Robert Cecil Martin), where he gives us a broad vision of the importance and future of Software in today's society.
+- [Clean Code with Uncle Bob Martin](https://completedeveloperpodcast.com/episode-232/): When folks code long enough, in time they get themselves stuck in a code base that's kind of difficult to wrap thier heads around. In this podcast Uncle Bob Martin talks about the principles of clean code and how to not make a code base too difficult to understand.
