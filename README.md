@@ -13,8 +13,8 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Angular](#angular)
 - [Blockchain](#blockchain)
 - [Bots](#bots)
-- [C](#c)
-- [C++](#c)
+- [C](#C)
+- [C++](#C++)
 - [Computer Science](#computer-science)
   - [Theoretical Computer Science](#theoretical-computer-science)
 - [CSS](#css)
@@ -146,6 +146,12 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [C Programming for Beginners](https://youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR)
 - [Learn C Org](https://www.learn-c.org)
 
+## C++
+
+- [LearnCPP](https://www.learncpp.com/)
+- [Derek Banas Playlist](https://www.youtube.com/watch?v=DamuE8TM3xo&list=PLGLfVvz_LVvQ9S8YSV0iDsuEU8v11yP9M)
+- [GFG C++ List](https://www.geeksforgeeks.org/c-plus-plus/)
+- [Reference for C++](https://www.cplusplus.com/reference/)
 ---
 
 **[⬆ Back to Index](#content)**
