@@ -469,6 +469,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [GitHub Protips: Tips, tricks, hacks, and secrets from Lee Reilly](https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/)
 - [GitHub Minesweeper](https://profy.dev/project/github-minesweeper/intro-overview): hands-on introduction to working with Git and GitHub in a team
 - [Readme.so](https://readme.so/): Easiest way to make good readme for your github repos
+- [Complete Git and Github Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics)
 
 ---
 
