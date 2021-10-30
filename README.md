@@ -508,7 +508,6 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 - [Netlify](https://www.netlify.com/)
 - [Heroku](https://www.heroku.com/)
-- - [Amazon Web Services](http://aws.amazon.com)
 - [Byet Host](https://byet.host/)
 - [Cloudflare Pages](https://pages.cloudflare.com/)
 - [Deta](https://www.deta.sh/)
