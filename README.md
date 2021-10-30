@@ -545,7 +545,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Learn Java 8 - Full Tutorial for Beginners - freeCodeCamp](https://youtu.be/grEKMHGYyns)
 - [Java Beginner Course - freeCodeCamp](https://youtu.be/7WiJGTPuVeU)
 - [Java Tutorial for Beginners - Programming with Mosh](https://youtu.be/eIrMbAQSU34)
-- [Java Beginners to Pro Course](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
+- [Java + DSA + Interview Preparation Course](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
 ---
 
 **[⬆ Back to Index](#content)**
@@ -675,7 +675,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [MySQL Tutorial for Beginners - Programming with Mosh](https://youtu.be/7S_tz1z_5bA)
 - [SQL Tutorial - Full Database Course for Beginners - freeCodeCamp](https://youtu.be/HXV3zeQKqGY)
 - [MySQL Database - Full Course - freeCodeCamp](https://youtu.be/ER8oKX5myE0)
-- [MySQL tutorial](https://www.youtube.com/watch?v=u96rVINbAUI&list=PLZlA0Gpn_vH9lZBruSHgs41ldy5gZgknU)
+- 
 ---
 
 **[⬆ Back to Index](#content)**
@@ -688,7 +688,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Deploy Node App on AWS EC2](https://jobin.hashnode.dev/deploy-your-node-js-app-into-production-with-nginx-and-ssl-installationstep-by-step-tutorial)
 - [30SecondsOfCode Node JS Snippets](https://www.30secondsofcode.org/js/t/node/p/1)
 - [The only NodeJs introduction you’ll ever need](https://codeburst.io/the-only-nodejs-introduction-youll-ever-need-d969a47ef219)
-- [Introduction to Node JS](https://www.youtube.com/watch?v=VShtPwEkDD0&list=PLZlA0Gpn_vH_uZs4vJMIhcinABSTUH2bY)
+- [Introduction to Node.js](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH_uZs4vJMIhcinABSTUH2bY)
 ---
 
 **[⬆ Back to Index](#content)**
