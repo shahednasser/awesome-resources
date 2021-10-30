@@ -508,10 +508,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 - [Netlify](https://www.netlify.com/)
 - [Heroku](https://www.heroku.com/)
-- [Byet Host](https://byet.host/)
-- [Cloudflare Pages](https://pages.cloudflare.com/)
 - [Deta](https://www.deta.sh/)
-- [Firebase](http://firebase.google.com)
 - [Freehosting](https://www.freehosting.com/)
 - [Github Pages](http://pages.github.com)
 - [Gitlab Pages](http://docs.gitlab.com/ee/user/project/pages)
