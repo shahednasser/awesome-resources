@@ -833,6 +833,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Build your very first iOS app](https://www.edx.org/course/build-your-very-first-ios-app)
 - [Swift Programming Tutorial for Beginners](https://www.youtube.com/watch?v=Ulp1Kimblg0)
 - [Documentation](https://swift.org/documentation/#the-swift-programming-language)
+- [Swift UI quick start](https://www.hackingwithswift.com/quick-start/swiftui)
 
 ---
 
