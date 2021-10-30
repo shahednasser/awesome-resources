@@ -613,6 +613,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Micro Laravel Framework for APIs](https://lumen.laravel.com)
 - [Server Management for Laravel](https://forge.laravel.com)
 - [Creating "Laravel Checklister"](https://www.youtube.com/playlist?list=PLdXLsjL7A9k0D8fXpJl4Rc1ffmAs5XIEg)
+
 ---
 
 **[⬆ Back to Index](#content)**
