@@ -515,8 +515,6 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Freehosting](https://www.freehosting.com/)
 - [Github Pages](http://pages.github.com)
 - [Gitlab Pages](http://docs.gitlab.com/ee/user/project/pages)
-- [Google Cloud](https://cloud.google.com/)
-- [Hostinger](https://www.hostinger.in/free-web-hosting)
 - [HyperPHP](http://hyperphp.com/)
 - [InfinityFree](https://infinityfree.net/)
 - [Render](http://render.com)
