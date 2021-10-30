@@ -687,6 +687,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Deploy Node App on AWS EC2](https://jobin.hashnode.dev/deploy-your-node-js-app-into-production-with-nginx-and-ssl-installationstep-by-step-tutorial)
 - [30SecondsOfCode Node JS Snippets](https://www.30secondsofcode.org/js/t/node/p/1)
 - [The only NodeJs introduction you’ll ever need](https://codeburst.io/the-only-nodejs-introduction-youll-ever-need-d969a47ef219)
+- [Node.js and Express.js - Full Course](https://www.youtube.com/watch?v=Oe421EPjeBE)
 
 ---
 
