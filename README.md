@@ -147,11 +147,14 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Learn C Org](https://www.learn-c.org)
 
 ## C++
-
+- [CP Algorithms](https://cp-algorithms.com/index.html)
+- [List of specified topics](https://www.tutorialspoint.com/cplusplus/index.htm)
+- [How to Learn the C++ Languages: The Ultimate List](https://www.toptal.com/c/the-ultimate-list-of-resources-to-learn-c-and-c-plus-plus)
+- [The C++ Standard Template Library (STL)](https://www.geeksforgeeks.org/the-c-standard-template-library-stl/)
+- [C++ Series GeeksForGeeks](https://www.geeksforgeeks.org/c-plus-plus/)
 - [LearnCPP](https://www.learncpp.com/)
-- [Derek Banas Playlist](https://www.youtube.com/watch?v=DamuE8TM3xo&list=PLGLfVvz_LVvQ9S8YSV0iDsuEU8v11yP9M)
-- [GFG C++ List](https://www.geeksforgeeks.org/c-plus-plus/)
-- [Reference for C++](https://www.cplusplus.com/reference/)
+- [C++ Tutorial](https://www.youtube.com/watch?v=DamuE8TM3xo&list=PLGLfVvz_LVvQ9S8YSV0iDsuEU8v11yP9M)
+- [C++ API Reference](https://www.cplusplus.com/reference/)
 ---
 
 **[⬆ Back to Index](#content)**
@@ -300,18 +303,6 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Curated ExpressJS Courses](https://hackr.io/tutorials/learn-express-js) - a list of community curated resources
 - [ExpressJS Courses at Classpert](https://classpert.com/express-js) - a list of courses (free and paid) from Classpert Online Course Search
 - [Security Practices in Express App](https://expressjs.com/en/advanced/best-practice-security.html)
-
----
-
-**[⬆ Back to Index](#content)**
-
-## C++
-
-- [CP Algorithms](https://cp-algorithms.com/index.html)
-- [List of specified topics](https://www.tutorialspoint.com/cplusplus/index.htm)
-- [How to Learn the C++ Languages: The Ultimate List](https://www.toptal.com/c/the-ultimate-list-of-resources-to-learn-c-and-c-plus-plus)
-- [The C++ Standard Template Library (STL)](https://www.geeksforgeeks.org/the-c-standard-template-library-stl/)
-- [C++ Series GeeksForGeeks](https://www.geeksforgeeks.org/c-plus-plus/)
 
 ---
 
