@@ -191,6 +191,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [CSS Framework - Tailwind CSS](https://tailwindcss.com/)
 - [CSS Flexbox - Wes Bos](https://flexbox.io/)
 - [CSS Grid - Wes Bos](https://cssgrid.io/)
+- [CSS Grid - Leonidas Esteban](https://leonidasesteban.com/cursos/css-grid-layout-interfaces)
 - [CSS Box-Shadow Generator](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Backgrounds_and_Borders/Box-shadow_generator)
 - [CSS Gradient Generator](https://cssgradient.io/)
 - [CSS Animated Gradient Background Generator](https://animated-gradient-background-generator.netlify.app/)
