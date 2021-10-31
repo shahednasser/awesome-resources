@@ -402,6 +402,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Minimum Spanning Tree (Prim's Algorithm)](https://cp-algorithms.com/graph/mst_prim.html)
 - [Minimum Spanning Tree (Kruskal's Algorithm)](https://cp-algorithms.com/graph/mst_kruskal.html)
 - [Max Flow (Ford-Fulkerson and Edmonds-Karp Algorithms)](https://cp-algorithms.com/graph/edmonds_karp.html)
+- [Striver's Graph Series](https://www.youtube.com/playlist?list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw)
 
 ---
 
