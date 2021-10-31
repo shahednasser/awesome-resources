@@ -13,10 +13,10 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Angular](#angular)
 - [Blockchain](#blockchain)
 - [Bots](#bots)
-- [C](#c)
-- [C++](#c)
+- [C](#C)
+- [C++](#C++)
 - [Computer Science](#computer-science)
-  - [Theoretical Computer Science](#theoretical-computer-science)  
+  - [Theoretical Computer Science](#theoretical-computer-science)
 - [CSS](#css)
 - [CSharp](#csharp)
 - [Dart](#dart)
@@ -79,6 +79,7 @@ To add a resource or contribute, please check out our contribution guide [here](
   - [Standard Template Library](#standard-template-library)
   - [VS Code](#vs-code)
   - [Tools](#tools)
+  - [Talks and Podcasts](#talks-podcasts)
 
 ---
 
@@ -145,6 +146,15 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [C Programming for Beginners](https://youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR)
 - [Learn C Org](https://www.learn-c.org)
 
+## C++
+- [CP Algorithms](https://cp-algorithms.com/index.html)
+- [List of specified topics](https://www.tutorialspoint.com/cplusplus/index.htm)
+- [How to Learn the C++ Languages: The Ultimate List](https://www.toptal.com/c/the-ultimate-list-of-resources-to-learn-c-and-c-plus-plus)
+- [The C++ Standard Template Library (STL)](https://www.geeksforgeeks.org/the-c-standard-template-library-stl/)
+- [C++ Series GeeksForGeeks](https://www.geeksforgeeks.org/c-plus-plus/)
+- [LearnCPP](https://www.learncpp.com/)
+- [C++ Tutorial](https://www.youtube.com/watch?v=DamuE8TM3xo&list=PLGLfVvz_LVvQ9S8YSV0iDsuEU8v11yP9M)
+- [C++ API Reference](https://www.cplusplus.com/reference/)
 ---
 
 **[⬆ Back to Index](#content)**
@@ -156,8 +166,6 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Open Source Society University - Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 
-
-
 ---
 
 **[⬆ Back to Index](#content)**
@@ -168,8 +176,6 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Freely available programming books](https://github.com/EbookFoundation/free-programming-books)
 - [Programming Language Foundation in Agda](https://plfa.github.io/)
 - [Type Theory playlist](https://www.youtube.com/playlist?list=PLoPjtLnIwJuJcZpSHIsVliXFsTH99-2W5)
-
-
 
 ---
 
@@ -185,6 +191,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [CSS Framework - Tailwind CSS](https://tailwindcss.com/)
 - [CSS Flexbox - Wes Bos](https://flexbox.io/)
 - [CSS Grid - Wes Bos](https://cssgrid.io/)
+- [CSS Grid - Leonidas Esteban](https://leonidasesteban.com/cursos/css-grid-layout-interfaces)
 - [CSS Box-Shadow Generator](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Backgrounds_and_Borders/Box-shadow_generator)
 - [CSS Gradient Generator](https://cssgradient.io/)
 - [CSS Animated Gradient Background Generator](https://animated-gradient-background-generator.netlify.app/)
@@ -193,6 +200,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [CSSBattle](https://cssbattle.dev/)
 - [Learning Advanced CSS and HTML](https://learn.shayhowe.com/advanced-html-css/)
 - [Style Stage - A modern CSS showcase styled by community contributions](https://stylestage.dev/)
+- [Tailwind CSS Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=4wGmylafgM4)
 
 ---
 
@@ -220,9 +228,6 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Intro to Dart for Java Developers](https://codelabs.developers.google.com/codelabs/from-java-to-dart/#0)
 - [Iterable collections](https://dart.dev/codelabs/iterables)
 
-
-
-
 ---
 
 **[⬆ Back to Index](#content)**
@@ -237,6 +242,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Machine Learning Algorithms from Scratch](https://github.com/python-engineer/MLfromscratch)
 - [Python for Data Science: Fundamentals](https://www.dataquest.io/course/python-for-data-science-fundamentals)
 - [Python for Data Science: Intermediate](https://www.dataquest.io/course/python-for-data-science-intermediate/)
+
 ---
 
 **[⬆ Back to Index](#content)**
@@ -303,24 +309,13 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 **[⬆ Back to Index](#content)**
 
-## C++
-
-- [CP Algorithms](https://cp-algorithms.com/index.html)
-- [List of specified topics](https://www.tutorialspoint.com/cplusplus/index.htm)
-- [How to Learn the C++ Languages: The Ultimate List](https://www.toptal.com/c/the-ultimate-list-of-resources-to-learn-c-and-c-plus-plus)
-- [The C++ Standard Template Library (STL)](https://www.geeksforgeeks.org/the-c-standard-template-library-stl/)
-- [C++ Series GeeksForGeeks](https://www.geeksforgeeks.org/c-plus-plus/)
-
----
-
-**[⬆ Back to Index](#content)**
-
 ## Algorithms
 
 - [List of helpful algos](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
 - [Stanford University Algorithms: Design and Analysis, Part 1](https://online.stanford.edu/courses/soe-ycsalgorithms1-algorithms-design-and-analysis-part-1)
 - [Stanford University Algorithms: Design and Analysis, Part 2](https://online.stanford.edu/courses/soe-ycs0001-algorithms-design-and-analysis-part-2)
 - [Sorting Algorithms](https://www.youtube.com/playlist?list=PL2_aWCzGMAwKedT2KfDMB9YA5DgASZb3U) - mycodeschool
+
 ---
 
 **[⬆ Back to Index](#content)**
@@ -355,13 +350,11 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Fibonacci Numbers](https://cp-algorithms.com/algebra/fibonacci-numbers.html)
 - [Linear Diophantine Equations](https://cp-algorithms.com/algebra/linear-diophantine-equation.html)
 
-
 ### Combinatorics
 
 - [Binomial Coefficients](https://cp-algorithms.com/combinatorics/binomial-coefficients.html)
 - [Catalan Numbers](https://cp-algorithms.com/combinatorics/catalan-numbers.html)
 - [Finding Power of Factorial Divisor](https://cp-algorithms.com/algebra/factorial-divisors.html)
-
 
 ### Data Structures
 
@@ -376,14 +369,12 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [IIT Bombay Foundation of Data Structures (CS213.1x)](https://courses.edx.org/courses/course-v1:IITBombayX+CS213.1x+1T2017/course/)
 - [Intro to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513) - Brynn Claypoole, Horatio Thomas
 
-
 ### Dynamic Programming
 
 - [Divide and Conquer DP](https://cp-algorithms.com/dynamic_programming/divide-and-conquer-dp.html)
 - [Dynamic Programming on Broken Profile. Problem "Parquet"](https://cp-algorithms.com/dynamic_programming/profile-dynamics.html)
 - [Dynamic Programming GeeksforGeeks](https://www.geeksforgeeks.org/dynamic-programming/)
 - [Finding the largest zero submatrix](https://cp-algorithms.com/dynamic_programming/zero_matrix.html)
-
 
 ### Linear Algebra
 
@@ -435,8 +426,6 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Write your first Flutter app, Part 2](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2/#0)
 - [Write a Flutter desktop application](https://codelabs.developers.google.com/codelabs/flutter-github-graphql-client/#0)
 
-
-
 ---
 
 **[⬆ Back to Index](#content)**
@@ -462,6 +451,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Git Documentaton](https://git-scm.com/docs)
 - [Dangit, Git!?!](https://dangitgit.com/en)
 - [Using multiple Git accounts with SSH keys](https://gist.github.com/oanhnn/80a89405ab9023894df7)
+- [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 
 ---
 
@@ -488,7 +478,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Go by Example](https://gobyexample.com/)
 - [Gophercises: Free Coding Exercises for Budding Gophers](https://gophercises.com/)
 - [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/)
-- [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/) 
+- [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
 
 ---
 
@@ -508,6 +498,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 - [Netlify](https://www.netlify.com/)
 - [Heroku](https://www.heroku.com/)
+- [Vercel](https://vercel.com/)
 
 ---
 
@@ -582,6 +573,8 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Free js.org Subdomain For Github Pages](https://github.com/js-org/js.org)
 - [Eloquent JavaScript - A Modern Introduction to Programming](https://eloquentjavascript.net/)
 - [JavaScript Garden](https://bonsaiden.github.io/JavaScript-Garden/)
+- [JavaScript by Example - Level 1 by Hussein Nasser](https://www.youtube.com/playlist?list=PLQnljOFTspQW9tY3eqBrmbY7CqxNrW-g3)
+- [JavaScript by Example - Level 2 by Hussein Nasser](https://www.youtube.com/playlist?list=PLQnljOFTspQWab0g3W6ZaDM6_Buh20EWM)
 
 ---
 
@@ -612,6 +605,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Serverless Deployment for Laravel](https://vapor.laravel.com)
 - [Micro Laravel Framework for APIs](https://lumen.laravel.com)
 - [Server Management for Laravel](https://forge.laravel.com)
+- [Creating "Laravel Checklister"](https://www.youtube.com/playlist?list=PLdXLsjL7A9k0D8fXpJl4Rc1ffmAs5XIEg)
 
 ---
 
@@ -692,6 +686,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Deploy Node App on AWS EC2](https://jobin.hashnode.dev/deploy-your-node-js-app-into-production-with-nginx-and-ssl-installationstep-by-step-tutorial)
 - [30SecondsOfCode Node JS Snippets](https://www.30secondsofcode.org/js/t/node/p/1)
 - [The only NodeJs introduction you’ll ever need](https://codeburst.io/the-only-nodejs-introduction-youll-ever-need-d969a47ef219)
+- [Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/)
 
 ---
 
@@ -705,6 +700,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Learn PHP | SoloLearn](https://www.sololearn.com/Course/PHP/)
 - [40+ Useful Php tips for beginners](https://www.binarytides.com/35-techniques-to-enhance-your-php-code/)
 - [PHP Cheat Sheet](https://websitesetup.org/php-cheat-sheet/)
+- [Design Patterns](https://refactoring.guru/design-patterns/php)
 
 ---
 
@@ -761,7 +757,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [React.js Clones by PAPA React](https://youtube.com/playlist?list=PLf16UKl7nR5AjcrYOe1niifJSAls3spDk)
 - [Full-Stack Web Development with React Specialization](https://www.coursera.org/specializations/full-stack-react?)
 - [React Custom Hooks Tutorial](https://usehooks.com/)
-
+- [10 react hooks explained](https://youtu.be/TNhaISOUy6Q)
 
 ---
 
@@ -815,6 +811,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 - [Getting Started - Building an Application](https://spring.io/guides/gs/spring-boot/)
 - [Spring Security Architecture](https://spring.io/guides/topicals/spring-security-architecture/)
+- [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
 
 ---
 
@@ -837,6 +834,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Build your very first iOS app](https://www.edx.org/course/build-your-very-first-ios-app)
 - [Swift Programming Tutorial for Beginners](https://www.youtube.com/watch?v=Ulp1Kimblg0)
 - [Documentation](https://swift.org/documentation/#the-swift-programming-language)
+- [Swift UI quick start](https://www.hackingwithswift.com/quick-start/swiftui)
 
 ---
 
@@ -845,12 +843,15 @@ To add a resource or contribute, please check out our contribution guide [here](
 ## System Design
 
 - [System Design Concepts](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
+- [System Design Primer Course](https://www.youtube.com/playlist?list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a)
+- [System Design Interview Preparation Series by codeKarle](https://www.youtube.com/playlist?list=PLhgw50vUymycJPN6ZbGTpVKAJ0cL4OEH3)
+- [Basics of System Design by Coding Simplified](https://www.youtube.com/playlist?list=PLt4nG7RVVk1g_LutiJ8_LvE914rIE5z4u)
 
 ---
 
 **[⬆ Back to Index](#content)**
 
-## Terraform 
+## Terraform
 
 - [Terraform Study Guide](https://github.com/ari-hacks/terraform-study-guide)
 - [HashiCorp Certified: Terraform Associate 2021 (Zeal Vora)](https://www.udemy.com/course/terraform-beginner-to-advanced/)
@@ -859,7 +860,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Terraform for DevOps Beginners + Labs: Complete Step by Step Guide!](https://youtu.be/YcJ9IeukJL8)
 - [250 Practice Questions For Terraform Associate Certification](https://medium.com/bb-tutorials-and-thoughts/250-practice-questions-for-terraform-associate-certification-7a3ccebe6a1a)
 
---- 
+---
 
 **[⬆ Back to Index](#content)**
 
@@ -899,6 +900,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 ## Vue
 
+- [Vue JS 3 Tutorial for Beginners - Youtube Playlist of a Series of 12 Videos](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hYYGbV60Vq3IXYNfDk8At1)
 - [Using GitLab CI/CD to auto-deploy your Vue.js application to AWS S3](https://medium.com/@croo/using-gitlab-ci-cd-to-auto-deploy-your-vue-js-application-to-aws-s3-9affe1eb3457)
 - [Dockerizing a Vue App](https://mherman.org/blog/dockerizing-a-vue-app/)
 - [Deploying a Flask and Vue App to Heroku with Docker and Gitlab CI](https://testdriven.io/blog/deploying-flask-to-heroku-with-docker-and-gitlab/)
@@ -991,7 +993,13 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [How to run graphics.h in VS Code](https://github.com/ullaskunder3/Solution-to-graphics.h)
 - [Top 5 VS Code extensions for web developers](https://jobin.hashnode.dev/top-5-vs-code-extension-for-web-developers-in-2021)
 - [VS Code Tutorial for Beginners](https://youtu.be/VqCgcpAypFQ?t=21)
+- [The Best VS Code Extensions to Supercharge Your Git](https://betterprogramming.pub/the-best-vs-code-extensions-to-supercharge-your-git-5d5ab3f64f64)
 
 ### Tools
 
 - [Tiny helpers](https://tiny-helpers.dev/): A collection of free single-purpose online tools for web developers
+
+### Talks and Podcasts
+
+- [Coding Better World Together Live Session with Uncle Bob (Robert C. Martin](https://www.youtube.com/playlist?list=PLmmYSbUCWJ4x1GO839azG_BBw8rkh-zOj) : Coding Better World Together is a set of master lessons from the famous Uncle Bob (Robert Cecil Martin), where he gives us a broad vision of the importance and future of Software in today's society.
+- [Clean Code with Uncle Bob Martin](https://completedeveloperpodcast.com/episode-232/): When folks code long enough, in time they get themselves stuck in a code base that's kind of difficult to wrap thier heads around. In this podcast Uncle Bob Martin talks about the principles of clean code and how to not make a code base too difficult to understand.
