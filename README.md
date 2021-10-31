@@ -201,7 +201,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Learning Advanced CSS and HTML](https://learn.shayhowe.com/advanced-html-css/)
 - [Style Stage - A modern CSS showcase styled by community contributions](https://stylestage.dev/)
 - [Tailwind CSS Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=4wGmylafgM4)
-
+- [Introduction to CSS](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9D0J0Mtp6lIiD_8046k3si)
 ---
 
 **[⬆ Back to Index](#content)**
