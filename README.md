@@ -13,8 +13,8 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Angular](#angular)
 - [Blockchain](#blockchain)
 - [Bots](#bots)
-- [C](#c)
-- [C++](#c)
+- [C](#C)
+- [C++](#C++)
 - [Computer Science](#computer-science)
   - [Theoretical Computer Science](#theoretical-computer-science)
 - [CSS](#css)
@@ -146,6 +146,15 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [C Programming for Beginners](https://youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR)
 - [Learn C Org](https://www.learn-c.org)
 
+## C++
+- [CP Algorithms](https://cp-algorithms.com/index.html)
+- [List of specified topics](https://www.tutorialspoint.com/cplusplus/index.htm)
+- [How to Learn the C++ Languages: The Ultimate List](https://www.toptal.com/c/the-ultimate-list-of-resources-to-learn-c-and-c-plus-plus)
+- [The C++ Standard Template Library (STL)](https://www.geeksforgeeks.org/the-c-standard-template-library-stl/)
+- [C++ Series GeeksForGeeks](https://www.geeksforgeeks.org/c-plus-plus/)
+- [LearnCPP](https://www.learncpp.com/)
+- [C++ Tutorial](https://www.youtube.com/watch?v=DamuE8TM3xo&list=PLGLfVvz_LVvQ9S8YSV0iDsuEU8v11yP9M)
+- [C++ API Reference](https://www.cplusplus.com/reference/)
 ---
 
 **[⬆ Back to Index](#content)**
@@ -182,6 +191,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [CSS Framework - Tailwind CSS](https://tailwindcss.com/)
 - [CSS Flexbox - Wes Bos](https://flexbox.io/)
 - [CSS Grid - Wes Bos](https://cssgrid.io/)
+- [CSS Grid - Leonidas Esteban](https://leonidasesteban.com/cursos/css-grid-layout-interfaces)
 - [CSS Box-Shadow Generator](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Backgrounds_and_Borders/Box-shadow_generator)
 - [CSS Gradient Generator](https://cssgradient.io/)
 - [CSS Animated Gradient Background Generator](https://animated-gradient-background-generator.netlify.app/)
@@ -294,18 +304,6 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Curated ExpressJS Courses](https://hackr.io/tutorials/learn-express-js) - a list of community curated resources
 - [ExpressJS Courses at Classpert](https://classpert.com/express-js) - a list of courses (free and paid) from Classpert Online Course Search
 - [Security Practices in Express App](https://expressjs.com/en/advanced/best-practice-security.html)
-
----
-
-**[⬆ Back to Index](#content)**
-
-## C++
-
-- [CP Algorithms](https://cp-algorithms.com/index.html)
-- [List of specified topics](https://www.tutorialspoint.com/cplusplus/index.htm)
-- [How to Learn the C++ Languages: The Ultimate List](https://www.toptal.com/c/the-ultimate-list-of-resources-to-learn-c-and-c-plus-plus)
-- [The C++ Standard Template Library (STL)](https://www.geeksforgeeks.org/the-c-standard-template-library-stl/)
-- [C++ Series GeeksForGeeks](https://www.geeksforgeeks.org/c-plus-plus/)
 
 ---
 
@@ -546,6 +544,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Java Beginner Course - freeCodeCamp](https://youtu.be/7WiJGTPuVeU)
 - [Java Tutorial for Beginners - Programming with Mosh](https://youtu.be/eIrMbAQSU34)
 - [Java + DSA + Interview Preparation Course](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
+
 ---
 
 **[⬆ Back to Index](#content)**
@@ -608,6 +607,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Serverless Deployment for Laravel](https://vapor.laravel.com)
 - [Micro Laravel Framework for APIs](https://lumen.laravel.com)
 - [Server Management for Laravel](https://forge.laravel.com)
+- [Creating "Laravel Checklister"](https://www.youtube.com/playlist?list=PLdXLsjL7A9k0D8fXpJl4Rc1ffmAs5XIEg)
 
 ---
 
@@ -675,7 +675,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [MySQL Tutorial for Beginners - Programming with Mosh](https://youtu.be/7S_tz1z_5bA)
 - [SQL Tutorial - Full Database Course for Beginners - freeCodeCamp](https://youtu.be/HXV3zeQKqGY)
 - [MySQL Database - Full Course - freeCodeCamp](https://youtu.be/ER8oKX5myE0)
-- 
+
 ---
 
 **[⬆ Back to Index](#content)**
@@ -689,6 +689,8 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [30SecondsOfCode Node JS Snippets](https://www.30secondsofcode.org/js/t/node/p/1)
 - [The only NodeJs introduction you’ll ever need](https://codeburst.io/the-only-nodejs-introduction-youll-ever-need-d969a47ef219)
 - [Introduction to Node.js](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH_uZs4vJMIhcinABSTUH2bY)
+- [Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/)
+
 ---
 
 **[⬆ Back to Index](#content)**
@@ -701,6 +703,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Learn PHP | SoloLearn](https://www.sololearn.com/Course/PHP/)
 - [40+ Useful Php tips for beginners](https://www.binarytides.com/35-techniques-to-enhance-your-php-code/)
 - [PHP Cheat Sheet](https://websitesetup.org/php-cheat-sheet/)
+- [Design Patterns](https://refactoring.guru/design-patterns/php)
 
 ---
 
@@ -834,6 +837,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Build your very first iOS app](https://www.edx.org/course/build-your-very-first-ios-app)
 - [Swift Programming Tutorial for Beginners](https://www.youtube.com/watch?v=Ulp1Kimblg0)
 - [Documentation](https://swift.org/documentation/#the-swift-programming-language)
+- [Swift UI quick start](https://www.hackingwithswift.com/quick-start/swiftui)
 
 ---
 
