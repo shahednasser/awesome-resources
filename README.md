@@ -764,6 +764,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Full-Stack Web Development with React Specialization](https://www.coursera.org/specializations/full-stack-react?)
 - [React Custom Hooks Tutorial](https://usehooks.com/)
 - [10 react hooks explained](https://youtu.be/TNhaISOUy6Q)
+- [React Hooks](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h)
 
 ---
 
