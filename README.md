@@ -25,6 +25,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [DevOps](#devops)
 - [Django](#django)
 - [Docker](#docker)
+- [Electron](#electron)
 - [Express](#express)
 - [Ethical Hacking](#ethical-hacking)
 - [Expo](#expo)
@@ -80,6 +81,18 @@ To add a resource or contribute, please check out our contribution guide [here](
   - [VS Code](#vs-code)
   - [Tools](#tools)
   - [Talks and Podcasts](#talks-podcasts)
+
+---
+
+**[⬆ Back to Index](#content)**
+
+
+## Algorithms
+
+- [List of helpful algos](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
+- [Stanford University Algorithms: Design and Analysis, Part 1](https://online.stanford.edu/courses/soe-ycsalgorithms1-algorithms-design-and-analysis-part-1)
+- [Stanford University Algorithms: Design and Analysis, Part 2](https://online.stanford.edu/courses/soe-ycs0001-algorithms-design-and-analysis-part-2)
+- [Sorting Algorithms](https://www.youtube.com/playlist?list=PL2_aWCzGMAwKedT2KfDMB9YA5DgASZb3U) - mycodeschool
 
 ---
 
@@ -296,6 +309,14 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 **[⬆ Back to Index](#content)**
 
+## Electron
+### Build cross-platform desktop apps like Microsoft Teams, Twitch, Discord, VSCode
+- [Build your first Electron app](https://www.electronjs.org/docs/latest/tutorial/quick-start)
+
+---
+**[⬆ Back to Index](#content)**
+
+
 ## Express
 
 - [LinkedIn Login using Node JS, Express and passport](https://www.loginradius.com/engineering/blog/linkedin-login-using-node-passport/)
@@ -304,17 +325,6 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Curated ExpressJS Courses](https://hackr.io/tutorials/learn-express-js) - a list of community curated resources
 - [ExpressJS Courses at Classpert](https://classpert.com/express-js) - a list of courses (free and paid) from Classpert Online Course Search
 - [Security Practices in Express App](https://expressjs.com/en/advanced/best-practice-security.html)
-
----
-
-**[⬆ Back to Index](#content)**
-
-## Algorithms
-
-- [List of helpful algos](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
-- [Stanford University Algorithms: Design and Analysis, Part 1](https://online.stanford.edu/courses/soe-ycsalgorithms1-algorithms-design-and-analysis-part-1)
-- [Stanford University Algorithms: Design and Analysis, Part 2](https://online.stanford.edu/courses/soe-ycs0001-algorithms-design-and-analysis-part-2)
-- [Sorting Algorithms](https://www.youtube.com/playlist?list=PL2_aWCzGMAwKedT2KfDMB9YA5DgASZb3U) - mycodeschool
 
 ---
 
