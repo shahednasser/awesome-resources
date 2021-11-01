@@ -25,6 +25,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [DevOps](#devops)
 - [Django](#django)
 - [Docker](#docker)
+- [Electron](#electron)
 - [Express](#express)
 - [Ethical Hacking](#ethical-hacking)
 - [Expo](#expo)
@@ -294,6 +295,13 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 ---
 
+**[⬆ Back to Index](#content)**
+
+## Electron
+### Build cross-platform desktop apps like Microsoft Teams, Twitch, Discord, VSCode
+- [Build your first Electron app](https://www.electronjs.org/docs/latest/tutorial/quick-start)
+
+---
 **[⬆ Back to Index](#content)**
 
 ## Express
