@@ -503,6 +503,10 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Netlify](https://www.netlify.com/)
 - [Heroku](https://www.heroku.com/)
 - [Vercel](https://vercel.com/)
+- [Github Pages](http://pages.github.com)
+- [Gitlab Pages](http://docs.gitlab.com/ee/user/project/pages)
+- [Deta](https://www.deta.sh/)
+- [InfinityFree](https://infinityfree.net/)
 
 ---
 
