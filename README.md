@@ -163,6 +163,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 - [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
 - [CS50](https://cs50.harvard.edu/)
+- [Khan Academy](https://www.khanacademy.org/computing/computer-science)
 - [Open Source Society University - Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 
