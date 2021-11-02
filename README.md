@@ -883,6 +883,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Typescript - The Basics](https://www.youtube.com/watch?v=ahCwqrYpIuM)
 - [Typescript Basics - Course](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTanfgsbnFzfWUhhAz3tIezU)
 - [Clean Code concepts adapted for TypeScript](https://github.com/labs42io/clean-code-typescript)
+- [TypeScript Course for Beginners 2021 - Learn TypeScript from Scratch!](https://www.youtube.com/watch?v=BwuLxPH8IDs&t=1s)
 
 ---
 
