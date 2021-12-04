@@ -291,8 +291,8 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Docker Overview & Basics](https://docs.docker.com/get-started/overview/)
 - [Docker for beginners](https://youtu.be/zJ6WbK9zFpI)
 - [Docker Curriculum Ebook](https://docker-curriculum.com/)
-- [Docker Labs](https://labs.play-with-docker.com/)
-- [Docker Cheat Sheet](https://www.shrlrn.com/practice/dockerlabs)
+- [Docker Labs environment](https://labs.play-with-docker.com/)
+- [Docker labs](https://www.sharelearn.net/practice/dockerlabs)
 
 ---
 
