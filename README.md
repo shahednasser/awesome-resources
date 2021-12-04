@@ -57,9 +57,9 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Python](#python)
 - [React](#react)
 - [React Native](#react-native)
-- [RUBY](#ruby)
+- [Ruby](#ruby)
 - [Rust](#rust)
-- [SASS](#sass)
+- [Sass](#sass)
 - [Spring](#spring)
 - [Svelte](#svelte)
 - [Swift](#swift)
@@ -788,7 +788,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 **[⬆ Back to Index](#content)**
 
-## RUBY
+## Ruby
 
 - [Ruby from Tutorialspoint](https://www.tutorialspoint.com/ruby/index.htm)
 - [Full course by freeCodeCamp.org](https://www.youtube.com/watch?v=t_ispmWmdjY)
@@ -809,7 +809,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 **[⬆ Back to Index](#content)**
 
-## SASS
+## Sass
 
 - [Complete Documentation](https://sass-lang.com/documentation)
 - [Zurb - Library to Create Transitions & Animations](https://zurb.com/playground/motion-ui)
