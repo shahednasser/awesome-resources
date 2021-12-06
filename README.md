@@ -748,6 +748,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [30SecondsOfCode Python Snippets](https://www.30secondsofcode.org/python/p/1)
 - [Selenium with Python Tutorial](https://www.javatpoint.com/selenium-python#Selenium-with-python)
 - [Python Flask Tutorial](https://youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX)
+
 ---
 
 **[⬆ Back to Index](#content)**
