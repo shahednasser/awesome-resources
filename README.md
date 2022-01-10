@@ -889,6 +889,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [TestProject: Free Test Automation For All](https://testproject.io)
 - [Apache JMeter](https://jmeter.apache.org)
 - [API Testing 101: Learn The Basics](https://www.soapui.org/learn/functional-testing/api-testing-101/)
+- [ISTQB Certification](https://www.istqb.com/)
 
 ---
 
