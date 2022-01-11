@@ -485,8 +485,8 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Gophercises: Free Coding Exercises for Budding Gophers](https://gophercises.com/)
 - [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/)
 - [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
-- [Golang for begineers | YouTube playlist](https://www.youtube.com/playlist?list=PLRAV69dS1uWSR89FRQGZ6q9BR2b44Tr9N)
-- [Let's go with golang | YouTube playlist](https://www.youtube.com/playlist?list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa)
+- [Golang for begineers - YouTube playlist](https://www.youtube.com/playlist?list=PLRAV69dS1uWSR89FRQGZ6q9BR2b44Tr9N)
+- [Let's go with golang - YouTube playlist](https://www.youtube.com/playlist?list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa)
 
 ---
 
@@ -713,7 +713,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [PHP: The Right Way](https://phptherightway.com/)
 - [PHP Front to Back](https://www.youtube.com/playlist?list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn)
 - [PHP Apprentice: An Online Book For Learning PHP](https://phpapprentice.com/)
-- [Learn PHP | SoloLearn](https://www.sololearn.com/Course/PHP/)
+- [Learn PHP - SoloLearn](https://www.sololearn.com/Course/PHP/)
 - [40+ Useful Php tips for beginners](https://www.binarytides.com/35-techniques-to-enhance-your-php-code/)
 - [PHP Cheat Sheet](https://websitesetup.org/php-cheat-sheet/)
 - [Design Patterns](https://refactoring.guru/design-patterns/php)
@@ -838,7 +838,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 ## Svelte
 
 - [Introduction and basics of Svelte](https://svelte.dev/tutorial/basics)
-- [Getting started with Svelte | MDN](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_getting_started)
+- [Getting started with Svelte - MDN](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_getting_started)
 - [Svelte for beginners - The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO)
 - [Learn the Svelte JavaScript Framework: Full Course - Freecodecamp](https://www.youtube.com/watch?v=ujbE0mzX-CU)
 
@@ -935,7 +935,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/ER/tools/)
 - [Mozilla Accessibility Guide](https://developer.mozilla.org/en-US/docs/Web/Accessibility)
 - [Google Developers Guide on Accessibility](https://developers.google.com/web/fundamentals/accessibility)
-- [Accessibility Testing Tutorial | A Complete Step By Step Guide](https://www.softwaretestingmaterial.com/accessibility-testing/)
+- [Accessibility Testing Tutorial - A Complete Step By Step Guide](https://www.softwaretestingmaterial.com/accessibility-testing/)
 
 ---
 
