@@ -52,7 +52,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Linux](#linux)
 - [Machine Learning](#machine-learning)
 - [Magento](#magento)
-- [MySQL](#MySQL)
+- [MySQL](#mysql)
 - [NodeJS](#nodejs)
 - [PHP](#php)
 - [PostgreSQL](#postgresql)
