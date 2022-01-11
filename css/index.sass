@@ -1,15 +1,16 @@
 ---
 ---
 
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&display=swap')
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;700&display=swap')
 
 // variables
-$main-color: #75C9C8
+$main-color: #10b981
+$secondary-color: #c5fff4
+$dark-color: #27272a
 
 body 
-    font-family: 'Montserrat', sans-serif
+    font-family: 'Quicksand', sans-serif
     transition: all .7s
-
 
 a
     &, &:visited
@@ -37,7 +38,7 @@ hr
     display: none
 
 
-#scroll-up
+.scroll-up
     position: fixed
     bottom: 8%
     right: 6%
@@ -62,9 +63,12 @@ hr
     flex: 1
 
 .site-header
-    border-top: 0
+    border: 0
     background-color: $main-color
     width: 100%
+    position: -webkit-sticky /* Safari */
+    position: sticky
+    top: 0
     .site-title
         font-weight: 500
         color: #ffffff
@@ -74,7 +78,7 @@ hr
         color: #ffffff
 
 footer
-    background-color: #f9f9f9
+    border-top: 0 !important
     .social-media-list
         li
             display: inline-block
@@ -84,36 +88,33 @@ footer
                 transform: scale(1.5)
                 fill: $main-color
 
-.navWrapper
-    width: 95%
+.nav-wrapper
     display: flex
     justify-content: space-between
     align-items: center
-    #burgerMenu
-        background-color: $main-color
-        svg
-            fill: #ffffff
 
-.trigger
+.nav-actions
     display: flex
     justify-content: center
     align-items: center
-    #githubIco
+    .github-link
         font-size: 2rem
+        transition: all .2s
+        margin-right: 10px
         &:hover
-            color: #d6d6d6
+            color: $secondary-color
     // toggle button style
-    .themeControl
+    .theme-control
         display: flex
         justify-content: center
         align-items: center
-        margin-left: 1.5em
-        #moon, #sun
-            color: #fdfdfd
-            font-size: 1rem
-        .yellow
-            color: #fff44f !important
+        .theme-toggler
+            cursor: pointer
+            color: #ffff
+            font-size: 1.5rem
             transition: .5s
+            &:hover
+                color: $secondary-color
         .toggle
             position: relative
             display: inline-block
@@ -155,6 +156,28 @@ footer
                 border-radius: 2em
                 &:before
                     border-radius: 50%
+
+.wrapper
+    &:after
+        content: none !important
+
+hr
+    & + p
+        margin-top: 10px
+
+body:not(.dark)
+    .scroll-up
+        color: #fff
+    footer
+        background-color: #f9f9f9
+
+body.dark
+    background-color: $dark-color
+    color: #fff
+    footer
+        background-color: #52525b
+        .footer-col-wrapper
+            color: #fff !important
 
 // rules when the burger menu is shown
 @media screen and (max-width: 600px)

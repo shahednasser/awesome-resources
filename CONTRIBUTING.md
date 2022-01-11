@@ -1,7 +1,8 @@
 # Contribution Guide
+
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)  [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 
-# Content
+## Content
 
 - [Resources Qualifications](#resources-qualifications)
 - [Adding Resources](#adding-resources)
@@ -48,7 +49,9 @@ To add a new category, add a list item with the name of the category and the URL
 ```
 
 Also, don't forget to add a shortcut to content index above the new category heading you are adding. For example:
+
 ```markdown
+
 ---
 
 **[⬆ Back to Index](#content)**
@@ -75,13 +78,13 @@ To contribute to the website, you need to have Jekyll and its prerequisites inst
 
 After cloning the repository, in the folder run the following to install the bundles:
 
-```
+```bash
 bundle
 ```
 
 And then to run the website locally, run the following commands:
 
-```
+```bash
 bundle exec jekyll serve --livereload
 ```
 
