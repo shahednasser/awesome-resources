@@ -149,6 +149,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Learn C Org](https://www.learn-c.org)
 
 ## C++
+
 - [CP Algorithms](https://cp-algorithms.com/index.html)
 - [List of specified topics](https://www.tutorialspoint.com/cplusplus/index.htm)
 - [How to Learn the C++ Languages: The Ultimate List](https://www.toptal.com/c/the-ultimate-list-of-resources-to-learn-c-and-c-plus-plus)
@@ -157,6 +158,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [LearnCPP](https://www.learncpp.com/)
 - [C++ Tutorial](https://www.youtube.com/watch?v=DamuE8TM3xo&list=PLGLfVvz_LVvQ9S8YSV0iDsuEU8v11yP9M)
 - [C++ API Reference](https://www.cplusplus.com/reference/)
+
 ---
 
 **[⬆ Back to Index](#content)**
