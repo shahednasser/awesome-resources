@@ -15,8 +15,8 @@ To add a resource or contribute, please check out our contribution guide [here](
 - [Angular](#angular)
 - [Blockchain](#blockchain)
 - [Bots](#bots)
-- [C](#C)
-- [C++](#C++)
+- [C](#c)
+- [C++](#c-1)
 - [Computer Science](#computer-science)
   - [Theoretical Computer Science](#theoretical-computer-science)
 - [CSS](#css)
@@ -81,7 +81,7 @@ To add a resource or contribute, please check out our contribution guide [here](
   - [Standard Template Library](#standard-template-library)
   - [VS Code](#vs-code)
   - [Tools](#tools)
-  - [Talks and Podcasts](#talks-podcasts)
+  - [Talks and Podcasts](#talks-and-podcasts)
 
 ---
 
