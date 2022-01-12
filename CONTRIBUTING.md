@@ -63,12 +63,25 @@ Also, don't forget to add a shortcut to content index above the new category hea
 5. Once you find or add the correct category, add the new resource at the end of the list. It should have the title and the link to the resource. For example:
 
 ```markdown
-- [How to contribute](https://github.com/shahednasser/awesome-resources/blob/master/CONTRIBUTING.md)
+- :file_folder: [How to contribute](https://github.com/shahednasser/awesome-resources/blob/master/CONTRIBUTING.md)
 ```
 
-6. Once you're done, scroll to the bottom of the list to commit the change. Make sure the title of the commit is relevant. For example: Added How to Contribute under New Category.
+You need to add an emoji before the file name that represents what the resource is. Here are the list of emojis we use:
 
-7. After adding the commit title, click on propose changes and follow the steps to create a pull request.
+| Emoji        | Description                                      |
+|--------------|--------------------------------------------------|
+|:books:       |Course, long series or list of tutorials, or books|
+|:file_folder: |Documentation                                     |
+|:speaker:     |Podcast                                           |
+|:green_book:  |Single Tutorial                                   |
+|:wrench:      |Tool                                              |
+|:video_camera:|Video Resource (Youtube, video course, etc...)    |
+|:bulb:        |Other (Doesn't belong to any previous categories) |
+
+
+1. Once you're done, scroll to the bottom of the list to commit the change. Make sure the title of the commit is relevant. For example: Added How to Contribute under New Category.
+
+2. After adding the commit title, click on propose changes and follow the steps to create a pull request.
 
 **That's it! Congratulations on making your contribution!**
 
