@@ -138,6 +138,14 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 **[⬆ Back to Index](#content)**
 
+## Big Data
+
+- :video_camera: [Big Data](https://youtube.com/playlist?list=PL-Jc9J83PIiFFhKLTP1_UDUiNE0xXbJqr)
+
+---
+
+**[⬆ Back to Index](#content)**
+
 ## Blockchain
 
 - :bulb: [KnowEthereum (handpicked ethereum resources)](https://knowethereum.com/)
@@ -249,6 +257,14 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [Dart Tutorial for Beginners: Basics and Fundamentals for Flutter](https://www.youtube.com/playlist?list=PLlxmoA0rQ-LyHW9voBdNo4gEEIh0SjG-q)
 - :books: [Intro to Dart for Java Developers](https://codelabs.developers.google.com/codelabs/from-java-to-dart/#0)
 - :file_folder: [Iterable collections](https://dart.dev/codelabs/iterables)
+
+---
+
+**[⬆ Back to Index](#content)**
+
+## Database
+
+- :video_camera: [Practical SQL Series](https://youtube.com/playlist?list=PL-Jc9J83PIiFRR58Ezyy2z3gYhPA0lKmt)
 
 ---
 
@@ -717,6 +733,15 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :green_book: [The only NodeJs introduction you’ll ever need](https://codeburst.io/the-only-nodejs-introduction-youll-ever-need-d969a47ef219)
 - :video_camera: [Introduction to Node.js](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH_uZs4vJMIhcinABSTUH2bY)
 - :green_book: [Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/)
+- :video_camera: [Backend Interview Series](https://youtube.com/playlist?list=PL-Jc9J83PIiHI7u_6G8j1oKyhQn_plX8i)
+
+---
+
+**[⬆ Back to Index](#content)**
+
+## Operating Systems
+
+- :video_camera: [Operating Systems](https://youtube.com/playlist?list=PL-Jc9J83PIiEKfEI9f7afzCutT_3hPQP3)
 
 ---
 
@@ -947,6 +972,16 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :green_book: [Mozilla Accessibility Guide](https://developer.mozilla.org/en-US/docs/Web/Accessibility)
 - :green_book: [Google Developers Guide on Accessibility](https://developers.google.com/web/fundamentals/accessibility)
 - :green_book: [Accessibility Testing Tutorial - A Complete Step By Step Guide](https://www.softwaretestingmaterial.com/accessibility-testing/)
+
+---
+
+**[⬆ Back to Index](#content)**
+
+## Web Development
+
+- :video_camera: [Frontend Interview Series](https://youtube.com/playlist?list=PL-Jc9J83PIiFXzRwSTSwqL7U2hoMk6K6F)
+- :video_camera: [Frontend Interview Series](https://youtube.com/playlist?list=PL-Jc9J83PIiFXzRwSTSwqL7U2hoMk6K6F)
+- :video_camera: [Frontend with HTML CSS JS & Browser APIs](https://youtube.com/playlist?list=PL-Jc9J83PIiHU9RkY9sfh3G64-bd0ptvC)
 
 ---
 
