@@ -138,9 +138,26 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 **[⬆ Back to Index](#content)**
 
+## Back-End Interview Series
+
+- :video_camera: [Backend Interview Series](https://youtube.com/playlist?list=PL-Jc9J83PIiHI7u_6G8j1oKyhQn_plX8i)
+
+---
+
+**[⬆ Back to Index](#content)**
+
+## Big Data
+
+- :video_camera: [Big Data](https://youtube.com/playlist?list=PL-Jc9J83PIiFFhKLTP1_UDUiNE0xXbJqr)
+
+---
+
+**[⬆ Back to Index](#content)**
+
 ## Blockchain
 
 - :bulb: [KnowEthereum (handpicked ethereum resources)](https://knowethereum.com/)
+- :video_camera: [Solidity ^0.8 | Blockchain | In Hindi](https://youtube.com/playlist?list=PL-Jc9J83PIiET0dO3hPAsLm-ESJA3PyM2)
 
 ---
 
@@ -223,6 +240,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [Style Stage - A modern CSS showcase styled by community contributions](https://stylestage.dev/)
 - :video_camera: [Tailwind CSS Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=4wGmylafgM4)
 - :video_camera: [Introduction to CSS](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9D0J0Mtp6lIiD_8046k3si)
+- :video_camera: [CSS Core Concepts](https://youtube.com/playlist?list=PL-Jc9J83PIiFscNtk0JI1-5mKOcF-HLYs)
+
 
 ---
 
@@ -427,6 +446,22 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 **[⬆ Back to Index](#content)**
 
+## Frontend Interview Series
+
+- :video_camera: [Frontend Interview Series](https://youtube.com/playlist?list=PL-Jc9J83PIiFXzRwSTSwqL7U2hoMk6K6F)
+
+---
+
+**[⬆ Back to Index](#content)**
+
+## Frontend with HTML CSS JS & Browser APIs
+
+- :video_camera: [Frontend with HTML CSS JS & Browser APIs](https://youtube.com/playlist?list=PL-Jc9J83PIiHU9RkY9sfh3G64-bd0ptvC)
+
+---
+
+**[⬆ Back to Index](#content)**
+
 ## Flutter
 
 - :green_book: [Adding Google Maps to a Flutter app](https://codelabs.developers.google.com/codelabs/google-maps-in-flutter/#0)
@@ -472,6 +507,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :green_book: [Dangit, Git!?!](https://dangitgit.com/en)
 - :bulb: [Using multiple Git accounts with SSH keys](https://gist.github.com/oanhnn/80a89405ab9023894df7)
 - :green_book: [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
+- :video_camera: [Hello Git](https://youtube.com/playlist?list=PL-Jc9J83PIiEW-8x9Js6m5UixBUciYaMV)
 
 ---
 
@@ -502,6 +538,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
 - :video_camera: [Golang for begineers - YouTube playlist](https://www.youtube.com/playlist?list=PLRAV69dS1uWSR89FRQGZ6q9BR2b44Tr9N)
 - :video_camera: [Let's go with golang - YouTube playlist](https://www.youtube.com/playlist?list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa)
+- :video_camera: [Virtual Operating system using golang](https://youtube.com/playlist?list=PL-Jc9J83PIiGhwxgJGiYxGG7zChL1PmAx)
+
 
 ---
 
@@ -604,6 +642,9 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [JavaScript by Example - Level 1 by Hussein Nasser](https://www.youtube.com/playlist?list=PLQnljOFTspQW9tY3eqBrmbY7CqxNrW-g3)
 - :video_camera: [JavaScript by Example - Level 2 by Hussein Nasser](https://www.youtube.com/playlist?list=PLQnljOFTspQWab0g3W6ZaDM6_Buh20EWM)
 - :video_camera: [Namaste JavaScript](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
+- :video_camera: [JavaScript Complete Course](https://youtube.com/playlist?list=PL-Jc9J83PIiGT2wmeqRM6ZcjdsqlFvDMz)
+- :video_camera: [JavaScript Interview Series](https://youtube.com/playlist?list=PL-Jc9J83PIiFU_evuYnTGHVXU_LeZryNP)
+
 
 ---
 
@@ -702,6 +743,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [MySQL Tutorial for Beginners - Programming with Mosh](https://youtu.be/7S_tz1z_5bA)
 - :video_camera: [SQL Tutorial - Full Database Course for Beginners - freeCodeCamp](https://youtu.be/HXV3zeQKqGY)
 - :video_camera: [MySQL Database - Full Course - freeCodeCamp](https://youtu.be/ER8oKX5myE0)
+- :video_camera: [Practical SQL Series](https://youtube.com/playlist?list=PL-Jc9J83PIiFRR58Ezyy2z3gYhPA0lKmt)
 
 ---
 
@@ -717,6 +759,15 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :green_book: [The only NodeJs introduction you’ll ever need](https://codeburst.io/the-only-nodejs-introduction-youll-ever-need-d969a47ef219)
 - :video_camera: [Introduction to Node.js](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH_uZs4vJMIhcinABSTUH2bY)
 - :green_book: [Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/)
+- :video_camera: [Backend Development with express](https://youtube.com/playlist?list=PL-Jc9J83PIiEnK1q9tuVrrORqKBexcE_J)
+
+---
+
+**[⬆ Back to Index](#content)**
+
+## Operating Systems
+
+- :video_camera: [Operating Systems](https://youtube.com/playlist?list=PL-Jc9J83PIiEKfEI9f7afzCutT_3hPQP3)
 
 ---
 
@@ -788,6 +839,9 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :green_book: [React Custom Hooks Tutorial](https://usehooks.com/)
 - :video_camera: [10 react hooks explained](https://youtu.be/TNhaISOUy6Q)
 - :video_camera: [React Hooks](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h)
+- :video_camera: [Complete React Tutorial](https://youtube.com/playlist?list=PL-Jc9J83PIiF999x_PNcRRVdlrhWu0x3h)
+- :video_camera: [React Interview Series](https://youtube.com/playlist?list=PL-Jc9J83PIiG-NMZw2ABU7tPXUGLWVNst)
+
 
 ---
 
@@ -947,6 +1001,14 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :green_book: [Mozilla Accessibility Guide](https://developer.mozilla.org/en-US/docs/Web/Accessibility)
 - :green_book: [Google Developers Guide on Accessibility](https://developers.google.com/web/fundamentals/accessibility)
 - :green_book: [Accessibility Testing Tutorial - A Complete Step By Step Guide](https://www.softwaretestingmaterial.com/accessibility-testing/)
+
+---
+
+**[⬆ Back to Index](#content)**
+
+## Web Development Course
+
+- :video_camera: [Complete Web Development Course](https://youtube.com/playlist?list=PL-Jc9J83PIiEeD3I4VXETPDmzJ3Z1rWb4)
 
 ---
 
