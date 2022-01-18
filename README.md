@@ -223,6 +223,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [Style Stage - A modern CSS showcase styled by community contributions](https://stylestage.dev/)
 - :video_camera: [Tailwind CSS Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=4wGmylafgM4)
 - :video_camera: [Introduction to CSS](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9D0J0Mtp6lIiD_8046k3si)
+- :video_camera: [CSS Units in Emglish](https://nados.io/video/css-units-px-rem-em-vh-vw-absolute-vs-relative-units)
 
 ---
 
