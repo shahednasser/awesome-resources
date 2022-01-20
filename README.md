@@ -1013,6 +1013,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :green_book: [How to contribute to Open Source](https://kentcdodds.com/blog/introducing-how-to-contribute-to-open-source)
 - :bulb: [What open source projects should I contribute](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to)
 - :green_book: [Why Open Source is Important for Students?](https://dev.to/mridulrb/series/11633)
+- :green_book: [What is Open Source?](https://opensource.com/resources/what-open-source)
 
 ### VS Code
 
