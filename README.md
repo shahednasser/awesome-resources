@@ -352,8 +352,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 ## Algorithms
 
 - :bulb: [List of helpful algos](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
-- :books: [Stanford University Algorithms: Design and Analysis, Part 1](https://online.stanford.edu/courses/soe-ycsalgorithms1-algorithms-design-and-analysis-part-1)
-- :books: [Stanford University Algorithms: Design and Analysis, Part 2](https://online.stanford.edu/courses/soe-ycs0001-algorithms-design-and-analysis-part-2)
+- :books: [Stanford University Algorithms: Design and Analysis, Part 1](https://stanford-cs161.github.io/winter2022/lectures/)
+- :books: [Stanford University Algorithms: Design and Analysis, Part 2](https://stanford-cs161.github.io/winter2022/lectures/)
 - :video_camera: [Sorting Algorithms](https://www.youtube.com/playlist?list=PL2_aWCzGMAwKedT2KfDMB9YA5DgASZb3U) - mycodeschool
 
 ---
