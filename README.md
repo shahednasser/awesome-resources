@@ -1064,6 +1064,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 ### Tools
 
 - :wrench: [Tiny helpers](https://tiny-helpers.dev/): A collection of free single-purpose online tools for web developers
+- :wrench: [How To Set Up ESLint & Prettier In VS Code](https://dev.to/rahulshawdev/how-to-set-up-eslint-prettier-in-vs-code-1dc1)
 
 ### Talks and Podcasts
 
