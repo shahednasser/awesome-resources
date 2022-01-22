@@ -408,7 +408,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [This is CS50x](https://cs50.harvard.edu/x/2021) - David J. Malan
 - :books: [IIT Bombay Foundation of Data Structures (CS213.1x)](https://courses.edx.org/courses/course-v1:IITBombayX+CS213.1x+1T2017/course/)
 - :books: [Intro to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513) - Brynn Claypoole, Horatio Thomas
-
+📹 : Video Resource :[Introduction to JAVA Foundation-YouTube Playlist](https://www.youtube.com/playlist?list=PL-Jc9J83PIiFj7YSPl2ulcpwy-mwj1SSk)
 ### Dynamic Programming
 
 - :green_book: [Divide and Conquer DP](https://cp-algorithms.com/dynamic_programming/divide-and-conquer-dp.html)
@@ -509,6 +509,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :green_book: [GitHub Minesweeper](https://profy.dev/project/github-minesweeper/intro-overview): hands-on introduction to working with Git and GitHub in a team
 - :wrench: [Readme.so](https://readme.so/): Easiest way to make good readme for your github repos
 - :video_camera: [Complete Git and Github Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics)
+- 📹 : Video Resource:[The complete and easiest Tutorial of Git](https://www.youtube.com/playlist?list=PL-Jc9J83PIiEW-8x9Js6m5UixBUciYaMV)
 
 ---
 
@@ -523,8 +524,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
 - :video_camera: [Golang for begineers - YouTube playlist](https://www.youtube.com/playlist?list=PLRAV69dS1uWSR89FRQGZ6q9BR2b44Tr9N)
 - :video_camera: [Let's go with golang - YouTube playlist](https://www.youtube.com/playlist?list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa)
-
----
+📹 : Video Resource: [let's create a virtual OS for begineers- YouTube playlist](https://youtu.be/C81eCx1KSYg?list=PL-Jc9J83PIiGhwxgJGiYxGG7zChL1PmAx)
+---📁 : Article:[A Tour to virtual OS-Link](https://docs.google.com/document/d/1mJcJFh0kJG80hl0I9bNnWPNWb-8G5SMwpqKVlSP2fi8/edit?usp=sharing)
 
 **[⬆ Back to Index](#content)**
 
