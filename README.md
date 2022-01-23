@@ -493,6 +493,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :green_book: [Dangit, Git!?!](https://dangitgit.com/en)
 - :bulb: [Using multiple Git accounts with SSH keys](https://gist.github.com/oanhnn/80a89405ab9023894df7)
 - :green_book: [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
+- :video_camera: [Kunal Kushwaha's Complete Git and GitHub tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics)
 
 ---
 
