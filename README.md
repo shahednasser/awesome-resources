@@ -408,7 +408,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [This is CS50x](https://cs50.harvard.edu/x/2021) - David J. Malan
 - :books: [IIT Bombay Foundation of Data Structures (CS213.1x)](https://courses.edx.org/courses/course-v1:IITBombayX+CS213.1x+1T2017/course/)
 - :books: [Intro to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513) - Brynn Claypoole, Horatio Thomas
-📹 : Video Resource :[Introduction to JAVA Foundation-YouTube Playlist](https://www.youtube.com/playlist?list=PL-Jc9J83PIiFj7YSPl2ulcpwy-mwj1SSk)
+
 ### Dynamic Programming
 
 - :green_book: [Divide and Conquer DP](https://cp-algorithms.com/dynamic_programming/divide-and-conquer-dp.html)
@@ -593,7 +593,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [Java Beginner Course - freeCodeCamp](https://youtu.be/7WiJGTPuVeU)
 - :video_camera: [Java Tutorial for Beginners - Programming with Mosh](https://youtu.be/eIrMbAQSU34)
 - :video_camera: [Java + DSA + Interview Preparation Course](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
-
+- :vedio_camera: [Introduction to JAVA Foundation-YouTube Playlist](https://www.youtube.com/playlist?list=PL-Jc9J83PIiFj7YSPl2ulcpwy-mwj1SSk)
 ---
 
 **[⬆ Back to Index](#content)**
