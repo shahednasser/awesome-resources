@@ -493,7 +493,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :green_book: [Dangit, Git!?!](https://dangitgit.com/en)
 - :bulb: [Using multiple Git accounts with SSH keys](https://gist.github.com/oanhnn/80a89405ab9023894df7)
 - :green_book: [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
-
+- :video_camera:[The complete and easiest Tutorial of Git](https://www.youtube.com/playlist?list=PL-Jc9J83PIiEW-8x9Js6m5UixBUciYaMV)
 ---
 
 **[⬆ Back to Index](#content)**
@@ -509,7 +509,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :green_book: [GitHub Minesweeper](https://profy.dev/project/github-minesweeper/intro-overview): hands-on introduction to working with Git and GitHub in a team
 - :wrench: [Readme.so](https://readme.so/): Easiest way to make good readme for your github repos
 - :video_camera: [Complete Git and Github Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics)
-- 📹 : Video Resource:[The complete and easiest Tutorial of Git](https://www.youtube.com/playlist?list=PL-Jc9J83PIiEW-8x9Js6m5UixBUciYaMV)
+
 
 ---
 
@@ -524,8 +524,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
 - :video_camera: [Golang for begineers - YouTube playlist](https://www.youtube.com/playlist?list=PLRAV69dS1uWSR89FRQGZ6q9BR2b44Tr9N)
 - :video_camera: [Let's go with golang - YouTube playlist](https://www.youtube.com/playlist?list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa)
-📹 : Video Resource: [let's create a virtual OS for begineers- YouTube playlist](https://youtu.be/C81eCx1KSYg?list=PL-Jc9J83PIiGhwxgJGiYxGG7zChL1PmAx)
----📁 : Article:[A Tour to virtual OS-Link](https://docs.google.com/document/d/1mJcJFh0kJG80hl0I9bNnWPNWb-8G5SMwpqKVlSP2fi8/edit?usp=sharing)
+- :video_camera: [let's go with golang series - YouTube playlist](https://www.youtube.com/watch?v=C81eCx1KSYg&list=PL-Jc9J83PIiGhwxgJGiYxGG7zChL1PmAx)
+
 
 **[⬆ Back to Index](#content)**
 
