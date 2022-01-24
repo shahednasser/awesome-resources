@@ -606,7 +606,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :green_book: [Learn Modern JavaScript ES6 \| ES7 \| ES8](https://codeloop.org/learn-modern-javascript-es6-es7-es8/)
 - :green_book: [Learn JavaScript through a game](https://dev.to/nitdgplug/learn-javascript-through-a-game-1beh)
 - :bulb: [JavaScript ES2020 - The Features You Should Know](https://catalins.tech/javascript-es2020-the-features-you-should-know)
-- :bulb: [S.O.L.I.D. Principles around You, in JavaScript](https://francescociulla.com/solid-principles-around-you-in-javascript)
+- :bulb: [S.O.L.I.D. Principles around You, in JavaScript](https://dev.to/francescoxx/s-o-l-i-d-principles-around-you-in-javascript-5gao)
 - :bulb: [The 30 days JavaScript Challenge](https://javascript30.com/)
 - :video_camera: [JavaScript: Understanding the Weird Parts](https://www.youtube.com/watch?v=Bv_5Zv5c-Ts&ab_channel=TonyAlicea)
 - :books: [Full Stack Javascript course by The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript)
