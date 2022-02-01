@@ -4,6 +4,8 @@
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/shahednasser)
 
+[!["Awesome Resources - List of resources added by the community for the community! - Product Hunt"](https://api.producthunt.com/widgets/embed-image/v1/review.svg?post_id=329768&theme=light)](https://www.producthunt.com/posts/awesome-resources?utm_source=badge-review&utm_medium=badge&utm_souce=badge-awesome-resources#discussion-body)
+
 ## Contribution
 
 To add a resource or contribute, please check out our contribution guide [here](https://github.com/shahednasser/awesome-resources/blob/master/CONTRIBUTING.md).
