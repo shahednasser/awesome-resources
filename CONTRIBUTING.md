@@ -66,6 +66,8 @@ Also, don't forget to add a shortcut to content index above the new category hea
 - :file_folder: [How to contribute](https://github.com/shahednasser/awesome-resources/blob/master/CONTRIBUTING.md)
 ```
 
+**NOTE: Do not include `|` as a seperator for link titles since that causes errors in the rendering of the README on the website. Contributors are advised to replace it with some other similar seperator.**
+
 You need to add an emoji before the file name that represents what the resource is. Here are the list of emojis we use:
 
 | Emoji        | Description                                      |
