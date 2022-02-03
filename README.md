@@ -178,6 +178,10 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [C Programming for Beginners](https://youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR)
 - :books: [Learn C Org](https://www.learn-c.org)
 
+---
+
+**[⬆ Back to Index](#content)**
+
 ## C++
 
 - :bulb: [CP Algorithms](https://cp-algorithms.com/index.html)
