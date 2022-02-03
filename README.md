@@ -4,6 +4,8 @@
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/shahednasser)
 
+[!["Awesome Resources - List of resources added by the community for the community! - Product Hunt"](https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=329768&theme=light)](https://www.producthunt.com/posts/awesome-resources?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome-resources)
+
 ## Contribution
 
 To add a resource or contribute, please check out our contribution guide [here](https://github.com/shahednasser/awesome-resources/blob/master/CONTRIBUTING.md).
@@ -493,6 +495,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :green_book: [Dangit, Git!?!](https://dangitgit.com/en)
 - :bulb: [Using multiple Git accounts with SSH keys](https://gist.github.com/oanhnn/80a89405ab9023894df7)
 - :green_book: [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
+- :video_camera: [Kunal Kushwaha's Complete Git and GitHub tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics)
 
 ---
 
@@ -605,7 +608,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :green_book: [Learn Modern JavaScript ES6 \| ES7 \| ES8](https://codeloop.org/learn-modern-javascript-es6-es7-es8/)
 - :green_book: [Learn JavaScript through a game](https://dev.to/nitdgplug/learn-javascript-through-a-game-1beh)
 - :bulb: [JavaScript ES2020 - The Features You Should Know](https://catalins.tech/javascript-es2020-the-features-you-should-know)
-- :bulb: [S.O.L.I.D. Principles around You, in JavaScript](https://francescociulla.com/solid-principles-around-you-in-javascript)
+- :bulb: [S.O.L.I.D. Principles around You, in JavaScript](https://dev.to/francescoxx/s-o-l-i-d-principles-around-you-in-javascript-5gao)
 - :bulb: [The 30 days JavaScript Challenge](https://javascript30.com/)
 - :video_camera: [JavaScript: Understanding the Weird Parts](https://www.youtube.com/watch?v=Bv_5Zv5c-Ts&ab_channel=TonyAlicea)
 - :books: [Full Stack Javascript course by The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript)
@@ -625,6 +628,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [JavaScript by Example - Level 1 by Hussein Nasser](https://www.youtube.com/playlist?list=PLQnljOFTspQW9tY3eqBrmbY7CqxNrW-g3)
 - :video_camera: [JavaScript by Example - Level 2 by Hussein Nasser](https://www.youtube.com/playlist?list=PLQnljOFTspQWab0g3W6ZaDM6_Buh20EWM)
 - :video_camera: [Namaste JavaScript](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
+- :books: [20+ Web Projects With Vanilla JavaScript](https://vanillawebprojects.com)
 
 ---
 
@@ -1065,6 +1069,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 - :wrench: [Tiny helpers](https://tiny-helpers.dev/): A collection of free single-purpose online tools for web developers
 - :wrench: [How To Set Up ESLint & Prettier In VS Code](https://dev.to/rahulshawdev/how-to-set-up-eslint-prettier-in-vs-code-1dc1)
+- :wrench: [Ray.so](https://ray.so/): Create beautiful images of your code snippets!
 
 ### Talks and Podcasts
 
