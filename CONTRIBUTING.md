@@ -83,6 +83,8 @@ You need to add an emoji before the file name that represents what the resource 
 
 2. After adding the commit title, click on propose changes and follow the steps to create a pull request.
 
+NOTE: Do not include `|` as a seperator for link titles since that causes errors in the rendering of the README on the website. Contributors are advised to replace it with some other similar seperator.
+
 **That's it! Congratulations on making your contribution!**
 
 ## Contributing to the Website
