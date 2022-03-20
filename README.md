@@ -329,6 +329,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [DevOps for Dummies - by IBM](https://www.ibm.com/downloads/cas/P9NYOK3B)
 - :bulb: [DevOps Roadmap for beginners](https://roadmap.sh/devops)
 - :bulb: [How To Become a DevOps Engineer In Six Months or Less](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737)
+- :video_camera: [Free DevOps Bootcamp from beginner to advanced](https://www.youtube.com/playlist?list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak)
 
 ---
 
