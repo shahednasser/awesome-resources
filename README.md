@@ -244,6 +244,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [CSS Units px, rem, em, vh, vw / Absolute Vs Relative Units](https://nados.io/video/css-units-px-rem-em-vh-vw-absolute-vs-relative-units)
 - :wrench: [Whirl](https://whirl.netlify.app/) : CSS loading animations with minimal effort!
 - :wrench: [CSS Selector Generator](https://github.com/antonmedv/finder)
+- :bulb: [Practice CSS Grid & Flexbox](https://mastery.games)
 
 ---
 
