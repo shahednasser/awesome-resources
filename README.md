@@ -636,6 +636,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [JavaScript by Example - Level 2 by Hussein Nasser](https://www.youtube.com/playlist?list=PLQnljOFTspQWab0g3W6ZaDM6_Buh20EWM)
 - :video_camera: [Namaste JavaScript](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
 - :books: [20+ Web Projects With Vanilla JavaScript](https://vanillawebprojects.com)
+- :bulb: [JavaScript plugins - jQuery & Vanilla](http://www.unheap.com)
 
 ---
 
