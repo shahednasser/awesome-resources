@@ -324,6 +324,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 ## DevOps
 
+- :file_folder: [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 - :file_folder: [Azure DevOps](https://azure.microsoft.com/en-us/overview/devops-tutorial/)
 - :green_book: [Agile vs Devops](https://enterprisersproject.com/article/2019/1/agile-vs-devops-whats-difference)
 - :books: [Become a DevOps Engineer - Linkedin Learning](https://www.linkedin.com/learning/paths/become-a-devops-engineer?u=57692769)
@@ -638,6 +639,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [JavaScript by Example - Level 2 by Hussein Nasser](https://www.youtube.com/playlist?list=PLQnljOFTspQWab0g3W6ZaDM6_Buh20EWM)
 - :video_camera: [Namaste JavaScript](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
 - :books: [20+ Web Projects With Vanilla JavaScript](https://vanillawebprojects.com)
+- :bulb: [JavaScript plugins - jQuery & Vanilla](http://www.unheap.com)
 
 ---
 
