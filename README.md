@@ -572,6 +572,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [HTML tutorial for beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ibZ2TSBaGGNrgh4ZgYE6Cc)
 - :green_book: [Build your first HTML Project](https://www.freecodecamp.org/news/html-css-tutorial-build-a-recipe-website/)
 - :video_camera: [Introduction to HTML](https://www.youtube.com/playlist?list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw)
+- :video_camera: [Learn HTML! with 100Devs](https://www.youtube.com/watch?v=eCRbEILXXmE)
 
 ---
 
@@ -638,6 +639,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [Namaste JavaScript](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
 - :books: [20+ Web Projects With Vanilla JavaScript](https://vanillawebprojects.com)
 - :bulb: [JavaScript plugins - jQuery & Vanilla](http://www.unheap.com)
+- :video_camera: [Learn Javascript with 100Devs](https://www.youtube.com/watch?v=_A20kVsaqIk)
 
 ---
 
