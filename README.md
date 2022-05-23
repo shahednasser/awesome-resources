@@ -638,12 +638,13 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [Namaste JavaScript](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
 - :books: [20+ Web Projects With Vanilla JavaScript](https://vanillawebprojects.com)
 - :bulb: [JavaScript plugins - jQuery & Vanilla](http://www.unheap.com)
+- :video_camera [Scrimba-Learn JavaScript for Free] (https://scrimba.com/learn/learnjavascript)
 
 ---
 
 **[⬆ Back to Index](#content)**
 
-## Kubernetes
+## Kubernete
 
 - :green_book: [Understanding Kubernetes: Developer's Guide](https://blog.thewiz.net/understanding-kubernetes-developers-guide)
 - :books: [Kubernetes Hands On & Training](https://www.katacoda.com/courses/kubernetes)
