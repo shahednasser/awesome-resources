@@ -874,6 +874,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :wrench: [Zurb - Library to Create Transitions & Animations](https://zurb.com/playground/motion-ui)
 - :wrench: [Vanilla Framework](https://vanillaframework.io/)
 - :wrench: [Susy - Grid Layout Engine](https://www.oddbird.net/susy/)
+- :video_camera: [SASS Tutorial (Build Your Own CSS Library)](https://youtube.com/playlist?list=PL4cUxeGkcC9jxJX7vojNVK-o8ubDZEcNb)
 
 ---
 
