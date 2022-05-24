@@ -831,7 +831,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :green_book: [React Custom Hooks Tutorial](https://usehooks.com/)
 - :video_camera: [10 react hooks explained](https://youtu.be/TNhaISOUy6Q)
 - :video_camera: [React Hooks](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h)
-
+- :video_camera: [(Free Code Camp) React Course - Beginner's Tutorial for React JavaScript Library [2022]](https://youtu.be/bMknfKXIFA8)
 ---
 
 **[⬆ Back to Index](#content)**
