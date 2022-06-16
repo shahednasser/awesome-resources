@@ -255,6 +255,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [C# From a Java Developer's Perspective](http://www.25hoursaday.com/CsharpVsJava.html)
 - :file_folder: [C# Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/)
 - :books: [The C# Yellow Book](https://www.robmiles.com/c-yellow-book/)
+- :books: [Free C# online courses](https://skillcombo.com/topic/c-sharp/)
 
 ---
 
