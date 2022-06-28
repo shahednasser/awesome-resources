@@ -234,6 +234,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :wrench: [CSS Box-Shadow Generator](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Backgrounds_and_Borders/Box-shadow_generator)
 - :wrench: [CSS Gradient Generator](https://cssgradient.io/)
 - :wrench: [CSS Animated Gradient Background Generator](https://animated-gradient-background-generator.netlify.app/)
+- :wrench: [Online CSS3 Code Generator - EnjoyCSS](https://enjoycss.com/) : A gallery with ready made solutions from text effects to art and templates.
+- :wrench: [CSS Section Separator Generator](https://wweb.dev/resources/css-separator-generator/)
 - :bulb: [CSS Grid - A simple visual cheatsheet by Malven](https://grid.malven.co/)
 - :bulb: [CSS Flex - A simple visual cheatsheet by Malven](https://flexbox.malven.co/)
 - :bulb: [CSSBattle](https://cssbattle.dev/)
@@ -486,6 +488,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :file_folder: [Pro Git Book](https://git-scm.com/book/en/v2/)
 - :books: [Udacity's Git Commit Style Guide](https://udacity.github.io/git-styleguide/)
 - :bulb: [Learn Git Branching](https://learngitbranching.js.org/): A beautiful visual guide to learn simple and advanced Git.
+- :bulb: [Git Explorer](https://gitexplorer.com/)
+- :bulb: [NPD Software :: Git Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html#loc=index;)
 - :bulb: [Git notes for Professionals Book](https://goalkicker.com/GitBook/)
 - :books: [Introduction to Git and Github ebook - Bobby Iliev(Markdown, PDF)](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook)
 - :books: [Introduction to Git and Github - Launch School](https://launchschool.com/books/git)
@@ -572,6 +576,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [HTML tutorial for beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ibZ2TSBaGGNrgh4ZgYE6Cc)
 - :green_book: [Build your first HTML Project](https://www.freecodecamp.org/news/html-css-tutorial-build-a-recipe-website/)
 - :video_camera: [Introduction to HTML](https://www.youtube.com/playlist?list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw)
+- :video_camera: [Learn HTML! with 100Devs](https://www.youtube.com/watch?v=eCRbEILXXmE)
 
 ---
 
@@ -639,6 +644,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [20+ Web Projects With Vanilla JavaScript](https://vanillawebprojects.com)
 - :bulb: [JavaScript plugins - jQuery & Vanilla](http://www.unheap.com)
 - :books: [Modern JavaScript Explained For Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70)
+- :books: [TheJSWay Book](https://github.com/thejsway/thejsway)
+- :video_camera: [Learn Javascript with 100Devs](https://www.youtube.com/watch?v=_A20kVsaqIk)
 
 ---
 
