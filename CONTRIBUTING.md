@@ -72,7 +72,7 @@ You need to add an emoji before the file name that represents what the resource 
 
 | Emoji        | Description                                      | Emoji Key       |
 |--------------|--------------------------------------------------|-----------------|
-|:books:       |Course, long series or list of tutorials, or books|":books:"        |
+|:books:       |Course, long series or list of tutorials, or books|':books:'        |
 |:file_folder: |Documentation                                     |":file_folder:"  |
 |:speaker:     |Podcast                                           |":speaker:"      |
 |:green_book:  |Single Tutorial                                   |":green_book:"   |
