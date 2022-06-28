@@ -1092,6 +1092,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :wrench: [How To Set Up ESLint & Prettier In VS Code](https://dev.to/rahulshawdev/how-to-set-up-eslint-prettier-in-vs-code-1dc1)
 - :wrench: [Ray.so](https://ray.so/): Create beautiful images of your code snippets!
 - :wrench: [Squircley](https://squircley.app/): Start creating beautiful organic shapes ready to use for logos, icons and background images
+- :wrench: [BrandBird](https://www.brandbird.app/): An image editor for busy SaaS founders, who build in public!
 
 ### Talks and Podcasts
 
