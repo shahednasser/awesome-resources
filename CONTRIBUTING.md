@@ -73,12 +73,12 @@ You need to add an emoji before the file name that represents what the resource 
 | Emoji        | Description                                      | Emoji Key       |
 |--------------|--------------------------------------------------|-----------------|
 |:books:       |Course, long series or list of tutorials, or books|`:books:`        |
-|:file_folder: |Documentation                                     |":file_folder:"  |
-|:speaker:     |Podcast                                           |":speaker:"      |
-|:green_book:  |Single Tutorial                                   |":green_book:"   |
-|:wrench:      |Tool                                              |":wrench:"       |
-|:video_camera:|Video Resource (Youtube, video course, etc...)    |":video_camera:" |
-|:bulb:        |Other (Doesn't belong to any previous categories) |":bulb:"         |
+|:file_folder: |Documentation                                     |`:file_folder:`  |
+|:speaker:     |Podcast                                           |`:speaker:`      |
+|:green_book:  |Single Tutorial                                   |`:green_book:`   |
+|:wrench:      |Tool                                              |`:wrench:`       |
+|:video_camera:|Video Resource (Youtube, video course, etc...)    |`:video_camera:` |
+|:bulb:        |Other (Doesn't belong to any previous categories) |`:bulb:`         |
 
 
 1. Once you're done, scroll to the bottom of the list to commit the change. Make sure the title of the commit is relevant. For example: Added How to Contribute under New Category.
