@@ -412,7 +412,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [DSA + C++ Interview Preparation Course](https://www.youtube.com/watch?v=z9bZufPHFLU&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ)
 - :video_camera: [Data Structures](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
 - :green_book: [Minimum Stack / Minimum Queue](https://cp-algorithms.com/data_structures/stack_queue_modification.html)
-- :page_facing_up: [Data Structures Tutorial | Scalar](https://www.scaler.com/topics/data-structures/)
+- :books: [Data Structures Tutorial | Scalar](https://www.scaler.com/topics/data-structures/)
 - :books: [Princeton University Algorithms, Part 1](https://www.coursera.org/learn/algorithms-part1)
 - :books: [Princeton University Algorithms, Part 2](https://www.coursera.org/learn/algorithms-part2)
 - :books: [Sparse Table](https://cp-algorithms.com/data_structures/sparse-table.html)
