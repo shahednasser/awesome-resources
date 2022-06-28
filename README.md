@@ -234,6 +234,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :wrench: [CSS Box-Shadow Generator](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Backgrounds_and_Borders/Box-shadow_generator)
 - :wrench: [CSS Gradient Generator](https://cssgradient.io/)
 - :wrench: [CSS Animated Gradient Background Generator](https://animated-gradient-background-generator.netlify.app/)
+- :wrench: [Online CSS3 Code Generator - EnjoyCSS](https://enjoycss.com/) : A gallery with ready made solutions from text effects to art and templates.
+- :wrench: [CSS Section Separator Generator](https://wweb.dev/resources/css-separator-generator/)
 - :bulb: [CSS Grid - A simple visual cheatsheet by Malven](https://grid.malven.co/)
 - :bulb: [CSS Flex - A simple visual cheatsheet by Malven](https://flexbox.malven.co/)
 - :bulb: [CSSBattle](https://cssbattle.dev/)
@@ -486,6 +488,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :file_folder: [Pro Git Book](https://git-scm.com/book/en/v2/)
 - :books: [Udacity's Git Commit Style Guide](https://udacity.github.io/git-styleguide/)
 - :bulb: [Learn Git Branching](https://learngitbranching.js.org/): A beautiful visual guide to learn simple and advanced Git.
+- :bulb: [Git Explorer](https://gitexplorer.com/)
+- :bulb: [NPD Software :: Git Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html#loc=index;)
 - :bulb: [Git notes for Professionals Book](https://goalkicker.com/GitBook/)
 - :books: [Introduction to Git and Github ebook - Bobby Iliev(Markdown, PDF)](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook)
 - :books: [Introduction to Git and Github - Launch School](https://launchschool.com/books/git)
