@@ -177,6 +177,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [C Full Course](https://www.youtube.com/watch?v=87SH2Cn0s9A&t=3s)
 - :video_camera: [C Programming for Beginners](https://youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR)
 - :books: [Learn C Org](https://www.learn-c.org)
+- :bulb: [C Cheatsheet](https://www.codewithharry.com/blogpost/c-cheatsheet)
 
 ---
 
@@ -194,6 +195,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :file_folder: [C++ API Reference](https://www.cplusplus.com/reference/)
 - :video_camera: [C++ Standard Template Library in Practice](https://www.udemy.com/course/c-standard-template-library-in-practice/learn/)
 - :video_camera: [C++ Standard Template Library for Competative programming](https://www.youtube.com/watch?v=RRVYpIET_RU)
+- :bulb: [C++ Cheatsheet](https://www.codewithharry.com/blogpost/cpp-cheatsheet)
 
 ---
 
@@ -319,6 +321,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :file_folder: [Django Documentation](https://docs.djangoproject.com/)
 - :green_book: [Deploy Django Application on Heroku](https://www.codementor.io/@jamesezechukwu/how-to-deploy-django-app-on-heroku-dtsee04d4)
 - :video_camera: [Everything about using Celery with Django](https://youtube.com/playlist?list=PLLz6Bi1mIXhHKA1Szy2aj9Jbs6nw9fhNY)
+- :bulb: [Django Cheatsheet](https://www.codewithharry.com/blogpost/django-cheatsheet)
 
 ---
 
@@ -611,6 +614,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [Java Beginner Course - freeCodeCamp](https://youtu.be/7WiJGTPuVeU)
 - :video_camera: [Java Tutorial for Beginners - Programming with Mosh](https://youtu.be/eIrMbAQSU34)
 - :video_camera: [Java + DSA + Interview Preparation Course](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
+- :bulb: [Java Cheatsheet](https://www.codewithharry.com/blogpost/java-cheatsheet)
 
 ---
 
@@ -747,6 +751,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [MySQL Tutorial for Beginners - Programming with Mosh](https://youtu.be/7S_tz1z_5bA)
 - :video_camera: [SQL Tutorial - Full Database Course for Beginners - freeCodeCamp](https://youtu.be/HXV3zeQKqGY)
 - :video_camera: [MySQL Database - Full Course - freeCodeCamp](https://youtu.be/ER8oKX5myE0)
+- :bulb: [MySQL Cheatsheet](https://www.codewithharry.com/blogpost/mysql-cheatsheet)
 
 ---
 
@@ -819,6 +824,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [30SecondsOfCode Python Snippets](https://www.30secondsofcode.org/python/p/1)
 - :green_book: [Selenium with Python Tutorial](https://www.javatpoint.com/selenium-python#Selenium-with-python)
 - :video_camera: [Python Flask Tutorial](https://youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX)
+- :bulb: [Python Cheatsheet](https://www.codewithharry.com/blogpost/python-cheatsheet)
 
 ---
 
