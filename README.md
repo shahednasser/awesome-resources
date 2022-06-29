@@ -770,6 +770,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 ## Operating Systems
 
 - :video_camera: [Operating Systems](https://youtube.com/playlist?list=PL-Jc9J83PIiEKfEI9f7afzCutT_3hPQP3)
+- :books: [Operating System Tutorial](https://www.scaler.com/topics/operating-system/)
 
 ---
 
