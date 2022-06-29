@@ -193,6 +193,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [C++ Tutorial](https://www.youtube.com/watch?v=DamuE8TM3xo&list=PLGLfVvz_LVvQ9S8YSV0iDsuEU8v11yP9M)
 - :file_folder: [C++ API Reference](https://www.cplusplus.com/reference/)
 - :video_camera: [C++ Standard Template Library in Practice](https://www.udemy.com/course/c-standard-template-library-in-practice/learn/)
+- :video_camera: [C++ Standard Template Library for Competative programming](https://www.youtube.com/watch?v=RRVYpIET_RU)
 
 ---
 
