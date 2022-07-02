@@ -1,0 +1,33 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: default
+---
+
+
+{% capture readme %}{% include_relative README.md %}{% endcapture %}
+
+
+{{ readme| markdownify  | split: "Emojis" | first }}
+
+
+<p>Throughout this list you’ll see next to each resource and emoji. Here’s what each mean:</p>
+
+<p><img class="emoji" title=":books:" alt=":books:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png" height="20" width="20"> : Course, long series or list of tutorials, or books</p>
+
+<p><img class="emoji" title=":file_folder:" alt=":file_folder:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c1.png" height="20" width="20"> : Documentation</p>
+
+<p><img class="emoji" title=":speaker:" alt=":speaker:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f508.png" height="20" width="20"> : Podcast</p>
+
+<p><img class="emoji" title=":green_book:" alt=":green_book:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d7.png" height="20" width="20"> : Single Tutorial</p>
+
+<p><img class="emoji" title=":wrench:" alt=":wrench:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f527.png" height="20" width="20"> : Tool</p>
+
+<p><img class="emoji" title=":video_camera:" alt=":video_camera:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f9.png" height="20" width="20"> : Video Resource (Youtube, video course, etc…)</p>
+
+<p><img class="emoji" title=":bulb:" alt=":bulb:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a1.png" height="20" width="20"> : Other</p>
+
+<h2>Content</h2>
+
+{{ readme| markdownify  | split: "Content" | last }}
