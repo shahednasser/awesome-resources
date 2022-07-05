@@ -707,6 +707,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [Linux kernel and its insides](https://0xax.gitbooks.io/linux-insides/content/)
 - :bulb: [Interactive map of Linux Kernel](https://makelinux.github.io/kernel/map/)
 - :books: [Linux Device Drivers, Third Edition](https://lwn.net/Kernel/LDD3/)
+- :bulb: [Linux Commands Cheat Sheet](https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet/)
 
 ---
 
@@ -1050,7 +1051,6 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [Programming Cheat Sheets](https://cheatography.com/)
 - :bulb: [Python Cheatsheet](https://www.pythoncheatsheet.org/)
 - :bulb: [Devhints - TL;DR for developer documentation](https://devhints.io/)
-- :bulb: [Linux Commands Cheat Sheet](https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet/)
 - :bulb: [Codehouse - Cheatsheet Collection](https://codehouse.vercel.app/app)
 - :bulb: [CSS Cheat Sheet](https://www.hostinger.com/tutorials/css-cheat-sheet)
 
