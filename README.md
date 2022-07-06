@@ -329,11 +329,12 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 ## DevOps
 
+- :bulb: [Best tools for DevOps](https://kush01.hashnode.dev/best-tools-for-devops)
 - :file_folder: [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 - :file_folder: [Azure DevOps](https://azure.microsoft.com/en-us/overview/devops-tutorial/)
 - :green_book: [Agile vs Devops](https://enterprisersproject.com/article/2019/1/agile-vs-devops-whats-difference)
 - :books: [Become a DevOps Engineer - Linkedin Learning](https://www.linkedin.com/learning/paths/become-a-devops-engineer?u=57692769)
-- :bulb: [Dev Op Terms](https://enterprisersproject.com/article/2019/8/devops-terms-10-essential-concepts)
+- :bulb: [10 Essential DevOps terms to know as a beginner](https://enterprisersproject.com/article/2019/8/devops-terms-10-essential-concepts)
 - :books: [DevOps for Dummies - by IBM](https://www.ibm.com/downloads/cas/P9NYOK3B)
 - :bulb: [DevOps Roadmap for beginners](https://roadmap.sh/devops)
 - :bulb: [How To Become a DevOps Engineer In Six Months or Less](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737)
