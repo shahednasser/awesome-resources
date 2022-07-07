@@ -249,6 +249,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [CSS Units px, rem, em, vh, vw / Absolute Vs Relative Units](https://nados.io/video/css-units-px-rem-em-vh-vw-absolute-vs-relative-units)
 - :wrench: [Whirl](https://whirl.netlify.app/) : CSS loading animations with minimal effort!
 - :wrench: [CSS Selector Generator](https://github.com/antonmedv/finder)
+- :bulb: [CSS Cheat Sheet](https://www.hostinger.com/tutorials/css-cheat-sheet)
 
 ---
 
@@ -828,7 +829,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :green_book: [Selenium with Python Tutorial](https://www.javatpoint.com/selenium-python#Selenium-with-python)
 - :video_camera: [Python Flask Tutorial](https://youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX)
 - :bulb: [Python Cheatsheet](https://www.codewithharry.com/blogpost/python-cheatsheet)
-
+- :bulb: [Python Cheatsheet](https://www.pythoncheatsheet.org/)
 ---
 
 **[⬆ Back to Index](#content)**
@@ -1049,10 +1050,10 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [Cheatsheet Collection](https://devhints.io)
 - :bulb: [Cheat Sheets](http://www.cheat-sheets.org/)
 - :bulb: [Programming Cheat Sheets](https://cheatography.com/)
-- :bulb: [Python Cheatsheet](https://www.pythoncheatsheet.org/)
+
 - :bulb: [Devhints - TL;DR for developer documentation](https://devhints.io/)
 - :bulb: [Codehouse - Cheatsheet Collection](https://codehouse.vercel.app/app)
-- :bulb: [CSS Cheat Sheet](https://www.hostinger.com/tutorials/css-cheat-sheet)
+
 
 ### Design
 
