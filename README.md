@@ -1055,10 +1055,9 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 ### Cheat Sheets
 
 - :bulb: [Emmet](https://docs.emmet.io/cheat-sheet/)
-- :bulb: [Cheatsheet Collection](https://devhints.io)
+- :bulb: [Cheatsheet Collection - DevHints](https://devhints.io)
 - :bulb: [Cheat Sheets](http://www.cheat-sheets.org/)
 - :bulb: [Programming Cheat Sheets](https://cheatography.com/)
-- :bulb: [Devhints - TL;DR for developer documentation](https://devhints.io/)
 - :bulb: [Codehouse - Cheatsheet Collection](https://codehouse.vercel.app/app)
 
 
