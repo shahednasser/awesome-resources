@@ -74,7 +74,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - [Linux](#linux)
 - [Machine Learning](#machine-learning)
 - [Magento](#magento)
-- [Markdown] (#Markdown)
+- [Markdown](#markdown)
 - [MySQL](#mysql)
 - [NodeJS](#nodejs)
 - [Operating Systems](#operating-systems)
