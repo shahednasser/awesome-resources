@@ -74,6 +74,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - [Linux](#linux)
 - [Machine Learning](#machine-learning)
 - [Magento](#magento)
+- [Markdown] (#Markdown)
 - [MySQL](#mysql)
 - [NodeJS](#nodejs)
 - [Operating Systems](#operating-systems)
@@ -747,6 +748,15 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 **[⬆ Back to Index](#content)**
 
+## Markdown
+
+- :bulb: [List of Badges, in Markdown](https://github.com/Naereen/badges)
+- :bulb: [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
+
+---
+
+**[⬆ Back to Index](#content)**
+
 ## MySQL
 
 - :books: [MySQL Tutorial](https://www.mysqltutorial.org)
@@ -1044,9 +1054,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 ### Cheat Sheets
 
-- :bulb: [Markdown](https://www.markdownguide.org/cheat-sheet/)
 - :bulb: [Emmet](https://docs.emmet.io/cheat-sheet/)
-- :bulb: [List of Badges, in Markdown](https://github.com/Naereen/badges)
 - :bulb: [Cheatsheet Collection](https://devhints.io)
 - :bulb: [Cheat Sheets](http://www.cheat-sheets.org/)
 - :bulb: [Programming Cheat Sheets](https://cheatography.com/)
