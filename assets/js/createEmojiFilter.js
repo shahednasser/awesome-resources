@@ -67,6 +67,14 @@ function main() {
         });
       }
       // HANDLE HIDING AND SHOWING OF THE CONTENT
+      // hide/unhide the content overview
+      const contentOverview = document.getElementById("content");
+      if (activeFilter === "") {
+        contentOverview.style.display = "block";
+      } else {
+        contentOverview.style.display = "none";
+      }
+      
       // get all li elements
 
       const liList = document.getElementsByTagName("li");
