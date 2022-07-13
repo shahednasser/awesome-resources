@@ -43,6 +43,7 @@ function main() {
       // then remove the activeFilter
       if (activeFilter === src) {
         activeFilter = "";
+        console.log('active filter removed');
       }
       // else set the activeFilter to the src of the clicked emoji
       else {
@@ -78,7 +79,7 @@ function main() {
           const img = childList[0];
           // if the src of the img.emoji is equal to the activeFilter
           // then show the li element
-          if (img.src === activeFilter) {
+          if (img.src === activeFilter || activeFilter === "") {
             li.style.display = "block";
           }
           // else hide the li element
