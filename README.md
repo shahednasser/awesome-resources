@@ -74,6 +74,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - [Linux](#linux)
 - [Machine Learning](#machine-learning)
 - [Magento](#magento)
+- [Markdown](#markdown)
 - [MySQL](#mysql)
 - [NodeJS](#nodejs)
 - [Operating Systems](#operating-systems)
@@ -249,6 +250,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [CSS Units px, rem, em, vh, vw / Absolute Vs Relative Units](https://nados.io/video/css-units-px-rem-em-vh-vw-absolute-vs-relative-units)
 - :wrench: [Whirl](https://whirl.netlify.app/) : CSS loading animations with minimal effort!
 - :wrench: [CSS Selector Generator](https://github.com/antonmedv/finder)
+- :bulb: [CSS Cheat Sheet](https://www.hostinger.com/tutorials/css-cheat-sheet)
 
 ---
 
@@ -708,6 +710,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [Linux kernel and its insides](https://0xax.gitbooks.io/linux-insides/content/)
 - :bulb: [Interactive map of Linux Kernel](https://makelinux.github.io/kernel/map/)
 - :books: [Linux Device Drivers, Third Edition](https://lwn.net/Kernel/LDD3/)
+- :bulb: [Linux Commands Cheat Sheet](https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet/)
 
 ---
 
@@ -741,6 +744,15 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :wrench: [Fast Virtual Machine for Magento2](https://github.com/zepgram/magento2-fast-vm/)
 - :wrench: [Docker Configuration for Magento2](https://github.com/markshust/docker-magento)
 - :books: [Become Magento 2 Developer with Mage Mastery (online courses and workshops)](https://magemastery.net/)
+
+---
+
+**[⬆ Back to Index](#content)**
+
+## Markdown
+
+- :bulb: [List of Badges, in Markdown](https://github.com/Naereen/badges)
+- :bulb: [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
 
 ---
 
@@ -828,6 +840,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :green_book: [Selenium with Python Tutorial](https://www.javatpoint.com/selenium-python#Selenium-with-python)
 - :video_camera: [Python Flask Tutorial](https://youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX)
 - :bulb: [Python Cheatsheet](https://www.codewithharry.com/blogpost/python-cheatsheet)
+- :bulb: [Python Cheatsheet](https://www.pythoncheatsheet.org/)
 
 ---
 
@@ -1043,17 +1056,11 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 ### Cheat Sheets
 
-- :bulb: [Markdown](https://www.markdownguide.org/cheat-sheet/)
-- :bulb: [Emmet](https://docs.emmet.io/cheat-sheet/)
-- :bulb: [List of Badges, in Markdown](https://github.com/Naereen/badges)
-- :bulb: [Cheatsheet Collection](https://devhints.io)
+- :bulb: [Cheatsheet Collection - DevHints](https://devhints.io)
 - :bulb: [Cheat Sheets](http://www.cheat-sheets.org/)
 - :bulb: [Programming Cheat Sheets](https://cheatography.com/)
-- :bulb: [Python Cheatsheet](https://www.pythoncheatsheet.org/)
-- :bulb: [Devhints - TL;DR for developer documentation](https://devhints.io/)
-- :bulb: [Linux Commands Cheat Sheet](https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet/)
 - :bulb: [Codehouse - Cheatsheet Collection](https://codehouse.vercel.app/app)
-- :bulb: [CSS Cheat Sheet](https://www.hostinger.com/tutorials/css-cheat-sheet)
+- :bulb: [Emmet](https://docs.emmet.io/cheat-sheet/)
 
 ### Design
 
