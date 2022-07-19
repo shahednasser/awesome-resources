@@ -333,13 +333,14 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :file_folder: [Azure DevOps](https://azure.microsoft.com/en-us/overview/devops-tutorial/)
 - :green_book: [Agile vs Devops](https://enterprisersproject.com/article/2019/1/agile-vs-devops-whats-difference)
 - :books: [Become a DevOps Engineer - Linkedin Learning](https://www.linkedin.com/learning/paths/become-a-devops-engineer?u=57692769)
-- :bulb: [Dev Op Terms](https://enterprisersproject.com/article/2019/8/devops-terms-10-essential-concepts)
+- :bulb: [DevOps terms: 10 essential concepts, explained](https://enterprisersproject.com/article/2019/8/devops-terms-10-essential-concepts)
 - :books: [DevOps for Dummies - by IBM](https://www.ibm.com/downloads/cas/P9NYOK3B)
 - :bulb: [DevOps Roadmap for beginners](https://roadmap.sh/devops)
 - :bulb: [How To Become a DevOps Engineer In Six Months or Less](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737)
 - :video_camera: [Free DevOps Bootcamp from beginner to advanced](https://www.youtube.com/playlist?list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak)
 - :bulb: [How to Become a DevOps Engineer in Six Months - by Spacelift](https://spacelift.io/blog/how-to-become-devops-engineer)
 - :bulb: [9 DevOps Best Practices – What You Should Do and NOT Do - by Spacelift](https://spacelift.io/blog/devops-best-practices)
+- :bulb: [Best tools for DevOps](https://kush01.hashnode.dev/best-tools-for-devops)
 
 ---
 
