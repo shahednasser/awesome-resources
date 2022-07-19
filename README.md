@@ -840,6 +840,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [Python Flask Tutorial](https://youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX)
 - :bulb: [Python Cheatsheet](https://www.codewithharry.com/blogpost/python-cheatsheet)
 - :bulb: [Python Cheatsheet](https://www.pythoncheatsheet.org/)
+
 ---
 
 **[⬆ Back to Index](#content)**
@@ -1058,7 +1059,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [Cheat Sheets](http://www.cheat-sheets.org/)
 - :bulb: [Programming Cheat Sheets](https://cheatography.com/)
 - :bulb: [Codehouse - Cheatsheet Collection](https://codehouse.vercel.app/app)
-
+- :bulb: [Emmet](https://docs.emmet.io/cheat-sheet/)
 
 ### Design
 
@@ -1105,7 +1106,6 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 ### Tools
 
-- :wrench: [Emmet](https://docs.emmet.io/cheat-sheet/)
 - :wrench: [Tiny helpers](https://tiny-helpers.dev/): A collection of free single-purpose online tools for web developers
 - :wrench: [How To Set Up ESLint & Prettier In VS Code](https://dev.to/rahulshawdev/how-to-set-up-eslint-prettier-in-vs-code-1dc1)
 - :wrench: [Ray.so](https://ray.so/): Create beautiful images of your code snippets!
