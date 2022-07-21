@@ -179,6 +179,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [C Programming for Beginners](https://youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR)
 - :books: [Learn C Org](https://www.learn-c.org)
 - :bulb: [C Cheatsheet](https://www.codewithharry.com/blogpost/c-cheatsheet)
+- :file_folder: [C Programming Tutorial](https://www.scaler.com/topics/c/)
 
 ---
 
