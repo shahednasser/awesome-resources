@@ -179,7 +179,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [C Programming for Beginners](https://youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR)
 - :books: [Learn C Org](https://www.learn-c.org)
 - :bulb: [C Cheatsheet](https://www.codewithharry.com/blogpost/c-cheatsheet)
-- :file_folder: [C Programming Tutorial](https://www.scaler.com/topics/c/)
+- :books: [C Tutorial](https://www.scaler.com/topics/c/)
 
 ---
 
@@ -198,6 +198,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [C++ Standard Template Library in Practice](https://www.udemy.com/course/c-standard-template-library-in-practice/learn/)
 - :video_camera: [C++ Standard Template Library for Competative programming](https://www.youtube.com/watch?v=RRVYpIET_RU)
 - :bulb: [C++ Cheatsheet](https://www.codewithharry.com/blogpost/cpp-cheatsheet)
+- :books: [C++ Tutorial](https://www.scaler.com/topics/cpp/)
 
 ---
 
@@ -252,6 +253,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :wrench: [Whirl](https://whirl.netlify.app/) : CSS loading animations with minimal effort!
 - :wrench: [CSS Selector Generator](https://github.com/antonmedv/finder)
 - :bulb: [CSS Cheat Sheet](https://www.hostinger.com/tutorials/css-cheat-sheet)
+- :books: [CSS Tutorial](https://www.scaler.com/topics/css/)
+
 
 ---
 
@@ -589,6 +592,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :green_book: [Build your first HTML Project](https://www.freecodecamp.org/news/html-css-tutorial-build-a-recipe-website/)
 - :video_camera: [Introduction to HTML](https://www.youtube.com/playlist?list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw)
 - :video_camera: [Learn HTML! with 100Devs](https://www.youtube.com/watch?v=eCRbEILXXmE)
+- :books: [HTML Tutorial](https://www.scaler.com/topics/html/)
 
 ---
 
@@ -621,6 +625,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [Java Tutorial for Beginners - Programming with Mosh](https://youtu.be/eIrMbAQSU34)
 - :video_camera: [Java + DSA + Interview Preparation Course](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
 - :bulb: [Java Cheatsheet](https://www.codewithharry.com/blogpost/java-cheatsheet)
+- :books: [Java Tutorial](https://www.scaler.com/topics/java/)
 
 ---
 
@@ -659,6 +664,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [Modern JavaScript Explained For Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70)
 - :books: [TheJSWay Book](https://github.com/thejsway/thejsway)
 - :video_camera: [Learn Javascript with 100Devs](https://www.youtube.com/watch?v=_A20kVsaqIk)
+- :books: [JavaScript Tutorial](https://www.scaler.com/topics/javascript/)
 
 ---
 
@@ -842,6 +848,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [Python Flask Tutorial](https://youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX)
 - :bulb: [Python Cheatsheet](https://www.codewithharry.com/blogpost/python-cheatsheet)
 - :bulb: [Python Cheatsheet](https://www.pythoncheatsheet.org/)
+- :books: [Python Tutorial](https://www.scaler.com/topics/python/)
 
 ---
 
