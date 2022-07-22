@@ -588,7 +588,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :green_book: [Build your first HTML Project](https://www.freecodecamp.org/news/html-css-tutorial-build-a-recipe-website/)
 - :video_camera: [Introduction to HTML](https://www.youtube.com/playlist?list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw)
 - :video_camera: [Learn HTML! with 100Devs](https://www.youtube.com/watch?v=eCRbEILXXmE)
-
+- :bulb: [HTML Cheat Sheet](https://www.interviewbit.com/html-cheat-sheet/)
+- :bulb: [Learn HTML: Interview Questions ](https://www.interviewbit.com/html-interview-questions/)
 ---
 
 **[⬆ Back to Index](#content)**
@@ -620,7 +621,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [Java Tutorial for Beginners - Programming with Mosh](https://youtu.be/eIrMbAQSU34)
 - :video_camera: [Java + DSA + Interview Preparation Course](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
 - :bulb: [Java Cheatsheet](https://www.codewithharry.com/blogpost/java-cheatsheet)
-
+- :books: [Learn Java- Questions and Answers](https://www.interviewbit.com/java-interview-questions/)
 ---
 
 **[⬆ Back to Index](#content)**
