@@ -88,7 +88,7 @@ function main() {
           // if the src of the img.emoji is equal to the activeFilter
           // then show the li element
           if (img.src === activeFilter || activeFilter === "") {
-            li.style.display = "block";
+            li.style.display = "list-item";
           }
           // else hide the li element
           else {

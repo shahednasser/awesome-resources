@@ -10,23 +10,25 @@
 
 To add a resource or contribute, please check out our contribution guide [here](https://github.com/shahednasser/awesome-resources/blob/master/CONTRIBUTING.md).
 
-## Emojis Cheatsheet
+## Emojis Filter and Cheatsheet
+
+(If you're viewing this one the website, try clicking the icon buttons to filter the items in the list based on the category)
 
 Throughout this list you'll see next to each resource and emoji. Here's what each mean:
 
-:books: : Course, long series or list of tutorials, or books
+:books: Course, long series or list of tutorials, or books
 
-:file_folder: : Documentation
+:file_folder: Documentation
 
-:speaker: : Podcast
+:speaker: Podcast
 
-:green_book: : Single Tutorial
+:green_book: Single Tutorial
 
-:wrench: : Tool
+:wrench: Tool
 
-:video_camera: : Video Resource (Youtube, video course, etc...)
+:video_camera: Video Resource (Youtube, video course, etc...)
 
-:bulb: : Other
+:bulb: Other
 
 ## Content
 
