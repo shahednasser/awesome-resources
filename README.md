@@ -253,6 +253,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :wrench: [Whirl](https://whirl.netlify.app/) : CSS loading animations with minimal effort!
 - :wrench: [CSS Selector Generator](https://github.com/antonmedv/finder)
 - :bulb: [CSS Cheat Sheet](https://www.hostinger.com/tutorials/css-cheat-sheet)
+- :wrench: [CSS Multicolor Gradient](https://gradienta.io/)
 
 ---
 
