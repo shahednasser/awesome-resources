@@ -231,6 +231,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 - :bulb: [30SecondsOfCode CSS Snippet](https://www.30secondsofcode.org/css/p/1)
 - :green_book: [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- :green_book: [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - :wrench: [CSS Framework - Bootstrap](https://getbootstrap.com/)
 - :wrench: [CSS Framework - Bulma](https://bulma.io/)
 - :wrench: [CSS Framework - Materialize](https://materializecss.com/)
