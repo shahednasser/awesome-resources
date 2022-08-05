@@ -869,6 +869,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :green_book: [React Custom Hooks Tutorial](https://usehooks.com/)
 - :video_camera: [10 react hooks explained](https://youtu.be/TNhaISOUy6Q)
 - :video_camera: [React Hooks](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h)
+- :video_camera: [React JS Crash Course](https://youtube.com/watch?v=w7ejDZ8SWv8)
 
 ---
 
