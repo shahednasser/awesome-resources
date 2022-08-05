@@ -539,6 +539,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :green_book: [GitHub Minesweeper](https://profy.dev/project/github-minesweeper/intro-overview): hands-on introduction to working with Git and GitHub in a team
 - :wrench: [Readme.so](https://readme.so/): Easiest way to make good readme for your github repos
 - :video_camera: [Complete Git and Github Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics)
+- :green_book: [How to Create Github Profile README](https://www.sitepoint.com/github-profile-readme/)
 
 ---
 
