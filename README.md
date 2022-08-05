@@ -845,6 +845,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [Python Flask Tutorial](https://youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX)
 - :bulb: [Python Cheatsheet](https://www.codewithharry.com/blogpost/python-cheatsheet)
 - :bulb: [Python Cheatsheet](https://www.pythoncheatsheet.org/)
+- :books: [Python From Scratch](https://www.pythontutorial.net/)
 
 ---
 
