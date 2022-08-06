@@ -54,7 +54,6 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - [Express](#express)
 - [Ethical Hacking](#ethical-hacking)
 - [Expo](#expo)
-- [Full Stack Development](#full-stack-development)
 - [Fundamental CP algorithms](#fundamental-cp-algorithms)
   - [Algebra](#algebra)
   - [Combinatorics](#combinatorics)
@@ -400,13 +399,6 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 ## Expo
 
 - :video_camera: [Expo Crash Course by Traversy Media](https://www.youtube.com/watch?v=Hf4MJH0jDb4)
-
----
-
-**[⬆ Back to Index](#content)**
-
-## Full Stack Development
-- :book: [IBM Full Stack Software Developer Specialization](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer)
 
 ---
 
@@ -1042,6 +1034,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 ## Web Development
 
+- :books: [IBM Full Stack Software Developer Specialization](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer)
 - :video_camera: [Frontend Interview Series](https://youtube.com/playlist?list=PL-Jc9J83PIiFXzRwSTSwqL7U2hoMk6K6F)
 - :video_camera: [Frontend Interview Series](https://youtube.com/playlist?list=PL-Jc9J83PIiFXzRwSTSwqL7U2hoMk6K6F)
 - :video_camera: [Frontend with HTML CSS JS & Browser APIs](https://youtube.com/playlist?list=PL-Jc9J83PIiHU9RkY9sfh3G64-bd0ptvC)
