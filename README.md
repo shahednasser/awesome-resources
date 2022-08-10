@@ -591,10 +591,11 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 - :bulb: [HTML Cheat sheet by CodeWithHarry](https://www.codewithharry.com/blogpost/html-cheatsheet)
 - :bulb: [5 HTML Tricks Nobody is Talking About](https://javascript.plainenglish.io/5-html-tricks-nobody-is-talking-about-a0480104fe19)
+- :bulb: [11 Lifesaving HTML/CSS Tricks Every Developer Should Know](https://www.lambdatest.com/blog/html-css-tricks/)
 - :bulb: [HTML CheatSheet](https://htmlcheatsheet.com/)
 - :file_folder: [HTML documentation for beginners](https://html.com/)
-- :video_camera: [HTML tutorial for beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ibZ2TSBaGGNrgh4ZgYE6Cc)
 - :green_book: [Build your first HTML Project](https://www.freecodecamp.org/news/html-css-tutorial-build-a-recipe-website/)
+- :video_camera: [HTML tutorial for beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ibZ2TSBaGGNrgh4ZgYE6Cc)
 - :video_camera: [Introduction to HTML](https://www.youtube.com/playlist?list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw)
 - :video_camera: [Learn HTML! with 100Devs](https://www.youtube.com/watch?v=eCRbEILXXmE)
 - :books: [HTML Tutorial - Learn HTML in Detail](https://www.scaler.com/topics/html/)
