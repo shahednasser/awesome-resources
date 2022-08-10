@@ -1040,6 +1040,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 ## Web Development
 
+- :books: [IBM Full Stack Software Developer Specialization](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer)
 - :video_camera: [Frontend Interview Series](https://youtube.com/playlist?list=PL-Jc9J83PIiFXzRwSTSwqL7U2hoMk6K6F)
 - :video_camera: [Frontend Interview Series](https://youtube.com/playlist?list=PL-Jc9J83PIiFXzRwSTSwqL7U2hoMk6K6F)
 - :video_camera: [Frontend with HTML CSS JS & Browser APIs](https://youtube.com/playlist?list=PL-Jc9J83PIiHU9RkY9sfh3G64-bd0ptvC)
