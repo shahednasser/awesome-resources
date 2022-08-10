@@ -10,23 +10,25 @@
 
 To add a resource or contribute, please check out our contribution guide [here](https://github.com/shahednasser/awesome-resources/blob/master/CONTRIBUTING.md).
 
-## Emojis Cheatsheet
+## Emojis Filter and Cheatsheet
+
+(If you're viewing this one the website, try clicking the icon buttons to filter the items in the list based on the category)
 
 Throughout this list you'll see next to each resource and emoji. Here's what each mean:
 
-:books: : Course, long series or list of tutorials, or books
+:books: Course, long series or list of tutorials, or books
 
-:file_folder: : Documentation
+:file_folder: Documentation
 
-:speaker: : Podcast
+:speaker: Podcast
 
-:green_book: : Single Tutorial
+:green_book: Single Tutorial
 
-:wrench: : Tool
+:wrench: Tool
 
-:video_camera: : Video Resource (Youtube, video course, etc...)
+:video_camera: Video Resource (Youtube, video course, etc...)
 
-:bulb: : Other
+:bulb: Other
 
 ## Content
 
@@ -229,8 +231,10 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 ## CSS
 
+- :books: [CSS Tutorial on W3Schools](https://www.w3schools.com/css/)
 - :bulb: [30SecondsOfCode CSS Snippet](https://www.30secondsofcode.org/css/p/1)
 - :green_book: [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- :green_book: [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - :wrench: [CSS Framework - Bootstrap](https://getbootstrap.com/)
 - :wrench: [CSS Framework - Bulma](https://bulma.io/)
 - :wrench: [CSS Framework - Materialize](https://materializecss.com/)
@@ -254,7 +258,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :wrench: [CSS Selector Generator](https://github.com/antonmedv/finder)
 - :bulb: [CSS Cheat Sheet](https://www.hostinger.com/tutorials/css-cheat-sheet)
 - :books: [CSS Tutorial - Learn CSS in Detail](https://www.scaler.com/topics/css/)
-
+- :wrench: [CSS Multicolor Gradient](https://gradienta.io/)
 
 ---
 
@@ -539,6 +543,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :green_book: [GitHub Minesweeper](https://profy.dev/project/github-minesweeper/intro-overview): hands-on introduction to working with Git and GitHub in a team
 - :wrench: [Readme.so](https://readme.so/): Easiest way to make good readme for your github repos
 - :video_camera: [Complete Git and Github Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics)
+- :green_book: [How to Create Github Profile README](https://www.sitepoint.com/github-profile-readme/)
 
 ---
 
@@ -849,6 +854,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [Python Cheatsheet](https://www.codewithharry.com/blogpost/python-cheatsheet)
 - :bulb: [Python Cheatsheet](https://www.pythoncheatsheet.org/)
 - :books: [Python Tutorial - Learn Python Programming](https://www.scaler.com/topics/python/)
+- :books: [Python From Scratch](https://www.pythontutorial.net/)
 
 ---
 
@@ -873,6 +879,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :green_book: [React Custom Hooks Tutorial](https://usehooks.com/)
 - :video_camera: [10 react hooks explained](https://youtu.be/TNhaISOUy6Q)
 - :video_camera: [React Hooks](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h)
+- :video_camera: [React JS Crash Course](https://youtube.com/watch?v=w7ejDZ8SWv8)
 
 ---
 
@@ -1040,6 +1047,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 ## Web Development
 
+- :books: [IBM Full Stack Software Developer Specialization](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer)
 - :video_camera: [Frontend Interview Series](https://youtube.com/playlist?list=PL-Jc9J83PIiFXzRwSTSwqL7U2hoMk6K6F)
 - :video_camera: [Frontend Interview Series](https://youtube.com/playlist?list=PL-Jc9J83PIiFXzRwSTSwqL7U2hoMk6K6F)
 - :video_camera: [Frontend with HTML CSS JS & Browser APIs](https://youtube.com/playlist?list=PL-Jc9J83PIiHU9RkY9sfh3G64-bd0ptvC)
