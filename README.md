@@ -229,6 +229,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 ## CSS
 
+- :books: [CSS Tutorial on W3Schools](https://www.w3schools.com/css/)
 - :bulb: [30SecondsOfCode CSS Snippet](https://www.30secondsofcode.org/css/p/1)
 - :green_book: [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - :green_book: [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
