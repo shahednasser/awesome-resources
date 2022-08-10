@@ -539,6 +539,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :green_book: [GitHub Minesweeper](https://profy.dev/project/github-minesweeper/intro-overview): hands-on introduction to working with Git and GitHub in a team
 - :wrench: [Readme.so](https://readme.so/): Easiest way to make good readme for your github repos
 - :video_camera: [Complete Git and Github Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics)
+- :green_book: [How to Create Github Profile README](https://www.sitepoint.com/github-profile-readme/)
 
 ---
 
@@ -829,6 +830,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 ## Python
 
+- :books:  [CS50P - CS50's intro to Programing With Python](https://cs50.harvard.edu/python/2022/)
 - :books: [Automate The Boring Stuff With Python](https://automatetheboringstuff.com/2e/chapter0/)
 - :books: [Python Intermediate Tutorial](https://github.com/python-engineer/python-engineer-notebooks/tree/master/advanced-python)
 - :books: [Python Tutorial](https://www.w3schools.com/python/)
@@ -845,6 +847,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [Python Flask Tutorial](https://youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX)
 - :bulb: [Python Cheatsheet](https://www.codewithharry.com/blogpost/python-cheatsheet)
 - :bulb: [Python Cheatsheet](https://www.pythoncheatsheet.org/)
+- :books: [Python From Scratch](https://www.pythontutorial.net/)
 
 ---
 
