@@ -181,6 +181,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [C Programming for Beginners](https://youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR)
 - :books: [Learn C Org](https://www.learn-c.org)
 - :bulb: [C Cheatsheet](https://www.codewithharry.com/blogpost/c-cheatsheet)
+- :books: [C Tutorial - Learn C in Detail](https://www.scaler.com/topics/c/)
 
 ---
 
@@ -199,6 +200,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [C++ Standard Template Library in Practice](https://www.udemy.com/course/c-standard-template-library-in-practice/learn/)
 - :video_camera: [C++ Standard Template Library for Competative programming](https://www.youtube.com/watch?v=RRVYpIET_RU)
 - :bulb: [C++ Cheatsheet](https://www.codewithharry.com/blogpost/cpp-cheatsheet)
+- :books: [C++ Tutorial - Learn CPP in Detail](https://www.scaler.com/topics/cpp/)
 
 ---
 
@@ -255,6 +257,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :wrench: [Whirl](https://whirl.netlify.app/) : CSS loading animations with minimal effort!
 - :wrench: [CSS Selector Generator](https://github.com/antonmedv/finder)
 - :bulb: [CSS Cheat Sheet](https://www.hostinger.com/tutorials/css-cheat-sheet)
+- :books: [CSS Tutorial - Learn CSS in Detail](https://www.scaler.com/topics/css/)
 - :wrench: [CSS Multicolor Gradient](https://gradienta.io/)
 
 ---
@@ -429,7 +432,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [DSA + C++ Interview Preparation Course](https://www.youtube.com/watch?v=z9bZufPHFLU&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ)
 - :video_camera: [Data Structures](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
 - :green_book: [Minimum Stack / Minimum Queue](https://cp-algorithms.com/data_structures/stack_queue_modification.html)
-- :books: [Data Structures Tutorial | Scalar](https://www.scaler.com/topics/data-structures/)
+- :books: [Data Structures Tutorial - Scalar](https://www.scaler.com/topics/data-structures/)
 - :books: [Princeton University Algorithms, Part 1](https://www.coursera.org/learn/algorithms-part1)
 - :books: [Princeton University Algorithms, Part 2](https://www.coursera.org/learn/algorithms-part2)
 - :books: [Sparse Table](https://cp-algorithms.com/data_structures/sparse-table.html)
@@ -594,6 +597,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :green_book: [Build your first HTML Project](https://www.freecodecamp.org/news/html-css-tutorial-build-a-recipe-website/)
 - :video_camera: [Introduction to HTML](https://www.youtube.com/playlist?list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw)
 - :video_camera: [Learn HTML! with 100Devs](https://www.youtube.com/watch?v=eCRbEILXXmE)
+- :books: [HTML Tutorial - Learn HTML in Detail](https://www.scaler.com/topics/html/)
 
 ---
 
@@ -626,6 +630,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [Java Tutorial for Beginners - Programming with Mosh](https://youtu.be/eIrMbAQSU34)
 - :video_camera: [Java + DSA + Interview Preparation Course](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
 - :bulb: [Java Cheatsheet](https://www.codewithharry.com/blogpost/java-cheatsheet)
+- :books: [Java Tutorial - Learn Java Programming in Detail](https://www.scaler.com/topics/java/)
 
 ---
 
@@ -664,6 +669,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [Modern JavaScript Explained For Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70)
 - :books: [TheJSWay Book](https://github.com/thejsway/thejsway)
 - :video_camera: [Learn Javascript with 100Devs](https://www.youtube.com/watch?v=_A20kVsaqIk)
+- :books: [JavaScript Tutorial - Learn JavaScript in Detail](https://www.scaler.com/topics/javascript/)
 
 ---
 
@@ -797,7 +803,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 ## Operating Systems
 
 - :video_camera: [Operating Systems](https://youtube.com/playlist?list=PL-Jc9J83PIiEKfEI9f7afzCutT_3hPQP3)
-- :books: [Operating System Tutorial](https://www.scaler.com/topics/operating-system/)
+- :books: [Operating System Tutorial - Learn Operating System](https://www.scaler.com/topics/operating-system/)
 
 ---
 
@@ -847,6 +853,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [Python Flask Tutorial](https://youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX)
 - :bulb: [Python Cheatsheet](https://www.codewithharry.com/blogpost/python-cheatsheet)
 - :bulb: [Python Cheatsheet](https://www.pythoncheatsheet.org/)
+- :books: [Python Tutorial - Learn Python Programming](https://www.scaler.com/topics/python/)
 - :books: [Python From Scratch](https://www.pythontutorial.net/)
 
 ---
