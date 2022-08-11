@@ -720,6 +720,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 ## Linux
 
 - :video_camera: [Introduction to Linux](https://training.linuxfoundation.org/resources/free-courses/introduction-to-linux/)
+- :books: [KodeKloud - Linux Foundation Certified System Administrator (LFCS)](https://kodekloud.com/courses/linux-foundation-certified-system-administrator-lfcs/)
 - :books: [Linux kernel and its insides](https://0xax.gitbooks.io/linux-insides/content/)
 - :bulb: [Interactive map of Linux Kernel](https://makelinux.github.io/kernel/map/)
 - :books: [Linux Device Drivers, Third Edition](https://lwn.net/Kernel/LDD3/)
