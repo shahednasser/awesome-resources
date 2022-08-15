@@ -158,6 +158,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 ## Blockchain
 
 - :bulb: [KnowEthereum (handpicked ethereum resources)](https://knowethereum.com/)
+- :green_book: [Learn Solidity By Example](https://solidity-by-example.org/)
 
 ---
 
