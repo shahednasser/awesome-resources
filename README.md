@@ -569,6 +569,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [GraphQL tutorial for beginners](https://www.howtographql.com/)
 - :books: [GraphQL Tutorials](https://www.tutorialspoint.com/graphql/index.htm)
 - :video_camera: [Complete App with GraphQl](https://www.youtube.com/playlist?list=PL55RiY5tL51rG1x02Yyj93iypUuHYXcB_)
+- :video_camera: [Learn GraphQL with React](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f)
 
 ---
 
