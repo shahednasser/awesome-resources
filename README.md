@@ -899,6 +899,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :green_book: [VSCode setup for React Native](https://medium.com/react-native-training/vscode-for-react-native-526ec4a368ce)
 - :green_book: [Build E-Commerce App in React Native](https://hackernoon.com/building-an-e-commerce-search-app-with-react-native-2c87760a2315)
 - :green_book: [How to deploy react native apps](https://medium.com/react-native-training/understanding-react-native-deployments-6e54157920b7)
+- :video_camera: [React Native Tutorial For Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ)
 - :books: [Become a React Native Developer - Linkedin Learning](https://www.linkedin.com/learning/paths/become-a-react-native-developer)
 
 ---
