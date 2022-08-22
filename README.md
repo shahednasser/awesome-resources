@@ -885,6 +885,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [10 react hooks explained](https://youtu.be/TNhaISOUy6Q)
 - :video_camera: [React Hooks](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h)
 - :video_camera: [React JS Crash Course](https://youtube.com/watch?v=w7ejDZ8SWv8)
+- :books: [Become a React Developer - Linkedin Learning](https://www.linkedin.com/learning/paths/become-a-react-developer)
 
 ---
 
@@ -897,6 +898,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :green_book: [VSCode setup for React Native](https://medium.com/react-native-training/vscode-for-react-native-526ec4a368ce)
 - :green_book: [Build E-Commerce App in React Native](https://hackernoon.com/building-an-e-commerce-search-app-with-react-native-2c87760a2315)
 - :green_book: [How to deploy react native apps](https://medium.com/react-native-training/understanding-react-native-deployments-6e54157920b7)
+- :books: [Become a React Native Developer - Linkedin Learning](https://www.linkedin.com/learning/paths/become-a-react-native-developer)
 
 ---
 
