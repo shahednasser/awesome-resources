@@ -125,6 +125,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [Android cheat sheet](http://alvinalexander.com/android/android-cheat-sheet-main-concepts/)
 - :bulb: [Android Tips & Tricks](https://github.com/nisrulz/android-tips-tricks)
 - :bulb: [Awesome Android](https://github.com/JStumpp/awesome-android)
+- :video_camera: [Android Jetpack Compose For Beginners](https://www.youtube.com/playlist?list=PLQkwcJG4YTCSpJ2NLhDTHhi6XBNfk9WiC)
 
 ---
 
