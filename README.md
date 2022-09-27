@@ -36,6 +36,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - [Android](#android)
 - [Angular](#angular)
 - [Big Data](#bigdata)
+- [Blackhat Hacking](#blackhat hacking)
 - [Blockchain](#blockchain)
 - [Bots](#bots)
 - [C](#c)
@@ -152,7 +153,64 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [Big Data](https://youtube.com/playlist?list=PL-Jc9J83PIiFFhKLTP1_UDUiNE0xXbJqr)
 
 ---
+**[⬆ Back to Index](#content)**
 
+
+
+## Blackhat Hacking 
+
+- :video_camera: [Pentester](https://drive.google.com/folderview?id=1KKKlL5TzdXDIxrSOz0Gmz3RWGTh_0Xli)
+- :video_camera: [Bug Bounty](https://mega.nz/folder/HD5kFLIb#0GL5H-vCZ97egfYQDgGHOg)
+- :books: [All Ethical Hacking Books Collection](https://mega.nz/folder/SlhihQKb#0ggUkIVF4bZcug2Ms2Wu1g)
+- :video_camera: [Python Ethical Hacking Tools](https://drive.google.com/drive/folders/1aBX4Y0cqQSZJZoPiweGEkvyJ05r3SdJY)
+- :video_camera: [Cybersecurity All Material](https://mega.nz/folder/w8VHhSaY#fsM0AdXn8a3bRljWfJSdVg/folder/Np9x1a4I)
+- :video_camera: [Kali Linux Complete Training](https://drive.google.com/folderview?id=1714TBeP8chDWSIPCcALAuEM5ZNQsLYsn)
+- :video_camera: [Coding For Hacking Material](https://mega.nz/folder/xVBinJoC#IQ0QzdSLL-lb7VVTY7XbSQ)
+
+- :bulb: [Fundamentals Of Hacking](https://breakthesecurity.cysecurity.org/2011/08/hacking-basics-hacking-and-security-tutorials-index.html)
+- :video_camera: [Cracking2022](https://mega.nz/folder/SWBkxYhD#mcpnkv_WZrJZdqsAgbyF6wa)
+- :video_camera: [Darkweb Full Course](https://mega.nz/file/IdVViAiA#zbrtwSQ3DlrZLLoYdZr3rwUjxhKswXlapBfR3gGDKY8)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
 **[⬆ Back to Index](#content)**
 
 ## Blockchain
