@@ -1,0 +1,33 @@
+name: Linkchecker
+on: [push, pull_request]
+
+jobs:
+  check-links:
+    if: github.repository == 'shahednasser/awesome-resources'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Install dependencies
+        run: sudo apt-get install ruby-full build-essential zlib1g-dev
+
+      - name: Set up PATH
+        run: |
+          echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
+          echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
+          echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
+          source ~/.bashrc
+
+      - name: Install Jekyll
+        run: gem install jekyll bundler
+
+      - name: Run the website
+        run: bundle exec jekyll serve
+
+      - name: Install linkchecker
+        run: sudo pip install LinkChecker
+
+      - name: Run linkchecker
+        run: |
+          linkchecker --recursion-level=1 \
+          	--check-extern --no-warnings http://127.0.0.1:4000/awesome-resources/ \
+            --timeout 1000
