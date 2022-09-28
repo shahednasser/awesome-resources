@@ -158,6 +158,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 ## Blockchain
 
 - :bulb: [KnowEthereum (handpicked ethereum resources)](https://knowethereum.com/)
+- :green_book: [Learn Solidity By Example](https://solidity-by-example.org/)
 
 ---
 
@@ -259,6 +260,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [CSS Cheat Sheet](https://www.hostinger.com/tutorials/css-cheat-sheet)
 - :books: [CSS Tutorial - Learn CSS in Detail](https://www.scaler.com/topics/css/)
 - :wrench: [CSS Multicolor Gradient](https://gradienta.io/)
+- :bulb: [CSS Grid Garden](https://cssgridgarden.com/)
 
 ---
 
@@ -321,6 +323,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [Deep Learning Fundamentals](https://www.dataquest.io/course/deep-learning-fundamentals/)
 - :bulb: [Deep learning cheat sheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning)
 - :books: [Natural Language Processing CS224n](http://web.stanford.edu/class/cs224n/)
+- :books: [IBM Deep Learning Course with certification](https://cognitiveclass.ai/courses/introduction-deep-learning) 
 
 ---
 
@@ -568,6 +571,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [GraphQL tutorial for beginners](https://www.howtographql.com/)
 - :books: [GraphQL Tutorials](https://www.tutorialspoint.com/graphql/index.htm)
 - :video_camera: [Complete App with GraphQl](https://www.youtube.com/playlist?list=PL55RiY5tL51rG1x02Yyj93iypUuHYXcB_)
+- :video_camera: [Learn GraphQL with React](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f)
 
 ---
 
@@ -720,6 +724,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 ## Linux
 
 - :video_camera: [Introduction to Linux](https://training.linuxfoundation.org/resources/free-courses/introduction-to-linux/)
+- :books: [KodeKloud - Linux Foundation Certified System Administrator (LFCS)](https://kodekloud.com/courses/linux-foundation-certified-system-administrator-lfcs/)
 - :books: [Linux kernel and its insides](https://0xax.gitbooks.io/linux-insides/content/)
 - :bulb: [Interactive map of Linux Kernel](https://makelinux.github.io/kernel/map/)
 - :books: [Linux Device Drivers, Third Edition](https://lwn.net/Kernel/LDD3/)
@@ -838,8 +843,10 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 ## Python
 
+- :books:  [CS50P - CS50's intro to Programing With Python](https://cs50.harvard.edu/python/2022/)
 - :books: [Automate The Boring Stuff With Python](https://automatetheboringstuff.com/2e/chapter0/)
 - :books: [Python Intermediate Tutorial](https://github.com/python-engineer/python-engineer-notebooks/tree/master/advanced-python)
+- :books: [Python Programming MOOC 2022(University of Helsinki)](https://programming-22.mooc.fi/)
 - :books: [Python Tutorial](https://www.w3schools.com/python/)
 - :video_camera: [Python for Everybody (14 hour course)](https://www.youtube.com/watch?v=8DvywoWv6fI&feature=emb_title)
 - :bulb: [Python Tips and Tricks for Beginners](https://towardsdatascience.com/python-tips-and-tricks-for-beginners-62473d569d0a)
@@ -881,6 +888,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [10 react hooks explained](https://youtu.be/TNhaISOUy6Q)
 - :video_camera: [React Hooks](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h)
 - :video_camera: [React JS Crash Course](https://youtube.com/watch?v=w7ejDZ8SWv8)
+- :books: [Become a React Developer - Linkedin Learning](https://www.linkedin.com/learning/paths/become-a-react-developer)
 
 ---
 
@@ -893,6 +901,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :green_book: [VSCode setup for React Native](https://medium.com/react-native-training/vscode-for-react-native-526ec4a368ce)
 - :green_book: [Build E-Commerce App in React Native](https://hackernoon.com/building-an-e-commerce-search-app-with-react-native-2c87760a2315)
 - :green_book: [How to deploy react native apps](https://medium.com/react-native-training/understanding-react-native-deployments-6e54157920b7)
+- :video_camera: [React Native Tutorial For Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ)
+- :books: [Become a React Native Developer - Linkedin Learning](https://www.linkedin.com/learning/paths/become-a-react-native-developer)
 
 ---
 
@@ -1009,6 +1019,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [Clean Code concepts adapted for TypeScript](https://github.com/labs42io/clean-code-typescript)
 - :video_camera: [TypeScript Course for Beginners 2021 - Learn TypeScript from Scratch!](https://www.youtube.com/watch?v=BwuLxPH8IDs&t=1s)
 - :books: [Learn TypeScript Step by Step Tutorial](https://www.tutorialsteacher.com/typescript)
+- :books: [Learn TypeScript From Scratch](https://www.typescripttutorial.net/)
 
 ---
 
