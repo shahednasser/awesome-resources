@@ -71,6 +71,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - [Ionic](#ionic)
 - [Java](#java)
 - [Javascript](#javascript)
+- [Kubernetes](#kubernetes)
 - [Laravel](#laravel)
 - [LESS](#less)
 - [Linux](#linux)
@@ -685,6 +686,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 - :green_book: [Understanding Kubernetes: Developer's Guide](https://blog.thewiz.net/understanding-kubernetes-developers-guide)
 - :books: [Kubernetes Hands On & Training](https://www.katacoda.com/courses/kubernetes)
+- :books: [100 Days of Kubernetes](https://100daysofkubernetes.io/overview.html)
 
 ---
 
