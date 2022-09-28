@@ -501,6 +501,19 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :green_book: [Write a Flutter desktop application](https://codelabs.developers.google.com/codelabs/flutter-github-graphql-client/#0)
 
 ---
+**[⬆ Back to Index](#content)**
+
+## Free Hosting
+
+- :wrench: [Netlify](https://www.netlify.com/)
+- :wrench: [Heroku](https://www.heroku.com/)
+- :wrench: [Vercel](https://vercel.com/)
+- :wrench: [Github Pages](http://pages.github.com)
+- :wrench: [Gitlab Pages](http://docs.gitlab.com/ee/user/project/pages)
+- :wrench: [Deta](https://www.deta.sh/)
+- :wrench: [InfinityFree](https://infinityfree.net/)
+
+---
 
 **[⬆ Back to Index](#content)**
 
@@ -574,19 +587,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 ---
 
-**[⬆ Back to Index](#content)**
 
-## Free Hosting
-
-- :wrench: [Netlify](https://www.netlify.com/)
-- :wrench: [Heroku](https://www.heroku.com/)
-- :wrench: [Vercel](https://vercel.com/)
-- :wrench: [Github Pages](http://pages.github.com)
-- :wrench: [Gitlab Pages](http://docs.gitlab.com/ee/user/project/pages)
-- :wrench: [Deta](https://www.deta.sh/)
-- :wrench: [InfinityFree](https://infinityfree.net/)
-
----
 
 **[⬆ Back to Index](#content)**
 
