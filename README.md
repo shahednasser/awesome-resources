@@ -1018,6 +1018,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [Typescript Basics - Course](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTanfgsbnFzfWUhhAz3tIezU)
 - :bulb: [Clean Code concepts adapted for TypeScript](https://github.com/labs42io/clean-code-typescript)
 - :video_camera: [TypeScript Course for Beginners 2021 - Learn TypeScript from Scratch!](https://www.youtube.com/watch?v=BwuLxPH8IDs&t=1s)
+- :books: [Learn TypeScript From Scratch](https://www.typescripttutorial.net/)
 
 ---
 
