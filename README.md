@@ -353,7 +353,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [How to Become a DevOps Engineer in Six Months - by Spacelift](https://spacelift.io/blog/how-to-become-devops-engineer)
 - :bulb: [9 DevOps Best Practices – What You Should Do and NOT Do - by Spacelift](https://spacelift.io/blog/devops-best-practices)
 - :bulb: [Best tools for DevOps](https://kush01.hashnode.dev/best-tools-for-devops)
-- :bulb: [DevOps Bootcamp] (https://www.commclassroom.org/devops)
+- :books: [DevOps Bootcamp] (https://www.commclassroom.org/devops)
+
 ---
 
 **[⬆ Back to Index](#content)**
