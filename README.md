@@ -2,6 +2,8 @@
 
 :sunglasses: List of helpful resources added by the community for the community!
 
+> Please read [this discussion](https://github.com/shahednasser/awesome-resources/discussions/433) before contributing to Hacktoberfest.
+
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/shahednasser)
 
 [!["Awesome Resources - List of resources added by the community for the community! - Product Hunt"](https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=329768&theme=light)](https://www.producthunt.com/posts/awesome-resources?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome-resources)
