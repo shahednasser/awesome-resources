@@ -2,6 +2,8 @@
 
 :sunglasses: List of helpful resources added by the community for the community!
 
+> Please read [this discussion](https://github.com/shahednasser/awesome-resources/discussions/433) before contributing to Hacktoberfest.
+
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/shahednasser)
 
 [!["Awesome Resources - List of resources added by the community for the community! - Product Hunt"](https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=329768&theme=light)](https://www.producthunt.com/posts/awesome-resources?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome-resources)
@@ -71,6 +73,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - [Ionic](#ionic)
 - [Java](#java)
 - [Javascript](#javascript)
+- [Kubernetes](#kubernetes)
 - [Laravel](#laravel)
 - [LESS](#less)
 - [Linux](#linux)
@@ -125,6 +128,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [Android cheat sheet](http://alvinalexander.com/android/android-cheat-sheet-main-concepts/)
 - :bulb: [Android Tips & Tricks](https://github.com/nisrulz/android-tips-tricks)
 - :bulb: [Awesome Android](https://github.com/JStumpp/awesome-android)
+- :video_camera: [Android Jetpack Compose For Beginners](https://www.youtube.com/playlist?list=PLQkwcJG4YTCSpJ2NLhDTHhi6XBNfk9WiC)
 
 ---
 
@@ -159,6 +163,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 - :bulb: [KnowEthereum (handpicked ethereum resources)](https://knowethereum.com/)
 - :green_book: [Learn Solidity By Example](https://solidity-by-example.org/)
+- :books: [Crypto Zombie - Build DApps By Building Simple Games](https://cryptozombies.io/)
 
 ---
 
@@ -261,6 +266,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [CSS Tutorial - Learn CSS in Detail](https://www.scaler.com/topics/css/)
 - :wrench: [CSS Multicolor Gradient](https://gradienta.io/)
 - :bulb: [CSS Grid Garden](https://cssgridgarden.com/)
+- :bulb: [CSS Flexbox-Froggy](https://flexboxfroggy.com/) - Learn Flexbox while playing 
 
 ---
 
@@ -323,6 +329,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [Deep Learning Fundamentals](https://www.dataquest.io/course/deep-learning-fundamentals/)
 - :bulb: [Deep learning cheat sheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning)
 - :books: [Natural Language Processing CS224n](http://web.stanford.edu/class/cs224n/)
+- :books: [IBM Deep Learning Course with certification](https://cognitiveclass.ai/courses/introduction-deep-learning) 
 
 ---
 
@@ -334,6 +341,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :green_book: [Deploy Django Application on Heroku](https://www.codementor.io/@jamesezechukwu/how-to-deploy-django-app-on-heroku-dtsee04d4)
 - :video_camera: [Everything about using Celery with Django](https://youtube.com/playlist?list=PLLz6Bi1mIXhHKA1Szy2aj9Jbs6nw9fhNY)
 - :bulb: [Django Cheatsheet](https://www.codewithharry.com/blogpost/django-cheatsheet)
+- :green_book: [Django REST APIs](https://djangostars.com/blog/rest-apis-django-development/)
 
 ---
 
@@ -573,6 +581,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
 - :video_camera: [Golang for begineers - YouTube playlist](https://www.youtube.com/playlist?list=PLRAV69dS1uWSR89FRQGZ6q9BR2b44Tr9N)
 - :video_camera: [Let's go with golang - YouTube playlist](https://www.youtube.com/playlist?list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa)
+- :file_folder: [Effective Go](https://go.dev/doc/effective_go)
 
 ---
 
@@ -684,6 +693,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 - :green_book: [Understanding Kubernetes: Developer's Guide](https://blog.thewiz.net/understanding-kubernetes-developers-guide)
 - :books: [Kubernetes Hands On & Training](https://www.katacoda.com/courses/kubernetes)
+- :books: [100 Days of Kubernetes](https://100daysofkubernetes.io/overview.html)
 
 ---
 
@@ -1018,6 +1028,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [Typescript Basics - Course](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTanfgsbnFzfWUhhAz3tIezU)
 - :bulb: [Clean Code concepts adapted for TypeScript](https://github.com/labs42io/clean-code-typescript)
 - :video_camera: [TypeScript Course for Beginners 2021 - Learn TypeScript from Scratch!](https://www.youtube.com/watch?v=BwuLxPH8IDs&t=1s)
+- :books: [Learn TypeScript Step by Step Tutorial](https://www.tutorialsteacher.com/typescript)
+- :books: [Learn TypeScript From Scratch](https://www.typescripttutorial.net/)
 
 ---
 
@@ -1117,6 +1129,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [Font Awesome](https://fontawesome.com/): Vector icons and social logos for your website
 - :bulb: [SVG Backgrounds](https://www.svgbackgrounds.com/): Customize and apply backgrounds fast.
 - :bulb: [Vecteezy](https://www.vecteezy.com/): Download Free Vector Art, Stock Photos & Stock Videos.
+- :bulb: [Haikei](https://app.haikei.app/): Multiple Shape Generator for UI.
 
 ### Open Source
 
