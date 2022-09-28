@@ -323,6 +323,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [Deep Learning Fundamentals](https://www.dataquest.io/course/deep-learning-fundamentals/)
 - :bulb: [Deep learning cheat sheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning)
 - :books: [Natural Language Processing CS224n](http://web.stanford.edu/class/cs224n/)
+- :books: [IBM Deep Learning Course with certification](https://cognitiveclass.ai/courses/introduction-deep-learning) 
 
 ---
 
