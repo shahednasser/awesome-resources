@@ -1122,6 +1122,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [Font Awesome](https://fontawesome.com/): Vector icons and social logos for your website
 - :bulb: [SVG Backgrounds](https://www.svgbackgrounds.com/): Customize and apply backgrounds fast.
 - :bulb: [Vecteezy](https://www.vecteezy.com/): Download Free Vector Art, Stock Photos & Stock Videos.
+- :bulb: [Haikei](https://app.haikei.app/): Multiple Shape Generator for UI.
 
 ### Open Source
 
