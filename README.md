@@ -596,8 +596,6 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 ---
 
-
-
 **[⬆ Back to Index](#content)**
 
 ## HTML
