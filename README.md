@@ -161,6 +161,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 - :bulb: [KnowEthereum (handpicked ethereum resources)](https://knowethereum.com/)
 - :green_book: [Learn Solidity By Example](https://solidity-by-example.org/)
+- :books: [Crypto Zombie - Build DApps By Building Simple Games](https://cryptozombies.io/)
 
 ---
 
