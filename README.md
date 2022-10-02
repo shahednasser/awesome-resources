@@ -1145,6 +1145,13 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [VS Code Tutorial for Beginners](https://youtu.be/VqCgcpAypFQ?t=21)
 - :bulb: [The Best VS Code Extensions to Supercharge Your Git](https://betterprogramming.pub/the-best-vs-code-extensions-to-supercharge-your-git-5d5ab3f64f64)
 
+### MongoDB
+
+- :green_book: [MongoDB Tutorial From Scratch](https://www.mongodbtutorial.org/)
+- :bulb: [Interview Questions](https://www.interviewbit.com/mongodb-interview-questions/)
+- :bulb: [JSON Tutorial](https://www.w3schools.com/js/js_json_intro.asp)
+- :bulb: [CheatSheet](https://www.mongodb.com/developer/products/mongodb/cheat-sheet/)
+
 ### Tools
 
 - :wrench: [Tiny helpers](https://tiny-helpers.dev/): A collection of free single-purpose online tools for web developers
