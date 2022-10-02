@@ -207,7 +207,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [C++ Standard Template Library for Competative programming](https://www.youtube.com/watch?v=RRVYpIET_RU)
 - :bulb: [C++ Cheatsheet](https://www.codewithharry.com/blogpost/cpp-cheatsheet)
 - :books: [C++ Tutorial - Learn CPP in Detail](https://www.scaler.com/topics/cpp/)
-
+- :video_camera: [Placement series: Data structures](https://www.youtube.com/watch?v=c0_1QnyVYQY&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma)
 ---
 
 **[⬆ Back to Index](#content)**
