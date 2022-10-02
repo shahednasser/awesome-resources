@@ -103,6 +103,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - [Web Accessibility](#web-accessibility)
 - [Web Development](#web-development)
 - [Webpack](#webpack)
+- [MongoDB](#MongoDB)
 - [Others](#others)
   - [Cheat Sheets](#cheat-sheets)
   - [Design](#design)
@@ -1090,6 +1091,17 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 ---
 
 **[⬆ Back to Index](#content)**
+## MongoDB
+
+- :green_book: [MongoDB Tutorial From Scratch](https://www.mongodbtutorial.org/)
+- :bulb: [Interview Questions](https://www.interviewbit.com/mongodb-interview-questions/)
+- :bulb: [JSON Tutorial](https://www.w3schools.com/js/js_json_intro.asp)
+- :bulb: [CheatSheet](https://www.mongodb.com/developer/products/mongodb/cheat-sheet/)
+
+---
+
+
+**[⬆ Back to Index](#content)**
 
 ## Others
 
@@ -1144,13 +1156,6 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [Top 5 VS Code extensions for web developers](https://jobin.hashnode.dev/top-5-vs-code-extension-for-web-developers-in-2021)
 - :video_camera: [VS Code Tutorial for Beginners](https://youtu.be/VqCgcpAypFQ?t=21)
 - :bulb: [The Best VS Code Extensions to Supercharge Your Git](https://betterprogramming.pub/the-best-vs-code-extensions-to-supercharge-your-git-5d5ab3f64f64)
-
-### MongoDB
-
-- :green_book: [MongoDB Tutorial From Scratch](https://www.mongodbtutorial.org/)
-- :bulb: [Interview Questions](https://www.interviewbit.com/mongodb-interview-questions/)
-- :bulb: [JSON Tutorial](https://www.w3schools.com/js/js_json_intro.asp)
-- :bulb: [CheatSheet](https://www.mongodb.com/developer/products/mongodb/cheat-sheet/)
 
 ### Tools
 
