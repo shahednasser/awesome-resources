@@ -44,6 +44,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - [C++](#c-1)
 - [Computer Science](#computer-science)
   - [Theoretical Computer Science](#theoretical-computer-science)
+- [Coding Interviews](#coding-interviews)
 - [CSS](#css)
 - [CSharp](#csharp)
 - [Dart](#dart)
@@ -230,6 +231,14 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [Freely available programming books](https://github.com/EbookFoundation/free-programming-books)
 - :file_folder: [Programming Language Foundation in Agda](https://plfa.github.io/)
 - :video_camera: [Type Theory playlist](https://www.youtube.com/playlist?list=PLoPjtLnIwJuJcZpSHIsVliXFsTH99-2W5)
+
+---
+
+**[⬆ Back to Index](#content)**
+
+## Coding Interviews
+
+- :books: [Cracking the coding Interview](http://englishonlineclub.com/pdf/Cracking%20the%20Coding%20Interview%20-%20189%20Programming%20Questions%20and%20Solutions%20(6th%20Edition)%20[EnglishOnlineClub.com].pdf)
 
 ---
 
