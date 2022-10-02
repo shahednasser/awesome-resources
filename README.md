@@ -42,6 +42,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - [Bots](#bots)
 - [C](#c)
 - [C++](#c-1)
+- [Clojure](#clojure)
 - [Computer Science](#computer-science)
   - [Theoretical Computer Science](#theoretical-computer-science)
 - [CSS](#css)
@@ -207,6 +208,21 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [C++ Standard Template Library for Competative programming](https://www.youtube.com/watch?v=RRVYpIET_RU)
 - :bulb: [C++ Cheatsheet](https://www.codewithharry.com/blogpost/cpp-cheatsheet)
 - :books: [C++ Tutorial - Learn CPP in Detail](https://www.scaler.com/topics/cpp/)
+
+---
+
+**[⬆ Back to Index](#content)**
+
+## Clojure
+
+- :books: [Clojure for the Brave and True](https://www.braveclojure.com/clojure-for-the-brave-and-true/)
+- :bulb: [Clojure Cheatsheet](https://clojure.org/api/cheatsheet)
+- :file_folder: [Clojure Documentation](https://clojuredocs.org/)
+- :file_folder: [Clojure API](https://clojure.org/api/api)
+- :video_camera: [Clojure Tutorial](https://www.youtube.com/watch?v=ciGyHkDuPAE)
+- :video_camera: [Clojure Crash Course](https://www.youtube.com/watch?v=ZkJcVCW9GqY)
+- :video_camera: [The Clojure Language](https://www.youtube.com/playlist?list=PLAC43CFB134E85266)
+- :video_camera: [Clojure tutorial by a Defold developer](https://www.youtube.com/playlist?list=PLXsXu5srjNlxI7b2smnHxDeMMwR4mVZ2m)
 
 ---
 
