@@ -1114,6 +1114,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 - :bulb: [Freebie Supply](https://freebiesupply.com/)
 - :bulb: [unDraw](https://undraw.co/): Free illustrations, updated regularly
+- :bulb: [Bulbman](https://bulbman.art/): Free Artistic Illustrations for Designers
 - :bulb: [Feather Icons](https://feathericons.com/)
 - :bulb: [humaaans](https://humaaans.com/)
 - :bulb: [absurd](https://absurd.design/)
@@ -1129,12 +1130,14 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [Unsplash](https://unsplash.com/): Free high quality stock images and videos
 - :bulb: [Undesign](https://undesign.learn.uno/): Collection of free design tools and resources for makers, developers and designers
 - :bulb: [DopeUI](https://dopeui.co/): High quality website UI templates
+- :wrench: [Design Junction](https://designjunction.xyz/): Resource library for Designers and Creatives
 - :bulb: [Coolors](https://coolors.co/): The super fast color schemes generator
 - :bulb: [uiGradients](https://uigradients.com/): An awesome gradient generator
 - :bulb: [Glassmorphism Generator](https://ui.glass/generator/): Amazing tool to generate glassmorphism design.
 - :bulb: [Canva](https://www.canva.com/)
 - :bulb: [Photopea](https://www.photopea.com/): Free online editor supporting PSD, XCF, Sketch, XD and CDR formats.
 - :bulb: [Lorem Ipsum Generators](https://loremipsum.io/): Awesome collection of Lorem Ipsum Generators
+- :books: [Lapa Ninja](https://www.lapa.ninja/learn/): The best resources for Learning Design
 - :bulb: [Font Awesome](https://fontawesome.com/): Vector icons and social logos for your website
 - :bulb: [SVG Backgrounds](https://www.svgbackgrounds.com/): Customize and apply backgrounds fast.
 - :bulb: [Vecteezy](https://www.vecteezy.com/): Download Free Vector Art, Stock Photos & Stock Videos.
