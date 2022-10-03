@@ -820,6 +820,15 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 - :video_camera: [Operating Systems](https://youtube.com/playlist?list=PL-Jc9J83PIiEKfEI9f7afzCutT_3hPQP3)
 - :books: [Operating System Tutorial - Learn Operating System](https://www.scaler.com/topics/operating-system/)
+- :video_camera: [operating system - for college](https://www.youtube.com/watch?v=bkSWJJZNgf8&list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p)
+
+---
+
+**[⬆ Back to Index](#content)**
+
+<h2>Database management system</h1>
+
+-  :video_camera: [DBMS database management system-for college](https://www.youtube.com/watch?v=kBdlM6hNDAE&list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y)
 
 ---
 
