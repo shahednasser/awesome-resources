@@ -831,6 +831,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 - :video_camera: [Operating Systems](https://youtube.com/playlist?list=PL-Jc9J83PIiEKfEI9f7afzCutT_3hPQP3)
 - :books: [Operating System Tutorial - Learn Operating System](https://www.scaler.com/topics/operating-system/)
+- :books: [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 
 ---
 
