@@ -1091,6 +1091,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 ---
 
 **[⬆ Back to Index](#content)**
+
 ## MongoDB
 
 - :books: [MongoDB Tutorial From Scratch](https://www.mongodbtutorial.org/)
