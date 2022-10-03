@@ -1076,6 +1076,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [Frontend with HTML CSS JS & Browser APIs](https://youtube.com/playlist?list=PL-Jc9J83PIiHU9RkY9sfh3G64-bd0ptvC)
 - :bulb: [Frontendmentor.io Design To Code Frontend Challenges](https://www.frontendmentor.io)
 - :bulb: [Codewell.cc Design To Code Frontend Challenges](https://www.codewell.cc)
+- :video_camera: [Lama Dev Youtube Channel](https://www.youtube.com/c/LamaDev)
 
 ---
 
