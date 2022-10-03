@@ -770,6 +770,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :green_book: [Introductory Primer](https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer)
 - :bulb: [Machine Learning Roadmap](https://whimsical.com/machine-learning-roadmap-2020-CA7f3ykvXpnJ9Az32vYXva)
 - :books: [TinyML Course](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning)
+- :books: [Deep Learning - University of buffalo](https://cedar.buffalo.edu/~srihari/CSE676/index.html)
 - :books: [Machine Learning Introduction with Python](https://www.dataquest.io/path/machine-learning-intro-with-python/)
 - :speaker: [Machine Learning Guide Podcast](https://ocdevel.com/mlg)
 
