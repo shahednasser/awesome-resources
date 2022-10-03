@@ -929,6 +929,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [React Hooks](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h)
 - :video_camera: [React JS Crash Course](https://youtube.com/watch?v=w7ejDZ8SWv8)
 - :books: [Become a React Developer - Linkedin Learning](https://www.linkedin.com/learning/paths/become-a-react-developer)
+- :video_camera: [React JS Full Course 2022 | Build an App and Master React in 1 Hour](https://www.youtube.com/watch?v=b9eMGE7QtTk)
 
 ---
 
