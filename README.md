@@ -526,6 +526,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :wrench: [Netlify](https://www.netlify.com/)
 - :wrench: [Heroku](https://www.heroku.com/)
 - :wrench: [Vercel](https://vercel.com/)
+- :wrench: [Fly.io](https://fly.io/)
 - :wrench: [Github Pages](http://pages.github.com)
 - :wrench: [Gitlab Pages](http://docs.gitlab.com/ee/user/project/pages)
 - :wrench: [Deta](https://www.deta.sh/)
