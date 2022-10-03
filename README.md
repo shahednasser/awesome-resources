@@ -1093,7 +1093,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 **[⬆ Back to Index](#content)**
 ## MongoDB
 
-- :green_book: [MongoDB Tutorial From Scratch](https://www.mongodbtutorial.org/)
+- :books: [MongoDB Tutorial From Scratch](https://www.mongodbtutorial.org/)
 - :bulb: [Interview Questions](https://www.interviewbit.com/mongodb-interview-questions/)
 - :bulb: [JSON Tutorial](https://www.w3schools.com/js/js_json_intro.asp)
 - :bulb: [CheatSheet](https://www.mongodb.com/developer/products/mongodb/cheat-sheet/)
