@@ -680,6 +680,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [Namaste JavaScript](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
 - :books: [20+ Web Projects With Vanilla JavaScript](https://vanillawebprojects.com)
 - :bulb: [JavaScript plugins - jQuery & Vanilla](http://www.unheap.com)
+- :video_camera: [JavaScript tutorial for Beginners 😎](https://www.youtube.com/watch?v=lI1ae4REbFM&t=1s)
 - :books: [Modern JavaScript Explained For Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70)
 - :books: [TheJSWay Book](https://github.com/thejsway/thejsway)
 - :video_camera: [Learn Javascript with 100Devs](https://www.youtube.com/watch?v=_A20kVsaqIk)
