@@ -113,6 +113,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
   - [VS Code](#vs-code)
   - [Tools](#tools)
   - [Talks and Podcasts](#talks-and-podcasts)
+  - [Popular Articles](#popular-articles)
 
 ---
 
@@ -1192,3 +1193,11 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 - :video_camera: [Coding Better World Together Live Session with Uncle Bob (Robert C. Martin](https://www.youtube.com/playlist?list=PLmmYSbUCWJ4x1GO839azG_BBw8rkh-zOj) : Coding Better World Together is a set of master lessons from the famous Uncle Bob (Robert Cecil Martin), where he gives us a broad vision of the importance and future of Software in today's society.
 - :speaker: [Clean Code with Uncle Bob Martin](https://completedeveloperpodcast.com/episode-232/): When folks code long enough, in time they get themselves stuck in a code base that's kind of difficult to wrap thier heads around. In this podcast Uncle Bob Martin talks about the principles of clean code and how to not make a code base too difficult to understand.
+
+
+### Popular Articles
+
+- :green_book: [Don't ask to ask just ask](https://dontasktoask.com/)
+- :green_book: [The XY Problem](https://xyproblem.info/)
+- :green_book: [No Hello](https://nohello.net/)
+- :green_book: [How To Ask Questions The Smart Way](http://catb.org/~esr/faqs/smart-questions.html)
