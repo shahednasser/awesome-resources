@@ -29,7 +29,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 :video_camera: Video Resource (Youtube, video course, etc...)
 
 :bulb: Other
-
+ 
 ## Content
 
 - [Algorithms](#algorithms)
