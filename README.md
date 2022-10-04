@@ -284,6 +284,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :wrench: [CSS Multicolor Gradient](https://gradienta.io/)
 - :bulb: [CSS Grid Garden](https://cssgridgarden.com/)
 - :bulb: [CSS Flexbox-Froggy](https://flexboxfroggy.com/) - Learn Flexbox while playing 
+- :books: [Learn CSS From Scratch](https://web.dev/learn/css/)
 - :bulb: [100 Days CSS Challenge](https://100dayscss.com/)  
 
 ---
