@@ -89,6 +89,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - [Python](#python)
 - [React](#react)
 - [React Native](#react-native)
+- [Regular Expressions](#regular-expressions)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Sass](#sass)
@@ -129,6 +130,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [Android cheat sheet](http://alvinalexander.com/android/android-cheat-sheet-main-concepts/)
 - :bulb: [Android Tips & Tricks](https://github.com/nisrulz/android-tips-tricks)
 - :bulb: [Awesome Android](https://github.com/JStumpp/awesome-android)
+- :books: [Kotlin Fundamentals for Android Developers](https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011)
 - :video_camera: [Android Jetpack Compose For Beginners](https://www.youtube.com/playlist?list=PLQkwcJG4YTCSpJ2NLhDTHhi6XBNfk9WiC)
 
 ---
@@ -167,6 +169,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [Crypto Zombie - Build DApps By Building Simple Games](https://cryptozombies.io/)
 - :video_camera: [Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript](https://www.youtube.com/watch?v=gyMwXuJrbJQ)
 - :video_camera: [Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial](https://www.youtube.com/watch?v=M576WGiDBdQ)
+- :video_camera: [Complete Blockchain tutorial for beginners](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=9919s)
 
 ---
 
@@ -237,6 +240,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [Khan Academy - Computer Science](https://www.khanacademy.org/computing/computer-science)
 - :bulb: [Open Source Society University - Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science)
 - :books: [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+- :books: [Introduction to Compilers and How they Work](https://www.edx.org/course/compilers)
 
 ---
 
@@ -285,7 +289,9 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :wrench: [CSS Multicolor Gradient](https://gradienta.io/)
 - :bulb: [CSS Grid Garden](https://cssgridgarden.com/)
 - :bulb: [CSS Flexbox-Froggy](https://flexboxfroggy.com/) - Learn Flexbox while playing 
+- :books: [Learn CSS From Scratch](https://web.dev/learn/css/)
 - :bulb: [100 Days CSS Challenge](https://100dayscss.com/)  
+- :bulb: [CSS Reference](https://cssreference.io/)
 
 ---
 
@@ -490,6 +496,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :green_book: [Dynamic Programming on Broken Profile. Problem "Parquet"](https://cp-algorithms.com/dynamic_programming/profile-dynamics.html)
 - :green_book: [Dynamic Programming GeeksforGeeks](https://www.geeksforgeeks.org/dynamic-programming/)
 - :green_book: [Finding the largest zero submatrix](https://cp-algorithms.com/dynamic_programming/zero_matrix.html)
+- :video_camera: [Best Dynamic Programming Playlist](https://youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go)
 
 ### Linear Algebra
 
@@ -541,6 +548,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :file_folder: [Write your first Flutter app, Part 1](https://flutter.dev/docs/get-started/codelab)
 - :green_book: [Write your first Flutter app, Part 2](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2/#0)
 - :green_book: [Write a Flutter desktop application](https://codelabs.developers.google.com/codelabs/flutter-github-graphql-client/#0)
+- :video_camera: [Flutter Bloc Complete Course](https://www.youtube.com/watch?v=THCkkQ-V1-8)
+- :video_camera: [Flutter Bloc - from Zero To HERO](https://www.youtube.com/playlist?list=PLptHs0ZDJKt_T-oNj_6Q98v-tBnVf-S_o)
 
 ---
 
@@ -752,6 +761,10 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :wrench: [Micro Laravel Framework for APIs](https://lumen.laravel.com)
 - :wrench: [Server Management for Laravel](https://forge.laravel.com)
 - :video_camera: [Creating "Laravel Checklister"](https://www.youtube.com/playlist?list=PLdXLsjL7A9k0D8fXpJl4Rc1ffmAs5XIEg)
+- :books: [Laravel Tutorial](https://www.javatpoint.com/laravel)
+- :books: [Laravel News](https://laravel-news.com)
+- :books: [LaraShout: Laravel Tutorials and Guides](https://www.larashout.com)
+- :bulb: [Laravel Daily](https://laraveldaily.com)
 
 ---
 
@@ -852,6 +865,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :green_book: [Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/)
 - :video_camera: [Backend Interview Series](https://youtube.com/playlist?list=PL-Jc9J83PIiHI7u_6G8j1oKyhQn_plX8i)
 - :books: [30 Days of Node](https://www.nodejsera.com/30-days-of-node.html)
+- :file_folder: [Node.js Documentation](https://nodejs.org/en/docs/)
 
 ---
 
@@ -862,6 +876,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [Operating Systems](https://youtube.com/playlist?list=PL-Jc9J83PIiEKfEI9f7afzCutT_3hPQP3)
 - :books: [Operating System Tutorial - Learn Operating System](https://www.scaler.com/topics/operating-system/)
 - :books: [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+- :video_camera: [Operating Systems: Operating Systems for Placements/Interview](https://youtube.com/playlist?list=PLDzeHZWIZsTr3nwuTegHLa2qlI81QweYG)
 
 ---
 
@@ -943,6 +958,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [React Hooks](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h)
 - :video_camera: [React JS Crash Course](https://youtube.com/watch?v=w7ejDZ8SWv8)
 - :books: [Become a React Developer - Linkedin Learning](https://www.linkedin.com/learning/paths/become-a-react-developer)
+- :video_camera: [React Testing Tutorial by Codevolution](https://www.youtube.com/playlist?list=PLC3y8-rFHvwirqe1KHFCHJ0RqNuN61SJd)
 - :video_camera: [React JS Full Course 2022 | Build an App and Master React in 1 Hour](https://www.youtube.com/watch?v=b9eMGE7QtTk)
 
 ---
@@ -958,6 +974,17 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :green_book: [How to deploy react native apps](https://medium.com/react-native-training/understanding-react-native-deployments-6e54157920b7)
 - :video_camera: [React Native Tutorial For Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ)
 - :books: [Become a React Native Developer - Linkedin Learning](https://www.linkedin.com/learning/paths/become-a-react-native-developer)
+
+---
+
+**[⬆ Back to Index](#content)**
+
+## Regular Expressions
+
+- :wrench: [RegExr - an online tool to learn, build, & test Regular Expressions](https://regexr.com/)
+- :wrench: [Regex101 - Build, test, and debug regex](https://regex101.com/)
+- :books: [Regex Learn - Learn Regex step by step, from zero to advanced](https://regexlearn.com/)
+- :books: [Codecademy - Learn the Basics of Regular Expressions](https://www.codecademy.com/learn/introduction-to-regular-expressions)
 
 ---
 
