@@ -745,6 +745,10 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :wrench: [Micro Laravel Framework for APIs](https://lumen.laravel.com)
 - :wrench: [Server Management for Laravel](https://forge.laravel.com)
 - :video_camera: [Creating "Laravel Checklister"](https://www.youtube.com/playlist?list=PLdXLsjL7A9k0D8fXpJl4Rc1ffmAs5XIEg)
+- :books: [Laravel Tutorial](https://www.javatpoint.com/laravel)
+- :books: [Laravel News](https://laravel-news.com)
+- :books: [LaraShout: Laravel Tutorials and Guides](https://www.larashout.com)
+- :bulb: [Laravel Daily](https://laraveldaily.com)
 
 ---
 
