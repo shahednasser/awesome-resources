@@ -848,6 +848,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :green_book: [Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/)
 - :video_camera: [Backend Interview Series](https://youtube.com/playlist?list=PL-Jc9J83PIiHI7u_6G8j1oKyhQn_plX8i)
 - :books: [30 Days of Node](https://www.nodejsera.com/30-days-of-node.html)
+- :file_folder: [Node.js Documentation](https://nodejs.org/en/docs/)
 
 ---
 
