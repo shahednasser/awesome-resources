@@ -42,6 +42,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - [Bots](#bots)
 - [C](#c)
 - [C++](#c-1)
+- [Clojure](#clojure)
 - [Computer Science](#computer-science)
   - [Theoretical Computer Science](#theoretical-computer-science)
 - [CSS](#css)
@@ -212,6 +213,21 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 **[⬆ Back to Index](#content)**
 
+## Clojure
+
+- :books: [Clojure for the Brave and True](https://www.braveclojure.com/clojure-for-the-brave-and-true/)
+- :bulb: [Clojure Cheatsheet](https://clojure.org/api/cheatsheet)
+- :file_folder: [Clojure Documentation](https://clojuredocs.org/)
+- :file_folder: [Clojure API](https://clojure.org/api/api)
+- :video_camera: [Clojure Tutorial](https://www.youtube.com/watch?v=ciGyHkDuPAE)
+- :video_camera: [Clojure Crash Course](https://www.youtube.com/watch?v=ZkJcVCW9GqY)
+- :video_camera: [The Clojure Language](https://www.youtube.com/playlist?list=PLAC43CFB134E85266)
+- :video_camera: [Clojure tutorial by a Defold developer](https://www.youtube.com/playlist?list=PLXsXu5srjNlxI7b2smnHxDeMMwR4mVZ2m)
+
+---
+
+**[⬆ Back to Index](#content)**
+
 ## Computer Science
 
 - :bulb: [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
@@ -219,6 +235,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [Khan Academy - Computer Science](https://www.khanacademy.org/computing/computer-science)
 - :bulb: [Open Source Society University - Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science)
 - :books: [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+- :books: [Introduction to Compilers and How they Work](https://www.edx.org/course/compilers)
 
 ---
 
@@ -268,6 +285,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [CSS Grid Garden](https://cssgridgarden.com/)
 - :bulb: [CSS Flexbox-Froggy](https://flexboxfroggy.com/) - Learn Flexbox while playing 
 - :books: [Learn CSS From Scratch](https://web.dev/learn/css/)
+- :bulb: [100 Days CSS Challenge](https://100dayscss.com/)  
 
 ---
 
@@ -414,6 +432,14 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 **[⬆ Back to Index](#content)**
 
+## Networking
+
+- :video_camera: [Fundamentals of Networking](https://www.youtube.com/playlist?list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi)
+
+---
+
+**[⬆ Back to Index](#content)**
+
 ## Expo
 
 - :video_camera: [Expo Crash Course by Traversy Media](https://www.youtube.com/watch?v=Hf4MJH0jDb4)
@@ -519,6 +545,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :wrench: [Netlify](https://www.netlify.com/)
 - :wrench: [Heroku](https://www.heroku.com/)
 - :wrench: [Vercel](https://vercel.com/)
+- :wrench: [Fly.io](https://fly.io/)
 - :wrench: [Github Pages](http://pages.github.com)
 - :wrench: [Gitlab Pages](http://docs.gitlab.com/ee/user/project/pages)
 - :wrench: [Deta](https://www.deta.sh/)
@@ -681,6 +708,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [Namaste JavaScript](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
 - :books: [20+ Web Projects With Vanilla JavaScript](https://vanillawebprojects.com)
 - :bulb: [JavaScript plugins - jQuery & Vanilla](http://www.unheap.com)
+- :video_camera: [JavaScript tutorial for Beginners 😎](https://www.youtube.com/watch?v=lI1ae4REbFM&t=1s)
 - :books: [Modern JavaScript Explained For Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70)
 - :books: [TheJSWay Book](https://github.com/thejsway/thejsway)
 - :video_camera: [Learn Javascript with 100Devs](https://www.youtube.com/watch?v=_A20kVsaqIk)
@@ -761,6 +789,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :green_book: [Introductory Primer](https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer)
 - :bulb: [Machine Learning Roadmap](https://whimsical.com/machine-learning-roadmap-2020-CA7f3ykvXpnJ9Az32vYXva)
 - :books: [TinyML Course](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning)
+- :books: [Deep Learning - University of buffalo](https://cedar.buffalo.edu/~srihari/CSE676/index.html)
 - :books: [Machine Learning Introduction with Python](https://www.dataquest.io/path/machine-learning-intro-with-python/)
 - :speaker: [Machine Learning Guide Podcast](https://ocdevel.com/mlg)
 
@@ -812,6 +841,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [Introduction to Node.js](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH_uZs4vJMIhcinABSTUH2bY)
 - :green_book: [Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/)
 - :video_camera: [Backend Interview Series](https://youtube.com/playlist?list=PL-Jc9J83PIiHI7u_6G8j1oKyhQn_plX8i)
+- :books: [30 Days of Node](https://www.nodejsera.com/30-days-of-node.html)
 
 ---
 
@@ -821,6 +851,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 - :video_camera: [Operating Systems](https://youtube.com/playlist?list=PL-Jc9J83PIiEKfEI9f7afzCutT_3hPQP3)
 - :books: [Operating System Tutorial - Learn Operating System](https://www.scaler.com/topics/operating-system/)
+- :books: [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 
 ---
 
@@ -900,6 +931,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [React Hooks](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h)
 - :video_camera: [React JS Crash Course](https://youtube.com/watch?v=w7ejDZ8SWv8)
 - :books: [Become a React Developer - Linkedin Learning](https://www.linkedin.com/learning/paths/become-a-react-developer)
+- :video_camera: [React JS Full Course 2022 | Build an App and Master React in 1 Hour](https://www.youtube.com/watch?v=b9eMGE7QtTk)
 
 ---
 
@@ -979,6 +1011,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [Swift Programming Tutorial for Beginners](https://www.youtube.com/watch?v=Ulp1Kimblg0)
 - :file_folder: [Documentation](https://swift.org/documentation/#the-swift-programming-language)
 - :green_book: [Swift UI quick start](https://www.hackingwithswift.com/quick-start/swiftui)
+- :video_camera: [SwiftUI Basics Tutorial](https://www.youtube.com/watch?v=HXoVSbwWUIk)
 
 ---
 
@@ -1106,6 +1139,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 - :bulb: [Freebie Supply](https://freebiesupply.com/)
 - :bulb: [unDraw](https://undraw.co/): Free illustrations, updated regularly
+- :bulb: [Bulbman](https://bulbman.art/): Free Artistic Illustrations for Designers
 - :bulb: [Feather Icons](https://feathericons.com/)
 - :bulb: [humaaans](https://humaaans.com/)
 - :bulb: [absurd](https://absurd.design/)
@@ -1121,12 +1155,14 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [Unsplash](https://unsplash.com/): Free high quality stock images and videos
 - :bulb: [Undesign](https://undesign.learn.uno/): Collection of free design tools and resources for makers, developers and designers
 - :bulb: [DopeUI](https://dopeui.co/): High quality website UI templates
+- :wrench: [Design Junction](https://designjunction.xyz/): Resource library for Designers and Creatives
 - :bulb: [Coolors](https://coolors.co/): The super fast color schemes generator
 - :bulb: [uiGradients](https://uigradients.com/): An awesome gradient generator
 - :bulb: [Glassmorphism Generator](https://ui.glass/generator/): Amazing tool to generate glassmorphism design.
 - :bulb: [Canva](https://www.canva.com/)
 - :bulb: [Photopea](https://www.photopea.com/): Free online editor supporting PSD, XCF, Sketch, XD and CDR formats.
 - :bulb: [Lorem Ipsum Generators](https://loremipsum.io/): Awesome collection of Lorem Ipsum Generators
+- :books: [Lapa Ninja](https://www.lapa.ninja/learn/): The best resources for Learning Design
 - :bulb: [Font Awesome](https://fontawesome.com/): Vector icons and social logos for your website
 - :bulb: [SVG Backgrounds](https://www.svgbackgrounds.com/): Customize and apply backgrounds fast.
 - :bulb: [Vecteezy](https://www.vecteezy.com/): Download Free Vector Art, Stock Photos & Stock Videos.
