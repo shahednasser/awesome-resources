@@ -89,6 +89,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - [Python](#python)
 - [React](#react)
 - [React Native](#react-native)
+- [Regular Expressions](#regular-expressions)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Sass](#sass)
@@ -955,6 +956,17 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :green_book: [How to deploy react native apps](https://medium.com/react-native-training/understanding-react-native-deployments-6e54157920b7)
 - :video_camera: [React Native Tutorial For Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ)
 - :books: [Become a React Native Developer - Linkedin Learning](https://www.linkedin.com/learning/paths/become-a-react-native-developer)
+
+---
+
+**[⬆ Back to Index](#content)**
+
+## Regular Expressions
+
+- :wrench: [RegExr - an online tool to learn, build, & test Regular Expressions](https://regexr.com/)
+- :wrench: [Regex101 - Build, test, and debug regex](https://regex101.com/)
+- :books: [Regex Learn - Learn Regex step by step, from zero to advanced](https://regexlearn.com/)
+- :books: [Codecademy - Learn the Basics of Regular Expressions](https://www.codecademy.com/learn/introduction-to-regular-expressions)
 
 ---
 
