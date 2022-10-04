@@ -539,6 +539,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :file_folder: [Write your first Flutter app, Part 1](https://flutter.dev/docs/get-started/codelab)
 - :green_book: [Write your first Flutter app, Part 2](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2/#0)
 - :green_book: [Write a Flutter desktop application](https://codelabs.developers.google.com/codelabs/flutter-github-graphql-client/#0)
+- :video_camera: [Flutter Bloc Complete Course](https://www.youtube.com/watch?v=THCkkQ-V1-8)
+- :video_camera: [Flutter Bloc - from Zero To HERO](https://www.youtube.com/playlist?list=PLptHs0ZDJKt_T-oNj_6Q98v-tBnVf-S_o)
 
 ---
 
