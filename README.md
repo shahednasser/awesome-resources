@@ -170,6 +170,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript](https://www.youtube.com/watch?v=gyMwXuJrbJQ)
 - :video_camera: [Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial](https://www.youtube.com/watch?v=M576WGiDBdQ)
 - :video_camera: [Complete Blockchain tutorial for beginners](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=9919s)
+- :books: [Become a Web3 Developer](https://learnweb3.io/)
 
 ---
 
@@ -213,7 +214,6 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [C++ Standard Template Library for Competative programming](https://www.youtube.com/watch?v=RRVYpIET_RU)
 - :bulb: [C++ Cheatsheet](https://www.codewithharry.com/blogpost/cpp-cheatsheet)
 - :books: [C++ Tutorial - Learn CPP in Detail](https://www.scaler.com/topics/cpp/)
-- :video_camera: [Complete C++ Placement DSA Course](https://youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA)
 
 ---
 
@@ -290,11 +290,9 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :wrench: [CSS Multicolor Gradient](https://gradienta.io/)
 - :bulb: [CSS Grid Garden](https://cssgridgarden.com/)
 - :bulb: [CSS Flexbox-Froggy](https://flexboxfroggy.com/) - Learn Flexbox while playing 
-- :bulb: [Knights of the Flexbox Table](https://knightsoftheflexboxtable.com)
 - :books: [Learn CSS From Scratch](https://web.dev/learn/css/)
 - :bulb: [100 Days CSS Challenge](https://100dayscss.com/)  
 - :bulb: [CSS Reference](https://cssreference.io/)
-- :wrench: [CSS Validator](https://jigsaw.w3.org/css-validator/)
 
 ---
 
@@ -486,7 +484,6 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [DSA + Java Interview Preparation Course](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
 - :video_camera: [DSA + C++ Interview Preparation Course](https://www.youtube.com/watch?v=z9bZufPHFLU&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ)
 - :video_camera: [Data Structures](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
-- :video_camera: [DSA-One Course - The Complete Data Structures and Algorithms Course](https://www.youtube.com/playlist?list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p)
 - :green_book: [Minimum Stack / Minimum Queue](https://cp-algorithms.com/data_structures/stack_queue_modification.html)
 - :books: [Data Structures Tutorial - Scalar](https://www.scaler.com/topics/data-structures/)
 - :books: [Princeton University Algorithms, Part 1](https://www.coursera.org/learn/algorithms-part1)
@@ -735,7 +732,6 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [TheJSWay Book](https://github.com/thejsway/thejsway)
 - :video_camera: [Learn Javascript with 100Devs](https://www.youtube.com/watch?v=_A20kVsaqIk)
 - :books: [JavaScript Tutorial - Learn JavaScript in Detail](https://www.scaler.com/topics/javascript/)
-- :wrench: [Visualize JavaScript and Understand the Workflow](https://www.jsv9000.app/)
 - :books: [FreeCodeCamp - JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 
 ---
@@ -791,7 +787,6 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 ## Linux
 
 - :video_camera: [Introduction to Linux](https://training.linuxfoundation.org/resources/free-courses/introduction-to-linux/)
-- :video_camera: [Introduction to Linux & Terminal Commands - Full Course for Beginners](https://www.youtube.com/watch?v=iwolPf6kN-k&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak&index=4)
 - :books: [KodeKloud - Linux Foundation Certified System Administrator (LFCS)](https://kodekloud.com/courses/linux-foundation-certified-system-administrator-lfcs/)
 - :books: [Linux kernel and its insides](https://0xax.gitbooks.io/linux-insides/content/)
 - :bulb: [Interactive map of Linux Kernel](https://makelinux.github.io/kernel/map/)
