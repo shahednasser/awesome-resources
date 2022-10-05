@@ -485,6 +485,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [DSA + Java Interview Preparation Course](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
 - :video_camera: [DSA + C++ Interview Preparation Course](https://www.youtube.com/watch?v=z9bZufPHFLU&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ)
 - :video_camera: [Data Structures](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
+- :video_camera: [DSA-One Course - The Complete Data Structures and Algorithms Course](https://www.youtube.com/playlist?list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p)
 - :green_book: [Minimum Stack / Minimum Queue](https://cp-algorithms.com/data_structures/stack_queue_modification.html)
 - :books: [Data Structures Tutorial - Scalar](https://www.scaler.com/topics/data-structures/)
 - :books: [Princeton University Algorithms, Part 1](https://www.coursera.org/learn/algorithms-part1)
@@ -788,6 +789,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 ## Linux
 
 - :video_camera: [Introduction to Linux](https://training.linuxfoundation.org/resources/free-courses/introduction-to-linux/)
+- :video_camera: [Introduction to Linux & Terminal Commands - Full Course for Beginners](https://www.youtube.com/watch?v=iwolPf6kN-k&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak&index=4)
 - :books: [KodeKloud - Linux Foundation Certified System Administrator (LFCS)](https://kodekloud.com/courses/linux-foundation-certified-system-administrator-lfcs/)
 - :books: [Linux kernel and its insides](https://0xax.gitbooks.io/linux-insides/content/)
 - :bulb: [Interactive map of Linux Kernel](https://makelinux.github.io/kernel/map/)
