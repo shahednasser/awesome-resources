@@ -30,7 +30,6 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 :bulb: Other
 ## Content
-
 - [Algorithms](#algorithms)
 - [Android](#android)
 - [Angular](#angular)
