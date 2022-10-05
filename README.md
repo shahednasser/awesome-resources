@@ -727,9 +727,10 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 ## Kubernetes
 
+- :file_folder: [Kubernetes Documentation](https://kubernetes.io/docs/home/)
 - :green_book: [Understanding Kubernetes: Developer's Guide](https://blog.thewiz.net/understanding-kubernetes-developers-guide)
-- :books: [Kubernetes Hands On & Training](https://www.katacoda.com/courses/kubernetes)
 - :books: [100 Days of Kubernetes](https://100daysofkubernetes.io/overview.html)
+- :file_folder: [Kubernetes Hardening Guide from the NSA](https://media.defense.gov/2022/Aug/29/2003066362/-1/-1/0/CTR_KUBERNETES_HARDENING_GUIDANCE_1.2_20220829.PDF)
 
 ---
 
@@ -737,6 +738,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 ## OpenShift
 
+- :file_folder: [OpenShift Documentation](https://docs.openshift.com)
 - :books: [OpenShift Interactive Learning Portal](https://learn.openshift.com)
 - :books: [OpenShift Tutorials](https://developers.redhat.com)
 
