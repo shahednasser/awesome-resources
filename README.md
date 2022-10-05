@@ -86,6 +86,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - [Operating Systems](#operating-systems)
 - [PHP](#php)
 - [PostgreSQL](#postgresql)
+- [Power Automate](#power-automate)
 - [Python](#python)
 - [React](#react)
 - [React Native](#react-native)
@@ -891,6 +892,13 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [Learn PostgreSQL Tutorial - freeCodeCamp](https://youtu.be/qw--VYLpxG4)
 - :video_camera: [SQL Tutorial for Beginners - Ben Awad](https://youtu.be/tp_5c6jaNQE)
 - :video_camera: [SQL Tutorials - Corey Schafer](https://youtube.com/playlist?list=PL-osiE80TeTsKOdPrKeSOp4rN3mza8VHN)
+
+---
+
+**[⬆ Back to Index](#content)**
+
+## Power Automate
+- :file_folder: [Power Automate official documentation](https://learn.microsoft.com/en-us/power-automate)
 
 ---
 
