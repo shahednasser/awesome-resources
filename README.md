@@ -167,6 +167,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [KnowEthereum (handpicked ethereum resources)](https://knowethereum.com/)
 - :green_book: [Learn Solidity By Example](https://solidity-by-example.org/)
 - :books: [Crypto Zombie - Build DApps By Building Simple Games](https://cryptozombies.io/)
+- :video_camera: [Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript](https://www.youtube.com/watch?v=gyMwXuJrbJQ)
+- :video_camera: [Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial](https://www.youtube.com/watch?v=M576WGiDBdQ)
 - :video_camera: [Complete Blockchain tutorial for beginners](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=9919s)
 
 ---
@@ -325,6 +327,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 ## Database
 
 - :video_camera: [Practical SQL Series](https://youtube.com/playlist?list=PL-Jc9J83PIiFRR58Ezyy2z3gYhPA0lKmt)
+- :video_camera: [Database Systems - Cornell University Course (SQL, NoSQL, Large-Scale Data Analysis)](https://www.youtube.com/watch?v=4cWkVbC2bNE)
+- :books: [SQL Bolt - learn SQL with simple, interactive exercises](https://sqlbolt.com/)
 
 ---
 
@@ -363,6 +367,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :file_folder: [Django Documentation](https://docs.djangoproject.com/)
 - :green_book: [Deploy Django Application on Heroku](https://www.codementor.io/@jamesezechukwu/how-to-deploy-django-app-on-heroku-dtsee04d4)
 - :video_camera: [Everything about using Celery with Django](https://youtube.com/playlist?list=PLLz6Bi1mIXhHKA1Szy2aj9Jbs6nw9fhNY)
+- :video_camera: [Python Backend Web Development Course (with Django)](https://youtu.be/jBzwzrDvZ18)
 - :bulb: [Django Cheatsheet](https://www.codewithharry.com/blogpost/django-cheatsheet)
 - :green_book: [Django REST APIs](https://djangostars.com/blog/rest-apis-django-development/)
 
@@ -381,6 +386,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [DevOps Roadmap for beginners](https://roadmap.sh/devops)
 - :bulb: [How To Become a DevOps Engineer In Six Months or Less](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737)
 - :video_camera: [Free DevOps Bootcamp from beginner to advanced](https://www.youtube.com/playlist?list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak)
+- :video_camera: [DevOps roadmap with Resources](youtube.com/watch?v=7l_n97Mt0ko&t=6s)
 - :bulb: [How to Become a DevOps Engineer in Six Months - by Spacelift](https://spacelift.io/blog/how-to-become-devops-engineer)
 - :bulb: [9 DevOps Best Practices – What You Should Do and NOT Do - by Spacelift](https://spacelift.io/blog/devops-best-practices)
 - :bulb: [Best tools for DevOps](https://kush01.hashnode.dev/best-tools-for-devops)
@@ -439,6 +445,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 ## Networking
 
 - :video_camera: [Fundamentals of Networking](https://www.youtube.com/playlist?list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi)
+- :video_camera: [Computer Networking Full Course - OSI Model Deep Dive with Real Life Examples](https://www.youtube.com/watch?v=IPvYjXCsTg8)
+- :video_camera: [Computer Networking Course - Network Engineering (CompTIA Network+ Exam Prep)](https://www.youtube.com/watch?v=qiQR5rTSshw)
 
 ---
 
@@ -720,6 +728,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [TheJSWay Book](https://github.com/thejsway/thejsway)
 - :video_camera: [Learn Javascript with 100Devs](https://www.youtube.com/watch?v=_A20kVsaqIk)
 - :books: [JavaScript Tutorial - Learn JavaScript in Detail](https://www.scaler.com/topics/javascript/)
+- :books: [FreeCodeCamp - JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 
 ---
 
@@ -779,6 +788,9 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [Interactive map of Linux Kernel](https://makelinux.github.io/kernel/map/)
 - :books: [Linux Device Drivers, Third Edition](https://lwn.net/Kernel/LDD3/)
 - :bulb: [Linux Commands Cheat Sheet](https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet/)
+- :books: [Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
+- :books: [Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2)
+- :books: [Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3)
 
 ---
 
@@ -891,6 +903,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [Learn PostgreSQL Tutorial - freeCodeCamp](https://youtu.be/qw--VYLpxG4)
 - :video_camera: [SQL Tutorial for Beginners - Ben Awad](https://youtu.be/tp_5c6jaNQE)
 - :video_camera: [SQL Tutorials - Corey Schafer](https://youtube.com/playlist?list=PL-osiE80TeTsKOdPrKeSOp4rN3mza8VHN)
+- :file_folder: [PostgreSQL SQL documentation](https://www.postgresql.org/docs/9.2/sql.html)
+- :bulb: [PostgreSQL exercises](https://pgexercises.com/)
 
 ---
 
