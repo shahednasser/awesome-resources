@@ -994,6 +994,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :wrench: [Regex101 - Build, test, and debug regex](https://regex101.com/)
 - :books: [Regex Learn - Learn Regex step by step, from zero to advanced](https://regexlearn.com/)
 - :books: [Codecademy - Learn the Basics of Regular Expressions](https://www.codecademy.com/learn/introduction-to-regular-expressions)
+- :video_camera: [Net Ninja - Regex YT Playlist](https://youtube.com/playlist?list=PL4cUxeGkcC9g6m_6Sld9Q4jzqdqHd2HiD)
 
 ---
 
