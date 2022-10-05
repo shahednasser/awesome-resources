@@ -357,6 +357,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [Deep learning cheat sheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning)
 - :books: [Natural Language Processing CS224n](http://web.stanford.edu/class/cs224n/)
 - :books: [IBM Deep Learning Course with certification](https://cognitiveclass.ai/courses/introduction-deep-learning) 
+- :books: [Geometric Deep Learning](https://geometricdeeplearning.com/lectures/)
+- :books: [CS224W: Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/)
 
 ---
 
