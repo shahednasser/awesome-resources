@@ -413,6 +413,12 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 **[⬆ Back to Index](#content)**
 
+## Neuroscience
+- :bulb: [Mathematical Tools for Neuroscience (Neurobio 212 at Harvard)](https://github.com/ebatty/MathToolsforNeuroscience)
+---
+
+**[⬆ Back to Index](#content)**
+
 ## Algorithms
 
 - :bulb: [List of helpful algos](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
