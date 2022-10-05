@@ -167,6 +167,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [KnowEthereum (handpicked ethereum resources)](https://knowethereum.com/)
 - :green_book: [Learn Solidity By Example](https://solidity-by-example.org/)
 - :books: [Crypto Zombie - Build DApps By Building Simple Games](https://cryptozombies.io/)
+- :video_camera: [Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript](https://www.youtube.com/watch?v=gyMwXuJrbJQ)
+- :video_camera: [Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial](https://www.youtube.com/watch?v=M576WGiDBdQ)
 - :video_camera: [Complete Blockchain tutorial for beginners](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=9919s)
 
 ---
@@ -211,6 +213,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [C++ Standard Template Library for Competative programming](https://www.youtube.com/watch?v=RRVYpIET_RU)
 - :bulb: [C++ Cheatsheet](https://www.codewithharry.com/blogpost/cpp-cheatsheet)
 - :books: [C++ Tutorial - Learn CPP in Detail](https://www.scaler.com/topics/cpp/)
+- :video_camera: [Complete C++ Placement DSA Course](https://youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA)
 
 ---
 
@@ -287,9 +290,11 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :wrench: [CSS Multicolor Gradient](https://gradienta.io/)
 - :bulb: [CSS Grid Garden](https://cssgridgarden.com/)
 - :bulb: [CSS Flexbox-Froggy](https://flexboxfroggy.com/) - Learn Flexbox while playing 
+- :bulb: [Knights of the Flexbox Table](https://knightsoftheflexboxtable.com)
 - :books: [Learn CSS From Scratch](https://web.dev/learn/css/)
 - :bulb: [100 Days CSS Challenge](https://100dayscss.com/)  
 - :bulb: [CSS Reference](https://cssreference.io/)
+- :wrench: [CSS Validator](https://jigsaw.w3.org/css-validator/)
 
 ---
 
@@ -325,6 +330,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 ## Database
 
 - :video_camera: [Practical SQL Series](https://youtube.com/playlist?list=PL-Jc9J83PIiFRR58Ezyy2z3gYhPA0lKmt)
+- :video_camera: [Database Systems - Cornell University Course (SQL, NoSQL, Large-Scale Data Analysis)](https://www.youtube.com/watch?v=4cWkVbC2bNE)
+- :books: [SQL Bolt - learn SQL with simple, interactive exercises](https://sqlbolt.com/)
 
 ---
 
@@ -353,6 +360,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [Deep learning cheat sheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning)
 - :books: [Natural Language Processing CS224n](http://web.stanford.edu/class/cs224n/)
 - :books: [IBM Deep Learning Course with certification](https://cognitiveclass.ai/courses/introduction-deep-learning) 
+- :books: [Geometric Deep Learning](https://geometricdeeplearning.com/lectures/)
+- :books: [CS224W: Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/)
 
 ---
 
@@ -363,6 +372,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :file_folder: [Django Documentation](https://docs.djangoproject.com/)
 - :green_book: [Deploy Django Application on Heroku](https://www.codementor.io/@jamesezechukwu/how-to-deploy-django-app-on-heroku-dtsee04d4)
 - :video_camera: [Everything about using Celery with Django](https://youtube.com/playlist?list=PLLz6Bi1mIXhHKA1Szy2aj9Jbs6nw9fhNY)
+- :video_camera: [Python Backend Web Development Course (with Django)](https://youtu.be/jBzwzrDvZ18)
 - :bulb: [Django Cheatsheet](https://www.codewithharry.com/blogpost/django-cheatsheet)
 - :green_book: [Django REST APIs](https://djangostars.com/blog/rest-apis-django-development/)
 
@@ -381,6 +391,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [DevOps Roadmap for beginners](https://roadmap.sh/devops)
 - :bulb: [How To Become a DevOps Engineer In Six Months or Less](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737)
 - :video_camera: [Free DevOps Bootcamp from beginner to advanced](https://www.youtube.com/playlist?list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak)
+- :video_camera: [DevOps roadmap with Resources](youtube.com/watch?v=7l_n97Mt0ko&t=6s)
 - :bulb: [How to Become a DevOps Engineer in Six Months - by Spacelift](https://spacelift.io/blog/how-to-become-devops-engineer)
 - :bulb: [9 DevOps Best Practices – What You Should Do and NOT Do - by Spacelift](https://spacelift.io/blog/devops-best-practices)
 - :bulb: [Best tools for DevOps](https://kush01.hashnode.dev/best-tools-for-devops)
@@ -439,6 +450,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 ## Networking
 
 - :video_camera: [Fundamentals of Networking](https://www.youtube.com/playlist?list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi)
+- :video_camera: [Computer Networking Full Course - OSI Model Deep Dive with Real Life Examples](https://www.youtube.com/watch?v=IPvYjXCsTg8)
+- :video_camera: [Computer Networking Course - Network Engineering (CompTIA Network+ Exam Prep)](https://www.youtube.com/watch?v=qiQR5rTSshw)
 
 ---
 
@@ -473,6 +486,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [DSA + Java Interview Preparation Course](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
 - :video_camera: [DSA + C++ Interview Preparation Course](https://www.youtube.com/watch?v=z9bZufPHFLU&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ)
 - :video_camera: [Data Structures](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
+- :video_camera: [DSA-One Course - The Complete Data Structures and Algorithms Course](https://www.youtube.com/playlist?list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p)
 - :green_book: [Minimum Stack / Minimum Queue](https://cp-algorithms.com/data_structures/stack_queue_modification.html)
 - :books: [Data Structures Tutorial - Scalar](https://www.scaler.com/topics/data-structures/)
 - :books: [Princeton University Algorithms, Part 1](https://www.coursera.org/learn/algorithms-part1)
@@ -680,6 +694,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [Java + DSA + Interview Preparation Course](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
 - :bulb: [Java Cheatsheet](https://www.codewithharry.com/blogpost/java-cheatsheet)
 - :books: [Java Tutorial - Learn Java Programming in Detail](https://www.scaler.com/topics/java/)
+- :books: [Java Programming Cheat sheet - Princeton](https://introcs.cs.princeton.edu/java/11cheatsheet/)
 
 ---
 
@@ -721,6 +736,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [Learn Javascript with 100Devs](https://www.youtube.com/watch?v=_A20kVsaqIk)
 - :books: [JavaScript Tutorial - Learn JavaScript in Detail](https://www.scaler.com/topics/javascript/)
 - :wrench: [Visualize JavaScript and Understand the Workflow](https://www.jsv9000.app/)
+- :books: [FreeCodeCamp - JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 
 ---
 
@@ -775,11 +791,15 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 ## Linux
 
 - :video_camera: [Introduction to Linux](https://training.linuxfoundation.org/resources/free-courses/introduction-to-linux/)
+- :video_camera: [Introduction to Linux & Terminal Commands - Full Course for Beginners](https://www.youtube.com/watch?v=iwolPf6kN-k&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak&index=4)
 - :books: [KodeKloud - Linux Foundation Certified System Administrator (LFCS)](https://kodekloud.com/courses/linux-foundation-certified-system-administrator-lfcs/)
 - :books: [Linux kernel and its insides](https://0xax.gitbooks.io/linux-insides/content/)
 - :bulb: [Interactive map of Linux Kernel](https://makelinux.github.io/kernel/map/)
 - :books: [Linux Device Drivers, Third Edition](https://lwn.net/Kernel/LDD3/)
 - :bulb: [Linux Commands Cheat Sheet](https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet/)
+- :books: [Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
+- :books: [Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2)
+- :books: [Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3)
 
 ---
 
@@ -892,6 +912,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [Learn PostgreSQL Tutorial - freeCodeCamp](https://youtu.be/qw--VYLpxG4)
 - :video_camera: [SQL Tutorial for Beginners - Ben Awad](https://youtu.be/tp_5c6jaNQE)
 - :video_camera: [SQL Tutorials - Corey Schafer](https://youtube.com/playlist?list=PL-osiE80TeTsKOdPrKeSOp4rN3mza8VHN)
+- :file_folder: [PostgreSQL SQL documentation](https://www.postgresql.org/docs/9.2/sql.html)
+- :bulb: [PostgreSQL exercises](https://pgexercises.com/)
 
 ---
 
