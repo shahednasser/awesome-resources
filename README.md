@@ -720,6 +720,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [TheJSWay Book](https://github.com/thejsway/thejsway)
 - :video_camera: [Learn Javascript with 100Devs](https://www.youtube.com/watch?v=_A20kVsaqIk)
 - :books: [JavaScript Tutorial - Learn JavaScript in Detail](https://www.scaler.com/topics/javascript/)
+- 📹[Data Structures and Algorithms in JavaScript - Full Course for Beginners](https://youtu.be/t2CEgPsws3U)
 
 ---
 
