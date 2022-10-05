@@ -688,6 +688,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [Java + DSA + Interview Preparation Course](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
 - :bulb: [Java Cheatsheet](https://www.codewithharry.com/blogpost/java-cheatsheet)
 - :books: [Java Tutorial - Learn Java Programming in Detail](https://www.scaler.com/topics/java/)
+- :books: [Java Programming Cheat sheet - Princeton](https://introcs.cs.princeton.edu/java/11cheatsheet/)
 
 ---
 
