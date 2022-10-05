@@ -239,7 +239,6 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [Open Source Society University - Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science)
 - :books: [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - :books: [Introduction to Compilers and How they Work](https://www.edx.org/course/compilers)
-- :books: [Mathematics for Computer Science](https://people.csail.mit.edu/meyer/mcs.pdf)
 
 ---
 
@@ -354,7 +353,6 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [Deep learning cheat sheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning)
 - :books: [Natural Language Processing CS224n](http://web.stanford.edu/class/cs224n/)
 - :books: [IBM Deep Learning Course with certification](https://cognitiveclass.ai/courses/introduction-deep-learning) 
-- :books: [colah's blog](http://colah.github.io/)
 - :books: [Stanford University: Deep Learning for NLP](http://cs224d.stanford.edu/syllabus.html)
 
 ---
@@ -499,7 +497,6 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :green_book: [Gauss & Determinant](https://cp-algorithms.com/linear_algebra/determinant-gauss.html)
 - :green_book: [Kraut & Determinant](https://cp-algorithms.com/linear_algebra/determinant-kraut.html)
 - :green_book: [Rank of a matrix](https://cp-algorithms.com/linear_algebra/rank-matrix.html)
-- :books: [Fundamentals of Linear Algebra](https://personal.math.ubc.ca/~carrell/NB.pdf)
 
 ### String Processing
 
@@ -807,8 +804,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [Deep Learning - University of buffalo](https://cedar.buffalo.edu/~srihari/CSE676/index.html)
 - :books: [Machine Learning Introduction with Python](https://www.dataquest.io/path/machine-learning-intro-with-python/)
 - :speaker: [Machine Learning Guide Podcast](https://ocdevel.com/mlg)
-- :books: [An Introduction to Statistical Learning with Applications in R](http://faculty.marshall.usc.edu/gareth-james/)
-- :books: [The Elements of Statistical Learning](https://hastie.su.domains/Papers/ESLII.pdf)
+- :books: [An Introduction to Statistical Learning with Applications in R](https://www.statlearning.com/)
 
 ---
 
