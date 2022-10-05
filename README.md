@@ -203,6 +203,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [Tutorials Point Course](https://www.tutorialspoint.com/cplusplus/index.htm)
 - :bulb: [How to Learn the C++ Languages: The Ultimate List](https://www.toptal.com/c/the-ultimate-list-of-resources-to-learn-c-and-c-plus-plus)
 - :bulb: [The C++ Standard Template Library (STL)](https://www.geeksforgeeks.org/the-c-standard-template-library-stl/)
+- :bulb: [POWER UP C++ WITH THE STANDARD TEMPLATE LIBRARY](https://www.topcoder.com/community/competitive-programming/tutorials/power-up-c-with-the-standard-template-library-part-1/)
 - :books: [C++ Series GeeksForGeeks](https://www.geeksforgeeks.org/c-plus-plus/)
 - :books: [LearnCPP](https://www.learncpp.com/)
 - :video_camera: [C++ Tutorial](https://www.youtube.com/watch?v=DamuE8TM3xo&list=PLGLfVvz_LVvQ9S8YSV0iDsuEU8v11yP9M)
