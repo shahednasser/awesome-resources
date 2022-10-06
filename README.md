@@ -82,6 +82,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - [Magento](#magento)
 - [Markdown](#markdown)
 - [MySQL](#mysql)
+- [NeuroScience](#neuroscience)
 - [NodeJS](#nodejs)
 - [Operating Systems](#operating-systems)
 - [PHP](#php)
@@ -453,6 +454,12 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [Computer Networking Full Course - OSI Model Deep Dive with Real Life Examples](https://www.youtube.com/watch?v=IPvYjXCsTg8)
 - :video_camera: [Computer Networking Course - Network Engineering (CompTIA Network+ Exam Prep)](https://www.youtube.com/watch?v=qiQR5rTSshw)
 
+---
+
+**[⬆ Back to Index](#content)**
+
+## Neuroscience
+- :bulb: [Mathematical Tools for Neuroscience (Neurobio 212 at Harvard)](https://github.com/ebatty/MathToolsforNeuroscience)
 ---
 
 **[⬆ Back to Index](#content)**
