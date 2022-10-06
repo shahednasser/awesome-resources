@@ -63,7 +63,6 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
   - [Data Structures](#data-structures)
   - [Dynamic Programming](#dynamic-programming)
   - [Graph Theory](#graph-theory)
-  - [Greedy Algorithm](#greedy-algorithm)
   - [Linear Algebra](#linear-algebra)
   - [String Processing](#string-processing)
 - [Flutter](#flutter)
@@ -420,6 +419,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [Stanford University Algorithms: Design and Analysis, Part 1](https://online.stanford.edu/courses/soe-ycsalgorithms1-algorithms-design-and-analysis-part-1)
 - :books: [Stanford University Algorithms: Design and Analysis, Part 2](https://online.stanford.edu/courses/soe-ycs0001-algorithms-design-and-analysis-part-2)
 - :video_camera: [Sorting Algorithms](https://www.youtube.com/playlist?list=PL2_aWCzGMAwKedT2KfDMB9YA5DgASZb3U) - mycodeschool
+- :video_camera: [Greedy Algorithm by Abdul Bari](https://www.youtube.com/playlist?list=PL8zDQ1C22qvvwdkPj1uXLpwzcYDJtjnze)
 
 ---
 
@@ -490,10 +490,6 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :green_book: [Dynamic Programming GeeksforGeeks](https://www.geeksforgeeks.org/dynamic-programming/)
 - :green_book: [Finding the largest zero submatrix](https://cp-algorithms.com/dynamic_programming/zero_matrix.html)
 - :video_camera: [Best Dynamic Programming Playlist](https://youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go)
-
-### Greedy Algorithm
-
-- :video_camera: [Greedy Algorithm by Abdul Bari](https://www.youtube.com/watch?v=ARvQcqJ_-NY&list=PL8zDQ1C22qvvwdkPj1uXLpwzcYDJtjnze&ab_channel=AbdulBari)
 
 ### Linear Algebra
 
