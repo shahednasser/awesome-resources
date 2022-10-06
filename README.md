@@ -37,6 +37,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - [Algorithms](#algorithms)
 - [Android](#android)
 - [Angular](#angular)
+- [Adobe_premiere ](#Adobe_premiere)
 - [Big Data](#bigdata)
 - [Blockchain](#blockchain)
 - [Bots](#bots)
@@ -151,6 +152,16 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [freeCodeCamp.org - Learn Angular - Full Tutorial Course](https://www.youtube.com/watch?v=2OHbjep_WjQ)
 
 ---
+
+**[⬆ Back to Index](#content)**
+
+## Adobe_Premiere
+
+- :video_camera: [Learn Adobe Premiere](https://www.youtube.com/watch?v=h6eeDgBjZq8&list=PLW-zSkCnZ-gABGZU8--ISUauyewG40Yex)
+
+
+- :bulb: [Adobe Pemiere  - Cheat Sheet](https://eit.ces.ncsu.edu/wp-content/uploads/2014/06/PREMIERE-cheat-sheet.pdf?fwd=no) 
+----
 
 **[⬆ Back to Index](#content)**
 
@@ -452,6 +463,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [Fundamentals of Networking](https://www.youtube.com/playlist?list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi)
 - :video_camera: [Computer Networking Full Course - OSI Model Deep Dive with Real Life Examples](https://www.youtube.com/watch?v=IPvYjXCsTg8)
 - :video_camera: [Computer Networking Course - Network Engineering (CompTIA Network+ Exam Prep)](https://www.youtube.com/watch?v=qiQR5rTSshw)
+
+- :books:[Free udemy course of networking](https://www.udacity.com/course/computer-networking--ud436)
 
 ---
 
