@@ -740,8 +740,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 ## Kubernetes
 
+- :file_folder: [Kubernetes Documentation](https://kubernetes.io/docs/home/)
 - :green_book: [Understanding Kubernetes: Developer's Guide](https://blog.thewiz.net/understanding-kubernetes-developers-guide)
-- :books: [Kubernetes Hands On & Training](https://www.katacoda.com/courses/kubernetes)
 - :books: [100 Days of Kubernetes](https://100daysofkubernetes.io/overview.html)
 
 ---
@@ -750,6 +750,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 ## OpenShift
 
+- :file_folder: [OpenShift Documentation](https://docs.openshift.com)
 - :books: [OpenShift Interactive Learning Portal](https://learn.openshift.com)
 - :books: [OpenShift Tutorials](https://developers.redhat.com)
 
@@ -989,6 +990,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :wrench: [Regex101 - Build, test, and debug regex](https://regex101.com/)
 - :books: [Regex Learn - Learn Regex step by step, from zero to advanced](https://regexlearn.com/)
 - :books: [Codecademy - Learn the Basics of Regular Expressions](https://www.codecademy.com/learn/introduction-to-regular-expressions)
+- :video_camera: [Net Ninja - Regex YT Playlist](https://youtube.com/playlist?list=PL4cUxeGkcC9g6m_6Sld9Q4jzqdqHd2HiD)
 
 ---
 
