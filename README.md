@@ -99,6 +99,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - [System Design](#system-design)
 - [Terraform](#terraform)
 - [Testing](#testing)
+- [ThreeJS](#threejs)
 - [Typescript](#typescript)
 - [Unity](#unity)
 - [Vue](#vue)
@@ -1104,9 +1105,21 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 **[⬆ Back to Index](#content)**
 
+## ThreeJS
+
+- :file_folder: [ThreeJS Documentation: Handbook](https://threejs.org/docs/index.html#manual/introduction/Creating-a-scene)
+- :file_folder: [ThreeJS Resources](https://threejs.org/manual/#en/fundamentals)
+- :video_camera: [Threejs Tutorial Crash Course](https://www.youtube.com/watch?v=YK1Sw_hnm58)
+- :video_camera: [ThreeJS Course: threeJs journey by Bruno Simon](https://threejs-journey.com/)
+- :books: [Learn Three.js - Third Edition](https://www.packtpub.com/product/learn-three-js/9781788833288?_ga=2.134306225.1315292161.1665121128-2109162035.1665121128)
+
+---
+
+**[⬆ Back to Index](#content)**
+
 ## Typescript
 
-- :file_folder: [TypeScript Documentation: Handbook](https://www.typescriptlang.org/docs/)
+- :file_folder: [TypeScript Documentation](https://threejs.org/docs/index.html#manual/introduction/Creating-a-scene)
 - :books: [Scrimba - Introduction to TypeScript](https://scrimba.com/learn/intrototypescript)
 - :video_camera: [Typescript - The Basics](https://www.youtube.com/watch?v=ahCwqrYpIuM)
 - :video_camera: [Typescript Basics - Course](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTanfgsbnFzfWUhhAz3tIezU)
