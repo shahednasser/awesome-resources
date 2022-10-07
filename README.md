@@ -296,6 +296,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [100 Days CSS Challenge](https://100dayscss.com/)  
 - :bulb: [CSS Reference](https://cssreference.io/)
 - :wrench: [CSS Validator](https://jigsaw.w3.org/css-validator/)
+- :wrench: [CSS Color Picker](https://0to255.com/)
 - :wrench: [CSS Framework - UIkit](https://getuikit.com/)
 - :wrench: [CSS Framework - Skeleton](http://getskeleton.com/)
 - :wrench: [CSS Framework - Pure](https://purecss.io/)
