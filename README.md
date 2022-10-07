@@ -542,7 +542,6 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :green_book: [Write a Flutter desktop application](https://codelabs.developers.google.com/codelabs/flutter-github-graphql-client/#0)
 - :video_camera: [Flutter Bloc Complete Course](https://www.youtube.com/watch?v=THCkkQ-V1-8)
 - :video_camera: [Flutter Bloc - from Zero To HERO](https://www.youtube.com/playlist?list=PLptHs0ZDJKt_T-oNj_6Q98v-tBnVf-S_o)
-- :video_camera: [Flutter Easy state management using Providers](https://www.youtube.com/watch?v=lR4abtROTIc&t=483s)
 
 ---
 
@@ -1193,7 +1192,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [SVG Backgrounds](https://www.svgbackgrounds.com/): Customize and apply backgrounds fast.
 - :bulb: [Vecteezy](https://www.vecteezy.com/): Download Free Vector Art, Stock Photos & Stock Videos.
 - :bulb: [Haikei](https://app.haikei.app/): Multiple Shape Generator for UI.
-- :bulb: [](https://freewebillustrations.com/): Discover 1,500+ Free High-Quality Web Illustrations
+- :bulb: [Free Web Illustrations](https://freewebillustrations.com/): Discover 1,500+ Free High-Quality Web Illustrations
 
 ### Open Source
 
