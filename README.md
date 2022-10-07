@@ -295,7 +295,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [100 Days CSS Challenge](https://100dayscss.com/)  
 - :bulb: [CSS Reference](https://cssreference.io/)
 - :wrench: [CSS Validator](https://jigsaw.w3.org/css-validator/)
-
+- :bulb: [CSS animations](https://animate.style/)
 ---
 
 **[⬆ Back to Index](#content)**
@@ -332,7 +332,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [Practical SQL Series](https://youtube.com/playlist?list=PL-Jc9J83PIiFRR58Ezyy2z3gYhPA0lKmt)
 - :video_camera: [Database Systems - Cornell University Course (SQL, NoSQL, Large-Scale Data Analysis)](https://www.youtube.com/watch?v=4cWkVbC2bNE)
 - :books: [SQL Bolt - learn SQL with simple, interactive exercises](https://sqlbolt.com/)
-
+- :books: [MySQL Cheat Sheet](https://gist.github.com/bradtraversy/c831baaad44343cc945e76c2e30927b3)
 ---
 
 **[⬆ Back to Index](#content)**
