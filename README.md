@@ -99,6 +99,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - [System Design](#system-design)
 - [Terraform](#terraform)
 - [Testing](#testing)
+- [ThreeJS](threejs)
 - [Typescript](#typescript)
 - [Unity](#unity)
 - [Vue](#vue)
@@ -1099,6 +1100,18 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :wrench: [Apache JMeter](https://jmeter.apache.org)
 - :books: [API Testing 101: Learn The Basics](https://www.soapui.org/learn/functional-testing/api-testing-101/)
 - :bulb: [ISTQB Certification](https://www.istqb.com/)
+
+---
+
+**[⬆ Back to Index](#content)**
+
+## ThreeJS
+
+- :file_folder: [ThreeJS Documentation](https://threejs.org/docs/index.html#manual/introduction/Creating-a-scene)
+- :file_folder: [ThreeJS Resources](https://threejs.org/manual/#en/fundamentals)
+- :video_camera: [Threejs Tutorial Crash Course](https://www.youtube.com/watch?v=YK1Sw_hnm58)
+- :video_camera: [ThreeJS Course: threeJs journey by Bruno Simon](https://threejs-journey.com/)
+- :books: [Learn Three.js - Third Edition](https://www.packtpub.com/product/learn-three-js/9781788833288?_ga=2.134306225.1315292161.1665121128-2109162035.1665121128)
 
 ---
 
