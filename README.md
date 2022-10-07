@@ -432,6 +432,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [Penetration Testing Bootcamp](https://hackersploit.org/penetration-testing-bootcamp/)
 - :bulb: [Practical-Ethical-Hacking-Resources](https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources)
 - :video_camera : [Complete Ethical Hacking Course](https://drive.google.com/open?id=1d7ZR2HZbNuyzC3jrgjskadNuPxaIMr8v)
+
 ---
 
 **[⬆ Back to Index](#content)**
