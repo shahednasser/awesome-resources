@@ -776,6 +776,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [Laravel News](https://laravel-news.com)
 - :books: [LaraShout: Laravel Tutorials and Guides](https://www.larashout.com)
 - :bulb: [Laravel Daily](https://laraveldaily.com)
+- :books: [Laravel Bootcamp](https://bootcamp.laravel.com)
 
 ---
 
