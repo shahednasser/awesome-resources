@@ -99,7 +99,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - [System Design](#system-design)
 - [Terraform](#terraform)
 - [Testing](#testing)
-- [ThreeJS](threejs)
+- [ThreeJS](#threejs)
 - [Typescript](#typescript)
 - [Unity](#unity)
 - [Vue](#vue)
