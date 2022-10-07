@@ -577,6 +577,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :wrench: [Gitlab Pages](http://docs.gitlab.com/ee/user/project/pages)
 - :wrench: [Deta](https://www.deta.sh/)
 - :wrench: [InfinityFree](https://infinityfree.net/)
+- :wrench: [Cyclic](https://www.cyclic.sh/)
 
 ---
 
