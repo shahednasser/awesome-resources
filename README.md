@@ -1057,6 +1057,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :file_folder: [Getting Started - Building an Application](https://spring.io/guides/gs/spring-boot/)
 - :file_folder: [Spring Security Architecture](https://spring.io/guides/topicals/spring-security-architecture/)
 - :file_folder: [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
+- :video_camera: [Spring Boot Tutorial for Beginners](https://www.youtube.com/watch?v=vtPkZShrvXQ&t=1551s)
 
 ---
 
