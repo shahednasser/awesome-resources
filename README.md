@@ -439,7 +439,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 ## Networking
 
 - :video_camera: [Fundamentals of Networking](https://www.youtube.com/playlist?list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi)
-
+- :video_camera: [Computer Networks Full Course](https://www.youtube.com/watch?v=IPvYjXCsTg8&t=5403s)
 ---
 
 **[⬆ Back to Index](#content)**
