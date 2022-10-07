@@ -86,6 +86,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - [Operating Systems](#operating-systems)
 - [PHP](#php)
 - [PostgreSQL](#postgresql)
+- [Power Automate](#power-automate)
 - [Python](#python)
 - [React](#react)
 - [React Native](#react-native)
@@ -296,6 +297,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [CSS Reference](https://cssreference.io/)
 - :wrench: [CSS Validator](https://jigsaw.w3.org/css-validator/)
 - :wrench: [CSS Framework - Skeleton](http://getskeleton.com/)
+- :wrench: [CSS Framework - Pure](https://purecss.io/)
+- :wrench: [CSS Framework - Material Design Lite](https://getmdl.io/)
 
 ---
 
@@ -431,6 +434,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [Stanford University Algorithms: Design and Analysis, Part 1](https://online.stanford.edu/courses/soe-ycsalgorithms1-algorithms-design-and-analysis-part-1)
 - :books: [Stanford University Algorithms: Design and Analysis, Part 2](https://online.stanford.edu/courses/soe-ycs0001-algorithms-design-and-analysis-part-2)
 - :video_camera: [Sorting Algorithms](https://www.youtube.com/playlist?list=PL2_aWCzGMAwKedT2KfDMB9YA5DgASZb3U) - mycodeschool
+- :video_camera: [Greedy Algorithm by Abdul Bari](https://www.youtube.com/playlist?list=PL8zDQ1C22qvvwdkPj1uXLpwzcYDJtjnze)
 
 ---
 
@@ -775,6 +779,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [Laravel News](https://laravel-news.com)
 - :books: [LaraShout: Laravel Tutorials and Guides](https://www.larashout.com)
 - :bulb: [Laravel Daily](https://laraveldaily.com)
+- :books: [Laravel Bootcamp](https://bootcamp.laravel.com)
 
 ---
 
@@ -826,6 +831,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [Deep Learning - University of buffalo](https://cedar.buffalo.edu/~srihari/CSE676/index.html)
 - :books: [Machine Learning Introduction with Python](https://www.dataquest.io/path/machine-learning-intro-with-python/)
 - :speaker: [Machine Learning Guide Podcast](https://ocdevel.com/mlg)
+- :video_camera: [Neural Networks Theory](https://youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1)
 
 ---
 
@@ -916,6 +922,14 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [SQL Tutorials - Corey Schafer](https://youtube.com/playlist?list=PL-osiE80TeTsKOdPrKeSOp4rN3mza8VHN)
 - :file_folder: [PostgreSQL SQL documentation](https://www.postgresql.org/docs/9.2/sql.html)
 - :bulb: [PostgreSQL exercises](https://pgexercises.com/)
+
+---
+
+**[⬆ Back to Index](#content)**
+
+## Power Automate
+
+- :file_folder: [Power Automate official documentation](https://learn.microsoft.com/en-us/power-automate)
 
 ---
 
@@ -1115,6 +1129,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [TypeScript Course for Beginners 2021 - Learn TypeScript from Scratch!](https://www.youtube.com/watch?v=BwuLxPH8IDs&t=1s)
 - :books: [Learn TypeScript Step by Step Tutorial](https://www.tutorialsteacher.com/typescript)
 - :books: [Learn TypeScript From Scratch](https://www.typescripttutorial.net/)
+- :books: [Type-Level TypeScript](https://type-level-typescript.com/)
 
 ---
 
