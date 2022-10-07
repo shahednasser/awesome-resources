@@ -1035,6 +1035,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :file_folder: [The Rust Programming Language book](https://doc.rust-lang.org/book/)
 - :bulb: [Rustlings - small exercises to get you used to reading and writing Rust code](https://github.com/rust-lang/rustlings)
 - :video_camera: [The Rust Lang Book video series by Let's Get Rusty](https://youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8)
+- :video_camera: [Rust Programming Course for Beginners - Tutorial](https://www.youtube.com/watch?v=MsocPEZBd-M)
 
 ---
 
