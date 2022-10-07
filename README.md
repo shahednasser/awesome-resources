@@ -87,6 +87,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - [Operating Systems](#operating-systems)
 - [PHP](#php)
 - [PostgreSQL](#postgresql)
+- [Power Automate](#power-automate)
 - [Python](#python)
 - [React](#react)
 - [React Native](#react-native)
@@ -306,6 +307,11 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [100 Days CSS Challenge](https://100dayscss.com/)  
 - :bulb: [CSS Reference](https://cssreference.io/)
 - :wrench: [CSS Validator](https://jigsaw.w3.org/css-validator/)
+- :wrench: [CSS Color Picker](https://0to255.com/)
+- :wrench: [CSS Framework - UIkit](https://getuikit.com/)
+- :wrench: [CSS Framework - Skeleton](http://getskeleton.com/)
+- :wrench: [CSS Framework - Pure](https://purecss.io/)
+- :wrench: [CSS Framework - Material Design Lite](https://getmdl.io/)
 
 ---
 
@@ -419,6 +425,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [Docker Curriculum Ebook](https://docker-curriculum.com/)
 - :wrench: [Docker Labs environment](https://labs.play-with-docker.com/)
 - :books: [Docker labs](https://www.sharelearn.net/practice/dockerlabs)
+- :bulb: [Docker Cheat sheet](https://dockerlabs.collabnix.com/docker/cheatsheet/)
 
 ---
 
@@ -441,6 +448,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [Stanford University Algorithms: Design and Analysis, Part 1](https://online.stanford.edu/courses/soe-ycsalgorithms1-algorithms-design-and-analysis-part-1)
 - :books: [Stanford University Algorithms: Design and Analysis, Part 2](https://online.stanford.edu/courses/soe-ycs0001-algorithms-design-and-analysis-part-2)
 - :video_camera: [Sorting Algorithms](https://www.youtube.com/playlist?list=PL2_aWCzGMAwKedT2KfDMB9YA5DgASZb3U) - mycodeschool
+- :bulb: [Algorithm Visualizer](https://algorithm-visualizer.org/)
+- :video_camera: [Greedy Algorithm by Abdul Bari](https://www.youtube.com/playlist?list=PL8zDQ1C22qvvwdkPj1uXLpwzcYDJtjnze)
 
 ---
 
@@ -584,6 +593,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :wrench: [Gitlab Pages](http://docs.gitlab.com/ee/user/project/pages)
 - :wrench: [Deta](https://www.deta.sh/)
 - :wrench: [InfinityFree](https://infinityfree.net/)
+- :wrench: [Cyclic](https://www.cyclic.sh/)
 
 ---
 
@@ -787,6 +797,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [Laravel News](https://laravel-news.com)
 - :books: [LaraShout: Laravel Tutorials and Guides](https://www.larashout.com)
 - :bulb: [Laravel Daily](https://laraveldaily.com)
+- :books: [Laravel Bootcamp](https://bootcamp.laravel.com)
 
 ---
 
@@ -838,6 +849,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [Deep Learning - University of buffalo](https://cedar.buffalo.edu/~srihari/CSE676/index.html)
 - :books: [Machine Learning Introduction with Python](https://www.dataquest.io/path/machine-learning-intro-with-python/)
 - :speaker: [Machine Learning Guide Podcast](https://ocdevel.com/mlg)
+- :books: [An Introduction to Statistical Learning with Applications in R](https://www.statlearning.com/)
+- :video_camera: [Neural Networks Theory](https://youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1)
 
 ---
 
@@ -928,6 +941,14 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [SQL Tutorials - Corey Schafer](https://youtube.com/playlist?list=PL-osiE80TeTsKOdPrKeSOp4rN3mza8VHN)
 - :file_folder: [PostgreSQL SQL documentation](https://www.postgresql.org/docs/9.2/sql.html)
 - :bulb: [PostgreSQL exercises](https://pgexercises.com/)
+
+---
+
+**[⬆ Back to Index](#content)**
+
+## Power Automate
+
+- :file_folder: [Power Automate official documentation](https://learn.microsoft.com/en-us/power-automate)
 
 ---
 
@@ -1029,6 +1050,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :file_folder: [The Rust Programming Language book](https://doc.rust-lang.org/book/)
 - :bulb: [Rustlings - small exercises to get you used to reading and writing Rust code](https://github.com/rust-lang/rustlings)
 - :video_camera: [The Rust Lang Book video series by Let's Get Rusty](https://youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8)
+- :video_camera: [Rust Programming Course for Beginners - Tutorial](https://www.youtube.com/watch?v=MsocPEZBd-M)
 
 ---
 
@@ -1051,6 +1073,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :file_folder: [Getting Started - Building an Application](https://spring.io/guides/gs/spring-boot/)
 - :file_folder: [Spring Security Architecture](https://spring.io/guides/topicals/spring-security-architecture/)
 - :file_folder: [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
+- :video_camera: [Spring Boot Tutorial for Beginners](https://www.youtube.com/watch?v=vtPkZShrvXQ&t=1551s)
 
 ---
 
@@ -1127,6 +1150,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [TypeScript Course for Beginners 2021 - Learn TypeScript from Scratch!](https://www.youtube.com/watch?v=BwuLxPH8IDs&t=1s)
 - :books: [Learn TypeScript Step by Step Tutorial](https://www.tutorialsteacher.com/typescript)
 - :books: [Learn TypeScript From Scratch](https://www.typescripttutorial.net/)
+- :books: [Type-Level TypeScript](https://type-level-typescript.com/)
 
 ---
 
@@ -1230,6 +1254,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [SVG Backgrounds](https://www.svgbackgrounds.com/): Customize and apply backgrounds fast.
 - :bulb: [Vecteezy](https://www.vecteezy.com/): Download Free Vector Art, Stock Photos & Stock Videos.
 - :bulb: [Haikei](https://app.haikei.app/): Multiple Shape Generator for UI.
+- :bulb: [Free Web Illustrations](https://freewebillustrations.com/): Discover 1,500+ Free High-Quality Web Illustrations
 
 ### Open Source
 
