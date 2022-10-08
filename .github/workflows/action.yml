@@ -1,22 +1,18 @@
-name: Broken link check
-on: [pull_request]
 
+
+on:
+  schedule:
+    - cron: 0 0 1 * * # run monthly
+  repository_dispatch: # run manually
+    types: [check-link]
+  # push:
+  # ...
+
+name: Broken Link Check
 jobs:
-  broken_link_checker_job:
+  check:
+    name: Broken Link Check
     runs-on: ubuntu-latest
-    name: Check for broken links
-
-    
     steps:
-      - name: Check for broken links
-        id: link-report
-        uses: celinekurpershoek/link-checker@v1.0.2
-        with:
-          # Required:
-          url: "https://..."
-          # optional:
-          honorRobotExclusions: false
-          ignorePatterns: "github,google"
-          recursiveLinks: false # Check all URLs on all reachable pages (could take a while)
-      - name: Get the result
-        run: echo "${{steps.link-report.outputs.result}}"
+      - name: Broken Link Check
+        uses: technote-space/broken-link-checker-action@v2
