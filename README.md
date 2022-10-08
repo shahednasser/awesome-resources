@@ -1110,7 +1110,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :file_folder: [Three.js Documentation](https://threejs.org/docs/index.html#manual/introduction/Creating-a-scene)
 - :file_folder: [Three.js Resources](https://threejs.org/manual/#en/fundamentals)
 - :video_camera: [Three.js Tutorial Crash Course](https://www.youtube.com/watch?v=YK1Sw_hnm58)
-- :video_camera: [Three.js Course: three.js journey by Bruno Simon](https://threejs-journey.com/)
+- :video_camera: [Three.js Course: Three.js journey by Bruno Simon](https://threejs-journey.com/)
 - :books: [Learn Three.js - Third Edition](https://www.packtpub.com/product/learn-three-js/9781788833288?_ga=2.134306225.1315292161.1665121128-2109162035.1665121128)
 
 ---
