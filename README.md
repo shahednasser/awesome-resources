@@ -581,6 +581,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :wrench: [Deta](https://www.deta.sh/)
 - :wrench: [InfinityFree](https://infinityfree.net/)
 - :wrench: [Cyclic](https://www.cyclic.sh/)
+- :wrench: [Surge](https://surge.sh/)
 
 ---
 
