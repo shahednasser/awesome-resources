@@ -39,6 +39,12 @@ plugins:
 sass:
   sass_dir: css
   style: compressed
+  
+  
+  
+ - name: Verify Linked Issue
+  uses: hattan/verify-linked-issue-action@v1.1.1
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
