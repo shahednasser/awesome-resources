@@ -381,6 +381,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :green_book: [Deploy Django Application on Heroku](https://www.codementor.io/@jamesezechukwu/how-to-deploy-django-app-on-heroku-dtsee04d4)
 - :video_camera: [Everything about using Celery with Django](https://youtube.com/playlist?list=PLLz6Bi1mIXhHKA1Szy2aj9Jbs6nw9fhNY)
 - :video_camera: [Python Backend Web Development Course (with Django)](https://youtu.be/jBzwzrDvZ18)
+- :video_camera: [Django tutorial for beginners](https://www.youtube.com/playlist?list=PLsyeobzWxl7r2ukVgTqIQcl-1T0C2mzau)
 - :bulb: [Django Cheatsheet](https://www.codewithharry.com/blogpost/django-cheatsheet)
 - :green_book: [Django REST APIs](https://djangostars.com/blog/rest-apis-django-development/)
 
