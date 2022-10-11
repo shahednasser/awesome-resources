@@ -37,6 +37,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - [Algorithms](#algorithms)
 - [Android](#android)
 - [Angular](#angular)
+- [Artificial Intelligence](#artificial-intelligence)
 - [Big Data](#bigdata)
 - [Blockchain](#blockchain)
 - [Bots](#bots)
@@ -150,6 +151,14 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [Angular Material - Material Design components for Angular](https://material.angular.io/)
 - :bulb: [Angular Powered Bootstrap - Bootstrap widgets for Angular](https://ng-bootstrap.github.io/#/home)
 - :books: [freeCodeCamp.org - Learn Angular - Full Tutorial Course](https://www.youtube.com/watch?v=2OHbjep_WjQ)
+
+---
+
+**[⬆ Back to Index](#content)**
+
+## Artificial Intelligence
+
+- :books: [Learn Basics Of AI](https://www.elementsofai.com/)
 
 ---
 
