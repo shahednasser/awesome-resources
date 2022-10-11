@@ -336,6 +336,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 ## Database
 
 - :video_camera: [Practical SQL Series](https://youtube.com/playlist?list=PL-Jc9J83PIiFRR58Ezyy2z3gYhPA0lKmt)
+- :video_camera: [DBMS Database Management System-For College](https://www.youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y)
 - :video_camera: [Database Systems - Cornell University Course (SQL, NoSQL, Large-Scale Data Analysis)](https://www.youtube.com/watch?v=4cWkVbC2bNE)
 - :books: [SQL Bolt - learn SQL with simple, interactive exercises](https://sqlbolt.com/)
 
@@ -899,6 +900,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 - :video_camera: [Operating Systems](https://youtube.com/playlist?list=PL-Jc9J83PIiEKfEI9f7afzCutT_3hPQP3)
 - :books: [Operating System Tutorial - Learn Operating System](https://www.scaler.com/topics/operating-system/)
+- :video_camera: [Operating System - For College](https://www.youtube.com/playlist?list=plxczcowd7aigz9donhrre9i3mwn6xdp8p)
 - :books: [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 - :video_camera: [Operating Systems: Operating Systems for Placements/Interview](https://youtube.com/playlist?list=PLDzeHZWIZsTr3nwuTegHLa2qlI81QweYG)
 
