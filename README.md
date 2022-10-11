@@ -886,6 +886,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [SQL Tutorial - Full Database Course for Beginners - freeCodeCamp](https://youtu.be/HXV3zeQKqGY)
 - :video_camera: [MySQL Database - Full Course - freeCodeCamp](https://youtu.be/ER8oKX5myE0)
 - :bulb: [MySQL Cheatsheet](https://www.codewithharry.com/blogpost/mysql-cheatsheet)
+- :books: [SQLBolt](https://sqlbolt.com/)
 
 ---
 
