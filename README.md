@@ -652,7 +652,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 - :video_camera: [GraphQL tutorial for beginners](https://www.howtographql.com/)
 - :books: [GraphQL Tutorials](https://www.tutorialspoint.com/graphql/index.htm)
-- :video*camera: [Complete App with GraphQl](https://www.youtube.com/playlist?list=PL55RiY5tL51rG1x02Yyj93iypUuHYXcB*)
+- :video_camera: [Complete App with GraphQl](https://www.youtube.com/playlist?list=PL55RiY5tL51rG1x02Yyj93iypUuHYXcB*)
 - :video_camera: [Learn GraphQL with React](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f)
 
 ---
@@ -1172,7 +1172,6 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :green_book: [Mozilla Accessibility Guide](https://developer.mozilla.org/en-US/docs/Web/Accessibility)
 - :green_book: [Google Developers Guide on Accessibility](https://developers.google.com/web/fundamentals/accessibility)
 - :green_book: [Accessibility Testing Tutorial - A Complete Step By Step Guide](https://www.softwaretestingmaterial.com/accessibility-testing/)
-- :wrench: [Tota11y: An Accessibility Visualization Toolkit](https://khan.github.io/tota11y/)
 
 ---
 
