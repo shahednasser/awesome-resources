@@ -729,7 +729,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 ## Javascript
 
-- :video_camera: [Learn How JavaScripts works Behind the Scene by Akshay Saini](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
+- :video_camera: [Learn React Query by The Net Ninja](https://youtube.com/playlist?list=PL4cUxeGkcC9jpi7Ptjl5b50p9gLjOFani)
 - :books: [CoderslangJS](https://js.coderslang.com/)
 - :bulb: [Beginner JavaScript Notes + Reference by Wes Bos](https://wesbos.com/javascript)
 - :green_book: [Learn Modern JavaScript ES6 \| ES7 \| ES8](https://codeloop.org/learn-modern-javascript-es6-es7-es8/)
@@ -989,6 +989,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 ## React
 
+- :video_camera: [Learn How JavaScripts works Behind the Scene by Akshay Saini](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
 - :books: [React Tutorial - W3Schools](https://www.w3schools.com/react/)
 - :books: [Egghead.io: Start Learning React](https://egghead.io/courses/start-learning-react)
 - :file_folder: [React Official Tutorial](https://facebook.github.io/react/docs/tutorial.html)
