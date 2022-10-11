@@ -38,6 +38,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - [Android](#android)
 - [Angular](#angular)
 - [Artificial Intelligence](#artificial-intelligence)
+- [AWS](#aws)
 - [Big Data](#bigdata)
 - [Blockchain](#blockchain)
 - [Bots](#bots)
@@ -159,6 +160,14 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 ## Artificial Intelligence
 
 - :books: [Learn Basics Of AI](https://www.elementsofai.com/)
+
+---
+
+**[⬆ Back to Index](#content)**
+
+## AWS
+
+- :books: [Learn AWS with Training and Certification](https://aws.amazon.com/training/)
 
 ---
 
