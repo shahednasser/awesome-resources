@@ -37,6 +37,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - [Algorithms](#algorithms)
 - [Android](#android)
 - [Angular](#angular)
+- [Artificial Intelligence](#artificial-intelligence)
 - [Big Data](#bigdata)
 - [Blockchain](#blockchain)
 - [Bots](#bots)
@@ -155,6 +156,14 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 **[⬆ Back to Index](#content)**
 
+## Artificial Intelligence
+
+- :books: [Learn Basics Of AI](https://www.elementsofai.com/)
+
+---
+
+**[⬆ Back to Index](#content)**
+
 ## Big Data
 
 - :video_camera: [Big Data](https://youtube.com/playlist?list=PL-Jc9J83PIiFFhKLTP1_UDUiNE0xXbJqr)
@@ -171,6 +180,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript](https://www.youtube.com/watch?v=gyMwXuJrbJQ)
 - :video_camera: [Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial](https://www.youtube.com/watch?v=M576WGiDBdQ)
 - :video_camera: [Complete Blockchain tutorial for beginners](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=9919s)
+- :books: [Become a Web3 Developer](https://learnweb3.io/)
 
 ---
 
@@ -336,6 +346,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 ## Database
 
 - :video_camera: [Practical SQL Series](https://youtube.com/playlist?list=PL-Jc9J83PIiFRR58Ezyy2z3gYhPA0lKmt)
+- :video_camera: [DBMS Database Management System-For College](https://www.youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y)
 - :video_camera: [Database Systems - Cornell University Course (SQL, NoSQL, Large-Scale Data Analysis)](https://www.youtube.com/watch?v=4cWkVbC2bNE)
 - :books: [SQL Bolt - learn SQL with simple, interactive exercises](https://sqlbolt.com/)
 
@@ -379,6 +390,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :green_book: [Deploy Django Application on Heroku](https://www.codementor.io/@jamesezechukwu/how-to-deploy-django-app-on-heroku-dtsee04d4)
 - :video_camera: [Everything about using Celery with Django](https://youtube.com/playlist?list=PLLz6Bi1mIXhHKA1Szy2aj9Jbs6nw9fhNY)
 - :video_camera: [Python Backend Web Development Course (with Django)](https://youtu.be/jBzwzrDvZ18)
+- :video_camera: [Django tutorial for beginners](https://www.youtube.com/playlist?list=PLsyeobzWxl7r2ukVgTqIQcl-1T0C2mzau)
 - :bulb: [Django Cheatsheet](https://www.codewithharry.com/blogpost/django-cheatsheet)
 - :green_book: [Django REST APIs](https://djangostars.com/blog/rest-apis-django-development/)
 
@@ -582,6 +594,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :wrench: [InfinityFree](https://infinityfree.net/)
 - :wrench: [Cyclic](https://www.cyclic.sh/)
 - :wrench: [Surge](https://surge.sh/)
+- :wrench: [Adaptable](https://adaptable.io/)
 
 ---
 
@@ -612,6 +625,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [Using multiple Git accounts with SSH keys](https://gist.github.com/oanhnn/80a89405ab9023894df7)
 - :green_book: [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 - :video_camera: [Kunal Kushwaha's Complete Git and GitHub tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics)
+- :video_camera: [Git & GitHub Tutorial For Beginners In Hindi - हिंदी में](https://www.youtube.com/watch?v=gwWKnnCMQ5c)
 
 ---
 
@@ -899,6 +913,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 - :video_camera: [Operating Systems](https://youtube.com/playlist?list=PL-Jc9J83PIiEKfEI9f7afzCutT_3hPQP3)
 - :books: [Operating System Tutorial - Learn Operating System](https://www.scaler.com/topics/operating-system/)
+- :video_camera: [Operating System - For College](https://www.youtube.com/playlist?list=plxczcowd7aigz9donhrre9i3mwn6xdp8p)
 - :books: [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 - :video_camera: [Operating Systems: Operating Systems for Placements/Interview](https://youtube.com/playlist?list=PLDzeHZWIZsTr3nwuTegHLa2qlI81QweYG)
 
@@ -1209,6 +1224,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [Programming Cheat Sheets](https://cheatography.com/)
 - :bulb: [Codehouse - Cheatsheet Collection](https://codehouse.vercel.app/app)
 - :bulb: [Emmet](https://docs.emmet.io/cheat-sheet/)
+- :bulb: [LeetCode](https://leetcode.com/)
 
 ### Design
 
@@ -1265,6 +1281,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :wrench: [Ray.so](https://ray.so/): Create beautiful images of your code snippets!
 - :wrench: [Squircley](https://squircley.app/): Start creating beautiful organic shapes ready to use for logos, icons and background images
 - :wrench: [BrandBird](https://www.brandbird.app/): An image editor for busy SaaS founders, who build in public!
+- :wrench: [Carbon](https://carbon.now.sh/): Create and share beautiful images of your source code. (An alternative of [Ray.so](https://ray.so/))
 
 ### Talks and Podcasts
 
