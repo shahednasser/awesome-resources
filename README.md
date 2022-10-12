@@ -329,7 +329,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [Intro to Dart for Java Developers](https://codelabs.developers.google.com/codelabs/from-java-to-dart/#0)
 - :file_folder: [Iterable collections](https://dart.dev/codelabs/iterables)
 - :book: [Learning Dart](https://riptutorial.com/Download/dart.pdf)
-- :book: [Essential Dart](https://www.programming-books.io/essential/dart)
+- :book: [Essential Dart](https://www.programming-books.io/essential/dart/)
 
 ---
 
