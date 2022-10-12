@@ -645,6 +645,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :file_folder: [Effective Go](https://go.dev/doc/effective_go)
 - :books: [Go Web Examples](https://gowebexamples.com)
 
+
 ---
 
 **[⬆ Back to Index](#content)**
