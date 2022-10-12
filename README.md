@@ -626,7 +626,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [GitHub Protips: Tips, tricks, hacks, and secrets from Lee Reilly](https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/)
 - :green_book: [GitHub Minesweeper](https://profy.dev/project/github-minesweeper/intro-overview): hands-on introduction to working with Git and GitHub in a team
 - :wrench: [Readme.so](https://readme.so/): Easiest way to make good readme for your github repos
-- :video_camera: [Coding train's git and github playlist](https://youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV): Git and GitHub for Poets
+- :video_camera: [Git and GitHub for Poets](https://youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
 - :video_camera: [Complete Git and Github Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics)
 - :green_book: [How to Create Github Profile README](https://www.sitepoint.com/github-profile-readme/)
 
