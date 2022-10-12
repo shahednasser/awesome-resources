@@ -644,6 +644,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [Let's go with golang - YouTube playlist](https://www.youtube.com/playlist?list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa)
 - :file_folder: [Effective Go](https://go.dev/doc/effective_go)
 - :books: [Go Web Examples](https://gowebexamples.com)
+
 ---
 
 **[⬆ Back to Index](#content)**
