@@ -282,6 +282,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [CSS Flexbox - Wes Bos](https://flexbox.io/)
 - :video_camera: [CSS Grid - Wes Bos](https://cssgrid.io/)
 - :wrench: [CSS Box-Shadow Generator](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Backgrounds_and_Borders/Box-shadow_generator)
+- :wrench: [CSS Easing Animation Tool](https://matthewlein.com/tools/ceaser)
 - :wrench: [CSS Gradient Generator](https://cssgradient.io/)
 - :wrench: [CSS Animated Gradient Background Generator](https://animated-gradient-background-generator.netlify.app/)
 - :wrench: [Online CSS3 Code Generator - EnjoyCSS](https://enjoycss.com/) : A gallery with ready made solutions from text effects to art and templates.
@@ -298,6 +299,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :wrench: [CSS Selector Generator](https://github.com/antonmedv/finder)
 - :bulb: [CSS Cheat Sheet](https://www.hostinger.com/tutorials/css-cheat-sheet)
 - :books: [CSS Tutorial - Learn CSS in Detail](https://www.scaler.com/topics/css/)
+- :wrench: [CSS Tutorial - Transitions, Transforms, and Animations](http://css3.bradshawenterprises.com/)
 - :wrench: [CSS Multicolor Gradient](https://gradienta.io/)
 - :bulb: [CSS Grid Garden](https://cssgridgarden.com/)
 - :bulb: [CSS Flexbox-Froggy](https://flexboxfroggy.com/) - Learn Flexbox while playing 
