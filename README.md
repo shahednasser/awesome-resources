@@ -411,6 +411,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [How To Become a DevOps Engineer In Six Months or Less](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737)
 - :video_camera: [Free DevOps Bootcamp from beginner to advanced](https://www.youtube.com/playlist?list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak)
 - :video_camera: [DevOps roadmap with Resources](youtube.com/watch?v=7l_n97Mt0ko&t=6s)
+- :video_camera: [Perform DevOps on IBM Cloud](https://cognitiveclass.ai/courses/course-v1:IBM+GPXX0CUCEN+v1)
 - :bulb: [How to Become a DevOps Engineer in Six Months - by Spacelift](https://spacelift.io/blog/how-to-become-devops-engineer)
 - :bulb: [9 DevOps Best Practices – What You Should Do and NOT Do - by Spacelift](https://spacelift.io/blog/devops-best-practices)
 - :bulb: [Best tools for DevOps](https://kush01.hashnode.dev/best-tools-for-devops)
