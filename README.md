@@ -350,6 +350,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [DBMS Database Management System-For College](https://www.youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y)
 - :video_camera: [Database Systems - Cornell University Course (SQL, NoSQL, Large-Scale Data Analysis)](https://www.youtube.com/watch?v=4cWkVbC2bNE)
 - :books: [SQL Bolt - learn SQL with simple, interactive exercises](https://sqlbolt.com/)
+- :books: [DBMS Tutorial](https://www.scaler.com/topics/dbms/)
 
 ---
 
