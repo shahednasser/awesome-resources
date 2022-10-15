@@ -300,10 +300,10 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [CSS Tutorial - Learn CSS in Detail](https://www.scaler.com/topics/css/)
 - :wrench: [CSS Multicolor Gradient](https://gradienta.io/)
 - :bulb: [CSS Grid Garden](https://cssgridgarden.com/)
-- :bulb: [CSS Flexbox-Froggy](https://flexboxfroggy.com/) - Learn Flexbox while playing 
+- :bulb: [CSS Flexbox-Froggy](https://flexboxfroggy.com/) - Learn Flexbox while playing
 - :bulb: [Knights of the Flexbox Table](https://knightsoftheflexboxtable.com)
 - :books: [Learn CSS From Scratch](https://web.dev/learn/css/)
-- :bulb: [100 Days CSS Challenge](https://100dayscss.com/)  
+- :bulb: [100 Days CSS Challenge](https://100dayscss.com/)
 - :bulb: [CSS Reference](https://cssreference.io/)
 - :wrench: [CSS Validator](https://jigsaw.w3.org/css-validator/)
 - :wrench: [CSS Color Picker](https://0to255.com/)
@@ -377,7 +377,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [Deep Learning Fundamentals](https://www.dataquest.io/course/deep-learning-fundamentals/)
 - :bulb: [Deep learning cheat sheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning)
 - :books: [Natural Language Processing CS224n](http://web.stanford.edu/class/cs224n/)
-- :books: [IBM Deep Learning Course with certification](https://cognitiveclass.ai/courses/introduction-deep-learning) 
+- :books: [IBM Deep Learning Course with certification](https://cognitiveclass.ai/courses/introduction-deep-learning)
 - :books: [Geometric Deep Learning](https://geometricdeeplearning.com/lectures/)
 - :books: [CS224W: Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/)
 
@@ -1228,6 +1228,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [Codehouse - Cheatsheet Collection](https://codehouse.vercel.app/app)
 - :bulb: [Emmet](https://docs.emmet.io/cheat-sheet/)
 - :bulb: [LeetCode](https://leetcode.com/)
+- :bulb: [tmux](https://tmuxcheatsheet.com/)
 
 ### Design
 
