@@ -96,6 +96,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - [Rust](#rust)
 - [Sass](#sass)
 - [Spring](#spring)
+- [Statistics](#statistics)
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [System Design](#system-design)
@@ -1080,6 +1081,14 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :file_folder: [Spring Security Architecture](https://spring.io/guides/topicals/spring-security-architecture/)
 - :file_folder: [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
 - :video_camera: [Spring Boot Tutorial for Beginners](https://www.youtube.com/watch?v=vtPkZShrvXQ&t=1551s)
+
+---
+
+**[⬆ Back to Index](#content)**
+
+## Statistics
+
+- :green_book: [STATISTICS REVISION NOTES](https://www.mathsbox.org.uk/twi/astats.pdf)
 
 ---
 
