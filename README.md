@@ -1290,3 +1290,17 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 - :video_camera: [Coding Better World Together Live Session with Uncle Bob (Robert C. Martin](https://www.youtube.com/playlist?list=PLmmYSbUCWJ4x1GO839azG_BBw8rkh-zOj) : Coding Better World Together is a set of master lessons from the famous Uncle Bob (Robert Cecil Martin), where he gives us a broad vision of the importance and future of Software in today's society.
 - :speaker: [Clean Code with Uncle Bob Martin](https://completedeveloperpodcast.com/episode-232/): When folks code long enough, in time they get themselves stuck in a code base that's kind of difficult to wrap thier heads around. In this podcast Uncle Bob Martin talks about the principles of clean code and how to not make a code base too difficult to understand.
+
+
+### Kotlin
+- :video_camera: [Course by Google on Kotlin and Jetpack Compose](https://developer.android.com/courses/android-basics-compose/course)
+- :green-book: [Kotlin Cheatsheet](https://devhints.io/kotlin)
+- :green_book: [Kotlin org](https://kotlinlang.org/)
+- :green_book: [Kotlin FreeCodeCamp](https://www.youtube.com/watch?v=F9UC9DY-vIU&t=1638s)
+
+### R Language
+- :green-book: [Course on R](https://www.youtube.com/watch?v=oPjZK4Apgug&list=PLjVLYmrlmjGdmPrz0Lx7smkd0qIKHInOF)
+- :green_book: [R cheatsheet](https://www.datacamp.com/cheat-sheet/getting-started-r)
+- :green_book: [R freecodecamp](https://www.youtube.com/watch?v=_V8eKsto3Ug)
+
+
