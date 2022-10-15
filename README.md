@@ -312,6 +312,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :wrench: [CSS Framework - Pure](https://purecss.io/)
 - :wrench: [CSS Framework - Material Design Lite](https://getmdl.io/)
 - :green_book: [Understanding Layout Algorithms](https://www.joshwcomeau.com/css/understanding-layout-algorithms/)
+- :wrench: [Sara Edo - CSS Grid Generator](https://cssgrid-generator.netlify.app)
+- :wrench: [Clippy - CSS clip-path generator](https://bennettfeely.com/clippy)
 
 ---
 
@@ -688,6 +690,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [Introduction to HTML](https://www.youtube.com/playlist?list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw)
 - :video_camera: [Learn HTML! with 100Devs](https://www.youtube.com/watch?v=eCRbEILXXmE)
 - :books: [HTML Tutorial - Learn HTML in Detail](https://www.scaler.com/topics/html/)
+- :bulb: [HTML5 Boilerplate](https://html5boilerplate.com)
+- :wrench: [HTML5 Please](https://html5please.com)
 
 ---
 
@@ -874,6 +878,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 - :bulb: [List of Badges, in Markdown](https://github.com/Naereen/badges)
 - :bulb: [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
+- :wrench: [Dillinger - Markdown Editor](https://dillinger.io)
 
 ---
 
@@ -1010,6 +1015,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [Become a React Developer - Linkedin Learning](https://www.linkedin.com/learning/paths/become-a-react-developer)
 - :video_camera: [React Testing Tutorial by Codevolution](https://www.youtube.com/playlist?list=PLC3y8-rFHvwirqe1KHFCHJ0RqNuN61SJd)
 - :video_camera: [React JS Full Course 2022 | Build an App and Master React in 1 Hour](https://www.youtube.com/watch?v=b9eMGE7QtTk)
+- :books: [React Digest](https://reactdigest.net)
 
 ---
 
@@ -1262,6 +1268,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [Vecteezy](https://www.vecteezy.com/): Download Free Vector Art, Stock Photos & Stock Videos.
 - :bulb: [Haikei](https://app.haikei.app/): Multiple Shape Generator for UI.
 - :bulb: [Free Web Illustrations](https://freewebillustrations.com/): Discover 1,500+ Free High-Quality Web Illustrations
+- :bulb: [Flaticon](https://www.flaticon.com)
 
 ### Open Source
 
@@ -1285,6 +1292,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :wrench: [Squircley](https://squircley.app/): Start creating beautiful organic shapes ready to use for logos, icons and background images
 - :wrench: [BrandBird](https://www.brandbird.app/): An image editor for busy SaaS founders, who build in public!
 - :wrench: [Carbon](https://carbon.now.sh/): Create and share beautiful images of your source code. (An alternative of [Ray.so](https://ray.so/))
+- :wrench: [Milanote](https://milanote.com): Organize your creative ideas into visual boards
 
 ### Talks and Podcasts
 
