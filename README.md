@@ -532,6 +532,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :green_book: [Gauss & Determinant](https://cp-algorithms.com/linear_algebra/determinant-gauss.html)
 - :green_book: [Kraut & Determinant](https://cp-algorithms.com/linear_algebra/determinant-kraut.html)
 - :green_book: [Rank of a matrix](https://cp-algorithms.com/linear_algebra/rank-matrix.html)
+- :green_book: [Notes For Linear Algebra](https://webspace.maths.qmul.ac.uk/p.j.cameron/notes/linalg.pdf)
 
 ### String Processing
 
