@@ -46,6 +46,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - [Clojure](#clojure)
 - [Computer Science](#computer-science)
   - [Theoretical Computer Science](#theoretical-computer-science)
+- [Cryptography](#cryptography)
 - [CSS](#css)
 - [CSharp](#csharp)
 - [Dart](#dart)
@@ -264,6 +265,15 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [Freely available programming books](https://github.com/EbookFoundation/free-programming-books)
 - :file_folder: [Programming Language Foundation in Agda](https://plfa.github.io/)
 - :video_camera: [Type Theory playlist](https://www.youtube.com/playlist?list=PLoPjtLnIwJuJcZpSHIsVliXFsTH99-2W5)
+
+---
+
+**[⬆ Back to Index](#content)**
+
+## Cryptography
+
+- :books: [Understanding Cryptography](https://www.crypto-textbook.com/)
+- :video_camera: [Introduction to Cryptography](https://youtube.com/playlist?list=PL6N5qY2nvvJE8X75VkXglSrVhLv1tVcfy)
 
 ---
 
