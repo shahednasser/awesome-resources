@@ -578,6 +578,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :green_book: [Write a Flutter desktop application](https://codelabs.developers.google.com/codelabs/flutter-github-graphql-client/#0)
 - :video_camera: [Flutter Bloc Complete Course](https://www.youtube.com/watch?v=THCkkQ-V1-8)
 - :video_camera: [Flutter Bloc - from Zero To HERO](https://www.youtube.com/playlist?list=PLptHs0ZDJKt_T-oNj_6Q98v-tBnVf-S_o)
+- :green_book: [Face Recognition Authentication using Flutter and Tensorflow Lite](https://medium.com/analytics-vidhya/face-recognition-authentication-using-flutter-and-tensorflow-lite-2659d941d56e)
 
 ---
 
