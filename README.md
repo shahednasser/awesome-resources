@@ -226,7 +226,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [Clojure for the Brave and True](https://www.braveclojure.com/clojure-for-the-brave-and-true/)
 - :bulb: [Clojure Cheatsheet](https://clojure.org/api/cheatsheet)
 - :file_folder: [Clojure Documentation](https://clojuredocs.org/)
-- :file_folder:[Clojure Docs-learnxinyminutes](https://learnxinyminutes.com/docs/clojure/)
+- :green_book: [Learn Clojure in Y Minutes](https://learnxinyminutes.com/docs/clojure/)
 - :file_folder: [Clojure API](https://clojure.org/api/api)
 - :video_camera: [Clojure Tutorial](https://www.youtube.com/watch?v=ciGyHkDuPAE)
 - :video_camera: [Clojure Crash Course](https://www.youtube.com/watch?v=ZkJcVCW9GqY)
