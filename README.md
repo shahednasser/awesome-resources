@@ -14,7 +14,7 @@ To add a resource or contribute, please check out our contribution guide [here](
 
 ## Emojis Filter and Cheatsheet
 
-(If you're viewing this one the website, try clicking the icon buttons to filter the items in the list based on the category)
+(If you're viewing this website, try clicking the icon buttons to filter the items in the list based on the category)
 
 Throughout this list you'll see next to each resource and emoji. Here's what each mean:
 
