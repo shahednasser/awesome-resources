@@ -66,6 +66,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
   - [Graph Theory](#graph-theory)
   - [Linear Algebra](#linear-algebra)
   - [String Processing](#string-processing)
+- [Flask](#flask)
 - [Flutter](#flutter)
 - [GIT](#git)
 - [GitHub](#github)
@@ -553,6 +554,17 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :green_book: [Minimum Spanning Tree (Kruskal's Algorithm)](https://cp-algorithms.com/graph/mst_kruskal.html)
 - :green_book: [Max Flow (Ford-Fulkerson and Edmonds-Karp Algorithms)](https://cp-algorithms.com/graph/edmonds_karp.html)
 - :video_camera: [Striver's Graph Series](https://www.youtube.com/playlist?list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw)
+
+---
+
+**[⬆ Back to Index](#content)**
+
+## Flask
+
+- :green_book: [Official flask documentation](https://flask.palletsprojects.com/en/2.2.x/)
+- :video_camera: [Flask Tutorial for Beginners - YouTube](https://www.youtube.com/watch?v=mqhxxeeTbu0&list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX)
+- :video_camera: [Building a Flask REST API - YouTube](https://www.youtube.com/watch?v=GMppyAPbLYk&t=1075s)
+
 
 ---
 
