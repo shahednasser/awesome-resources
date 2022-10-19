@@ -954,6 +954,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 ## Power Automate
 
+- 📹:[DamoBird365 Power Automate Youtube Playlist](https://www.youtube.com/playlist?list=PLzq6d1ITy6c37RMBpXJlwzHMmPhX1Fqob)
 - :file_folder: [Power Automate official documentation](https://learn.microsoft.com/en-us/power-automate)
 
 ---
