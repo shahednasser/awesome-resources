@@ -415,6 +415,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [9 DevOps Best Practices – What You Should Do and NOT Do - by Spacelift](https://spacelift.io/blog/devops-best-practices)
 - :bulb: [Best tools for DevOps](https://kush01.hashnode.dev/best-tools-for-devops)
 - :books: [DevOps Bootcamp](https://www.commclassroom.org/devops)
+- :video_camera: [Best video resources and tutorials for devops](https://www.youtube.com/c/KodeKloud)
 
 ---
 
