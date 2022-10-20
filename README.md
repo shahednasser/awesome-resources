@@ -1263,6 +1263,10 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [Haikei](https://app.haikei.app/): Multiple Shape Generator for UI.
 - :bulb: [Free Web Illustrations](https://freewebillustrations.com/): Discover 1,500+ Free High-Quality Web Illustrations
 
+### Practice Programming
+
+- :wrench: [Edabit: A better way to learn programming](https://edabit.com/)
+
 ### Open Source
 
 - :green_book: [How to contribute to Open Source](https://kentcdodds.com/blog/introducing-how-to-contribute-to-open-source)
