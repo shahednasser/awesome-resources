@@ -380,6 +380,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [IBM Deep Learning Course with certification](https://cognitiveclass.ai/courses/introduction-deep-learning) 
 - :books: [Geometric Deep Learning](https://geometricdeeplearning.com/lectures/)
 - :books: [CS224W: Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/)
+- :books: [Deep Learning Book by Ian Goodfellow](https://www.deeplearningbook.org/)
 
 ---
 
