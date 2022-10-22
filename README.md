@@ -774,7 +774,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :file_folder: [Kubernetes Documentation](https://kubernetes.io/docs/home/)
 - :green_book: [Understanding Kubernetes: Developer's Guide](https://blog.thewiz.net/understanding-kubernetes-developers-guide)
 - :books: [100 Days of Kubernetes](https://100daysofkubernetes.io/overview.html)
-
+- :video_camera: [Kubernetes Tutorial for Beginners](https://www.youtube.com/watch?v=X48VuDVv0do)
 ---
 
 **[⬆ Back to Index](#content)**
