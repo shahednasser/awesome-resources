@@ -1262,6 +1262,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [Vecteezy](https://www.vecteezy.com/): Download Free Vector Art, Stock Photos & Stock Videos.
 - :bulb: [Haikei](https://app.haikei.app/): Multiple Shape Generator for UI.
 - :bulb: [Free Web Illustrations](https://freewebillustrations.com/): Discover 1,500+ Free High-Quality Web Illustrations
+- :wrench: [Design System Builder](https://dsbuilder.leniolabs.com/):
 
 ### Open Source
 
