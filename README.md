@@ -179,8 +179,9 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [Crypto Zombie - Build DApps By Building Simple Games](https://cryptozombies.io/)
 - :video_camera: [Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript](https://www.youtube.com/watch?v=gyMwXuJrbJQ)
 - :video_camera: [Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial](https://www.youtube.com/watch?v=M576WGiDBdQ)
-- :video_camera: [Complete Blockchain tutorial for beginners](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=9919s)
+- :video_camera: [Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Javascript Tutorial](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=9919s)
 - :books: [Become a Web3 Developer](https://learnweb3.io/)
+- :books: [Start your Web3 Developement journey](https://metaschool.so/)
 
 ---
 
