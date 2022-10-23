@@ -312,6 +312,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :wrench: [CSS Framework - Pure](https://purecss.io/)
 - :wrench: [CSS Framework - Material Design Lite](https://getmdl.io/)
 - :green_book: [Understanding Layout Algorithms](https://www.joshwcomeau.com/css/understanding-layout-algorithms/)
+- :wrench: [CSS Grid Generator](https://grid.layoutit.com/)
 
 ---
 
