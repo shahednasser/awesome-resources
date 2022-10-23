@@ -311,7 +311,10 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :wrench: [CSS Framework - Skeleton](http://getskeleton.com/)
 - :wrench: [CSS Framework - Pure](https://purecss.io/)
 - :wrench: [CSS Framework - Material Design Lite](https://getmdl.io/)
+- :wrench: [CSS Framework - Foundation Framework](https://get.foundation/)
 - :green_book: [Understanding Layout Algorithms](https://www.joshwcomeau.com/css/understanding-layout-algorithms/)
+- :bulb: [CSS Protips - A collection of tips](https://github.com/AllThingsSmitty/css-protips)
+- :bulb: [CSS Cheatsheet by Devhints](https://devhints.io/css)
 
 ---
 
