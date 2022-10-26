@@ -349,6 +349,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [Practical SQL Series](https://youtube.com/playlist?list=PL-Jc9J83PIiFRR58Ezyy2z3gYhPA0lKmt)
 - :video_camera: [DBMS Database Management System-For College](https://www.youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y)
 - :video_camera: [Database Systems - Cornell University Course (SQL, NoSQL, Large-Scale Data Analysis)](https://www.youtube.com/watch?v=4cWkVbC2bNE)
+- :video_camera: [DBMS Placements Series 2022](https://youtube.com/playlist?list=PLDzeHZWIZsTpukecmA2p5rhHM14bl2dHU)
 - :books: [SQL Bolt - learn SQL with simple, interactive exercises](https://sqlbolt.com/)
 
 ---
