@@ -58,6 +58,9 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - [Express](#express)
 - [Ethical Hacking](#ethical-hacking)
 - [Expo](#expo)
+-[Firebase](#firebase)
+-[Flask](#flask)
+-[Flutter](#flutter)
 - [Fundamental CP algorithms](#fundamental-cp-algorithms)
   - [Algebra](#algebra)
   - [Combinatorics](#combinatorics)
@@ -66,7 +69,6 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
   - [Graph Theory](#graph-theory)
   - [Linear Algebra](#linear-algebra)
   - [String Processing](#string-processing)
-- [Flutter](#flutter)
 - [GIT](#git)
 - [GitHub](#github)
 - [Go](#go)
@@ -487,6 +489,78 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 **[⬆ Back to Index](#content)**
 
+## Firebase 
+
+-:video_camera:[Firebase Database for NoSQL Developers](https://www.youtube.com/playlist?list=PLl-K7zZEsYLlP-k-RKFa7RyNPa9_wCH2s)
+-:video_camera:[Firebase Basics](https://www.youtube.com/playlist?list=PL0vfts4VzfNj28Xp5kmNAdIqABNGhTzKF)
+-:green_book:[Building Web Applications with Firebase](https://www.manning.com/livevideo/building-web-applications-with-firebase?a_aid=hackrio&data2=tutorialslearn-firebase_amcid-2loFoAp6bxi2esii6EiQV)
+-:video_camera:[Firebase Firestore Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9itfjle0ji1xOZ2cjRGY_WB)
+-:video_camera:[Introducing Firebase](https://www.youtube.com/playlist?list=PLl-K7zZEsYLmOF_07IayrTntevxtbUxDL)
+-:books:[The Definitive Guide to Firebase](https://www.pdfdrive.com/the-definitive-guide-to-firebase-build-android-apps-on-googles-mobile-platform-e183130606.html)
+-:books:[Firebase](https://www.pdfdrive.com/firebase-e56499665.html)
+
+---
+
+**[⬆ Back to Index](#content)**
+
+## Flask
+
+-:books:[Flask Tutorial](https://www.tutorialspoint.com/flask/index.html)
+-:video_camera:[Learn Flask for Python](https://www.youtube.com/watch?v=Z1RJmh_OqeA)
+-:file_folder:[Flask 2.2.2](https://pypi.org/project/Flask/)
+-:green_book:[Deploying a Flask Application to an Elastic BeanStalk](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create-deploy-python-flask.html)
+-:file_folder:[Flask Documentation](https://flask.palletsprojects.com/en/2.2.x/)
+-:books:[Flask Tutorial 2](https://www.javatpoint.com/flask-tutorial)
+-:green_book:[Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+
+
+**[⬆ Back to Index](#content)**
+
+
+## Flutter
+
+- :green_book: [Adding Google Maps to a Flutter app](https://codelabs.developers.google.com/codelabs/google-maps-in-flutter/#0)
+- :video_camera: [Animation in Flutter](https://www.youtube.com/playlist?list=PLjxrf2q8roU2v6UqYlt_KPaXlnjbYySua)
+- :green_book: [Building beautiful UIs with Flutter](https://codelabs.developers.google.com/codelabs/flutter/#0)
+- :green_book: [Building Beautiful Transitions with Material Motion for Flutter](https://codelabs.developers.google.com/codelabs/material-motion-flutter/)
+- :green_book: [Building a Cupertino app with Flutter](https://codelabs.developers.google.com/codelabs/flutter-cupertino/#0)
+- :green_book: [Build a Photo Sharing app with Google Photos and Flutter](https://codelabs.developers.google.com/codelabs/google-photos-sharing/#0)
+- :green_book: [Firebase for Flutter](https://codelabs.developers.google.com/codelabs/flutter-firebase/#0)
+- :video_camera: [Flutter Tutorial for Beginners - YouTube](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
+- :video_camera: [Flutter Animation Tutorial - YouTube](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gP1qg8yj-Jokef29VRCLt1)
+- :video_camera: [Flutter & Firebase App Build - YouTube](https://www.youtube.com/playlist?list=PL4cUxeGkcC9j--TKIdkb3ISfRbJeJYQwC)
+- :file_folder: [Flutter Documentation](https://flutter.dev/docs)
+- :green_book: [How to test a Flutter app](https://codelabs.developers.google.com/codelabs/flutter-app-testing/#0)
+- :video_camera: [Reactive Programming with Flutter](https://www.youtube.com/playlist?list=PL_Wj0DgxTlJc8E3ulwdekyVI4Wc819azh)
+- :file_folder: [Write your first Flutter app, Part 1](https://flutter.dev/docs/get-started/codelab)
+- :green_book: [Write your first Flutter app, Part 2](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2/#0)
+- :green_book: [Write a Flutter desktop application](https://codelabs.developers.google.com/codelabs/flutter-github-graphql-client/#0)
+- :video_camera: [Flutter Bloc Complete Course](https://www.youtube.com/watch?v=THCkkQ-V1-8)
+- :video_camera: [Flutter Bloc - from Zero To HERO](https://www.youtube.com/playlist?list=PLptHs0ZDJKt_T-oNj_6Q98v-tBnVf-S_o)
+
+---
+
+**[⬆ Back to Index](#content)**
+
+## Free Hosting
+
+- :wrench: [Netlify](https://www.netlify.com/)
+- :wrench: [Heroku](https://www.heroku.com/)
+- :wrench: [Vercel](https://vercel.com/)
+- :wrench: [Fly.io](https://fly.io/)
+- :wrench: [Github Pages](http://pages.github.com)
+- :wrench: [Gitlab Pages](http://docs.gitlab.com/ee/user/project/pages)
+- :wrench: [Deta](https://www.deta.sh/)
+- :wrench: [InfinityFree](https://infinityfree.net/)
+- :wrench: [Cyclic](https://www.cyclic.sh/)
+- :wrench: [Surge](https://surge.sh/)
+- :wrench: [Adaptable](https://adaptable.io/)
+
+---
+
+**[⬆ Back to Index](#content)**
+
+
 ## Fundamental CP algorithms
 
 ### Algebra
@@ -558,48 +632,6 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 **[⬆ Back to Index](#content)**
 
-## Flutter
-
-- :green_book: [Adding Google Maps to a Flutter app](https://codelabs.developers.google.com/codelabs/google-maps-in-flutter/#0)
-- :video_camera: [Animation in Flutter](https://www.youtube.com/playlist?list=PLjxrf2q8roU2v6UqYlt_KPaXlnjbYySua)
-- :green_book: [Building beautiful UIs with Flutter](https://codelabs.developers.google.com/codelabs/flutter/#0)
-- :green_book: [Building Beautiful Transitions with Material Motion for Flutter](https://codelabs.developers.google.com/codelabs/material-motion-flutter/)
-- :green_book: [Building a Cupertino app with Flutter](https://codelabs.developers.google.com/codelabs/flutter-cupertino/#0)
-- :green_book: [Build a Photo Sharing app with Google Photos and Flutter](https://codelabs.developers.google.com/codelabs/google-photos-sharing/#0)
-- :green_book: [Firebase for Flutter](https://codelabs.developers.google.com/codelabs/flutter-firebase/#0)
-- :video_camera: [Flutter Tutorial for Beginners - YouTube](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
-- :video_camera: [Flutter Animation Tutorial - YouTube](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gP1qg8yj-Jokef29VRCLt1)
-- :video_camera: [Flutter & Firebase App Build - YouTube](https://www.youtube.com/playlist?list=PL4cUxeGkcC9j--TKIdkb3ISfRbJeJYQwC)
-- :file_folder: [Flutter Documentation](https://flutter.dev/docs)
-- :green_book: [How to test a Flutter app](https://codelabs.developers.google.com/codelabs/flutter-app-testing/#0)
-- :video_camera: [Reactive Programming with Flutter](https://www.youtube.com/playlist?list=PL_Wj0DgxTlJc8E3ulwdekyVI4Wc819azh)
-- :file_folder: [Write your first Flutter app, Part 1](https://flutter.dev/docs/get-started/codelab)
-- :green_book: [Write your first Flutter app, Part 2](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2/#0)
-- :green_book: [Write a Flutter desktop application](https://codelabs.developers.google.com/codelabs/flutter-github-graphql-client/#0)
-- :video_camera: [Flutter Bloc Complete Course](https://www.youtube.com/watch?v=THCkkQ-V1-8)
-- :video_camera: [Flutter Bloc - from Zero To HERO](https://www.youtube.com/playlist?list=PLptHs0ZDJKt_T-oNj_6Q98v-tBnVf-S_o)
-
----
-
-**[⬆ Back to Index](#content)**
-
-## Free Hosting
-
-- :wrench: [Netlify](https://www.netlify.com/)
-- :wrench: [Heroku](https://www.heroku.com/)
-- :wrench: [Vercel](https://vercel.com/)
-- :wrench: [Fly.io](https://fly.io/)
-- :wrench: [Github Pages](http://pages.github.com)
-- :wrench: [Gitlab Pages](http://docs.gitlab.com/ee/user/project/pages)
-- :wrench: [Deta](https://www.deta.sh/)
-- :wrench: [InfinityFree](https://infinityfree.net/)
-- :wrench: [Cyclic](https://www.cyclic.sh/)
-- :wrench: [Surge](https://surge.sh/)
-- :wrench: [Adaptable](https://adaptable.io/)
-
----
-
-**[⬆ Back to Index](#content)**
 
 ## GIT
 
