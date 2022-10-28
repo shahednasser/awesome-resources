@@ -38,7 +38,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - [Android](#android)
 - [Angular](#angular)
 - [Artificial Intelligence](#artificial-intelligence)
-- [Big Data](#bigdata)
+- [Big Data](#big-data)
 - [Blockchain](#blockchain)
 - [Bots](#bots)
 - [C](#c)
