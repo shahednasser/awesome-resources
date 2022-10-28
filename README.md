@@ -254,7 +254,6 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - :books: [Introduction to Compilers and How they Work](https://www.edx.org/course/compilers)
 
-
 ---
 
 **[⬆ Back to Index](#content)**
