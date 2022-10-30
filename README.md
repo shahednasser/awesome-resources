@@ -596,6 +596,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :wrench: [Cyclic](https://www.cyclic.sh/)
 - :wrench: [Surge](https://surge.sh/)
 - :wrench: [Adaptable](https://adaptable.io/)
+- :wrench: [AwardSpace](https://www.awardspace.com/free-hosting/)
 
 ---
 
