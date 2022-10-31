@@ -464,6 +464,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :wrench: [Open Source Reverse Engineering Platform](https://github.com/radareorg/cutter)
 - :video_camera: [Penetration Testing Bootcamp](https://hackersploit.org/penetration-testing-bootcamp/)
 - :bulb: [Practical-Ethical-Hacking-Resources](https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources)
+- :books: [Awesome Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)
 
 ---
 
