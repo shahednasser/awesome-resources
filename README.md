@@ -181,6 +181,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial](https://www.youtube.com/watch?v=M576WGiDBdQ)
 - :video_camera: [Complete Blockchain tutorial for beginners](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=9919s)
 - :books: [Become a Web3 Developer](https://learnweb3.io/)
+- :books: [Master Solidity for Blockchain](https://www.youtube.com/playlist?list=PLS5SEs8ZftgVnWHv2_mkvJjn5HBOkde3g)
 
 ---
 
