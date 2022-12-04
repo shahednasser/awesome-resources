@@ -1157,6 +1157,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [Learn TypeScript Step by Step Tutorial](https://www.tutorialsteacher.com/typescript)
 - :books: [Learn TypeScript From Scratch](https://www.typescripttutorial.net/)
 - :books: [Type-Level TypeScript](https://type-level-typescript.com/)
+- :video_camera: [Advanced TypeScript Playlist](https://www.youtube.com/playlist?list=PLIvujZeVDLMx040-j1W4WFs1BxuTGdI_b)
 
 ---
 
