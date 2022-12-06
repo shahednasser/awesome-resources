@@ -982,6 +982,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [Python Cheatsheet](https://www.pythoncheatsheet.org/)
 - :books: [Python Tutorial - Learn Python Programming](https://www.scaler.com/topics/python/)
 - :books: [Python From Scratch](https://www.pythontutorial.net/)
+- :video_camera: [Beginner Python Projects](https://www.youtube.com/watch?v=8ext9G7xspg)
 
 ---
 
