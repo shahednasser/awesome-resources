@@ -722,6 +722,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [Java Cheatsheet](https://www.codewithharry.com/blogpost/java-cheatsheet)
 - :books: [Java Tutorial - Learn Java Programming in Detail](https://www.scaler.com/topics/java/)
 - :books: [Java Programming Cheat sheet - Princeton](https://introcs.cs.princeton.edu/java/11cheatsheet/)
+- :video_camera: [Java MongoDB](https://youtube.com/playlist?list=PLdnyVeMcpY7_Q3ms_ykCBgXOeCFGDleS2)
 
 ---
 
