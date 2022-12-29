@@ -688,6 +688,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [Introduction to HTML](https://www.youtube.com/playlist?list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw)
 - :video_camera: [Learn HTML! with 100Devs](https://www.youtube.com/watch?v=eCRbEILXXmE)
 - :books: [HTML Tutorial - Learn HTML in Detail](https://www.scaler.com/topics/html/)
+- :books: [Learn HTML](https://web.dev/learn/html/)
 
 ---
 
