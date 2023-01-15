@@ -517,6 +517,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [This is CS50x](https://cs50.harvard.edu/x/2021) - David J. Malan
 - :books: [IIT Bombay Foundation of Data Structures (CS213.1x)](https://courses.edx.org/courses/course-v1:IITBombayX+CS213.1x+1T2017/course/)
 - :books: [Intro to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513) - Brynn Claypoole, Horatio Thomas
+- :books: [Sparse Table](https://medium.com/nybles/sparse-table-f3981fbb1bc8)
 
 ### Dynamic Programming
 
@@ -541,6 +542,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :green_book: [String Hashing](https://cp-algorithms.com/string/string-hashing.html)
 - :green_book: [Suffix Array](https://cp-algorithms.com/string/suffix-array.html)
 - :green_book: [Z-function](https://cp-algorithms.com/string/z-function.html)
+- :green_book: [Manacher's Algorithm](https://cp-algorithms.com/string/manacher.html) 
 
 ### Graph Theory
 
