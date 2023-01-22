@@ -159,6 +159,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 ## Artificial Intelligence
 
 - :books: [Learn Basics Of AI](https://www.elementsofai.com/)
+- :video_camera:[CS50's Introduction to Artificial Intelligence](https://www.youtube.com/playlist?list=PLBw9d_OueVJS_084gYQexJ38LC2LEhpR4)
 
 ---
 
