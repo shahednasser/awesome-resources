@@ -85,6 +85,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - [MySQL](#mysql)
 - [NodeJS](#nodejs)
 - [Operating Systems](#operating-systems)
+- [Open Source](#open-source)
 - [PHP](#php)
 - [PostgreSQL](#postgresql)
 - [Power Automate](#power-automate)
@@ -921,6 +922,12 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [Operating Systems: Operating Systems for Placements/Interview](https://youtube.com/playlist?list=PLDzeHZWIZsTr3nwuTegHLa2qlI81QweYG)
 
 ---
+
+## Open Source
+
+- :books: [Introduction to Open Source - Codecadmy](https://www.codecademy.com/learn/introduction-to-open-source)
+- :bulb: [Resources to find beginner issues](https://www.firsttimersonly.com/)
+- :wrench:  [Make your first contribution here](https://github.com/firstcontributions/first-contributions)
 
 **[⬆ Back to Index](#content)**
 
