@@ -1290,3 +1290,29 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 - :video_camera: [Coding Better World Together Live Session with Uncle Bob (Robert C. Martin](https://www.youtube.com/playlist?list=PLmmYSbUCWJ4x1GO839azG_BBw8rkh-zOj) : Coding Better World Together is a set of master lessons from the famous Uncle Bob (Robert Cecil Martin), where he gives us a broad vision of the importance and future of Software in today's society.
 - :speaker: [Clean Code with Uncle Bob Martin](https://completedeveloperpodcast.com/episode-232/): When folks code long enough, in time they get themselves stuck in a code base that's kind of difficult to wrap thier heads around. In this podcast Uncle Bob Martin talks about the principles of clean code and how to not make a code base too difficult to understand.
+
+ ## Here are some popular technology podcasts and their links:
+
+- "This Week in Tech" (TWiT) - Hosted by Leo Laporte, this podcast covers the latest technology news and trends.
+Link: https://twit.tv/shows/this-week-in-tech
+
+- "Reply All" - Hosted by PJ Vogt and Alex Goldman, this podcast explores the internet and how it shapes our lives.
+Link: https://gimletmedia.com/shows/reply-all
+
+- "Recode Decode" - Hosted by Kara Swisher, this podcast features interviews with tech industry leaders and provides insights into the latest trends and developments.
+Link: https://www.vox.com/recode-decode-podcast-kara-swisher
+
+- "Techmeme Ride Home" - Hosted by Brian McCullough, this podcast covers the top tech news stories of the day in a digestible format.
+Link: https://www.ridehome.info/show/techmeme-ride-home/
+
+- "Note to Self" - Hosted by Manoush Zomorodi, this podcast explores the impact of technology on our daily lives and provides practical tips for using technology mindfully.
+Link: https://www.npr.org/podcasts/510313/note-to-self
+
+- "Clockwise" - Hosted by Dan Moren and Mikah Sargent, this podcast features discussions on the latest tech news and trends, with a focus on productivity and efficiency.
+Link: https://www.relay.fm/clockwise
+
+- "Accidental Tech Podcast" - Hosted by Marco Arment, Casey Liss, and John Siracusa, this podcast covers a range of topics related to technology and the tech industry.
+Link: https://atp.fm/
+
+- "The Vergecast" - Hosted by Nilay Patel and Dieter Bohn, this podcast covers the latest tech news, with a focus on consumer electronics and technology products.
+Link: https://www.theverge.com/the-vergecast
