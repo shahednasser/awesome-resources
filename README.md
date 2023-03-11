@@ -378,6 +378,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 ### Data Structures
 
 - :video_camera: [DSA + Java Interview Preparation Course](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
+- :video_camera: [DSA + C++ Complete Basics To Advance](https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA)
 - :video_camera: [DSA + C++ Interview Preparation Course](https://www.youtube.com/watch?v=z9bZufPHFLU&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ)
 - :video_camera: [Data Structures](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
 - :green_book: [Minimum Stack / Minimum Queue](https://cp-algorithms.com/data_structures/stack_queue_modification.html)
