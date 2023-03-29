@@ -627,6 +627,12 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :green_book: [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 - :video_camera: [Kunal Kushwaha's Complete Git and GitHub tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics)
 - :video_camera: [Git & GitHub Tutorial For Beginners In Hindi - हिंदी में](https://www.youtube.com/watch?v=gwWKnnCMQ5c)
+- :video_camera: [What is semantic versioning? for Feregrino](https://www.youtube.com/watch?v=dj8H2mqiAtU)
+- :video_camera: [Make commits like a pro for Carlos Azaustre](https://www.youtube.com/watch?v=SigVVJmUGv8)
+- :video_camera: [Synchronize a fork for Midudev](https://www.youtube.com/watch?v=inLUIg0vtHI)
+- :video_camera: [Git switch and Pull Request for Midudev](https://www.youtube.com/watch?v=MKH8WRwoqZo)
+- :video_camera: [Git Merge vs Rebase vs Squash Which strategy should we choose? for CodelyTv](https://www.youtube.com/watch?v=HlmZLXMOpEM)
+- :books: [Learning Git by Miguel Angel Durand](https://leanpub.com/aprendiendo-git)
 
 ---
 
