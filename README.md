@@ -1270,6 +1270,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :green_book: [Why Open Source is Important for Students?](https://dev.to/mridulrb/series/11633)
 - :green_book: [What is Open Source?](https://opensource.com/resources/what-open-source)
 
+
 ### VS Code
 
 - :green_book: [How to run graphics.h in VS Code](https://github.com/ullaskunder3/Solution-to-graphics.h)
@@ -1285,6 +1286,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :wrench: [Squircley](https://squircley.app/): Start creating beautiful organic shapes ready to use for logos, icons and background images
 - :wrench: [BrandBird](https://www.brandbird.app/): An image editor for busy SaaS founders, who build in public!
 - :wrench: [Carbon](https://carbon.now.sh/): Create and share beautiful images of your source code. (An alternative of [Ray.so](https://ray.so/))
+- :wrench: [Good First issue](https://goodfirstissue.dev/): A Collection of Good First issues to get start your first open source contribution.
 
 ### Talks and Podcasts
 
