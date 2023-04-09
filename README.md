@@ -928,7 +928,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [Introduction to Open Source - Codecadmy](https://www.codecademy.com/learn/introduction-to-open-source)
 - :bulb: [Resources to find beginner issues](https://www.firsttimersonly.com/)
 - :wrench:  [Make your first contribution here](https://github.com/firstcontributions/first-contributions)
-- :video_camera: [A Linux Foundation Course on Open Source](https://training.linuxfoundation.org/training/					beginners-guide-open-source-software-development/)
+- :video_camera: [A Linux Foundation Course on Open Source](https://trainingportal.linuxfoundation.org/courses/a-beginners-guide-to-open-source-software-development-lfc102)
 - :file_folder: [A Guide to Open Source by GitHub](https://opensource.guide/)
 - :bulb: [Resources for new contributors to get involved in open source projects](https://campus.openhatch.org/)
 	
