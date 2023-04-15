@@ -214,6 +214,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 - :bulb: [CP Algorithms](https://cp-algorithms.com/index.html)
 - :books: [Tutorials Point Course](https://www.tutorialspoint.com/cplusplus/index.htm)
+- :video_camera: [The Best DSA Course in C++ Youtube](https://www.youtube.com/watch?v=WQoB2z67hvY&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA)
 - :bulb: [How to Learn the C++ Languages: The Ultimate List](https://www.toptal.com/c/the-ultimate-list-of-resources-to-learn-c-and-c-plus-plus)
 - :bulb: [The C++ Standard Template Library (STL)](https://www.geeksforgeeks.org/the-c-standard-template-library-stl/)
 - :books: [C++ Series GeeksForGeeks](https://www.geeksforgeeks.org/c-plus-plus/)
