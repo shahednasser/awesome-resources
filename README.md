@@ -764,6 +764,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [JavaScript Tutorial - Learn JavaScript in Detail](https://www.scaler.com/topics/javascript/)
 - :wrench: [Visualize JavaScript and Understand the Workflow](https://www.jsv9000.app/)
 - :books: [FreeCodeCamp - JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+- :books: [Javascript for beginners - हिन्दी](https://youtube.com/playlist?list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37)
+- :books: [ Javascript course by Hitesh Choudhary](https://youtube.com/playlist?list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD)
 
 ---
 
