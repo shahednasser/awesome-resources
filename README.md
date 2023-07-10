@@ -855,6 +855,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :speaker: [Machine Learning Guide Podcast](https://ocdevel.com/mlg)
 - :books: [An Introduction to Statistical Learning with Applications in R](https://www.statlearning.com/)
 - :video_camera: [Neural Networks Theory](https://youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1)
+- :books: [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 
 ---
 
