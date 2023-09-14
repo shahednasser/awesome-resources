@@ -764,6 +764,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [JavaScript Tutorial - Learn JavaScript in Detail](https://www.scaler.com/topics/javascript/)
 - :wrench: [Visualize JavaScript and Understand the Workflow](https://www.jsv9000.app/)
 - :books: [FreeCodeCamp - JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+- :wrench: [EmailJS - Send Emails directly from code](https://www.emailjs.com)
 
 ---
 
@@ -1251,6 +1252,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [DopeUI](https://dopeui.co/): High quality website UI templates
 - :wrench: [Design Junction](https://designjunction.xyz/): Resource library for Designers and Creatives
 - :bulb: [Coolors](https://coolors.co/): The super fast color schemes generator
+- :bulb: [Color Hunt](https://colorhunt.co/): A resource for creating and saving color palettes
 - :bulb: [uiGradients](https://uigradients.com/): An awesome gradient generator
 - :bulb: [Glassmorphism Generator](https://ui.glass/generator/): Amazing tool to generate glassmorphism design.
 - :bulb: [Canva](https://www.canva.com/)
@@ -1285,6 +1287,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :wrench: [Squircley](https://squircley.app/): Start creating beautiful organic shapes ready to use for logos, icons and background images
 - :wrench: [BrandBird](https://www.brandbird.app/): An image editor for busy SaaS founders, who build in public!
 - :wrench: [Carbon](https://carbon.now.sh/): Create and share beautiful images of your source code. (An alternative of [Ray.so](https://ray.so/))
+- :wrench: [Excalidraw](https://excalidraw.com/): A virtual collaborative whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.
 
 ### Talks and Podcasts
 
