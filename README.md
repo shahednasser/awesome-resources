@@ -907,6 +907,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [Backend Interview Series](https://youtube.com/playlist?list=PL-Jc9J83PIiHI7u_6G8j1oKyhQn_plX8i)
 - :books: [30 Days of Node](https://www.nodejsera.com/30-days-of-node.html)
 - :file_folder: [Node.js Documentation](https://nodejs.org/en/docs/)
+- 📹:[Advanced Node.js](https://www.youtube.com/playlist?list=PLiIKaud-klRGn7V0myJaSZzByPEX7VyiB)
 
 ---
 
@@ -933,6 +934,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [40+ Useful Php tips for beginners](https://www.binarytides.com/35-techniques-to-enhance-your-php-code/)
 - :bulb: [PHP Cheat Sheet](https://websitesetup.org/php-cheat-sheet/)
 - :green_book: [Design Patterns](https://refactoring.guru/design-patterns/php)
+- 📹: [Advanced PHP](https://www.youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-)
 
 ---
 
