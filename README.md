@@ -217,6 +217,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [Learn C Org](https://www.learn-c.org)
 - :bulb: [C Cheatsheet](https://www.codewithharry.com/blogpost/c-cheatsheet)
 - :books: [C Tutorial - Learn C in Detail](https://www.scaler.com/topics/c/)
+- :wrench: [C Playground](https://cplayground.com)
 
 ---
 
@@ -324,6 +325,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :wrench: [CSS Framework - Pure](https://purecss.io/)
 - :wrench: [CSS Framework - Material Design Lite](https://getmdl.io/)
 - :green_book: [Understanding Layout Algorithms](https://www.joshwcomeau.com/css/understanding-layout-algorithms/)
+- :wrench: [CSS Glassmorphism effect generator](https://hype4.academy/tools/glassmorphism-generator)
+- :wrench: [CSS Neumorphism shadow generator](https://neumorphism.io/)
 
 ---
 
@@ -1107,6 +1110,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :green_book: [Getting started with Svelte - MDN](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_getting_started)
 - :video_camera: [Svelte for beginners - The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO)
 - :video_camera: [Learn the Svelte JavaScript Framework: Full Course - Freecodecamp](https://www.youtube.com/watch?v=ujbE0mzX-CU)
+- :wrench: [Svelte REPL](https://svelte.dev/repl)
 
 ---
 
