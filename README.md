@@ -38,6 +38,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - [Android](#android)
 - [Angular](#angular)
 - [Artificial Intelligence](#artificial-intelligence)
+- [AWS](#aws)
 - [Big Data](#bigdata)
 - [Blockchain](#blockchain)
 - [Bots](#bots)
@@ -134,6 +135,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [Awesome Android](https://github.com/JStumpp/awesome-android)
 - :books: [Kotlin Fundamentals for Android Developers](https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011)
 - :video_camera: [Android Jetpack Compose For Beginners](https://www.youtube.com/playlist?list=PLQkwcJG4YTCSpJ2NLhDTHhi6XBNfk9WiC)
+- :video_camera: [Android Development Tutorial For Beginners](https://www.youtube.com/watch?v=mXjZQX3UzOs&t=918s)
 
 ---
 
@@ -143,7 +145,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 - :books: [Egghead.io - Angular](https://egghead.io/browse/frameworks/angular)
 - :video_camera: [Egghead.io - Build Redux Style Applications with Angular2, RxJS, and ngrx/store](https://egghead.io/courses/building-a-time-machine-with-angular-2-and-rxjs)
-- :video_camera:  [Udemy - Introduction to Angular 2](https://www.udemy.com/introduction-to-angular2/)
+- :video_camera: [Udemy - Introduction to Angular 2](https://www.udemy.com/introduction-to-angular2/)
 - :video_camera: [Udemy - Angular 2 with TypeScript for Beginners: The Pragmatic Guide](https://www.udemy.com/angular-2-tutorial-for-beginners/)
 - :video_camera: [Udemy - The Complete Guide to Angular 2](https://www.udemy.com/the-complete-guide-to-angular-2/)
 - :video_camera: [Pluralsight - Angular 2: First Look](https://www.pluralsight.com/courses/angular-2-first-look)
@@ -159,6 +161,16 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 ## Artificial Intelligence
 
 - :books: [Learn Basics Of AI](https://www.elementsofai.com/)
+- :books: [The Pac-Man Projects](http://ai.berkeley.edu/project_overview.html)
+- :video_camera: [Artificial Intelligence Full Course | Artificial Intelligence Tutorial for Beginners | Edureka](https://www.youtube.com/watch?v=JMUxmLyrhSk)
+
+---
+
+**[⬆ Back to Index](#content)**
+
+## AWS
+
+- :books: [Learn AWS with Training and Certification](https://aws.amazon.com/training/)
 
 ---
 
@@ -300,10 +312,10 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [CSS Tutorial - Learn CSS in Detail](https://www.scaler.com/topics/css/)
 - :wrench: [CSS Multicolor Gradient](https://gradienta.io/)
 - :bulb: [CSS Grid Garden](https://cssgridgarden.com/)
-- :bulb: [CSS Flexbox-Froggy](https://flexboxfroggy.com/) - Learn Flexbox while playing 
+- :bulb: [CSS Flexbox-Froggy](https://flexboxfroggy.com/) - Learn Flexbox while playing
 - :bulb: [Knights of the Flexbox Table](https://knightsoftheflexboxtable.com)
 - :books: [Learn CSS From Scratch](https://web.dev/learn/css/)
-- :bulb: [100 Days CSS Challenge](https://100dayscss.com/)  
+- :bulb: [100 Days CSS Challenge](https://100dayscss.com/)
 - :bulb: [CSS Reference](https://cssreference.io/)
 - :wrench: [CSS Validator](https://jigsaw.w3.org/css-validator/)
 - :wrench: [CSS Color Picker](https://0to255.com/)
@@ -339,6 +351,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [Dart Tutorial for Beginners: Basics and Fundamentals for Flutter](https://www.youtube.com/playlist?list=PLlxmoA0rQ-LyHW9voBdNo4gEEIh0SjG-q)
 - :books: [Intro to Dart for Java Developers](https://codelabs.developers.google.com/codelabs/from-java-to-dart/#0)
 - :file_folder: [Iterable collections](https://dart.dev/codelabs/iterables)
+- :book: [Learning Dart](https://riptutorial.com/Download/dart.pdf)
+- :book: [Essential Dart](https://www.programming-books.io/essential/dart/)
 
 ---
 
@@ -377,7 +391,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [Deep Learning Fundamentals](https://www.dataquest.io/course/deep-learning-fundamentals/)
 - :bulb: [Deep learning cheat sheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning)
 - :books: [Natural Language Processing CS224n](http://web.stanford.edu/class/cs224n/)
-- :books: [IBM Deep Learning Course with certification](https://cognitiveclass.ai/courses/introduction-deep-learning) 
+- :books: [IBM Deep Learning Course with certification](https://cognitiveclass.ai/courses/introduction-deep-learning)
 - :books: [Geometric Deep Learning](https://geometricdeeplearning.com/lectures/)
 - :books: [CS224W: Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/)
 
@@ -668,7 +682,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 - :video_camera: [GraphQL tutorial for beginners](https://www.howtographql.com/)
 - :books: [GraphQL Tutorials](https://www.tutorialspoint.com/graphql/index.htm)
-- :video_camera: [Complete App with GraphQl](https://www.youtube.com/playlist?list=PL55RiY5tL51rG1x02Yyj93iypUuHYXcB_)
+- :video_camera: [Complete App with GraphQl](https://www.youtube.com/playlist?list=PL55RiY5tL51rG1x02Yyj93iypUuHYXcB*)
 - :video_camera: [Learn GraphQL with React](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f)
 - :books: [Apollo Odyssey - GraphQL Tutorials](https://www.apollographql.com/tutorials/)
 
@@ -855,6 +869,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :speaker: [Machine Learning Guide Podcast](https://ocdevel.com/mlg)
 - :books: [An Introduction to Statistical Learning with Applications in R](https://www.statlearning.com/)
 - :video_camera: [Neural Networks Theory](https://youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1)
+- :file_folder: [Open AI GPT-3 documentation](https://beta.openai.com/docs/introduction/overview)
 
 ---
 
@@ -962,7 +977,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 ## Python
 
-- :books:  [CS50P - CS50's intro to Programing With Python](https://cs50.harvard.edu/python/2022/)
+- :books: [CS50P - CS50's intro to Programing With Python](https://cs50.harvard.edu/python/2022/)
 - :books: [Automate The Boring Stuff With Python](https://automatetheboringstuff.com/2e/chapter0/)
 - :books: [Python Intermediate Tutorial](https://github.com/python-engineer/python-engineer-notebooks/tree/master/advanced-python)
 - :books: [Python Programming MOOC 2022(University of Helsinki)](https://programming-22.mooc.fi/)
@@ -1115,6 +1130,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [System Design Primer Course](https://www.youtube.com/playlist?list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a)
 - :video_camera: [System Design Interview Preparation Series by codeKarle](https://www.youtube.com/playlist?list=PLhgw50vUymycJPN6ZbGTpVKAJ0cL4OEH3)
 - :video_camera: [Basics of System Design by Coding Simplified](https://www.youtube.com/playlist?list=PLt4nG7RVVk1g_LutiJ8_LvE914rIE5z4u)
+- :books: [The System Design Primer](https://github.com/kvasukib/system-design-primer#system-design-topics-start-here)
 
 ---
 
@@ -1141,6 +1157,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :wrench: [Apache JMeter](https://jmeter.apache.org)
 - :books: [API Testing 101: Learn The Basics](https://www.soapui.org/learn/functional-testing/api-testing-101/)
 - :bulb: [ISTQB Certification](https://www.istqb.com/)
+- :wrench: [Cypress: Javascript Testing](https://www.cypress.io)
 
 ---
 
@@ -1263,6 +1280,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [Haikei](https://app.haikei.app/): Multiple Shape Generator for UI.
 - :bulb: [Free Web Illustrations](https://freewebillustrations.com/): Discover 1,500+ Free High-Quality Web Illustrations
 - :bulb: [Figma Community](https://www.figma.com/community/): Discover inspiring portfolios, presentations, mockups, and more or publish live design files that anyone in the world can inspect, remix, and learn from. 
+- :bulb: [Pexels](https://www.pexels.com): Free stock photos and videos
 
 ### Open Source
 
@@ -1277,6 +1295,9 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [Top 5 VS Code extensions for web developers](https://jobin.hashnode.dev/top-5-vs-code-extension-for-web-developers-in-2021)
 - :video_camera: [VS Code Tutorial for Beginners](https://youtu.be/VqCgcpAypFQ?t=21)
 - :bulb: [The Best VS Code Extensions to Supercharge Your Git](https://betterprogramming.pub/the-best-vs-code-extensions-to-supercharge-your-git-5d5ab3f64f64)
+- :green_book: [Introducing Visual Studio Live Share](https://code.visualstudio.com/blogs/2017/11/15/live-share)
+- :green_book: [WSL 2 and Visual Studio Code](https://code.visualstudio.com/blogs/2019/09/03/wsl2)
+- :green_book: [Remote SSH: Tips and Tricks](https://code.visualstudio.com/blogs/2019/10/03/remote-ssh-tips-and-tricks)
 
 ### Tools
 
@@ -1286,6 +1307,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :wrench: [Squircley](https://squircley.app/): Start creating beautiful organic shapes ready to use for logos, icons and background images
 - :wrench: [BrandBird](https://www.brandbird.app/): An image editor for busy SaaS founders, who build in public!
 - :wrench: [Carbon](https://carbon.now.sh/): Create and share beautiful images of your source code. (An alternative of [Ray.so](https://ray.so/))
+- :wrench: [Quicktype](https://app.quicktype.io/): Instantly parse JSON in any language
 
 ### Talks and Podcasts
 
