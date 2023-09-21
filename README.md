@@ -423,6 +423,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :file_folder: [Azure DevOps](https://azure.microsoft.com/en-us/overview/devops-tutorial/)
 - :green_book: [Agile vs Devops](https://enterprisersproject.com/article/2019/1/agile-vs-devops-whats-difference)
 - :books: [Become a DevOps Engineer - Linkedin Learning](https://www.linkedin.com/learning/paths/become-a-devops-engineer?u=57692769)
+- :books: [Perform DevOps on IBM Cloud](https://cognitiveclass.ai/courses/course-v1:IBM+GPXX0CUCEN+v1)
 - :bulb: [DevOps terms: 10 essential concepts, explained](https://enterprisersproject.com/article/2019/8/devops-terms-10-essential-concepts)
 - :books: [DevOps for Dummies - by IBM](https://www.ibm.com/downloads/cas/P9NYOK3B)
 - :bulb: [DevOps Roadmap for beginners](https://roadmap.sh/devops)
