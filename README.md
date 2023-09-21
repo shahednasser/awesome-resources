@@ -1130,6 +1130,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [System Design Primer Course](https://www.youtube.com/playlist?list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a)
 - :video_camera: [System Design Interview Preparation Series by codeKarle](https://www.youtube.com/playlist?list=PLhgw50vUymycJPN6ZbGTpVKAJ0cL4OEH3)
 - :video_camera: [Basics of System Design by Coding Simplified](https://www.youtube.com/playlist?list=PLt4nG7RVVk1g_LutiJ8_LvE914rIE5z4u)
+- :books: [The System Design Primer](https://github.com/kvasukib/system-design-primer#system-design-topics-start-here)
 
 ---
 
