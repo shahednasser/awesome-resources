@@ -903,8 +903,10 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 ## Markdown
 
+- :file_folder: [Documentation from the Creator of Markdown](https://daringfireball.net/projects/markdown/)
 - :bulb: [List of Badges, in Markdown](https://github.com/Naereen/badges)
 - :bulb: [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
+- :bulb: [Markdown Syntax Reference](http://five.squarespace.com/display/ShowHelp?section=Markdown)
 
 ---
 
