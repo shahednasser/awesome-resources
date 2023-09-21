@@ -1279,6 +1279,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [Vecteezy](https://www.vecteezy.com/): Download Free Vector Art, Stock Photos & Stock Videos.
 - :bulb: [Haikei](https://app.haikei.app/): Multiple Shape Generator for UI.
 - :bulb: [Free Web Illustrations](https://freewebillustrations.com/): Discover 1,500+ Free High-Quality Web Illustrations
+- :bulb: [Figma Community](https://www.figma.com/community/): Discover inspiring portfolios, presentations, mockups, and more or publish live design files that anyone in the world can inspect, remix, and learn from. 
 - :bulb: [Pexels](https://www.pexels.com): Free stock photos and videos
 
 ### Open Source
