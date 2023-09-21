@@ -70,6 +70,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - [Flutter](#flutter)
 - [GIT](#git)
 - [GitHub](#github)
+- [GLSL](#glsl)
 - [Go](#go)
 - [GraphQL](#graphql)
 - [HTML](#html)
@@ -663,6 +664,15 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :wrench: [Readme.so](https://readme.so/): Easiest way to make good readme for your github repos
 - :video_camera: [Complete Git and Github Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics)
 - :green_book: [How to Create Github Profile README](https://www.sitepoint.com/github-profile-readme/)
+
+---
+
+**[⬆ Back to Index](#content)**
+
+## GLSL
+
+- :books: [Graphics Shaders: Theory and Practice](https://cs.uns.edu.ar/cg/clasespdf/GraphicShaders.pdf)
+- :books: [The Book of Shaders](https://thebookofshaders.com/)
 
 ---
 
