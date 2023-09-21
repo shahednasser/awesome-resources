@@ -1040,7 +1040,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [React JS Crash Course](https://youtube.com/watch?v=w7ejDZ8SWv8)
 - :books: [Become a React Developer - Linkedin Learning](https://www.linkedin.com/learning/paths/become-a-react-developer)
 - :video_camera: [React Testing Tutorial by Codevolution](https://www.youtube.com/playlist?list=PLC3y8-rFHvwirqe1KHFCHJ0RqNuN61SJd)
-- :video_camera: [React JS Full Course 2022 | Build an App and Master React in 1 Hour](https://www.youtube.com/watch?v=b9eMGE7QtTk)
+- :video_camera: [React JS Full Course 2022 - Build an App and Master React in 1 Hour](https://www.youtube.com/watch?v=b9eMGE7QtTk)
+- :video_camera: [Code 15 React Projects - Complete Course](https://www.youtube.com/watch?v=a_7Z7C_JCyo&t=49s&ab_channel=freeCodeCamp.org)
 
 ---
 
