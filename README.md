@@ -144,7 +144,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 - :books: [Egghead.io - Angular](https://egghead.io/browse/frameworks/angular)
 - :video_camera: [Egghead.io - Build Redux Style Applications with Angular2, RxJS, and ngrx/store](https://egghead.io/courses/building-a-time-machine-with-angular-2-and-rxjs)
-- :video_camera:  [Udemy - Introduction to Angular 2](https://www.udemy.com/introduction-to-angular2/)
+- :video_camera: [Udemy - Introduction to Angular 2](https://www.udemy.com/introduction-to-angular2/)
 - :video_camera: [Udemy - Angular 2 with TypeScript for Beginners: The Pragmatic Guide](https://www.udemy.com/angular-2-tutorial-for-beginners/)
 - :video_camera: [Udemy - The Complete Guide to Angular 2](https://www.udemy.com/the-complete-guide-to-angular-2/)
 - :video_camera: [Pluralsight - Angular 2: First Look](https://www.pluralsight.com/courses/angular-2-first-look)
@@ -301,10 +301,10 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [CSS Tutorial - Learn CSS in Detail](https://www.scaler.com/topics/css/)
 - :wrench: [CSS Multicolor Gradient](https://gradienta.io/)
 - :bulb: [CSS Grid Garden](https://cssgridgarden.com/)
-- :bulb: [CSS Flexbox-Froggy](https://flexboxfroggy.com/) - Learn Flexbox while playing 
+- :bulb: [CSS Flexbox-Froggy](https://flexboxfroggy.com/) - Learn Flexbox while playing
 - :bulb: [Knights of the Flexbox Table](https://knightsoftheflexboxtable.com)
 - :books: [Learn CSS From Scratch](https://web.dev/learn/css/)
-- :bulb: [100 Days CSS Challenge](https://100dayscss.com/)  
+- :bulb: [100 Days CSS Challenge](https://100dayscss.com/)
 - :bulb: [CSS Reference](https://cssreference.io/)
 - :wrench: [CSS Validator](https://jigsaw.w3.org/css-validator/)
 - :wrench: [CSS Color Picker](https://0to255.com/)
@@ -378,7 +378,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [Deep Learning Fundamentals](https://www.dataquest.io/course/deep-learning-fundamentals/)
 - :bulb: [Deep learning cheat sheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning)
 - :books: [Natural Language Processing CS224n](http://web.stanford.edu/class/cs224n/)
-- :books: [IBM Deep Learning Course with certification](https://cognitiveclass.ai/courses/introduction-deep-learning) 
+- :books: [IBM Deep Learning Course with certification](https://cognitiveclass.ai/courses/introduction-deep-learning)
 - :books: [Geometric Deep Learning](https://geometricdeeplearning.com/lectures/)
 - :books: [CS224W: Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/)
 
@@ -669,7 +669,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 - :video_camera: [GraphQL tutorial for beginners](https://www.howtographql.com/)
 - :books: [GraphQL Tutorials](https://www.tutorialspoint.com/graphql/index.htm)
-- :video_camera: [Complete App with GraphQl](https://www.youtube.com/playlist?list=PL55RiY5tL51rG1x02Yyj93iypUuHYXcB_)
+- :video_camera: [Complete App with GraphQl](https://www.youtube.com/playlist?list=PL55RiY5tL51rG1x02Yyj93iypUuHYXcB*)
 - :video_camera: [Learn GraphQL with React](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f)
 - :books: [Apollo Odyssey - GraphQL Tutorials](https://www.apollographql.com/tutorials/)
 
@@ -964,7 +964,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 ## Python
 
-- :books:  [CS50P - CS50's intro to Programing With Python](https://cs50.harvard.edu/python/2022/)
+- :books: [CS50P - CS50's intro to Programing With Python](https://cs50.harvard.edu/python/2022/)
 - :books: [Automate The Boring Stuff With Python](https://automatetheboringstuff.com/2e/chapter0/)
 - :books: [Python Intermediate Tutorial](https://github.com/python-engineer/python-engineer-notebooks/tree/master/advanced-python)
 - :books: [Python Programming MOOC 2022(University of Helsinki)](https://programming-22.mooc.fi/)
@@ -1143,6 +1143,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :wrench: [Apache JMeter](https://jmeter.apache.org)
 - :books: [API Testing 101: Learn The Basics](https://www.soapui.org/learn/functional-testing/api-testing-101/)
 - :bulb: [ISTQB Certification](https://www.istqb.com/)
+- :wrench: [Cypress: Javascript Testing](https://www.cypress.io)
 
 ---
 
@@ -1264,6 +1265,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [Vecteezy](https://www.vecteezy.com/): Download Free Vector Art, Stock Photos & Stock Videos.
 - :bulb: [Haikei](https://app.haikei.app/): Multiple Shape Generator for UI.
 - :bulb: [Free Web Illustrations](https://freewebillustrations.com/): Discover 1,500+ Free High-Quality Web Illustrations
+- :bulb: [Pexels](https://www.pexels.com): Free stock photos and videos
 
 ### Open Source
 
