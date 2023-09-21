@@ -523,6 +523,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [DSA + C++ Interview Preparation Course](https://www.youtube.com/watch?v=z9bZufPHFLU&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ)
 - :video_camera: [Data Structures](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
 - :video_camera: [DSA-One Course - The Complete Data Structures and Algorithms Course](https://www.youtube.com/playlist?list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p)
+- :video_camera: [Advanced Data Structures](https://youtube.com/playlist?list=PLv9sD0fPjvSHqIOLTIvHJWjkdH0IdzmXT)
 - :green_book: [Minimum Stack / Minimum Queue](https://cp-algorithms.com/data_structures/stack_queue_modification.html)
 - :books: [Data Structures Tutorial - Scalar](https://www.scaler.com/topics/data-structures/)
 - :books: [Princeton University Algorithms, Part 1](https://www.coursera.org/learn/algorithms-part1)
