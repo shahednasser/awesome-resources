@@ -340,6 +340,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [Dart Tutorial for Beginners: Basics and Fundamentals for Flutter](https://www.youtube.com/playlist?list=PLlxmoA0rQ-LyHW9voBdNo4gEEIh0SjG-q)
 - :books: [Intro to Dart for Java Developers](https://codelabs.developers.google.com/codelabs/from-java-to-dart/#0)
 - :file_folder: [Iterable collections](https://dart.dev/codelabs/iterables)
+- :book: [Learning Dart](https://riptutorial.com/Download/dart.pdf)
+- :book: [Essential Dart](https://www.programming-books.io/essential/dart/)
 
 ---
 
