@@ -160,6 +160,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 ## Artificial Intelligence
 
 - :books: [Learn Basics Of AI](https://www.elementsofai.com/)
+- :books: [The Pac-Man Projects](http://ai.berkeley.edu/project_overview.html)
+- :video_camera: [Artificial Intelligence Full Course | Artificial Intelligence Tutorial for Beginners | Edureka](https://www.youtube.com/watch?v=JMUxmLyrhSk)
 
 ---
 
