@@ -1282,6 +1282,9 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [Top 5 VS Code extensions for web developers](https://jobin.hashnode.dev/top-5-vs-code-extension-for-web-developers-in-2021)
 - :video_camera: [VS Code Tutorial for Beginners](https://youtu.be/VqCgcpAypFQ?t=21)
 - :bulb: [The Best VS Code Extensions to Supercharge Your Git](https://betterprogramming.pub/the-best-vs-code-extensions-to-supercharge-your-git-5d5ab3f64f64)
+- :green_book: [Introducing Visual Studio Live Share](https://code.visualstudio.com/blogs/2017/11/15/live-share)
+- :green_book: [WSL 2 and Visual Studio Code](https://code.visualstudio.com/blogs/2019/09/03/wsl2)
+- :green_book: [Remote SSH: Tips and Tricks](https://code.visualstudio.com/blogs/2019/10/03/remote-ssh-tips-and-tricks)
 
 ### Tools
 
