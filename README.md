@@ -1306,6 +1306,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :wrench: [Squircley](https://squircley.app/): Start creating beautiful organic shapes ready to use for logos, icons and background images
 - :wrench: [BrandBird](https://www.brandbird.app/): An image editor for busy SaaS founders, who build in public!
 - :wrench: [Carbon](https://carbon.now.sh/): Create and share beautiful images of your source code. (An alternative of [Ray.so](https://ray.so/))
+- :wrench: [Quicktype](https://app.quicktype.io/): Instantly parse JSON in any language
 
 ### Talks and Podcasts
 
