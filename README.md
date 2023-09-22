@@ -1274,6 +1274,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [Codehouse - Cheatsheet Collection](https://codehouse.vercel.app/app)
 - :bulb: [Emmet](https://docs.emmet.io/cheat-sheet/)
 - :bulb: [LeetCode](https://leetcode.com/)
+- :bulb: [tmux](https://tmuxcheatsheet.com/)
 
 ### Design
 
