@@ -797,6 +797,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [Learn Javascript with 100Devs](https://www.youtube.com/watch?v=_A20kVsaqIk)
 - :books: [JavaScript Tutorial - Learn JavaScript in Detail](https://www.scaler.com/topics/javascript/)
 - :wrench: [Visualize JavaScript and Understand the Workflow](https://www.jsv9000.app/)
+- :bulb: [JavaScript Documentation](https://devdocs.io/javascript/)
 - :books: [FreeCodeCamp - JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 
 ---
