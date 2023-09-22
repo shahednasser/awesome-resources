@@ -1042,6 +1042,16 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 **[⬆ Back to Index](#content)**
 
+## R Programming
+
+- :books: [R Tutorial - W3Schools](https://www.w3schools.com/r/)
+- :bulb: [R installation on local Machine] (https://nashrah7106.hashnode.dev/installation-of-r-and-r-studio-and-setting-up-r-environment).
+- :video_camera: [R playlist] (https://www.youtube.com/playlist?list=PLjVLYmrlmjGdmPrz0Lx7smkd0qIKHInOF).
+
+---
+
+**[⬆ Back to Index](#content)**
+
 ## React
 
 - :books: [React Tutorial - W3Schools](https://www.w3schools.com/react/)
