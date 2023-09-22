@@ -267,6 +267,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [Open Source Society University - Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science)
 - :books: [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - :books: [Introduction to Compilers and How they Work](https://www.edx.org/course/compilers)
+- :video_camera: [Machine Learning University (MLU) Accelerated Computer Vision class](https://www.youtube.com/playlist?list=PL8P_Z6C4GcuU4knhhCouJujFZ2tTqU-Ta)
 
 ---
 
