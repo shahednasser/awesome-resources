@@ -38,6 +38,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - [Android](#android)
 - [Angular](#angular)
 - [Artificial Intelligence](#artificial-intelligence)
+- [AWS](#aws)
 - [Big Data](#bigdata)
 - [Blockchain](#blockchain)
 - [Bots](#bots)
@@ -69,6 +70,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - [Flutter](#flutter)
 - [GIT](#git)
 - [GitHub](#github)
+- [GLSL](#glsl)
 - [Go](#go)
 - [GraphQL](#graphql)
 - [HTML](#html)
@@ -134,6 +136,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [Awesome Android](https://github.com/JStumpp/awesome-android)
 - :books: [Kotlin Fundamentals for Android Developers](https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011)
 - :video_camera: [Android Jetpack Compose For Beginners](https://www.youtube.com/playlist?list=PLQkwcJG4YTCSpJ2NLhDTHhi6XBNfk9WiC)
+- :video_camera: [Android Development Tutorial For Beginners](https://www.youtube.com/watch?v=mXjZQX3UzOs&t=918s)
 
 ---
 
@@ -143,7 +146,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 - :books: [Egghead.io - Angular](https://egghead.io/browse/frameworks/angular)
 - :video_camera: [Egghead.io - Build Redux Style Applications with Angular2, RxJS, and ngrx/store](https://egghead.io/courses/building-a-time-machine-with-angular-2-and-rxjs)
-- :video_camera:  [Udemy - Introduction to Angular 2](https://www.udemy.com/introduction-to-angular2/)
+- :video_camera: [Udemy - Introduction to Angular 2](https://www.udemy.com/introduction-to-angular2/)
 - :video_camera: [Udemy - Angular 2 with TypeScript for Beginners: The Pragmatic Guide](https://www.udemy.com/angular-2-tutorial-for-beginners/)
 - :video_camera: [Udemy - The Complete Guide to Angular 2](https://www.udemy.com/the-complete-guide-to-angular-2/)
 - :video_camera: [Pluralsight - Angular 2: First Look](https://www.pluralsight.com/courses/angular-2-first-look)
@@ -159,6 +162,16 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 ## Artificial Intelligence
 
 - :books: [Learn Basics Of AI](https://www.elementsofai.com/)
+- :books: [The Pac-Man Projects](http://ai.berkeley.edu/project_overview.html)
+- :video_camera: [Artificial Intelligence Full Course | Artificial Intelligence Tutorial for Beginners | Edureka](https://www.youtube.com/watch?v=JMUxmLyrhSk)
+
+---
+
+**[⬆ Back to Index](#content)**
+
+## AWS
+
+- :books: [Learn AWS with Training and Certification](https://aws.amazon.com/training/)
 
 ---
 
@@ -205,6 +218,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [Learn C Org](https://www.learn-c.org)
 - :bulb: [C Cheatsheet](https://www.codewithharry.com/blogpost/c-cheatsheet)
 - :books: [C Tutorial - Learn C in Detail](https://www.scaler.com/topics/c/)
+- :wrench: [C Playground](https://cplayground.com)
 
 ---
 
@@ -300,10 +314,10 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [CSS Tutorial - Learn CSS in Detail](https://www.scaler.com/topics/css/)
 - :wrench: [CSS Multicolor Gradient](https://gradienta.io/)
 - :bulb: [CSS Grid Garden](https://cssgridgarden.com/)
-- :bulb: [CSS Flexbox-Froggy](https://flexboxfroggy.com/) - Learn Flexbox while playing 
+- :bulb: [CSS Flexbox-Froggy](https://flexboxfroggy.com/) - Learn Flexbox while playing
 - :bulb: [Knights of the Flexbox Table](https://knightsoftheflexboxtable.com)
 - :books: [Learn CSS From Scratch](https://web.dev/learn/css/)
-- :bulb: [100 Days CSS Challenge](https://100dayscss.com/)  
+- :bulb: [100 Days CSS Challenge](https://100dayscss.com/)
 - :bulb: [CSS Reference](https://cssreference.io/)
 - :wrench: [CSS Validator](https://jigsaw.w3.org/css-validator/)
 - :wrench: [CSS Color Picker](https://0to255.com/)
@@ -314,6 +328,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :green_book: [Understanding Layout Algorithms](https://www.joshwcomeau.com/css/understanding-layout-algorithms/)
 - :wrench: [Sara Edo - CSS Grid Generator](https://cssgrid-generator.netlify.app)
 - :wrench: [Clippy - CSS clip-path generator](https://bennettfeely.com/clippy)
+- :wrench: [CSS Glassmorphism effect generator](https://hype4.academy/tools/glassmorphism-generator)
+- :wrench: [CSS Neumorphism shadow generator](https://neumorphism.io/)
 
 ---
 
@@ -341,6 +357,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [Dart Tutorial for Beginners: Basics and Fundamentals for Flutter](https://www.youtube.com/playlist?list=PLlxmoA0rQ-LyHW9voBdNo4gEEIh0SjG-q)
 - :books: [Intro to Dart for Java Developers](https://codelabs.developers.google.com/codelabs/from-java-to-dart/#0)
 - :file_folder: [Iterable collections](https://dart.dev/codelabs/iterables)
+- :book: [Learning Dart](https://riptutorial.com/Download/dart.pdf)
+- :book: [Essential Dart](https://www.programming-books.io/essential/dart/)
 
 ---
 
@@ -379,7 +397,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [Deep Learning Fundamentals](https://www.dataquest.io/course/deep-learning-fundamentals/)
 - :bulb: [Deep learning cheat sheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning)
 - :books: [Natural Language Processing CS224n](http://web.stanford.edu/class/cs224n/)
-- :books: [IBM Deep Learning Course with certification](https://cognitiveclass.ai/courses/introduction-deep-learning) 
+- :books: [IBM Deep Learning Course with certification](https://cognitiveclass.ai/courses/introduction-deep-learning)
 - :books: [Geometric Deep Learning](https://geometricdeeplearning.com/lectures/)
 - :books: [CS224W: Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/)
 
@@ -407,6 +425,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :file_folder: [Azure DevOps](https://azure.microsoft.com/en-us/overview/devops-tutorial/)
 - :green_book: [Agile vs Devops](https://enterprisersproject.com/article/2019/1/agile-vs-devops-whats-difference)
 - :books: [Become a DevOps Engineer - Linkedin Learning](https://www.linkedin.com/learning/paths/become-a-devops-engineer?u=57692769)
+- :books: [Perform DevOps on IBM Cloud](https://cognitiveclass.ai/courses/course-v1:IBM+GPXX0CUCEN+v1)
 - :bulb: [DevOps terms: 10 essential concepts, explained](https://enterprisersproject.com/article/2019/8/devops-terms-10-essential-concepts)
 - :books: [DevOps for Dummies - by IBM](https://www.ibm.com/downloads/cas/P9NYOK3B)
 - :bulb: [DevOps Roadmap for beginners](https://roadmap.sh/devops)
@@ -476,6 +495,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [Fundamentals of Networking](https://www.youtube.com/playlist?list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi)
 - :video_camera: [Computer Networking Full Course - OSI Model Deep Dive with Real Life Examples](https://www.youtube.com/watch?v=IPvYjXCsTg8)
 - :video_camera: [Computer Networking Course - Network Engineering (CompTIA Network+ Exam Prep)](https://www.youtube.com/watch?v=qiQR5rTSshw)
+- :video_camera: [Computer Networking Full Course- By Gate Smashers](https://youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_)
 
 ---
 
@@ -511,6 +531,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [DSA + C++ Interview Preparation Course](https://www.youtube.com/watch?v=z9bZufPHFLU&list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ)
 - :video_camera: [Data Structures](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
 - :video_camera: [DSA-One Course - The Complete Data Structures and Algorithms Course](https://www.youtube.com/playlist?list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p)
+- :video_camera: [Advanced Data Structures](https://youtube.com/playlist?list=PLv9sD0fPjvSHqIOLTIvHJWjkdH0IdzmXT)
 - :green_book: [Minimum Stack / Minimum Queue](https://cp-algorithms.com/data_structures/stack_queue_modification.html)
 - :books: [Data Structures Tutorial - Scalar](https://www.scaler.com/topics/data-structures/)
 - :books: [Princeton University Algorithms, Part 1](https://www.coursera.org/learn/algorithms-part1)
@@ -651,6 +672,15 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 **[⬆ Back to Index](#content)**
 
+## GLSL
+
+- :books: [Graphics Shaders: Theory and Practice](https://cs.uns.edu.ar/cg/clasespdf/GraphicShaders.pdf)
+- :books: [The Book of Shaders](https://thebookofshaders.com/)
+
+---
+
+**[⬆ Back to Index](#content)**
+
 ## Go
 
 - :file_folder: [A Tour of Go - A Complete Tour of the Go Programming Language.](https://tour.golang.org/)
@@ -670,7 +700,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 - :video_camera: [GraphQL tutorial for beginners](https://www.howtographql.com/)
 - :books: [GraphQL Tutorials](https://www.tutorialspoint.com/graphql/index.htm)
-- :video_camera: [Complete App with GraphQl](https://www.youtube.com/playlist?list=PL55RiY5tL51rG1x02Yyj93iypUuHYXcB_)
+- :video_camera: [Complete App with GraphQl](https://www.youtube.com/playlist?list=PL55RiY5tL51rG1x02Yyj93iypUuHYXcB*)
 - :video_camera: [Learn GraphQL with React](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f)
 - :books: [Apollo Odyssey - GraphQL Tutorials](https://www.apollographql.com/tutorials/)
 
@@ -859,6 +889,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :speaker: [Machine Learning Guide Podcast](https://ocdevel.com/mlg)
 - :books: [An Introduction to Statistical Learning with Applications in R](https://www.statlearning.com/)
 - :video_camera: [Neural Networks Theory](https://youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1)
+- :file_folder: [Open AI GPT-3 documentation](https://beta.openai.com/docs/introduction/overview)
 
 ---
 
@@ -876,9 +907,11 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 ## Markdown
 
+- :file_folder: [Documentation from the Creator of Markdown](https://daringfireball.net/projects/markdown/)
 - :bulb: [List of Badges, in Markdown](https://github.com/Naereen/badges)
 - :bulb: [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
 - :wrench: [Dillinger - Markdown Editor](https://dillinger.io)
+- :bulb: [Markdown Syntax Reference](http://five.squarespace.com/display/ShowHelp?section=Markdown)
 
 ---
 
@@ -967,7 +1000,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 ## Python
 
-- :books:  [CS50P - CS50's intro to Programing With Python](https://cs50.harvard.edu/python/2022/)
+- :books: [CS50P - CS50's intro to Programing With Python](https://cs50.harvard.edu/python/2022/)
 - :books: [Automate The Boring Stuff With Python](https://automatetheboringstuff.com/2e/chapter0/)
 - :books: [Python Intermediate Tutorial](https://github.com/python-engineer/python-engineer-notebooks/tree/master/advanced-python)
 - :books: [Python Programming MOOC 2022(University of Helsinki)](https://programming-22.mooc.fi/)
@@ -1015,7 +1048,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [Become a React Developer - Linkedin Learning](https://www.linkedin.com/learning/paths/become-a-react-developer)
 - :video_camera: [React Testing Tutorial by Codevolution](https://www.youtube.com/playlist?list=PLC3y8-rFHvwirqe1KHFCHJ0RqNuN61SJd)
 - :video_camera: [React JS Full Course 2022 | Build an App and Master React in 1 Hour](https://www.youtube.com/watch?v=b9eMGE7QtTk)
-- :books: [React Digest](https://reactdigest.net)
+- :video_camera: [React JS Full Course 2022 - Build an App and Master React in 1 Hour](https://www.youtube.com/watch?v=b9eMGE7QtTk)
+- :video_camera: [Code 15 React Projects - Complete Course](https://www.youtube.com/watch?v=a_7Z7C_JCyo&t=49s&ab_channel=freeCodeCamp.org)
 
 ---
 
@@ -1061,6 +1095,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 - :file_folder: [The Rust Programming Language book](https://doc.rust-lang.org/book/)
 - :bulb: [Rustlings - small exercises to get you used to reading and writing Rust code](https://github.com/rust-lang/rustlings)
+- :file_folder: [Rust By Example](https://doc.rust-lang.org/rust-by-example/): A collection of runnable examples that illustrate various Rust concepts and standard libraries.
 - :video_camera: [The Rust Lang Book video series by Let's Get Rusty](https://youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8)
 - :video_camera: [Rust Programming Course for Beginners - Tutorial](https://www.youtube.com/watch?v=MsocPEZBd-M)
 
@@ -1097,6 +1132,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :green_book: [Getting started with Svelte - MDN](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_getting_started)
 - :video_camera: [Svelte for beginners - The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO)
 - :video_camera: [Learn the Svelte JavaScript Framework: Full Course - Freecodecamp](https://www.youtube.com/watch?v=ujbE0mzX-CU)
+- :wrench: [Svelte REPL](https://svelte.dev/repl)
 
 ---
 
@@ -1121,6 +1157,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [System Design Primer Course](https://www.youtube.com/playlist?list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a)
 - :video_camera: [System Design Interview Preparation Series by codeKarle](https://www.youtube.com/playlist?list=PLhgw50vUymycJPN6ZbGTpVKAJ0cL4OEH3)
 - :video_camera: [Basics of System Design by Coding Simplified](https://www.youtube.com/playlist?list=PLt4nG7RVVk1g_LutiJ8_LvE914rIE5z4u)
+- :books: [The System Design Primer](https://github.com/kvasukib/system-design-primer#system-design-topics-start-here)
 
 ---
 
@@ -1147,6 +1184,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :wrench: [Apache JMeter](https://jmeter.apache.org)
 - :books: [API Testing 101: Learn The Basics](https://www.soapui.org/learn/functional-testing/api-testing-101/)
 - :bulb: [ISTQB Certification](https://www.istqb.com/)
+- :wrench: [Cypress: Javascript Testing](https://www.cypress.io)
 
 ---
 
@@ -1269,6 +1307,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [Haikei](https://app.haikei.app/): Multiple Shape Generator for UI.
 - :bulb: [Free Web Illustrations](https://freewebillustrations.com/): Discover 1,500+ Free High-Quality Web Illustrations
 - :bulb: [Flaticon](https://www.flaticon.com)
+- :bulb: [Figma Community](https://www.figma.com/community/): Discover inspiring portfolios, presentations, mockups, and more or publish live design files that anyone in the world can inspect, remix, and learn from. 
+- :bulb: [Pexels](https://www.pexels.com): Free stock photos and videos
 
 ### Open Source
 
@@ -1283,6 +1323,9 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [Top 5 VS Code extensions for web developers](https://jobin.hashnode.dev/top-5-vs-code-extension-for-web-developers-in-2021)
 - :video_camera: [VS Code Tutorial for Beginners](https://youtu.be/VqCgcpAypFQ?t=21)
 - :bulb: [The Best VS Code Extensions to Supercharge Your Git](https://betterprogramming.pub/the-best-vs-code-extensions-to-supercharge-your-git-5d5ab3f64f64)
+- :green_book: [Introducing Visual Studio Live Share](https://code.visualstudio.com/blogs/2017/11/15/live-share)
+- :green_book: [WSL 2 and Visual Studio Code](https://code.visualstudio.com/blogs/2019/09/03/wsl2)
+- :green_book: [Remote SSH: Tips and Tricks](https://code.visualstudio.com/blogs/2019/10/03/remote-ssh-tips-and-tricks)
 
 ### Tools
 
@@ -1293,6 +1336,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :wrench: [BrandBird](https://www.brandbird.app/): An image editor for busy SaaS founders, who build in public!
 - :wrench: [Carbon](https://carbon.now.sh/): Create and share beautiful images of your source code. (An alternative of [Ray.so](https://ray.so/))
 - :wrench: [Milanote](https://milanote.com): Organize your creative ideas into visual boards
+- :wrench: [Quicktype](https://app.quicktype.io/): Instantly parse JSON in any language
 
 ### Talks and Podcasts
 
