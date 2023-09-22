@@ -138,6 +138,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [Awesome Android](https://github.com/JStumpp/awesome-android)
 - :books: [Kotlin Fundamentals for Android Developers](https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011)
 - :video_camera: [Android Jetpack Compose For Beginners](https://www.youtube.com/playlist?list=PLQkwcJG4YTCSpJ2NLhDTHhi6XBNfk9WiC)
+- :file_folder: [Learning Jetpack Compose](https://developer.android.com/courses/jetpack-compose/course)
 - :video_camera: [Android Development Tutorial For Beginners](https://www.youtube.com/watch?v=mXjZQX3UzOs&t=918s)
 
 ---
