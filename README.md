@@ -97,6 +97,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Sass](#sass)
+- [Shell](#shell)
 - [Spring](#spring)
 - [Svelte](#svelte)
 - [Swift](#swift)
@@ -1114,6 +1115,16 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :wrench: [Vanilla Framework](https://vanillaframework.io/)
 - :wrench: [Susy - Grid Layout Engine](https://www.oddbird.net/susy/)
 - :video_camera: [SASS Tutorial (Build Your Own CSS Library)](https://youtube.com/playlist?list=PL4cUxeGkcC9jxJX7vojNVK-o8ubDZEcNb)
+
+---
+
+**[⬆ Back to Index](#content)**
+
+## Shell
+
+- :file_folder:[Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html)
+- :wrench: [Learn Shell - Free Interactive Guide for Shell Scripting](https://learnshell.org)
+- :video_camera: [Bash Scripting on Linux](https://youtube.com/playlist?list=PLT98CRl2KxKGj-VKtApD8-zCqSaN2mD4w): Series of Tutorials for Beginners
 
 ---
 
