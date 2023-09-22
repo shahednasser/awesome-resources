@@ -526,7 +526,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :green_book: [Dynamic Programming GeeksforGeeks](https://www.geeksforgeeks.org/dynamic-programming/)
 - :green_book: [Finding the largest zero submatrix](https://cp-algorithms.com/dynamic_programming/zero_matrix.html)
 - :video_camera: [Best Dynamic Programming Playlist](https://youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go)
-- :video_camera: [Striver's Dynamic Programming Series](https://www.youtube.com/playlist?list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY)
+- :video_camera: [Dynamic Programming Playlist - Interview Questions - Recursion - Tabulation - Striver - C++ - Java - DSA - Placements](https://www.youtube.com/playlist?list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY)
 
 
 ### Linear Algebra
