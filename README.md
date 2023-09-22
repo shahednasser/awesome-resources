@@ -326,6 +326,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :wrench: [CSS Framework - Pure](https://purecss.io/)
 - :wrench: [CSS Framework - Material Design Lite](https://getmdl.io/)
 - :green_book: [Understanding Layout Algorithms](https://www.joshwcomeau.com/css/understanding-layout-algorithms/)
+- :wrench: [Sara Edo - CSS Grid Generator](https://cssgrid-generator.netlify.app)
+- :wrench: [Clippy - CSS clip-path generator](https://bennettfeely.com/clippy)
 - :wrench: [CSS Glassmorphism effect generator](https://hype4.academy/tools/glassmorphism-generator)
 - :wrench: [CSS Neumorphism shadow generator](https://neumorphism.io/)
 
@@ -718,6 +720,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [Introduction to HTML](https://www.youtube.com/playlist?list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw)
 - :video_camera: [Learn HTML! with 100Devs](https://www.youtube.com/watch?v=eCRbEILXXmE)
 - :books: [HTML Tutorial - Learn HTML in Detail](https://www.scaler.com/topics/html/)
+- :bulb: [HTML5 Boilerplate](https://html5boilerplate.com)
+- :wrench: [HTML5 Please](https://html5please.com)
 
 ---
 
@@ -906,6 +910,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :file_folder: [Documentation from the Creator of Markdown](https://daringfireball.net/projects/markdown/)
 - :bulb: [List of Badges, in Markdown](https://github.com/Naereen/badges)
 - :bulb: [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
+- :wrench: [Dillinger - Markdown Editor](https://dillinger.io)
 - :bulb: [Markdown Syntax Reference](http://five.squarespace.com/display/ShowHelp?section=Markdown)
 
 ---
@@ -1042,6 +1047,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [React JS Crash Course](https://youtube.com/watch?v=w7ejDZ8SWv8)
 - :books: [Become a React Developer - Linkedin Learning](https://www.linkedin.com/learning/paths/become-a-react-developer)
 - :video_camera: [React Testing Tutorial by Codevolution](https://www.youtube.com/playlist?list=PLC3y8-rFHvwirqe1KHFCHJ0RqNuN61SJd)
+- :video_camera: [React JS Full Course 2022 | Build an App and Master React in 1 Hour](https://www.youtube.com/watch?v=b9eMGE7QtTk)
 - :video_camera: [React JS Full Course 2022 - Build an App and Master React in 1 Hour](https://www.youtube.com/watch?v=b9eMGE7QtTk)
 - :video_camera: [Code 15 React Projects - Complete Course](https://www.youtube.com/watch?v=a_7Z7C_JCyo&t=49s&ab_channel=freeCodeCamp.org)
 
@@ -1300,6 +1306,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [Vecteezy](https://www.vecteezy.com/): Download Free Vector Art, Stock Photos & Stock Videos.
 - :bulb: [Haikei](https://app.haikei.app/): Multiple Shape Generator for UI.
 - :bulb: [Free Web Illustrations](https://freewebillustrations.com/): Discover 1,500+ Free High-Quality Web Illustrations
+- :bulb: [Flaticon](https://www.flaticon.com)
 - :bulb: [Figma Community](https://www.figma.com/community/): Discover inspiring portfolios, presentations, mockups, and more or publish live design files that anyone in the world can inspect, remix, and learn from. 
 - :bulb: [Pexels](https://www.pexels.com): Free stock photos and videos
 
@@ -1328,6 +1335,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :wrench: [Squircley](https://squircley.app/): Start creating beautiful organic shapes ready to use for logos, icons and background images
 - :wrench: [BrandBird](https://www.brandbird.app/): An image editor for busy SaaS founders, who build in public!
 - :wrench: [Carbon](https://carbon.now.sh/): Create and share beautiful images of your source code. (An alternative of [Ray.so](https://ray.so/))
+- :wrench: [Milanote](https://milanote.com): Organize your creative ideas into visual boards
 - :wrench: [Quicktype](https://app.quicktype.io/): Instantly parse JSON in any language
 
 ### Talks and Podcasts
