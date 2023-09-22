@@ -1076,14 +1076,14 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 **[⬆ Back to Index](#content)**
 
 ## Shell
-- :file_folder:[Bourn Again Shell Official(BASH) Documentaion](https://www.gnu.org/software/bash/manual/bash.html)
-- :wrench: [Free Interactive Guide for Shell Scripting](https://learnshell.org)
-- :video_camera: [Bash Scripting Tutorial for Beginners](https://youtube.com/playlist?list=PLT98CRl2KxKGj-VKtApD8-zCqSaN2mD4w)
+
+- :file_folder:[Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html)
+- :wrench: [Learn Shell - Free Interactive Guide for Shell Scripting](https://learnshell.org)
+- :video_camera: [Bash Scripting on Linux](https://youtube.com/playlist?list=PLT98CRl2KxKGj-VKtApD8-zCqSaN2mD4w): Series of Tutorials for Beginners
 
 ---
 
 **[⬆ Back to Index](#content)**
-
 
 ## Spring
 
