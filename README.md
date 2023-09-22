@@ -562,9 +562,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 ## Flask
 
 - :green_book: [Official flask documentation](https://flask.palletsprojects.com/en/2.2.x/)
-- :video_camera: [Flask Tutorial for Beginners - YouTube](https://www.youtube.com/watch?v=mqhxxeeTbu0&list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX)
-- :video_camera: [Building a Flask REST API - YouTube](https://www.youtube.com/watch?v=GMppyAPbLYk&t=1075s)
-
+- :video_camera: [Flask Tutorial](https://www.youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX): Tutorial for beginners
+- :video_camera: [Python REST API Tutorial - Building a Flask REST API](https://www.youtube.com/watch?v=GMppyAPbLYk&ab_channel=TechWithTim)
 
 ---
 
