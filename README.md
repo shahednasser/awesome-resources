@@ -984,6 +984,20 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 **[⬆ Back to Index](#content)**
 
+## Open Source
+
+- :books: [Guide to Open Source](https://opensource.guide/)
+- :green_book: [Introduction to Open Source - Codecadmy](https://www.codecademy.com/learn/introduction-to-open-source)
+- :video_camera: [A Linux Foundation Course on Open Source](https://trainingportal.linuxfoundation.org/courses/a-beginners-guide-to-open-source-software-development-lfc102)
+- :green_book: [How to contribute to Open Source Projects](https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/) 
+- :wrench:  [Make your first contribution here](https://github.com/firstcontributions/first-contributions)
+- :bulb: [Find beginner issues here](https://www.firsttimersonly.com/)
+- :bulb: [HacktoberFest](https://hacktoberfest.com/)
+
+---
+
+**[⬆ Back to Index](#content)**
+
 ## PHP
 
 - :books: [PHP: The Right Way](https://phptherightway.com/)
