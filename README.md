@@ -1058,6 +1058,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [React Cheatsheet](https://devhints.io/react)
 - :bulb: [React Patterns](https://reactpatterns.com/)
 - :bulb: [Useful Packages you should know in React](https://medium.com/better-programming/14-useful-packages-every-react-developer-should-know-55b47a325d3)
+- :video_camera: [Learn React in 30 minutes](https://www.youtube.com/watch?v=hQAHSlTtcmY)
 - :books: [Learn React Test Driven Development](https://learntdd.in/react/)
 - :video_camera: [ReactJS Tutorial for Beginners](https://youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)
 - :books: [The React Beginner's Handbook](https://flaviocopes.com/page/react-handbook/)
