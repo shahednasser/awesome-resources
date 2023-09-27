@@ -603,24 +603,16 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 ## Flutter
 
-- :green_book: [Adding Google Maps to a Flutter app](https://codelabs.developers.google.com/codelabs/google-maps-in-flutter/#0)
 - :video_camera: [Animation in Flutter](https://www.youtube.com/playlist?list=PLjxrf2q8roU2v6UqYlt_KPaXlnjbYySua)
-- :green_book: [Building beautiful UIs with Flutter](https://codelabs.developers.google.com/codelabs/flutter/#0)
-- :green_book: [Building Beautiful Transitions with Material Motion for Flutter](https://codelabs.developers.google.com/codelabs/material-motion-flutter/)
-- :green_book: [Building a Cupertino app with Flutter](https://codelabs.developers.google.com/codelabs/flutter-cupertino/#0)
-- :green_book: [Build a Photo Sharing app with Google Photos and Flutter](https://codelabs.developers.google.com/codelabs/google-photos-sharing/#0)
-- :green_book: [Firebase for Flutter](https://codelabs.developers.google.com/codelabs/flutter-firebase/#0)
 - :video_camera: [Flutter Tutorial for Beginners - YouTube](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
 - :video_camera: [Flutter Animation Tutorial - YouTube](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gP1qg8yj-Jokef29VRCLt1)
 - :video_camera: [Flutter & Firebase App Build - YouTube](https://www.youtube.com/playlist?list=PL4cUxeGkcC9j--TKIdkb3ISfRbJeJYQwC)
 - :file_folder: [Flutter Documentation](https://flutter.dev/docs)
-- :green_book: [How to test a Flutter app](https://codelabs.developers.google.com/codelabs/flutter-app-testing/#0)
 - :video_camera: [Reactive Programming with Flutter](https://www.youtube.com/playlist?list=PL_Wj0DgxTlJc8E3ulwdekyVI4Wc819azh)
-- :file_folder: [Write your first Flutter app, Part 1](https://flutter.dev/docs/get-started/codelab)
-- :green_book: [Write your first Flutter app, Part 2](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2/#0)
-- :green_book: [Write a Flutter desktop application](https://codelabs.developers.google.com/codelabs/flutter-github-graphql-client/#0)
+- :file_folder: [Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - :video_camera: [Flutter Bloc Complete Course](https://www.youtube.com/watch?v=THCkkQ-V1-8)
 - :video_camera: [Flutter Bloc - from Zero To HERO](https://www.youtube.com/playlist?list=PLptHs0ZDJKt_T-oNj_6Q98v-tBnVf-S_o)
+- :books: [Codelabs - Filter by Flutter](https://codelabs.developers.google.com/?product=flutter)
 
 ---
 
