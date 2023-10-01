@@ -821,6 +821,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [JavaScript Documentation](https://devdocs.io/javascript/)
 - :books: [FreeCodeCamp - JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 - :video_camera: [ JavaScripts  playlist course for beginner ]([https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP](https://www.youtube.com/watch?v=ER9SspLe4Hg&list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR))
+-  :video_camera: [ JavaScripts course for beginner ](https://www.youtube.com/watch?v=SBmSRK3feww&pp=ygUhamF2YXNjcmlwdCB0dXRvcmlhbCBmb3IgYmVnaW5uZXJz)
 
 ---
 
