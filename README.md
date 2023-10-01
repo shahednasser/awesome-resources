@@ -481,7 +481,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [Sorting Algorithms](https://www.youtube.com/playlist?list=PL2_aWCzGMAwKedT2KfDMB9YA5DgASZb3U) - mycodeschool
 - :bulb: [Algorithm Visualizer](https://algorithm-visualizer.org/)
 - :video_camera: [Greedy Algorithm by Abdul Bari](https://www.youtube.com/playlist?list=PL8zDQ1C22qvvwdkPj1uXLpwzcYDJtjnze)
-
+- :bulb: [Searching Algoritms](https://www.geeksforgeeks.org/searching-algorithms/)
 ---
 
 **[⬆ Back to Index](#content)**
