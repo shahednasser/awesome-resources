@@ -331,6 +331,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :wrench: [CSS Framework - Skeleton](http://getskeleton.com/)
 - :wrench: [CSS Framework - Pure](https://purecss.io/)
 - :wrench: [CSS Framework - Material Design Lite](https://getmdl.io/)
+- :wrench: [CSS Framework - Foundation](https://get.foundation/)
 - :green_book: [Understanding Layout Algorithms](https://www.joshwcomeau.com/css/understanding-layout-algorithms/)
 - :wrench: [Sara Edo - CSS Grid Generator](https://cssgrid-generator.netlify.app)
 - :wrench: [Clippy - CSS clip-path generator](https://bennettfeely.com/clippy)
