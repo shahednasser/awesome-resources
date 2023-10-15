@@ -1,0 +1,230 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@400;700&display=swap");
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Quicksand", sans-serif;
+  transition: all 0.7s;
+}
+
+a, a:visited {
+  color: #10b981;
+}
+a:hover {
+  text-decoration: none;
+}
+a:visited:hover:not(.site-title) {
+  color: #111;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+h2 {
+  margin-top: 1rem;
+}
+
+hr {
+  background-color: #ccc;
+  height: 1px;
+  border: 0;
+}
+
+.emoji-button {
+  border: none;
+  background: white;
+  border-radius: 8px;
+  box-shadow: #bbb 2px 2px 5px;
+  padding: 8px;
+  margin-right: 10px;
+}
+
+.post-header {
+  display: none;
+}
+
+#awesome-resources- {
+  display: none;
+}
+
+.scroll-up {
+  position: fixed;
+  bottom: 8%;
+  right: 6%;
+  opacity: 1;
+  width: 35px;
+  height: 35px;
+  z-index: 10;
+  cursor: pointer;
+  background-color: #10b981;
+  outline: none;
+  display: none;
+  border: none;
+  filter: drop-shadow(0 2px 3px rgba(0, 0, 0, 0.2));
+  border-radius: 50px;
+}
+
+.footer-col-wrapper {
+  display: flex;
+  flex-direction: row;
+}
+
+.footer-col {
+  float: none;
+  flex: 1;
+}
+
+.site-header {
+  border: 0;
+  background-color: #10b981;
+  width: 100%;
+  position: sticky;
+  top: 0;
+}
+.site-header .site-title {
+  font-weight: 500;
+  color: #ffffff;
+}
+.site-header .site-title:hover {
+  text-decoration: none;
+}
+.site-header .page-link {
+  color: #ffffff;
+}
+
+footer {
+  border-top: 0 !important;
+}
+footer .social-media-list li {
+  display: inline-block;
+}
+footer .social-media-list li:not(:last-child) {
+  margin-right: 15px;
+}
+footer .social-media-list li .svg-icon {
+  transform: scale(1.5);
+  fill: #10b981;
+}
+
+.nav-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-actions {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.nav-actions .github-link {
+  font-size: 2rem;
+  transition: all 0.2s;
+  margin-right: 10px;
+}
+.nav-actions .github-link:hover {
+  color: #c5fff4 !important;
+}
+.nav-actions .theme-control {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.nav-actions .theme-control .theme-toggler {
+  cursor: pointer;
+  color: white;
+  font-size: 1.5rem;
+  transition: 0.5s;
+}
+.nav-actions .theme-control .theme-toggler:hover {
+  color: #c5fff4;
+}
+.nav-actions .theme-control .toggle {
+  position: relative;
+  display: inline-block;
+  width: 3em;
+  height: 1em;
+  margin: auto 0.8em;
+}
+.nav-actions .theme-control .toggle input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+.nav-actions .theme-control .toggle input:checked + .slider {
+  background-color: #10b981;
+}
+.nav-actions .theme-control .toggle input:checked + .slider:before {
+  transform: translateX(2em);
+}
+.nav-actions .theme-control .toggle input:focus + .slider {
+  box-shadow: 0 0 0.1em #10b981;
+}
+.nav-actions .theme-control .toggle .slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #f0ecec;
+  transition: 0.4s;
+}
+.nav-actions .theme-control .toggle .slider:before {
+  position: absolute;
+  content: "";
+  height: 1em;
+  width: 1em;
+  background-color: #fdfdfd;
+  box-shadow: 0.5px 0.5px 0.5em 0.5px #b6b5b5;
+  transition: 0.4s;
+}
+.nav-actions .theme-control .toggle .round {
+  border-radius: 2em;
+}
+.nav-actions .theme-control .toggle .round:before {
+  border-radius: 50%;
+}
+
+.wrapper:after {
+  content: none !important;
+}
+
+hr + p {
+  margin-top: 10px;
+}
+
+body:not(.dark) .scroll-up {
+  color: #fff;
+}
+body:not(.dark) footer {
+  background-color: #f9f9f9;
+}
+
+body.dark {
+  background-color: #27272a;
+  color: #fff;
+}
+body.dark a:hover:not(.site-title) {
+  color: #fff;
+}
+body.dark footer {
+  background-color: #52525b;
+}
+body.dark footer .footer-col-wrapper {
+  color: #fff !important;
+}
+body.dark .scroll-up {
+  color: #27272a;
+}
+body.dark td {
+  color: white;
+}
+
+.site-nav {
+  background-color: #10b981;
+  border: none;
+  text-align: left;
+}/*# sourceMappingURL=index.css.map */
