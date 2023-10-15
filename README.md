@@ -365,6 +365,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :file_folder: [Iterable collections](https://dart.dev/codelabs/iterables)
 - :book: [Learning Dart](https://riptutorial.com/Download/dart.pdf)
 - :book: [Essential Dart](https://www.programming-books.io/essential/dart/)
+- :video_camera: [Flutter & Dart - The Complete Guide [2023 Edition]](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
+
 
 ---
 
@@ -1153,6 +1155,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :file_folder: [Spring Security Architecture](https://spring.io/guides/topicals/spring-security-architecture/)
 - :file_folder: [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
 - :video_camera: [Spring Boot Tutorial for Beginners](https://www.youtube.com/watch?v=vtPkZShrvXQ&t=1551s)
+- :video_camera: [Spring Boot 3, Spring 6 & Hibernate for Beginners](https://www.udemy.com/course/spring-hibernate-tutorial/)
 
 ---
 
