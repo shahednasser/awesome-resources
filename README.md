@@ -679,7 +679,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 - :green_book: [How to create a pull request in GitHub](https://opensource.com/article/19/7/create-pull-request-github)
 - :green_book: [Squash mutilple commits into one in GitHub](https://www.internalpointers.com/post/squash-commits-into-one-git)
-- :books: [GitHub Learning Lab](https://lab.github.com/)
+- :books: [GitHub Skills](https://skills.github.com/)
 - :video_camera: [Hands-on-experience-of-git-commands](https://www.youtube.com/watch?v=uj4fy4kpaOA)
 - :green_book: [Step by Step Guide to Contributing on GitHub](https://www.dataschool.io/how-to-contribute-on-github/)
 - :bulb: [GitHub Protips: Tips, tricks, hacks, and secrets from Lee Reilly](https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/)
