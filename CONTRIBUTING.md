@@ -80,6 +80,7 @@ You need to add an emoji before the file name that represents what the resource 
 |:video_camera:|Video Resource (Youtube, video course, etc...)    |`:video_camera:` |
 |:bulb:        |Other (Doesn't belong to any previous categories) |`:bulb:`         |
 
+**NOTE: While adding the Resource please follow this format "- :wrench: [Online CSS3 Code Generator - EnjoyCSS : A gallery with ready made solutions from text effects to art and templates.](https://enjoycss.com/) or - :bulb: [CSS Grid - A simple visual cheatsheet by Malven](https://grid.malven.co/)" for not to disturb the ui and design of the webpage please don't do like this "- :wrench: [Online CSS3 Code Generator - EnjoyCSS](https://enjoycss.com/): A gallery with ready made solutions from text effects to art and templates. or - :bulb: [CSS Grid ](https://grid.malven.co/)- A simple visual cheatsheet by Malven"**
 
 1. Once you're done, scroll to the bottom of the list to commit the change. Make sure the title of the commit is relevant. For example: Added How to Contribute under New Category.
 

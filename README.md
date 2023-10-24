@@ -304,7 +304,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :wrench: [CSS Box-Shadow Generator](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Backgrounds_and_Borders/Box-shadow_generator)
 - :wrench: [CSS Gradient Generator](https://cssgradient.io/)
 - :wrench: [CSS Animated Gradient Background Generator](https://animated-gradient-background-generator.netlify.app/)
-- :wrench: [Online CSS3 Code Generator - EnjoyCSS](https://enjoycss.com/) : A gallery with ready made solutions from text effects to art and templates.
+- :wrench: [Online CSS3 Code Generator - EnjoyCSS : A gallery with ready made solutions from text effects to art and templates.](https://enjoycss.com/)
 - :wrench: [CSS Section Separator Generator](https://wweb.dev/resources/css-separator-generator/)
 - :bulb: [CSS Grid - A simple visual cheatsheet by Malven](https://grid.malven.co/)
 - :bulb: [CSS Flex - A simple visual cheatsheet by Malven](https://flexbox.malven.co/)
@@ -314,13 +314,13 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [Tailwind CSS Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=4wGmylafgM4)
 - :video_camera: [Introduction to CSS](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9D0J0Mtp6lIiD_8046k3si)
 - :video_camera: [CSS Units px, rem, em, vh, vw / Absolute Vs Relative Units](https://nados.io/video/css-units-px-rem-em-vh-vw-absolute-vs-relative-units)
-- :wrench: [Whirl](https://whirl.netlify.app/) : CSS loading animations with minimal effort!
+- :wrench: [Whirl : CSS loading animations with minimal effort!](https://whirl.netlify.app/)
 - :wrench: [CSS Selector Generator](https://github.com/antonmedv/finder)
 - :bulb: [CSS Cheat Sheet](https://www.hostinger.com/tutorials/css-cheat-sheet)
 - :books: [CSS Tutorial - Learn CSS in Detail](https://www.scaler.com/topics/css/)
 - :wrench: [CSS Multicolor Gradient](https://gradienta.io/)
 - :bulb: [CSS Grid Garden](https://cssgridgarden.com/)
-- :bulb: [CSS Flexbox-Froggy](https://flexboxfroggy.com/) - Learn Flexbox while playing
+- :bulb: [CSS Flexbox-Froggy - Learn Flexbox while playing](https://flexboxfroggy.com/)
 - :bulb: [Knights of the Flexbox Table](https://knightsoftheflexboxtable.com)
 - :books: [Learn CSS From Scratch](https://web.dev/learn/css/)
 - :bulb: [100 Days CSS Challenge](https://100dayscss.com/)
@@ -465,8 +465,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 ## Express
 
 - :green_book: [LinkedIn Login using Node JS, Express and passport](https://www.loginradius.com/engineering/blog/linkedin-login-using-node-passport/)
-- :books: [Curated ExpressJS Courses](https://hackr.io/tutorials/learn-express-js) - a list of community curated resources
-- :books: [ExpressJS Courses at Classpert](https://classpert.com/express-js) - a list of courses (free and paid) from Classpert Online Course Search
+- :books: [Curated ExpressJS Courses - a list of community curated resources](https://hackr.io/tutorials/learn-express-js)
+- :books: [ExpressJS Courses at Classpert - a list of courses (free and paid) from Classpert Online Course Search](https://classpert.com/express-js)
 - :bulb: [Security Practices in Express App](https://expressjs.com/en/advanced/best-practice-security.html)
 
 ---
@@ -478,7 +478,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [List of helpful algos](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
 - :books: [Stanford University Algorithms: Design and Analysis, Part 1](https://online.stanford.edu/courses/soe-ycsalgorithms1-algorithms-design-and-analysis-part-1)
 - :books: [Stanford University Algorithms: Design and Analysis, Part 2](https://online.stanford.edu/courses/soe-ycs0001-algorithms-design-and-analysis-part-2)
-- :video_camera: [Sorting Algorithms](https://www.youtube.com/playlist?list=PL2_aWCzGMAwKedT2KfDMB9YA5DgASZb3U) - mycodeschool
+- :video_camera: [Sorting Algorithms - mycodeschool](https://www.youtube.com/playlist?list=PL2_aWCzGMAwKedT2KfDMB9YA5DgASZb3U)
 - :bulb: [Algorithm Visualizer](https://algorithm-visualizer.org/)
 - :video_camera: [Greedy Algorithm by Abdul Bari](https://www.youtube.com/playlist?list=PL8zDQ1C22qvvwdkPj1uXLpwzcYDJtjnze)
 
@@ -545,9 +545,9 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [Princeton University Algorithms, Part 1](https://www.coursera.org/learn/algorithms-part1)
 - :books: [Princeton University Algorithms, Part 2](https://www.coursera.org/learn/algorithms-part2)
 - :books: [Sparse Table](https://cp-algorithms.com/data_structures/sparse-table.html)
-- :books: [This is CS50x](https://cs50.harvard.edu/x/2021) - David J. Malan
+- :books: [This is CS50x - David J. Malan](https://cs50.harvard.edu/x/2021)
 - :books: [IIT Bombay Foundation of Data Structures (CS213.1x)](https://courses.edx.org/courses/course-v1:IITBombayX+CS213.1x+1T2017/course/)
-- :books: [Intro to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513) - Brynn Claypoole, Horatio Thomas
+- :books: [Intro to Data Structures and Algorithms - Brynn Claypoole, Horatio Thomas](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
 
 ### Dynamic Programming
 
@@ -594,7 +594,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 ## Flask
 
 - :green_book: [Official flask documentation](https://flask.palletsprojects.com/en/2.2.x/)
-- :video_camera: [Flask Tutorial](https://www.youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX): Tutorial for beginners
+- :video_camera: [Flask Tutorial: Tutorial for beginners](https://www.youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX)
 - :video_camera: [Python REST API Tutorial - Building a Flask REST API](https://www.youtube.com/watch?v=GMppyAPbLYk&ab_channel=TechWithTim)
 
 ---
@@ -648,7 +648,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 - :file_folder: [Pro Git Book](https://git-scm.com/book/en/v2/)
 - :books: [Udacity's Git Commit Style Guide](https://udacity.github.io/git-styleguide/)
-- :bulb: [Learn Git Branching](https://learngitbranching.js.org/): A beautiful visual guide to learn simple and advanced Git.
+- :bulb: [Learn Git Branching: A beautiful visual guide to learn simple and advanced Git.](https://learngitbranching.js.org/)
 - :bulb: [Git Explorer](https://gitexplorer.com/)
 - :bulb: [NPD Software :: Git Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html#loc=index;)
 - :bulb: [Git notes for Professionals Book](https://goalkicker.com/GitBook/)
@@ -657,7 +657,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [Git Immersion](https://gitimmersion.com/)
 - :bulb: [30SecondsOfCode Git Snippets](https://www.30secondsofcode.org/git/p/1)
 - :bulb: [Git - the simple guide](https://rogerdudler.github.io/git-guide/)
-- :bulb: [Oh My Git](https://blinry.itch.io/oh-my-git): Open source Git learning game.
+- :bulb: [Oh My Git: Open source Git learning game.](https://blinry.itch.io/oh-my-git)
 - :bulb: [Git Exercises by Fracz](https://gitexercises.fracz.com/)
 - :green_book: [A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html)
 - :green_book: [GIT PURR! Git Commands Explained with Cats](https://girliemac.com/blog/2017/12/26/git-purr/)
@@ -683,8 +683,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [Hands-on-experience-of-git-commands](https://www.youtube.com/watch?v=uj4fy4kpaOA)
 - :green_book: [Step by Step Guide to Contributing on GitHub](https://www.dataschool.io/how-to-contribute-on-github/)
 - :bulb: [GitHub Protips: Tips, tricks, hacks, and secrets from Lee Reilly](https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/)
-- :green_book: [GitHub Minesweeper](https://profy.dev/project/github-minesweeper/intro-overview): hands-on introduction to working with Git and GitHub in a team
-- :wrench: [Readme.so](https://readme.so/): Easiest way to make good readme for your github repos
+- :green_book: [GitHub Minesweeper: hands-on introduction to working with Git and GitHub in a team](https://profy.dev/project/github-minesweeper/intro-overview)
+- :wrench: [Readme.so: Easiest way to make good readme for your github repos](https://readme.so/)
 - :video_camera: [Complete Git and Github Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics)
 - :green_book: [How to Create Github Profile README](https://www.sitepoint.com/github-profile-readme/)
 
@@ -1117,7 +1117,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 - :file_folder: [The Rust Programming Language book](https://doc.rust-lang.org/book/)
 - :bulb: [Rustlings - small exercises to get you used to reading and writing Rust code](https://github.com/rust-lang/rustlings)
-- :file_folder: [Rust By Example](https://doc.rust-lang.org/rust-by-example/): A collection of runnable examples that illustrate various Rust concepts and standard libraries.
+- :file_folder: [Rust By Example: A collection of runnable examples that illustrate various Rust concepts and standard libraries.](https://doc.rust-lang.org/rust-by-example/)
 - :video_camera: [The Rust Lang Book video series by Let's Get Rusty](https://youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8)
 - :video_camera: [Rust Programming Course for Beginners - Tutorial](https://www.youtube.com/watch?v=MsocPEZBd-M)
 
@@ -1141,7 +1141,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 - :file_folder:[Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html)
 - :wrench: [Learn Shell - Free Interactive Guide for Shell Scripting](https://learnshell.org)
-- :video_camera: [Bash Scripting on Linux](https://youtube.com/playlist?list=PLT98CRl2KxKGj-VKtApD8-zCqSaN2mD4w): Series of Tutorials for Beginners
+- :video_camera: [Bash Scripting on Linux: Series of Tutorials for Beginners](https://youtube.com/playlist?list=PLT98CRl2KxKGj-VKtApD8-zCqSaN2mD4w)
 
 ---
 
@@ -1309,39 +1309,39 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 ### Design
 
 - :bulb: [Freebie Supply](https://freebiesupply.com/)
-- :bulb: [unDraw](https://undraw.co/): Free illustrations, updated regularly
-- :bulb: [Bulbman](https://bulbman.art/): Free Artistic Illustrations for Designers
+- :bulb: [unDraw: Free illustrations, updated regularly](https://undraw.co/)
+- :bulb: [Bulbman: Free Artistic Illustrations for Designers](https://bulbman.art/)
 - :bulb: [Feather Icons](https://feathericons.com/)
 - :bulb: [humaaans](https://humaaans.com/)
 - :bulb: [absurd](https://absurd.design/)
 - :bulb: [Crello Free Templates](https://crello.com/templates/)
-- :bulb: [404 Illustration](https://error404.fun/): Free illustrations for 404 pages
-- :bulb: [UI Design Daily](https://uidesigndaily.com/): Awesome UI Components of all types
-- :bulb: [Freepik](https://www.freepik.com/): Find Free Vectors, Stock Photos and PSD
-- :bulb: [Geometric Shapes](https://tool.graphics/shapes): Free Geometric Shapes to use in Figma and download
-- :bulb: [3D-Icons](https://free3dicon.com/): Free 3D - Icons to download
+- :bulb: [404 Illustration: Free illustrations for 404 pages](https://error404.fun/)
+- :bulb: [UI Design Daily: Awesome UI Components of all types](https://uidesigndaily.com/)
+- :bulb: [Freepik: Find Free Vectors, Stock Photos and PSD](https://www.freepik.com/)
+- :bulb: [Geometric Shapes: Free Geometric Shapes to use in Figma and download](https://tool.graphics/shapes)
+- :bulb: [3D-Icons: Free 3D - Icons to download](https://free3dicon.com/)
 - :bulb: [533 Hand-Picked Tools & Resources for Web Designers & Developers](https://toolkit.addy.codes/)
-- :bulb: [Illlustrations](https://illlustrations.co/): Awesome 120+ free illustrations
-- :bulb: [ls.graphics](https://www.ls.graphics/free-mockups): Free mockups for different type of products
-- :bulb: [Unsplash](https://unsplash.com/): Free high quality stock images and videos
-- :bulb: [Undesign](https://undesign.learn.uno/): Collection of free design tools and resources for makers, developers and designers
-- :bulb: [DopeUI](https://dopeui.co/): High quality website UI templates
-- :wrench: [Design Junction](https://designjunction.xyz/): Resource library for Designers and Creatives
-- :bulb: [Coolors](https://coolors.co/): The super fast color schemes generator
-- :bulb: [uiGradients](https://uigradients.com/): An awesome gradient generator
-- :bulb: [Glassmorphism Generator](https://ui.glass/generator/): Amazing tool to generate glassmorphism design.
+- :bulb: [Illlustrations: Awesome 120+ free illustrations](https://illlustrations.co/)
+- :bulb: [ls.graphics: Free mockups for different type of products](https://www.ls.graphics/free-mockups)
+- :bulb: [Unsplash: Free high quality stock images and videos](https://unsplash.com/)
+- :bulb: [Undesign: Collection of free design tools and resources for makers, developers and designers](https://undesign.learn.uno/)
+- :bulb: [DopeUI: High quality website UI templates](https://dopeui.co/)
+- :wrench: [Design Junction: Resource library for Designers and Creatives](https://designjunction.xyz/)
+- :bulb: [Coolors: The super fast color schemes generator](https://coolors.co/)
+- :bulb: [uiGradients: An awesome gradient generator](https://uigradients.com/)
+- :bulb: [Glassmorphism Generator: Amazing tool to generate glassmorphism design.](https://ui.glass/generator/)
 - :bulb: [Canva](https://www.canva.com/)
-- :bulb: [Photopea](https://www.photopea.com/): Free online editor supporting PSD, XCF, Sketch, XD and CDR formats.
-- :bulb: [Lorem Ipsum Generators](https://loremipsum.io/): Awesome collection of Lorem Ipsum Generators
-- :books: [Lapa Ninja](https://www.lapa.ninja/learn/): The best resources for Learning Design
-- :bulb: [Font Awesome](https://fontawesome.com/): Vector icons and social logos for your website
-- :bulb: [SVG Backgrounds](https://www.svgbackgrounds.com/): Customize and apply backgrounds fast.
-- :bulb: [Vecteezy](https://www.vecteezy.com/): Download Free Vector Art, Stock Photos & Stock Videos.
-- :bulb: [Haikei](https://app.haikei.app/): Multiple Shape Generator for UI.
-- :bulb: [Free Web Illustrations](https://freewebillustrations.com/): Discover 1,500+ Free High-Quality Web Illustrations
+- :bulb: [Photopea: Free online editor supporting PSD, XCF, Sketch, XD and CDR formats.](https://www.photopea.com/)
+- :bulb: [Lorem Ipsum Generators: Awesome collection of Lorem Ipsum Generators](https://loremipsum.io/)
+- :books: [Lapa Ninja: The best resources for Learning Design](https://www.lapa.ninja/learn/)
+- :bulb: [Font Awesome: Vector icons and social logos for your website](https://fontawesome.com/)
+- :bulb: [SVG Backgrounds: Customize and apply backgrounds fast.](https://www.svgbackgrounds.com/)
+- :bulb: [Vecteezy: Download Free Vector Art, Stock Photos & Stock Videos.](https://www.vecteezy.com/)
+- :bulb: [Haikei: Multiple Shape Generator for UI.](https://app.haikei.app/)
+- :bulb: [Free Web Illustrations: Discover 1,500+ Free High-Quality Web Illustrations](https://freewebillustrations.com/)
 - :bulb: [Flaticon](https://www.flaticon.com)
-- :bulb: [Figma Community](https://www.figma.com/community/): Discover inspiring portfolios, presentations, mockups, and more or publish live design files that anyone in the world can inspect, remix, and learn from. 
-- :bulb: [Pexels](https://www.pexels.com): Free stock photos and videos
+- :bulb: [Figma Community: Discover inspiring portfolios, presentations, mockups, and more or publish live design files that anyone in the world can inspect, remix, and learn from. ](https://www.figma.com/community/)
+- :bulb: [Pexels: Free stock photos and videos](https://www.pexels.com)
 
 ### Open Source
 
@@ -1362,16 +1362,16 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 ### Tools
 
-- :wrench: [Tiny helpers](https://tiny-helpers.dev/): A collection of free single-purpose online tools for web developers
+- :wrench: [Tiny helpers: A collection of free single-purpose online tools for web developers](https://tiny-helpers.dev/)
 - :wrench: [How To Set Up ESLint & Prettier In VS Code](https://dev.to/rahulshawdev/how-to-set-up-eslint-prettier-in-vs-code-1dc1)
-- :wrench: [Ray.so](https://ray.so/): Create beautiful images of your code snippets!
-- :wrench: [Squircley](https://squircley.app/): Start creating beautiful organic shapes ready to use for logos, icons and background images
-- :wrench: [BrandBird](https://www.brandbird.app/): An image editor for busy SaaS founders, who build in public!
-- :wrench: [Carbon](https://carbon.now.sh/): Create and share beautiful images of your source code. (An alternative of [Ray.so](https://ray.so/))
-- :wrench: [Milanote](https://milanote.com): Organize your creative ideas into visual boards
-- :wrench: [Quicktype](https://app.quicktype.io/): Instantly parse JSON in any language
+- :wrench: [Ray.so: Create beautiful images of your code snippets!](https://ray.so/)
+- :wrench: [Squircley: Start creating beautiful organic shapes ready to use for logos, icons and background images](https://squircley.app/)
+- :wrench: [BrandBird: An image editor for busy SaaS founders, who build in public!](https://www.brandbird.app/)
+- :wrench: [Carbon: Create and share beautiful images of your source code. (An alternative of [Ray.so](https://ray.so/))](https://carbon.now.sh/)
+- :wrench: [Milanote: Organize your creative ideas into visual boards](https://milanote.com)
+- :wrench: [Quicktype: Instantly parse JSON in any language](https://app.quicktype.io/)
 
 ### Talks and Podcasts
 
-- :video_camera: [Coding Better World Together Live Session with Uncle Bob (Robert C. Martin](https://www.youtube.com/playlist?list=PLmmYSbUCWJ4x1GO839azG_BBw8rkh-zOj) : Coding Better World Together is a set of master lessons from the famous Uncle Bob (Robert Cecil Martin), where he gives us a broad vision of the importance and future of Software in today's society.
+- :video_camera: [Coding Better World Together Live Session with Uncle Bob (Robert C. Martin)](https://www.youtube.com/playlist?list=PLmmYSbUCWJ4x1GO839azG_BBw8rkh-zOj) : Coding Better World Together is a set of master lessons from the famous Uncle Bob (Robert Cecil Martin), where he gives us a broad vision of the importance and future of Software in today's society.
 - :speaker: [Clean Code with Uncle Bob Martin](https://completedeveloperpodcast.com/episode-232/): When folks code long enough, in time they get themselves stuck in a code base that's kind of difficult to wrap thier heads around. In this podcast Uncle Bob Martin talks about the principles of clean code and how to not make a code base too difficult to understand.
