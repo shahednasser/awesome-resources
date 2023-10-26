@@ -295,6 +295,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [30SecondsOfCode CSS Snippet](https://www.30secondsofcode.org/css/p/1)
 - :green_book: [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - :green_book: [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- :wrench: [CSS Easing Animation Tool](https://matthewlein.com/tools/ceaser)
 - :wrench: [CSS Framework - Bootstrap](https://getbootstrap.com/)
 - :wrench: [CSS Framework - Bulma](https://bulma.io/)
 - :wrench: [CSS Framework - Materialize](https://materializecss.com/)
@@ -304,6 +305,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :wrench: [CSS Box-Shadow Generator](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Backgrounds_and_Borders/Box-shadow_generator)
 - :wrench: [CSS Gradient Generator](https://cssgradient.io/)
 - :wrench: [CSS Animated Gradient Background Generator](https://animated-gradient-background-generator.netlify.app/)
+- :wrench: [CSS Animations via Animate.css](https://animate.style/)
 - :wrench: [Online CSS3 Code Generator - EnjoyCSS](https://enjoycss.com/) : A gallery with ready made solutions from text effects to art and templates.
 - :wrench: [CSS Section Separator Generator](https://wweb.dev/resources/css-separator-generator/)
 - :bulb: [CSS Grid - A simple visual cheatsheet by Malven](https://grid.malven.co/)
@@ -327,6 +329,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [CSS Reference](https://cssreference.io/)
 - :wrench: [CSS Validator](https://jigsaw.w3.org/css-validator/)
 - :wrench: [CSS Color Picker](https://0to255.com/)
+- :wrench: [CSS Framework - Axios](https://github.com/axios/axios)
 - :wrench: [CSS Framework - UIkit](https://getuikit.com/)
 - :wrench: [CSS Framework - Skeleton](http://getskeleton.com/)
 - :wrench: [CSS Framework - Pure](https://purecss.io/)
