@@ -1370,6 +1370,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :wrench: [Carbon](https://carbon.now.sh/): Create and share beautiful images of your source code. (An alternative of [Ray.so](https://ray.so/))
 - :wrench: [Milanote](https://milanote.com): Organize your creative ideas into visual boards
 - :wrench: [Quicktype](https://app.quicktype.io/): Instantly parse JSON in any language
+- :wrench: [Programming Tutorials And Practice Problems](https://www.hackerearth.com/practice/?utm_campaign=reactivation&utm_medium=email&utm_source=recommendation&utm_content=practice)
 
 ### Talks and Podcasts
 
