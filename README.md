@@ -1072,7 +1072,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [React JS Full Course 2022 | Build an App and Master React in 1 Hour](https://www.youtube.com/watch?v=b9eMGE7QtTk)
 - :video_camera: [React JS Full Course 2022 - Build an App and Master React in 1 Hour](https://www.youtube.com/watch?v=b9eMGE7QtTk)
 - :video_camera: [Code 15 React Projects - Complete Course](https://www.youtube.com/watch?v=a_7Z7C_JCyo&t=49s&ab_channel=freeCodeCamp.org)
-
+- :books: [React 2025 - Start developing websiteslike it's 2025](https://react2025.com/)
 ---
 
 **[⬆ Back to Index](#content)**
@@ -1086,6 +1086,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :green_book: [How to deploy react native apps](https://medium.com/react-native-training/understanding-react-native-deployments-6e54157920b7)
 - :video_camera: [React Native Tutorial For Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ)
 - :books: [Become a React Native Developer - Linkedin Learning](https://www.linkedin.com/learning/paths/become-a-react-native-developer)
+- :books: [CS50's Mobile App Development with React Native](https://learning.edx.org/course/course-v1:HarvardX+CS50M+Mobile/home)
 
 ---
 
