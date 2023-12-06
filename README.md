@@ -1178,6 +1178,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :file_folder: [Documentation](https://swift.org/documentation/#the-swift-programming-language)
 - :green_book: [Swift UI quick start](https://www.hackingwithswift.com/quick-start/swiftui)
 - :video_camera: [SwiftUI Basics Tutorial](https://www.youtube.com/watch?v=HXoVSbwWUIk)
+- :wrench: [Swift Package Manager](https://www.swift.org/package-manager/)
 
 ---
 
