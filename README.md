@@ -820,7 +820,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :wrench: [Visualize JavaScript and Understand the Workflow](https://www.jsv9000.app/)
 - :bulb: [JavaScript Documentation](https://devdocs.io/javascript/)
 - :books: [FreeCodeCamp - JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
-
+- :bulb: [Demystifying JavaScript: A Comprehensive Guide to Its Inner Workings and Performance Optimization.](https://www.inderpreetsingh.co/post/javascript-inner-workings-guide)
 ---
 
 **[⬆ Back to Index](#content)**
