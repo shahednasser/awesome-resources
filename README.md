@@ -548,6 +548,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [This is CS50x](https://cs50.harvard.edu/x/2021) - David J. Malan
 - :books: [IIT Bombay Foundation of Data Structures (CS213.1x)](https://courses.edx.org/courses/course-v1:IITBombayX+CS213.1x+1T2017/course/)
 - :books: [Intro to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513) - Brynn Claypoole, Horatio Thomas
+- :books: [IIT Madras - Data Structures and Algorithms using Python](https://pdsaiitm.github.io/)
 
 ### Dynamic Programming
 
