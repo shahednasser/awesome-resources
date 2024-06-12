@@ -1343,6 +1343,10 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [Figma Community](https://www.figma.com/community/): Discover inspiring portfolios, presentations, mockups, and more or publish live design files that anyone in the world can inspect, remix, and learn from. 
 - :bulb: [Pexels](https://www.pexels.com): Free stock photos and videos
 
+### Practice Programming
+
+- :wrench: [Edabit: A better way to learn programming](https://edabit.com/)
+
 ### Open Source
 
 - :green_book: [How to contribute to Open Source](https://kentcdodds.com/blog/introducing-how-to-contribute-to-open-source)
