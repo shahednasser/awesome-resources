@@ -91,6 +91,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - [PHP](#php)
 - [PostgreSQL](#postgresql)
 - [Power Automate](#power-automate)
+- [Power BI](#power-bi)
 - [Python](#python)
 - [React](#react)
 - [React Native](#react-native)
@@ -1015,6 +1016,14 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 ## Power Automate
 
 - :file_folder: [Power Automate official documentation](https://learn.microsoft.com/en-us/power-automate)
+
+---
+
+**[⬆ Back to Index](#content)**
+
+## Power BI
+
+- :file_folder: [Power BI official documentation](https://learn.microsoft.com/en-us/power-bi/)
 
 ---
 
