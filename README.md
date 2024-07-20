@@ -1012,6 +1012,17 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 **[⬆ Back to Index](#content)**
 
+## Supabase
+
+- :video_camera: [What is Supabase](https://youtu.be/zBZgdTb-dns?si=o80YxKgksnU8EDhb)
+- :wrench: [Get started with Supabase](https://supabase.com/)
+- :file_folder: [Documentations of Supabase](https://supabase.com/docs)
+- :video_camera: [Understanding Supabase](https://youtube.com/playlist?list=PL8HkCX2C5h0W-Fr3NEfOprzTRHICMGyOX&si=ZbQRU3_b7EoJHxyy)
+
+---
+
+**[⬆ Back to Index](#content)**
+
 ## Power Automate
 
 - :file_folder: [Power Automate official documentation](https://learn.microsoft.com/en-us/power-automate)
@@ -1359,7 +1370,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :green_book: [Introducing Visual Studio Live Share](https://code.visualstudio.com/blogs/2017/11/15/live-share)
 - :green_book: [WSL 2 and Visual Studio Code](https://code.visualstudio.com/blogs/2019/09/03/wsl2)
 - :green_book: [Remote SSH: Tips and Tricks](https://code.visualstudio.com/blogs/2019/10/03/remote-ssh-tips-and-tricks)
-
+  
 ### Tools
 
 - :wrench: [Tiny helpers](https://tiny-helpers.dev/): A collection of free single-purpose online tools for web developers
