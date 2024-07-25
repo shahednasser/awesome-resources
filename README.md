@@ -806,7 +806,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet)
 - :wrench: [Free js.org Subdomain For Github Pages](https://github.com/js-org/js.org)
 - :books: [Eloquent JavaScript - A Modern Introduction to Programming](https://eloquentjavascript.net/)
-- :books: [JavaScript Garden](https://bonsaiden.github.io/JavaScript-Garden/)
+- :books: [JavaScript Garden](https://github.com/BonsaiDen/JavaScript-Garden)
 - :video_camera: [JavaScript by Example - Level 1 by Hussein Nasser](https://www.youtube.com/playlist?list=PLQnljOFTspQW9tY3eqBrmbY7CqxNrW-g3)
 - :video_camera: [JavaScript by Example - Level 2 by Hussein Nasser](https://www.youtube.com/playlist?list=PLQnljOFTspQWab0g3W6ZaDM6_Buh20EWM)
 - :video_camera: [Namaste JavaScript](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
