@@ -76,6 +76,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - [GraphQL](#graphql)
 - [HTML](#html)
 - [Ionic](#ionic)
+- [iOS](#iOS)
 - [Java](#java)
 - [Javascript](#javascript)
 - [Kubernetes](#kubernetes)
@@ -754,6 +755,19 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :green_book: [Add a Firebase Database to your Ionic App](https://ionicthemes.com/tutorials/add-a-firebase-database-to-your-ionic-app)
 - :bulb: [Awesome Ionic - A curated list of awesome Ionic libraries, resources, and solutions from Ionic 1 to the latest version of the framework](https://github.com/Alexintosh/Awesome-Ionic)
 - :green_book: [Building an Ionic JWT Refresh Token Flow](https://devdactic.com/ionic-jwt-refresh-token/)
+
+---
+
+**[⬆ Back to Index](#content)**
+
+## iOS
+
+- :wrench: [App Distribution and Crashlytics](https://firebase.google.com/)
+- :wrench: [Lints and auto-corrects Swift code](https://github.com/realm/SwiftLint)
+- :wrench: [Spinner and progress huds while waiting for network requests](https://github.com/relatedcode/ProgressHUD)
+- :wrench: [Make it easy to work with a built-in keychain](https://github.com/kishikawakatsumi/UICKeyChainStore)
+- :wrench: [Async image loading](https://cocoapods.org/pods/SDWebImage)
+- :wrench: [Easy handling of JWT tokens](https://github.com/auth0/JWTDecode.swift)
 
 ---
 
