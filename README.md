@@ -167,6 +167,26 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [Learn Basics Of AI](https://www.elementsofai.com/)
 - :books: [The Pac-Man Projects](http://ai.berkeley.edu/project_overview.html)
 - :video_camera: [Artificial Intelligence Full Course | Artificial Intelligence Tutorial for Beginners | Edureka](https://www.youtube.com/watch?v=JMUxmLyrhSk)
+- :video_camera: [Roadmap to learn AI](https://www.youtube.com/watch?v=H-RKfV2ZJbI)
+
+---
+
+**[⬆ Back to Index](#content)**
+
+## AWS
+
+- :books: [Learn AWS with Training and Certification](https://aws.amazon.com/training/)
+- :video_camera: [Learn AWS Free Tutorial](https://www.youtube.com/watch?v=rKNSc8RrwxA&list=PL6XT0grm_TfgtwtwUit305qS-HhDvb4du)
+
+
+---
+
+**[⬆ Back to Index](#content)**
+
+## Big Data
+
+- :video_camera: [Big Data](https://youtube.com/playlist?list=PL-Jc9J83PIiFFhKLTP1_UDUiNE0xXbJqr)
+
 
 ---
 
