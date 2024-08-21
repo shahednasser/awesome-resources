@@ -1051,6 +1051,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 - :books: [React Tutorial - W3Schools](https://www.w3schools.com/react/)
 - :books: [Egghead.io: Start Learning React](https://egghead.io/courses/start-learning-react)
+- :books: [The Odin Project: React Course](https://www.theodinproject.com/paths/full-stack-javascript/courses/react)
 - :file_folder: [React Official Tutorial](https://facebook.github.io/react/docs/tutorial.html)
 - :file_folder: [Using React in Visual Studio Code](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial)
 - :books: [Scrimba - Learn React for free interactively](https://scrimba.com/g/glearnreact)
@@ -1058,7 +1059,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [React Cheatsheet](https://devhints.io/react)
 - :bulb: [React Patterns](https://reactpatterns.com/)
 - :bulb: [Useful Packages you should know in React](https://medium.com/better-programming/14-useful-packages-every-react-developer-should-know-55b47a325d3)
-- :books: [Learn React Test Driven Development](https://learntdd.in/react/)
+- :books: [Learn React Test  DrivenDevelopment](https://learntdd.in/react/)
 - :video_camera: [ReactJS Tutorial for Beginners](https://youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)
 - :books: [The React Beginner's Handbook](https://flaviocopes.com/page/react-handbook/)
 - :video_camera: [React.js Clones by PAPA React](https://youtube.com/playlist?list=PLf16UKl7nR5AjcrYOe1niifJSAls3spDk)
