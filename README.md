@@ -785,6 +785,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 ## Javascript
 
 - :video_camera: [Learn How JavaScripts works Behind the Scene by Akshay Saini](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
+- :video_camera: [Learn How Promises, Async-await works Behind the Scene by Akshay Saini](https://www.youtube.com/watch?v=78Homn79Qsk&list=PLlasXeu85E9eWOpw9jxHOQyGMRiBZ60aX)
 - :books: [CoderslangJS](https://js.coderslang.com/)
 - :bulb: [Beginner JavaScript Notes + Reference by Wes Bos](https://wesbos.com/javascript)
 - :green_book: [Learn Modern JavaScript ES6 \| ES7 \| ES8](https://codeloop.org/learn-modern-javascript-es6-es7-es8/)
