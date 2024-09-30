@@ -1,0 +1,43 @@
+name: Check for Duplicate Links
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'  # Runs every Sunday at midnight (UTC)
+
+jobs:
+  check_duplicates:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        
+      - name: Install Dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y jq
+  
+      - name: Check for duplicate Links
+        id: check_links
+        run: |
+          # Find all markdown files and extract links
+          links=$(grep -oh 'http[s]*://[^ ]*' **/*.md | sort | uniq -d)
+          
+          if [ -n "$links" ]; then
+            echo "::set-output name=duplicates::$links"
+          else
+            echo "No duplicate links found."
+          fi
+
+      - name: Create GitHub Issue
+        if: ${{ steps.check_links.outputs.duplicates != '' }}
+        uses: peter-evans/create-issue@v2
+        with:
+          title: 'Duplicate Links Found'
+          body: |
+            The following duplicate links were found:
+            ```
+            ${{ steps.check_links.outputs.duplicates }}
+            ```
+          labels: 'duplicate links'
+          token: ${{ secrets.GITHUB_TOKEN }}
