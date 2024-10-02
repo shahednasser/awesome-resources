@@ -39,7 +39,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - [Angular](#angular)
 - [Artificial Intelligence](#artificial-intelligence)
 - [AWS](#aws)
-- [Big Data](#bigdata)
+- [Big Data](#big-data)
 - [Blockchain](#blockchain)
 - [Bots](#bots)
 - [C](#c)
