@@ -223,6 +223,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [C Cheatsheet](https://www.codewithharry.com/blogpost/c-cheatsheet)
 - :books: [C Tutorial - Learn C in Detail](https://www.scaler.com/topics/c/)
 - :wrench: [C Playground](https://cplayground.com)
+- :books: [Beej's Guide to C Programming](https://beej.us/guide/bgc/)
+
 
 ---
 
