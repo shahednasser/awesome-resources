@@ -1072,6 +1072,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [React JS Full Course 2022 | Build an App and Master React in 1 Hour](https://www.youtube.com/watch?v=b9eMGE7QtTk)
 - :video_camera: [React JS Full Course 2022 - Build an App and Master React in 1 Hour](https://www.youtube.com/watch?v=b9eMGE7QtTk)
 - :video_camera: [Code 15 React Projects - Complete Course](https://www.youtube.com/watch?v=a_7Z7C_JCyo&t=49s&ab_channel=freeCodeCamp.org)
+- :video_camera: [Complete React Crash Course with 10 Projects by Hitesh Choudhary](https://youtube.com/watch?v=4DqAvWonPAg)
 
 ---
 
