@@ -453,6 +453,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 - :file_folder: [Docker Overview & Basics](https://docs.docker.com/get-started/overview/)
 - :video_camera: [Docker for beginners](https://youtu.be/zJ6WbK9zFpI)
+- :video_camera: [Complete Docker Course - From BEGINNER to PRO! (Learn Containers)](https://www.youtube.com/watch?v=RqTEHSBrYFw)
 - :books: [Docker Curriculum Ebook](https://docker-curriculum.com/)
 - :wrench: [Docker Labs environment](https://labs.play-with-docker.com/)
 - :books: [Docker labs](https://www.sharelearn.net/practice/dockerlabs)
@@ -1340,7 +1341,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [Haikei](https://app.haikei.app/): Multiple Shape Generator for UI.
 - :bulb: [Free Web Illustrations](https://freewebillustrations.com/): Discover 1,500+ Free High-Quality Web Illustrations
 - :bulb: [Flaticon](https://www.flaticon.com)
-- :bulb: [Figma Community](https://www.figma.com/community/): Discover inspiring portfolios, presentations, mockups, and more or publish live design files that anyone in the world can inspect, remix, and learn from. 
+- :bulb: [Figma Community](https://www.figma.com/community/): Discover inspiring portfolios, presentations, mockups, and more or publish live design files that anyone in the world can inspect, remix, and learn from.
 - :bulb: [Pexels](https://www.pexels.com): Free stock photos and videos
 
 ### Open Source
