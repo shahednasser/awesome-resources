@@ -604,6 +604,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 ## Flutter
 
 - :green_book: [Adding Google Maps to a Flutter app](https://codelabs.developers.google.com/codelabs/google-maps-in-flutter/#0)
+- :video_camera: [Full flutter masterclass by Mitch Koko](https://www.youtube.com/watch?v=TclK5gNM_PM&t=201s)
 - :video_camera: [Animation in Flutter](https://www.youtube.com/playlist?list=PLjxrf2q8roU2v6UqYlt_KPaXlnjbYySua)
 - :green_book: [Building beautiful UIs with Flutter](https://codelabs.developers.google.com/codelabs/flutter/#0)
 - :green_book: [Building Beautiful Transitions with Material Motion for Flutter](https://codelabs.developers.google.com/codelabs/material-motion-flutter/)
@@ -1340,7 +1341,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [Haikei](https://app.haikei.app/): Multiple Shape Generator for UI.
 - :bulb: [Free Web Illustrations](https://freewebillustrations.com/): Discover 1,500+ Free High-Quality Web Illustrations
 - :bulb: [Flaticon](https://www.flaticon.com)
-- :bulb: [Figma Community](https://www.figma.com/community/): Discover inspiring portfolios, presentations, mockups, and more or publish live design files that anyone in the world can inspect, remix, and learn from. 
+- :bulb: [Figma Community](https://www.figma.com/community/): Discover inspiring portfolios, presentations, mockups, and more or publish live design files that anyone in the world can inspect, remix, and learn from.
 - :bulb: [Pexels](https://www.pexels.com): Free stock photos and videos
 
 ### Open Source
