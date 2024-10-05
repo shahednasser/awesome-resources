@@ -1319,6 +1319,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [UI Design Daily](https://uidesigndaily.com/): Awesome UI Components of all types
 - :bulb: [Freepik](https://www.freepik.com/): Find Free Vectors, Stock Photos and PSD
 - :bulb: [Geometric Shapes](https://tool.graphics/shapes): Free Geometric Shapes to use in Figma and download
+- :bulb: [Noun Project](https://www.pexels.com): Free icons for web development
 - :bulb: [3D-Icons](https://free3dicon.com/): Free 3D - Icons to download
 - :bulb: [533 Hand-Picked Tools & Resources for Web Designers & Developers](https://toolkit.addy.codes/)
 - :bulb: [Illlustrations](https://illlustrations.co/): Awesome 120+ free illustrations
@@ -1340,7 +1341,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [Haikei](https://app.haikei.app/): Multiple Shape Generator for UI.
 - :bulb: [Free Web Illustrations](https://freewebillustrations.com/): Discover 1,500+ Free High-Quality Web Illustrations
 - :bulb: [Flaticon](https://www.flaticon.com)
-- :bulb: [Figma Community](https://www.figma.com/community/): Discover inspiring portfolios, presentations, mockups, and more or publish live design files that anyone in the world can inspect, remix, and learn from. 
+- :bulb: [Figma Community](https://www.figma.com/community/): Discover inspiring portfolios, presentations, mockups, and more or publish live design files that anyone in the world can inspect, remix, and learn from.
 - :bulb: [Pexels](https://www.pexels.com): Free stock photos and videos
 
 ### Open Source
