@@ -222,7 +222,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [Learn C Org](https://www.learn-c.org)
 - :bulb: [C Cheatsheet](https://www.codewithharry.com/blogpost/c-cheatsheet)
 - :books: [C Tutorial - Learn C in Detail](https://www.scaler.com/topics/c/)
-- :wrench: [C Playground](https://cplayground.com)
+- :wrench: [C Playground](https://codapi.org/c/)
 
 ---
 
@@ -347,7 +347,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [C# From a Java Developer's Perspective](http://www.25hoursaday.com/CsharpVsJava.html)
 - :file_folder: [C# Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/)
 - :books: [The C# Yellow Book](https://www.robmiles.com/c-yellow-book/)
-- :books: [Free C# online courses](https://skillcombo.com/topic/c-sharp/)
+- :books: [Free C# online course W3school](https://www.w3schools.com/cs/index.php)
 
 ---
 
@@ -362,7 +362,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [Dart videos from Google](https://www.youtube.com/playlist?list=PLjxrf2q8roU0Net_g1NT5_vOO3s_FR02J)
 - :video_camera: [Dart Tutorial for Beginners: Basics and Fundamentals for Flutter](https://www.youtube.com/playlist?list=PLlxmoA0rQ-LyHW9voBdNo4gEEIh0SjG-q)
 - :books: [Intro to Dart for Java Developers](https://codelabs.developers.google.com/codelabs/from-java-to-dart/#0)
-- :file_folder: [Iterable collections](https://dart.dev/codelabs/iterables)
+- :file_folder: [Iterable collections](https://dart-ko.dev/codelabs/iterables)
 - :book: [Learning Dart](https://riptutorial.com/Download/dart.pdf)
 - :book: [Essential Dart](https://www.programming-books.io/essential/dart/)
 
@@ -439,7 +439,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [DevOps Roadmap for beginners](https://roadmap.sh/devops)
 - :bulb: [How To Become a DevOps Engineer In Six Months or Less](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737)
 - :video_camera: [Free DevOps Bootcamp from beginner to advanced](https://www.youtube.com/playlist?list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak)
-- :video_camera: [DevOps roadmap with Resources](youtube.com/watch?v=7l_n97Mt0ko&t=6s)
+- :video_camera: [DevOps roadmap with Resources](https://www.youtube.com/watch?v=7l_n97Mt0ko&t=6s)
 - :bulb: [How to Become a DevOps Engineer in Six Months - by Spacelift](https://spacelift.io/blog/how-to-become-devops-engineer)
 - :bulb: [9 DevOps Best Practices – What You Should Do and NOT Do - by Spacelift](https://spacelift.io/blog/devops-best-practices)
 - :bulb: [Best tools for DevOps](https://kush01.hashnode.dev/best-tools-for-devops)
