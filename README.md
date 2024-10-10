@@ -946,6 +946,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [MySQL Crash Course - Traversy Media](https://youtu.be/9ylj9NR0Lcg)
 - :video_camera: [MySQL Tutorial for Beginners - Programming with Mosh](https://youtu.be/7S_tz1z_5bA)
 - :video_camera: [SQL Tutorial - Full Database Course for Beginners - freeCodeCamp](https://youtu.be/HXV3zeQKqGY)
+- :video_camera: [MySQL Course For Beginners](https://youtube.com/playlist?list=PLGf6Ram2AQh2GpckMjstVH6AaTm0kPfgI&si=0LEyBranOhGu2aRd)
 - :video_camera: [MySQL Database - Full Course - freeCodeCamp](https://youtu.be/ER8oKX5myE0)
 - :bulb: [MySQL Cheatsheet](https://www.codewithharry.com/blogpost/mysql-cheatsheet)
 - :books: [SQLBolt](https://sqlbolt.com/)
