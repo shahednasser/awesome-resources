@@ -1305,6 +1305,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [Emmet](https://docs.emmet.io/cheat-sheet/)
 - :bulb: [LeetCode](https://leetcode.com/)
 - :bulb: [tmux](https://tmuxcheatsheet.com/)
+- :bulb: [Termux Setup & Configuration](https://noob6t5.hashnode.dev/termux-for-web-testing)
 
 ### Design
 
