@@ -86,6 +86,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - [Magento](#magento)
 - [Markdown](#markdown)
 - [MySQL](#mysql)
+- [NextJS](#next)
 - [NodeJS](#nodejs)
 - [Operating Systems](#operating-systems)
 - [PHP](#php)
@@ -949,6 +950,14 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [MySQL Database - Full Course - freeCodeCamp](https://youtu.be/ER8oKX5myE0)
 - :bulb: [MySQL Cheatsheet](https://www.codewithharry.com/blogpost/mysql-cheatsheet)
 - :books: [SQLBolt](https://sqlbolt.com/)
+
+---
+
+**[⬆ Back to Index](#content)**
+
+## NextJS
+- :video_camera: [Next.js Tutorial - Beginner to Advanced](https://www.youtube.com/playlist?list=PLC3y8-rFHvwjOKd6gdf4QtV1uYNiQnruI)
+- :video_camera: [Next.js Full Course 2024](https://www.youtube.com/watch?v=wm5gMKuwSYk)
 
 ---
 
