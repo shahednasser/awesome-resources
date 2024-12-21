@@ -69,6 +69,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
   - [String Processing](#string-processing)
 - [Flask](#flask)
 - [Flutter](#flutter)
+- [Generative AI](#generative-ai)
 - [GIT](#git)
 - [GitHub](#github)
 - [GLSL](#glsl)
@@ -639,6 +640,14 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :wrench: [Cyclic](https://www.cyclic.sh/)
 - :wrench: [Surge](https://surge.sh/)
 - :wrench: [Adaptable](https://adaptable.io/)
+
+---
+
+**[⬆ Back to Index](#content)**
+
+## Generative-ai
+
+- :course: [Generative AI with LLMs](https://www.deeplearning.ai/courses/generative-ai-with-llms/)
 
 ---
 
