@@ -1038,6 +1038,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [30SecondsOfCode Python Snippets](https://www.30secondsofcode.org/python/p/1)
 - :green_book: [Selenium with Python Tutorial](https://www.javatpoint.com/selenium-python#Selenium-with-python)
 - :video_camera: [Python Flask Tutorial](https://youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX)
+- :green_book: [Python FastAPI Tutorial](https://www.datacamp.com/tutorial/introduction-fastapi-tutorial)
 - :bulb: [Python Cheatsheet](https://www.codewithharry.com/blogpost/python-cheatsheet)
 - :bulb: [Python Cheatsheet](https://www.pythoncheatsheet.org/)
 - :books: [Python Tutorial - Learn Python Programming](https://www.scaler.com/topics/python/)
