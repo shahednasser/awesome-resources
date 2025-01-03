@@ -69,6 +69,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
   - [String Processing](#string-processing)
 - [Flask](#flask)
 - [Flutter](#flutter)
+- [GameMaker](#gamemaker)
 - [GIT](#git)
 - [GitHub](#github)
 - [GLSL](#glsl)
@@ -639,6 +640,17 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :wrench: [Cyclic](https://www.cyclic.sh/)
 - :wrench: [Surge](https://surge.sh/)
 - :wrench: [Adaptable](https://adaptable.io/)
+
+---
+
+**[⬆ Back to Index](#content)**
+
+## GameMaker
+
+- :video_camera: [GameMaker for Beginners](https://www.youtube.com/watch?v=nBCDzE9MDbk)
+- :books: [How to Make a 2D Platformer in GameMaker!](https://www.youtube.com/playlist?list=PL14Yj-e2sgzxXOwdMYC0IDuG9m-VHEMW2)
+- :file_folder: [GameMaker Tutorial Page](https://gamemaker.io/en/tutorials)
+- :file_folder: [GameMaker Docs](https://manual.gamemaker.io/monthly/en/#t=Content.htm)
 
 ---
 
