@@ -17,21 +17,21 @@ Resources have to be in the form of links. Allowed resources can be videos, arti
 
 Here are some rules to follow when adding a resource to make sure it qualifies:
 
-1. Make sure the resource is not too specific of a topic. For example, if adding a resource under JavaScript don't add a tutorial on how to check if an element is in viewport. Only add general resources that are related to the topic.
-2. Based on the point above, single blog posts are not accepted. This is simply because if single blog posts are allowed then this list would be endless. There could be some exceptions, like if the single post is very extensive or includes details that are hard to find elsewhere. If the resource you're adding falls under the exception then please detail that in the PR.
-3. If you want to add multiple links of the same topic under the same website, just include a general link that might lead to all these links. For example, instead of adding multiple Youtube videos under the same series, add the playlist link.
-4. Take the time to make sure the resource has not been already added as it saves the maintainers time when reviewing your pull request.
-5. Make sure the resource is objective and not opinionated. This means no resources that talks about someone's thoughts of a topic, even if you personally find it helpful.
-6. No links to personal projects that have helped you learn something, unless the link is a tutorial or guide on how you did that project.
-7. No links to twitter accounts, telegram channels, Youtube channels (Youtube videos and playlists are allowed), and so on.
-8. No content with licensing issues.
-9. You are allowed to add your own content as a resource as long as it is helpful and follows the other rules detailed above.
+1. **General Topics Only**: Ensure the resource is not too specific. For example, avoid adding tutorials on niche topics (e.g., checking if an element is in the viewport).
+2. **Avoid Single Blog Posts**: Do not add individual blog posts unless they are extensive or provide information that is difficult to find elsewhere.
+3. **Multiple Resources from One Website**: If you want to add several links from the same website, include a general link (e.g., a YouTube playlist) rather than individual videos.
+4. **Check for Duplicates**: Ensure the resource hasn't already been added to avoid redundancy.
+5. **Objective Content**: Add only objective resources, not opinion-based content.
+6. **No Personal Projects**: Do not add links to personal projects unless they are tutorials or guides.
+7. **No Social Media or Channels**: Avoid adding Twitter accounts, Telegram channels, or personal YouTube channels.
+8. **Content Licensing**: Ensure that the content you’re adding does not have any licensing issues.
+9. **Your Own Content**: You can add your own content if it’s helpful and follows the above rules.
 
 ## Adding Resources
 
 You can contribute to this repository very easily!
 
-1. Get the resource you want to add ready.
+1. Get the resource (link, article, video...) you want to add ready.
 
 2. Go to the [README](https://github.com/shahednasser/awesome-resources/blob/master/README.md).
 
