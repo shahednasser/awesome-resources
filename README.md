@@ -687,6 +687,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :wrench: [Readme.so](https://readme.so/): Easiest way to make good readme for your github repos
 - :video_camera: [Complete Git and Github Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics)
 - :green_book: [How to Create Github Profile README](https://www.sitepoint.com/github-profile-readme/)
+- :books: [Showcase your expertise with GitHub Certifications](https://resources.github.com/learn/certifications/)
+
 
 ---
 
