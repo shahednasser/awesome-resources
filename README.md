@@ -1042,6 +1042,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [Python Cheatsheet](https://www.pythoncheatsheet.org/)
 - :books: [Python Tutorial - Learn Python Programming](https://www.scaler.com/topics/python/)
 - :books: [Python From Scratch](https://www.pythontutorial.net/)
+- :books: [Python ML Turorial Chainer](https://tutorials.chainer.org/ja/tutorial.html)
 
 ---
 
