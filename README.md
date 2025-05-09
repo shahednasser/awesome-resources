@@ -120,7 +120,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
   - [VS Code](#vs-code)
   - [Tools](#tools)
   - [Talks and Podcasts](#talks-and-podcasts)
-
+  - [Web Development](#web-development)
 ---
 
 **[⬆ Back to Index](#content)**
