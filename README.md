@@ -688,6 +688,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [Complete Git and Github Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics)
 - :green_book: [How to Create Github Profile README](https://www.sitepoint.com/github-profile-readme/)
 
+- [GitHub Certifications](https://certifications.github.com/) - Official certifications and courses by GitHub to improve developer skills and open-source contributions
+
 ---
 
 **[⬆ Back to Index](#content)**
