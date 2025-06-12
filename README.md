@@ -1342,6 +1342,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [Flaticon](https://www.flaticon.com)
 - :bulb: [Figma Community](https://www.figma.com/community/): Discover inspiring portfolios, presentations, mockups, and more or publish live design files that anyone in the world can inspect, remix, and learn from. 
 - :bulb: [Pexels](https://www.pexels.com): Free stock photos and videos
+- :bulb: [Google Fonts](https://fonts.google.com/): Free Fonts and Icons to use
 
 ### Open Source
 
