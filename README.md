@@ -729,6 +729,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 **[⬆ Back to Index](#content)**
 
 ## HTML
+<!-- Shivani was here 🌸 -->
+
 
 - :bulb: [HTML Cheat sheet by CodeWithHarry](https://www.codewithharry.com/blogpost/html-cheatsheet)
 - :bulb: [5 HTML Tricks Nobody is Talking About](https://javascript.plainenglish.io/5-html-tricks-nobody-is-talking-about-a0480104fe19)
