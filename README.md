@@ -739,6 +739,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [HTML tutorial for beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ibZ2TSBaGGNrgh4ZgYE6Cc)
 - :video_camera: [Introduction to HTML](https://www.youtube.com/playlist?list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw)
 - :video_camera: [Learn HTML! with 100Devs](https://www.youtube.com/watch?v=eCRbEILXXmE)
+- :video_camera: [HTML Full Course for Beginners – freeCodeCamp](https://www.youtube.com/watch?v=pQN-pnXPaVg)
 - :file_folder: [HTML Documentation for beginners](https://devdocs.io/html/)
 - :books: [HTML Tutorial - Learn HTML in Detail](https://www.scaler.com/topics/html/)
 - :bulb: [HTML5 Boilerplate](https://html5boilerplate.com)
