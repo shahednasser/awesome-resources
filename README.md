@@ -1273,6 +1273,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 ## Web Development
 
+- :globe_with_meridians: [W3Schools](https://www.w3schools.com) - Learn HTML, CSS, JavaScript interactively.
 - :books: [IBM Full Stack Software Developer Specialization](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer)
 - :video_camera: [Frontend Interview Series](https://youtube.com/playlist?list=PL-Jc9J83PIiFXzRwSTSwqL7U2hoMk6K6F)
 - :video_camera: [Frontend Interview Series](https://youtube.com/playlist?list=PL-Jc9J83PIiFXzRwSTSwqL7U2hoMk6K6F)
