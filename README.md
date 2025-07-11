@@ -157,6 +157,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [Angular Material - Material Design components for Angular](https://material.angular.io/)
 - :bulb: [Angular Powered Bootstrap - Bootstrap widgets for Angular](https://ng-bootstrap.github.io/#/home)
 - :books: [freeCodeCamp.org - Learn Angular - Full Tutorial Course](https://www.youtube.com/watch?v=2OHbjep_WjQ)
+- :books: [Angular Succinctly® by Joseph D. Booth](https://www.syncfusion.com/succinctly-free-ebooks/angular-succinctly/introduction)
 
 ---
 
@@ -198,7 +199,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [Complete Blockchain tutorial for beginners](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=9919s)
 - :books: [Become a Web3 Developer](https://learnweb3.io/)
 - :video_camera: [Blockchain Complete Series](https://www.youtube.com/playlist?list=PL_c9BZzLwBRJsMptw588B8U6QyZLUcini)
-
+- :books: [useWeb3](https://www.useweb3.xyz/) : Courses for learning Blockchain
 ---
 
 **[⬆ Back to Index](#content)**
@@ -273,6 +274,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - :books: [Introduction to Compilers and How they Work](https://www.edx.org/course/compilers)
 - :video_camera: [Machine Learning University (MLU) Accelerated Computer Vision class](https://www.youtube.com/playlist?list=PL8P_Z6C4GcuU4knhhCouJujFZ2tTqU-Ta)
+- :books: [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 
 ---
 
@@ -312,6 +314,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [Learning Advanced CSS and HTML](https://learn.shayhowe.com/advanced-html-css/)
 - :bulb: [Style Stage - A modern CSS showcase styled by community contributions](https://stylestage.dev/)
 - :video_camera: [Tailwind CSS Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=4wGmylafgM4)
+- :wrench: [CSS to Tailwind Converter](https://tailwind-converter.netlify.app/) : Converts your CSS input to Tailwind classes
+- :bulb: [Tailwind CSS Cheatsheet](https://nerdcave.com/tailwind-cheat-sheet)
 - :video_camera: [Introduction to CSS](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9D0J0Mtp6lIiD_8046k3si)
 - :video_camera: [CSS Units px, rem, em, vh, vw / Absolute Vs Relative Units](https://nados.io/video/css-units-px-rem-em-vh-vw-absolute-vs-relative-units)
 - :wrench: [Whirl](https://whirl.netlify.app/) : CSS loading animations with minimal effort!
@@ -1190,7 +1194,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [System Design Interview Preparation Series by codeKarle](https://www.youtube.com/playlist?list=PLhgw50vUymycJPN6ZbGTpVKAJ0cL4OEH3)
 - :video_camera: [Basics of System Design by Coding Simplified](https://www.youtube.com/playlist?list=PLt4nG7RVVk1g_LutiJ8_LvE914rIE5z4u)
 - :books: [The System Design Primer](https://github.com/kvasukib/system-design-primer#system-design-topics-start-here)
-
+- :video_camera: [SDE Skills - Mock Interview by SDE Skills](https://youtube.com/playlist?list=PLBtMh4xfa9FHU2hNv3cwiZY649x3Hd8rR&si=fzRV5WcdEu6Ujwka)
 ---
 
 **[⬆ Back to Index](#content)**
