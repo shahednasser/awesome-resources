@@ -336,6 +336,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :wrench: [Clippy - CSS clip-path generator](https://bennettfeely.com/clippy)
 - :wrench: [CSS Glassmorphism effect generator](https://hype4.academy/tools/glassmorphism-generator)
 - :wrench: [CSS Neumorphism shadow generator](https://neumorphism.io/)
+- :wrench: [CSS library to use in UI - Semantic UI](https://www.geeksforgeeks.org/css/semantic-ui/)
 
 ---
 
