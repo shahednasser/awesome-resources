@@ -670,7 +670,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :green_book: [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 - :video_camera: [Kunal Kushwaha's Complete Git and GitHub tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics)
 - :video_camera: [Git & GitHub Tutorial For Beginners In Hindi - हिंदी में](https://www.youtube.com/watch?v=gwWKnnCMQ5c)
-
+- :video_camera: [Learn Git in 20 Minutes](https://www.youtube.com/watch?v=IHaTbJPdB-s)
+  
 ---
 
 **[⬆ Back to Index](#content)**
@@ -687,6 +688,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :wrench: [Readme.so](https://readme.so/): Easiest way to make good readme for your github repos
 - :video_camera: [Complete Git and Github Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics)
 - :green_book: [How to Create Github Profile README](https://www.sitepoint.com/github-profile-readme/)
+- :video_camera: [How to contribute to open source projects (our community project walkthrough)](https://www.youtube.com/watch?v=dLRA1lffWBw&t=43s)
 
 ---
 
@@ -743,7 +745,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [HTML Tutorial - Learn HTML in Detail](https://www.scaler.com/topics/html/)
 - :bulb: [HTML5 Boilerplate](https://html5boilerplate.com)
 - :wrench: [HTML5 Please](https://html5please.com)
-
+- :video_camera: [Learn HTML Forms In 25 Minutes](https://www.youtube.com/watch?v=fNcJuPIZ2WE)
+  
 ---
 
 **[⬆ Back to Index](#content)**
@@ -949,7 +952,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [MySQL Database - Full Course - freeCodeCamp](https://youtu.be/ER8oKX5myE0)
 - :bulb: [MySQL Cheatsheet](https://www.codewithharry.com/blogpost/mysql-cheatsheet)
 - :books: [SQLBolt](https://sqlbolt.com/)
-
+- :video_camera: [Learn SQL In 60 Minutes](https://www.youtube.com/watch?v=p3qvj9hO_Bo)
+  
 ---
 
 **[⬆ Back to Index](#content)**
@@ -1243,6 +1247,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :file_folder: [Unity Docs](https://docs.unity3d.com/Manual/index.html)
 - :file_folder: [Official Unity Learn Page](https://learn.unity.com)
 - :books: [Unity for Beginners](https://www.raywenderlich.com/unity/paths/learn)
+- :video_camera: [LEARN UNITY - The Most BASIC TUTORIAL I'll Ever Make](https://www.youtube.com/watch?v=pwZpJzpE2lQ&t=33s)
 
 ---
 
