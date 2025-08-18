@@ -1047,6 +1047,16 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 **[⬆ Back to Index](#content)**
 
+## R 
+
+- :books: [R for Data Science](https://r4ds.had.co.nz/) - Comprehensive book for learning data manipulation, visualization, and modeling with R.
+- :bulb: [RStudio Cheatsheets](https://www.rstudio.com/resources/cheatsheets/) - Official cheatsheets for dplyr, ggplot2, R Markdown, and more.
+- :green_book: [Hands-On Programming with R](https://www.cog.sci.msu.edu/~cog842/handsonr.pdf) - Practical guide to programming and data analysis in R.
+- :video_camera: [R Programming Tutorial for Beginners - YouTube](https://www.youtube.com/playlist?list=PLqzoL9-eJTNAdS14f0kSQYb99oqQv2Zfu) - Video series covering basics of R and data analysis.
+- :books: [Advanced R](https://adv-r.hadley.nz/) - Book for advanced R programming concepts and functional programming.
+- :bulb: [R-bloggers](https://www.r-bloggers.com/) - Community blog with tutorials, tips, and news for R users.
+
+
 ## React
 
 - :books: [React Tutorial - W3Schools](https://www.w3schools.com/react/)
