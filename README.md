@@ -391,6 +391,12 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [Machine Learning Algorithms from Scratch](https://github.com/python-engineer/MLfromscratch)
 - :books: [Python for Data Science: Fundamentals](https://www.dataquest.io/course/python-for-data-science-fundamentals)
 - :books: [Python for Data Science: Intermediate](https://www.dataquest.io/course/python-for-data-science-intermediate/)
+- :books: [Data Science MicroMasters - MITx](https://micromasters.mit.edu/ds/) - Advanced online program covering data analysis, statistics, and machine learning.
+- :bulb: [Kaggle Learn](https://www.kaggle.com/learn) - Interactive mini-courses on Python, Machine Learning, Pandas, and more.
+- :books: [Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) - Comprehensive book with practical ML projects.
+- :bulb: [Fast.ai Practical Deep Learning](https://course.fast.ai/) - Free course to build deep learning models quickly and effectively.
+- :video_camera: [Data Science Full Course - YouTube](https://www.youtube.com/watch?v=ua-CiDNNj30) - Full tutorial for beginners covering Python, ML, and data analysis.
+- :books: [Data Science from Scratch](https://www.oreilly.com/library/view/data-science-from/9781492041122/) - Book teaching fundamental data science concepts using Python.
 
 ---
 
