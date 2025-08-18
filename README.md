@@ -407,6 +407,12 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [Geometric Deep Learning](https://geometricdeeplearning.com/lectures/)
 - :books: [CS224W: Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/)
 - :video_camera: [Machine Learning University (MLU) Accelerated Natural Language Processing class](https://www.youtube.com/playlist?list=PL8P_Z6C4GcuWfAq8Pt6PBYlck4OprHXsw)
+- :books: [Deep Learning with Python by François Chollet](https://www.manning.com/books/deep-learning-with-python) - Book introducing deep learning concepts and Keras examples.
+- :green_book: [Fast.ai Deep Learning Course](https://course.fast.ai/) - Free practical course to build deep learning models quickly.
+- :bulb: [Deep Learning Specialization on Udacity](https://www.udacity.com/course/deep-learning-nanodegree--nd101) - Hands-on deep learning projects and concepts.
+- :books: [Deep Reinforcement Learning Nanodegree](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893) - Focused on reinforcement learning using deep networks.
+- :video_camera: [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/) - Video lectures from MIT’s introductory deep learning class.
+
 
 ---
 
