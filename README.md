@@ -1086,7 +1086,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :green_book: [How to deploy react native apps](https://medium.com/react-native-training/understanding-react-native-deployments-6e54157920b7)
 - :video_camera: [React Native Tutorial For Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ)
 - :books: [Become a React Native Developer - Linkedin Learning](https://www.linkedin.com/learning/paths/become-a-react-native-developer)
-
+- :books: [Fullstack React Native](https://www.fullstackreact.com/react-native/) - Livre/ressource complète avec des projets pratiques.
 ---
 
 **[⬆ Back to Index](#content)**
