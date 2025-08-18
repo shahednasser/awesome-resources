@@ -1294,6 +1294,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 **[⬆ Back to Index](#content)**
 
+
+
 ## Others
 
 ### Cheat Sheets
@@ -1375,3 +1377,12 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 - :video_camera: [Coding Better World Together Live Session with Uncle Bob (Robert C. Martin](https://www.youtube.com/playlist?list=PLmmYSbUCWJ4x1GO839azG_BBw8rkh-zOj) : Coding Better World Together is a set of master lessons from the famous Uncle Bob (Robert Cecil Martin), where he gives us a broad vision of the importance and future of Software in today's society.
 - :speaker: [Clean Code with Uncle Bob Martin](https://completedeveloperpodcast.com/episode-232/): When folks code long enough, in time they get themselves stuck in a code base that's kind of difficult to wrap thier heads around. In this podcast Uncle Bob Martin talks about the principles of clean code and how to not make a code base too difficult to understand.
+
+## Beginner Resources
+
+- [freeCodeCamp](https://www.freecodecamp.org/) – Learn web development for free with interactive courses.
+- [MDN Web Docs](https://developer.mozilla.org/en-US/) – Official documentation for web technologies.
+- [Codecademy](https://www.codecademy.com/) – Interactive platform for learning various programming languages.
+- [Khan Academy](https://www.khanacademy.org/computing/computer-programming) – Free courses on computer programming.
+- [LeetCode](https://leetcode.com/) – Improve your algorithm and problem-solving skills with practice exercises.
+
