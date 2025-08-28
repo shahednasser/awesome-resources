@@ -549,6 +549,11 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [IIT Bombay Foundation of Data Structures (CS213.1x)](https://courses.edx.org/courses/course-v1:IITBombayX+CS213.1x+1T2017/course/)
 - :books: [Intro to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513) - Brynn Claypoole, Horatio Thomas
 
+
+### Data Structure Visualization
+
+- [Decode DSA](https://decodedsa.netlify.app) — Interactive visualizations to learn core data structures (arrays, stacks, queues, linked lists, trees, graphs) with step-by-step operations.
+
 ### Dynamic Programming
 
 - :green_book: [Divide and Conquer DP](https://cp-algorithms.com/dynamic_programming/divide-and-conquer-dp.html)
