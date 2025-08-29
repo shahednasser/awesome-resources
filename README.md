@@ -979,6 +979,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [Operating System - For College](https://www.youtube.com/playlist?list=plxczcowd7aigz9donhrre9i3mwn6xdp8p)
 - :books: [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 - :video_camera: [Operating Systems: Operating Systems for Placements/Interview](https://youtube.com/playlist?list=PLDzeHZWIZsTr3nwuTegHLa2qlI81QweYG)
+- :video_camera: [MIT 6.S081 Operating Systems (Fall 2020)](https://www.youtube.com/playlist?list=PLUl4u3cNGP63VIBQVWguXxzz5c8p2nOJJ)
 
 ---
 
