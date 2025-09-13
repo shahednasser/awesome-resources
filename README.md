@@ -336,6 +336,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :wrench: [Clippy - CSS clip-path generator](https://bennettfeely.com/clippy)
 - :wrench: [CSS Glassmorphism effect generator](https://hype4.academy/tools/glassmorphism-generator)
 - :wrench: [CSS Neumorphism shadow generator](https://neumorphism.io/)
+- :green_book: [CSS Notes](https://docs.google.com/document/d/1M4icrRJCJwC0TUrUjHgXpasAlVl4dK3W/edit?usp=sharing&ouid=108193367664199179141&rtpof=true&sd=true)
 
 ---
 
