@@ -407,6 +407,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [Geometric Deep Learning](https://geometricdeeplearning.com/lectures/)
 - :books: [CS224W: Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/)
 - :video_camera: [Machine Learning University (MLU) Accelerated Natural Language Processing class](https://www.youtube.com/playlist?list=PL8P_Z6C4GcuWfAq8Pt6PBYlck4OprHXsw)
+- :books: [Practical Deep Learning for Coders](https://course.fast.ai)
 
 ---
 
