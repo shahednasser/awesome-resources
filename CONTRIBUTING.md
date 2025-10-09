@@ -107,7 +107,7 @@ the `--livereload` option ensures the website automatically refreshes on changes
 
 ### Changes to CSS
 
-To edit the CSS of the website, you need to make edits in the files in the folder `css`. All the files are `.sass` files.
+To edit the CSS of the website, you need to make edits in the files in the [folder `css`](https://github.com/shahednasser/awesome-resources/tree/master/css). All the files are `.scss` files.
 
 ### Changes to The Layout
 
