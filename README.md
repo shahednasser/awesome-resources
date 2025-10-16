@@ -1295,8 +1295,6 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 **[⬆ Back to Index](#content)**
 
-## Others
-
 ## Design Thinking
 
 - :books: [IDEO Design Thinking Resources](https://www.ideo.com/toolkit)
@@ -1374,6 +1372,8 @@ Purpose:
 - Websites, articles, or books you used
 
 **[⬆ Back to Index](#content)**
+
+## Others
 
 ### Cheat Sheets
 
