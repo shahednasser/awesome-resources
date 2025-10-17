@@ -111,6 +111,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - [Web Accessibility](#web-accessibility)
 - [Web Development](#web-development)
 - [Webpack](#webpack)
+- [Design Thinking](#design-thinking)
 - [Others](#others)
   - [Cheat Sheets](#cheat-sheets)
   - [Design](#design)
@@ -1291,6 +1292,84 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :file_folder: [Docs](https://webpack.js.org/guides/getting-started/)
 
 ---
+
+**[⬆ Back to Index](#content)**
+
+## Design Thinking
+
+- :books: [IDEO Design Thinking Resources](https://www.ideo.com/toolkit)
+- :green_book: [Design Thinking for Beginners (Tutorial)](https://www.interaction-design.org/courses/design-thinking)
+
+### 1. Introduction
+
+Define Design Thinking:
+
+> Design Thinking is a human-centered approach to problem-solving that focuses on understanding users, redefining problems, and creating innovative solutions through prototyping and testing.
+
+Purpose:
+
+> It encourages creativity, empathy, and experimentation to develop user-friendly and practical outcomes.
+
+---
+
+### 👥 2. Importance of Design Thinking
+
+- Encourages innovation and creativity
+- Promotes user-centered design
+- Helps in solving complex problems effectively
+- Bridges the gap between technical feasibility and human needs
+
+---
+
+### 🔁 3. Five Stages of Design Thinking (Stanford Model)
+
+1. **Empathize** – Understand user needs and emotions  
+2. **Define** – Clearly state the problem based on insights  
+3. **Ideate** – Brainstorm creative solutions  
+4. **Prototype** – Build simple models or mockups  
+5. **Test** – Try solutions with users and get feedback
+
+---
+
+### 🧍‍♂️ 4. Real-World Examples
+
+- Redesigning a classroom layout to improve student collaboration  
+- Developing a mobile app to simplify hospital check-ins
+
+---
+
+### 🧰 5. Tools and Techniques
+
+- Brainstorming  
+- Mind Mapping  
+- Storyboarding  
+- Empathy Maps  
+- Prototyping tools (Figma, Canva, etc.)
+
+---
+
+### 📈 6. Advantages
+
+- Increases creativity and innovation  
+- Leads to user satisfaction  
+- Reduces risks through testing  
+- Improves teamwork and collaboration
+
+---
+
+### ⚠️ 7. Limitations
+
+- Time-consuming process  
+- Requires open-mindedness and user participation  
+- Sometimes difficult to implement in traditional organizations
+
+---
+
+### 📚 8. References
+
+- Stanford d.school  
+- IDEO Design Thinking Framework  
+- Websites, articles, or books you used
 
 **[⬆ Back to Index](#content)**
 
