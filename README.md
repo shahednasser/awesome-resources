@@ -1146,6 +1146,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 ---
 
 **[⬆ Back to Index](#content)**
+- [GeeksforGeeks - Competitive Programming](https://www.geeksforgeeks.org/competitive-programming-a-complete-guide/) — A comprehensive guide covering concepts, problems, and tips for improving competitive programming skills.
 
 ## Spring
 
