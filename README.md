@@ -1108,6 +1108,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [Ruby from Tutorialspoint](https://www.tutorialspoint.com/ruby/index.htm)
 - :video_camera: [Full course by freeCodeCamp.org](https://www.youtube.com/watch?v=t_ispmWmdjY)
 - :books: [Full Stack Ruby and Ruby on Rails course by The Odin Project](https://www.theodinproject.com/paths/full-stack-ruby-on-rails)
+- :books: [The Well-Grounded Rubyist, Fourth Edition](https://www.manning.com/books/the-well-grounded-rubyist-fourth-edition)
 
 ---
 
