@@ -743,6 +743,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [HTML Tutorial - Learn HTML in Detail](https://www.scaler.com/topics/html/)
 - :bulb: [HTML5 Boilerplate](https://html5boilerplate.com)
 - :wrench: [HTML5 Please](https://html5please.com)
+- [MDN HTML Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference)
 
 ---
 
