@@ -110,6 +110,66 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - [Vue](#vue)
 - [Web Accessibility](#web-accessibility)
 - [Web Development](#web-development)
+ [Express](#express)
+- [Ethical Hacking](#ethical-hacking)
+- [Expo](#expo)
+- [Fundamental CP algorithms](#fundamental-cp-algorithms)
+  - [Algebra](#algebra)
+  - [Combinatorics](#combinatorics)
+  - [Data Structures](#data-structures)
+  - [Dynamic Programming](#dynamic-programming)
+  - [Graph Theory](#graph-theory)
+  - [Linear Algebra](#linear-algebra)
+  - [String Processing](#string-processing)
+- [Flask](#flask)
+- [Flutter](#flutter)
+- [GIT](#git)
+- [GitHub](#github)
+- [GLSL](#glsl)
+- [Go](#go)
+- [GraphQL](#graphql)
+- [HTML](#html)
+- [Ionic](#ionic)
+ [Express](#express)
+- [Ethical Hacking](#ethical-hacking)
+- [Expo](#expo)
+- [Fundamental CP algorithms](#fundamental-cp-algorithms)
+  - [Algebra](#algebra)
+  - [Combinatorics](#combinatorics)
+  - [Data Structures](#data-structures)
+  - [Dynamic Programming](#dynamic-programming)
+  - [Graph Theory](#graph-theory)
+  - [Linear Algebra](#linear-algebra)
+  - [String Processing](#string-processing)
+- [Flask](#flask)
+- [Flutter](#flutter)
+- [GIT](#git)
+- [GitHub](#github)
+- [GLSL](#glsl)
+- [Go](#go)
+- [GraphQL](#graphql)
+- [HTML](#html)
+- [Ionic](#ionic)
+ [Express](#express)
+- [Ethical Hacking](#ethical-hacking)
+- [Expo](#expo)
+- [Fundamental CP algorithms](#fundamental-cp-algorithms)
+  - [Algebra](#algebra)
+  - [Combinatorics](#combinatorics)
+  - [Data Structures](#data-structures)
+  - [Dynamic Programming](#dynamic-programming)
+  - [Graph Theory](#graph-theory)
+  - [Linear Algebra](#linear-algebra)
+  - [String Processing](#string-processing)
+- [Flask](#flask)
+- [Flutter](#flutter)
+- [GIT](#git)
+- [GitHub](#github)
+- [GLSL](#glsl)
+- [Go](#go)
+- [GraphQL](#graphql)
+- [HTML](#html)
+- [Ionic](#ionic)
 - [Webpack](#webpack)
 - [Others](#others)
   - [Cheat Sheets](#cheat-sheets)
@@ -487,7 +547,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 **[⬆ Back to Index](#content)**
 
 ## Ethical Hacking
-
+- :webgoat: [OWASP WebGoat](https://owasp.org/www-project-webgoat/) - An intentionally insecure web application for learning web security vulnerabilities and practicing penetration testing safely.
 - :bulb: [Collection of hackers, pentesters & security researchers](https://github.com/Hack-with-Github/Awesome-Hacking)
 - :video_camera: [Ethical Hacking from Scratch](https://www.udemy.com/course/learn-ethical-hacking-from-scratch/learn/)
 - :wrench: [Open Source Reverse Engineering Platform](https://github.com/radareorg/cutter)
@@ -1022,6 +1082,10 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 ## Python
 
+:books: Course, long series or list of tutorials, or books
+
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) - Free interactive Python tutorials for beginners.
+
 - :books: [CS50P - CS50's intro to Programing With Python](https://cs50.harvard.edu/python/2022/)
 - :books: [Automate The Boring Stuff With Python](https://automatetheboringstuff.com/2e/chapter0/)
 - :books: [Python Intermediate Tutorial](https://github.com/python-engineer/python-engineer-notebooks/tree/master/advanced-python)
@@ -1272,6 +1336,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 **[⬆ Back to Index](#content)**
 
 ## Web Development
+- [MDN Web Docs](https://developer.mozilla.org/) - Free, comprehensive web development documentation and tutorials for HTML, CSS, JavaScript, and web APIs.
 
 - :books: [IBM Full Stack Software Developer Specialization](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer)
 - :video_camera: [Frontend Interview Series](https://youtube.com/playlist?list=PL-Jc9J83PIiFXzRwSTSwqL7U2hoMk6K6F)
@@ -1361,7 +1426,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :green_book: [Remote SSH: Tips and Tricks](https://code.visualstudio.com/blogs/2019/10/03/remote-ssh-tips-and-tricks)
 
 ### Tools
-
+- :wrench: [Visual Studio Code](https://code.visualstudio.com/) - Free, lightweight, and powerful code editor with extensions for almost every programming language.
 - :wrench: [Tiny helpers](https://tiny-helpers.dev/): A collection of free single-purpose online tools for web developers
 - :wrench: [How To Set Up ESLint & Prettier In VS Code](https://dev.to/rahulshawdev/how-to-set-up-eslint-prettier-in-vs-code-1dc1)
 - :wrench: [Ray.so](https://ray.so/): Create beautiful images of your code snippets!
