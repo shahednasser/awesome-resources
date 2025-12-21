@@ -1142,6 +1142,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :file_folder:[Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html)
 - :wrench: [Learn Shell - Free Interactive Guide for Shell Scripting](https://learnshell.org)
 - :video_camera: [Bash Scripting on Linux](https://youtube.com/playlist?list=PLT98CRl2KxKGj-VKtApD8-zCqSaN2mD4w): Series of Tutorials for Beginners
+- :file_folder:[Korn Shell Guide](https://uralowl.my.coocan.jp/unix/job/UNIX/tool/ksh.html)
 
 ---
 
