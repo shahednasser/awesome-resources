@@ -1370,6 +1370,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :wrench: [Carbon](https://carbon.now.sh/): Create and share beautiful images of your source code. (An alternative of [Ray.so](https://ray.so/))
 - :wrench: [Milanote](https://milanote.com): Organize your creative ideas into visual boards
 - :wrench: [Quicktype](https://app.quicktype.io/): Instantly parse JSON in any language
+- :wrench: [FastDevTool](https://fastdevtool.com/): 50+ free browser-based developer utilities — JSON formatter/beautifier, Base64, URL encoder, JWT decoder, Regex tester, UUID generator, and more. Uses Monaco editor (VS Code engine) with offline PWA support.
 
 ### Talks and Podcasts
 
