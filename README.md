@@ -490,7 +490,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 - :bulb: [Collection of hackers, pentesters & security researchers](https://github.com/Hack-with-Github/Awesome-Hacking)
 - :video_camera: [Ethical Hacking from Scratch](https://www.udemy.com/course/learn-ethical-hacking-from-scratch/learn/)
-- :wrench: [Open Source Reverse Engineering Platform](https://github.com/radareorg/cutter)
+- :wrench: [Open Source Reverse Engineering Platform](https://github.com/rizinorg/cutter)
 - :video_camera: [Penetration Testing Bootcamp](https://hackersploit.org/penetration-testing-bootcamp/)
 - :bulb: [Practical-Ethical-Hacking-Resources](https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources)
 
