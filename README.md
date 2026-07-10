@@ -244,6 +244,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [C++ Tutorial - Learn CPP in Detail](https://www.scaler.com/topics/cpp/)
 - :video_camera: [Complete C++ Placement DSA Course](https://youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA)
 - :file_folder: [C++ Reference](https://en.cppreference.com/w/cpp)
+- :book: [AtCoder Programming Guide for beginners(Japanese)](https://atcoder.jp/contests/APG4b)
 
 ---
 
