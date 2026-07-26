@@ -1370,6 +1370,8 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :wrench: [Carbon](https://carbon.now.sh/): Create and share beautiful images of your source code. (An alternative of [Ray.so](https://ray.so/))
 - :wrench: [Milanote](https://milanote.com): Organize your creative ideas into visual boards
 - :wrench: [Quicktype](https://app.quicktype.io/): Instantly parse JSON in any language
+- :wrench: [Xiigen MVP Engine](https://github.com/lubochka/xiigen-mvp-engine): Self-building AI code-generation engine that generates application flows instead of implementing them.
+- :wrench: [Xiigen Open LLM](https://github.com/lubochka/xiigen-open-llm): Tteaching small, domain-focused models to do real work: domain tokenization, learnable routing.
 
 ### Talks and Podcasts
 
