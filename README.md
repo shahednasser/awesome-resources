@@ -1370,6 +1370,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :wrench: [Carbon](https://carbon.now.sh/): Create and share beautiful images of your source code. (An alternative of [Ray.so](https://ray.so/))
 - :wrench: [Milanote](https://milanote.com): Organize your creative ideas into visual boards
 - :wrench: [Quicktype](https://app.quicktype.io/): Instantly parse JSON in any language
+- :wrench: [Free Image Merger](https://freeimagemerger.com/): Merge images side by side, stacked, in a grid, or freestyle in the browser without uploading files.
 
 ### Talks and Podcasts
 
