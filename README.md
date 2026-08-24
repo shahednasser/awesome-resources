@@ -391,7 +391,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [Machine Learning Algorithms from Scratch](https://github.com/python-engineer/MLfromscratch)
 - :books: [Python for Data Science: Fundamentals](https://www.dataquest.io/course/python-for-data-science-fundamentals)
 - :books: [Python for Data Science: Intermediate](https://www.dataquest.io/course/python-for-data-science-intermediate/)
-
+- :books: [MIT Applied AI and Data Science Program](https://professional-education-gl.mit.edu/mit-online-data-science-program)
 ---
 
 **[⬆ Back to Index](#content)**
