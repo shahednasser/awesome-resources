@@ -1217,6 +1217,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :books: [API Testing 101: Learn The Basics](https://www.soapui.org/learn/functional-testing/api-testing-101/)
 - :bulb: [ISTQB Certification](https://www.istqb.com/)
 - :wrench: [Cypress: Javascript Testing](https://www.cypress.io)
+- :wrench: [Agent QA: Self-Improving Web and Mobile Testing Agent](https://github.com/vostride/agent-qa)
 
 ---
 
