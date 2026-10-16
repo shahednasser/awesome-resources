@@ -1308,6 +1308,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 ### Design
 
+- :wrench: [Pic2SVG - Image to SVG Converter](https://pic2svg.com/): Convert PNG/JPG screenshots, logos, photos, and sketches into editable SVG paths, with SVG/PDF/EPS/AI/DXF exports for design and CNC/laser workflows.
 - :bulb: [Freebie Supply](https://freebiesupply.com/)
 - :bulb: [unDraw](https://undraw.co/): Free illustrations, updated regularly
 - :bulb: [Bulbman](https://bulbman.art/): Free Artistic Illustrations for Designers
