@@ -1342,6 +1342,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :bulb: [Flaticon](https://www.flaticon.com)
 - :bulb: [Figma Community](https://www.figma.com/community/): Discover inspiring portfolios, presentations, mockups, and more or publish live design files that anyone in the world can inspect, remix, and learn from. 
 - :bulb: [Pexels](https://www.pexels.com): Free stock photos and videos
+- :wrench: [ImagineHero](https://imaginehero.com/): Free, no-account browser image editor with layers, PSD support, and on-device background removal.
 
 ### Open Source
 
