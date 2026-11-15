@@ -166,6 +166,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 
 - :books: [Learn Basics Of AI](https://www.elementsofai.com/)
 - :books: [The Pac-Man Projects](http://ai.berkeley.edu/project_overview.html)
+- :wrench: [No Stairs Please MCP](https://nostairsplease.com/mcp) - Remote MCP server for searching live-music venues, booking contacts, and stage accessibility across all 50 US states
 - :video_camera: [Artificial Intelligence Full Course | Artificial Intelligence Tutorial for Beginners | Edureka](https://www.youtube.com/watch?v=JMUxmLyrhSk)
 
 ---
